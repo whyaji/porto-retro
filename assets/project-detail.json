@@ -1,0 +1,861 @@
+[
+  {
+    "id": "01-srs-docs",
+    "name": "SRS Docs & Research Portal",
+    "link": null,
+    "thumbnail": null,
+    "images": [],
+    "short_description": {
+      "id": "Platform Monitoring Penelitian Agronomi, Dokumentasi & Hotspot Perkebunan",
+      "en": "Agronomic Research Monitoring, Document Management & Hotspot Portal"
+    },
+    "description": {
+      "id": "Platform manajemen dan pemantauan penelitian agronomi perkebunan secara komprehensif, mencakup sistem manajemen dokumen, file manager, pemantauan titik panas (hotspot), serta survei tanah dan air.",
+      "en": "Comprehensive agronomic research management platform featuring document & file management system, hotspot monitoring, soil surveys, and water table tracking."
+    },
+    "features": {
+      "general": {
+        "id": [
+          "Sistem Manajemen Dokumen, Kategori & File Manager",
+          "Pemantauan Tinggi Muka Air Tanah (TMAT) & Subsidensi",
+          "Deteksi & Pelaporan Hama serta Penyakit Tanaman",
+          "Survei Kualitas Tanah & Pelacakan Erosi Lapangan",
+          "Pemantauan & Deteksi Titik Panas (Hotspot) Kebakaran"
+        ],
+        "en": [
+          "Document, Category & File Management System",
+          "Water Table Level (TMAT) & Land Subsidence Tracking",
+          "Pest & Disease Outbreak Reporting",
+          "Soil Quality Survey & Erosion Field Logging",
+          "Plantation Hotspot Monitoring & Fire Alert System"
+        ]
+      },
+      "nerd": {
+        "id": [
+          "Document Management Engine dengan File Manager & Access Control",
+          "Sistem Pemantauan Hotspot & Alert Kebakaran Spasial",
+          "MapLibre GIS Engine dengan Visualisasi GeoPDF Interaktif",
+          "Restful API berbasis Hono Server & Validasi Zod Schema",
+          "Drizzle ORM dengan Database Relasional MySQL",
+          "Pemrosesan Antrean Background Asinkron dengan Redis & BullMQ",
+          "Dynamic Form Schema Builder & Render Engine",
+          "Mekanisme Sinkronisasi Offine-to-Online Datastore",
+          "Ekspor Laporan Otomatis PDF & Excel via Puppeteer dan ExcelJS",
+          "Arsitektur Fullstack Monorepo TypeScript"
+        ],
+        "en": [
+          "Document Management Engine with File Manager & Access Control",
+          "Hotspot Monitoring System & Spatial Fire Alert Engine",
+          "MapLibre GIS Engine with Interactive GeoPDF Visualization",
+          "Restful API powered by Hono Server & Zod Schema Validation",
+          "Drizzle ORM with Relational MySQL Database",
+          "Async Background Queue Processing via Redis & BullMQ",
+          "Dynamic Form Schema Builder & Render Engine",
+          "Offline-to-Online Datastore Sync Mechanism",
+          "Automated PDF & Excel Reporting via Puppeteer and ExcelJS",
+          "TypeScript Monorepo Fullstack Architecture"
+        ]
+      }
+    }
+  },
+  {
+    "id": "02-agro-srs",
+    "name": "Agro SRS Mobile",
+    "link": null,
+    "thumbnail": null,
+    "images": [],
+    "short_description": {
+      "id": "Aplikasi Mobile Field Survey & Offline Maps Penelitian Agronomi Perkebunan",
+      "en": "Agronomic Research Field Survey & Offline Maps Mobile Application"
+    },
+    "description": {
+      "id": "Aplikasi mobile lapangan untuk surveyor dalam mencatat data penelitian agronomi seperti TMAT, survei tanah, erosi, subsidensi, dan hama secara offline di area perkebunan remote dengan peta offline.",
+      "en": "Mobile field application for surveyors to collect agronomic research data such as TMAT, soil surveys, erosion, subsidence, and pests offline in remote plantation areas using offline maps."
+    },
+    "features": {
+      "general": {
+        "id": [
+          "Pengumpulan Data Lapangan Tanpa Internet (Offline-First)",
+          "Monitoring TMAT, Subsidensi Tanah, Erosi & Survei Tanah",
+          "Pelaporan Foto Lapangan Kondisi Tanaman & Infeksi Hama",
+          "Penandaan Lokasi Otomatis Berbasis GPS & Sinkronisasi Server",
+          "Peta Lapangan Offline & Navigasi Kebun"
+        ],
+        "en": [
+          "Offline-First Data Collection for Remote Plantation Fields",
+          "TMAT, Land Subsidence, Erosion & Soil Survey Logging",
+          "Crop Health & Pest Outbreak Photo Logging",
+          "Automatic GPS Location Tagging & Background Server Sync",
+          "Offline Field Maps & Plantation Navigation Tool"
+        ]
+      },
+      "nerd": {
+        "id": [
+          "Flutter Cross-Platform Architecture",
+          "State Management berbasis Riverpod / Bloc Framework",
+          "Offline Vector Tile & Raster Map Caching Engine",
+          "Penyimpanan Lokal Caching SQLite & Hive untuk Moda Offline",
+          "Geolocator High-Precision GPS Tagging Engine",
+          "Camera & Image Compression Pipeline Sebelum Upload",
+          "Dio HTTP Client dengan Dynamic Interceptors & Retry Logic",
+          "Mekanisme Dynamic Form Rendering Berdasarkan Konfigurasi Backend",
+          "Auto-Recovery Sync Queue saat Terhubung Koneksi Internet"
+        ],
+        "en": [
+          "Flutter Cross-Platform Mobile Architecture",
+          "State Management using Riverpod / Bloc Framework",
+          "Offline Vector Tile & Raster Map Caching Engine",
+          "Local Storage SQLite & Hive Caching for Offline Mode",
+          "Geolocator High-Precision GPS Tagging Engine",
+          "Camera & Image Compression Pipeline Prior to Upload",
+          "Dio HTTP Client with Dynamic Interceptors & Retry Logic",
+          "Dynamic Form Rendering Engine Driven by Backend Configuration",
+          "Auto-Recovery Sync Queue upon Internet Connection Restoration"
+        ]
+      }
+    }
+  },
+  {
+    "id": "03-cmp-tracker",
+    "name": "CMP Tracker Web",
+    "link": "https://cmp-tracker.aji.dev",
+    "thumbnail": "public/project/03-cmp-tracker/03-thumbnail.avif",
+    "images": [
+      "public/project/03-cmp-tracker/03-01.avif",
+      "public/project/03-cmp-tracker/03-02.avif"
+      ],
+    "short_description": {
+      "id": "Platform Spatial Tracking & Work Heatmap Perkebunan",
+      "en": "Plantation Spatial Tracking & Work Heatmap Platform"
+    },
+    "description": {
+      "id": "Platform web analitik spasial untuk memantau pergerakan pekerja, menghasilkan peta panas (heatmap) aktivitas, dan menghitung cakupan area kerja secara real-time.",
+      "en": "Spatial analytics web platform for monitoring worker movement, generating activity heatmaps, and calculating real-time work area coverage."
+    },
+    "features": {
+      "general": {
+        "id": [
+          "Peta Heatmap Pergerakan Pekerja Lapangan Real-Time",
+          "Putang Ulang Rute & Histori Perjalanan Pekerja",
+          "Analisis Cakupan Area Kerja & Zona Perkebunan",
+          "Ringkasan Kehadiran & Aktivitas Harian Otomatis",
+          "Visualisasi Statistik Pergerakan Berbasis Peta Interaktif"
+        ],
+        "en": [
+          "Real-Time Field Worker Movement Heatmap Visualizer",
+          "Route Playback & Historical Movement Tracking",
+          "Work Area Coverage & Plantation Zone Analytics",
+          "Automated Daily Attendance & Activity Summaries",
+          "Interactive Map-Based Movement Statistics Visualization"
+        ]
+      },
+      "nerd": {
+        "id": [
+          "Sistem Agregasi Grid Spasial & Heatmap Layer",
+          "Leaflet GIS dengan Layer Custom Heatmap React",
+          "Turf.js Library untuk Komputasi Geospatial Spasial Advanced",
+          "Backend Hono Framework berbasis Bun/Node Server",
+          "Drizzle ORM dengan Query Optimasi Spatial Index MySQL",
+          "BullMQ Distributed Job Queue untuk Agregasi Data Koordinat Big Data",
+          "High-Resolution PDF & Image Export via Puppeteer & HTML-to-Image",
+          "Time-Series Movement Playback Component",
+          "Visual UI Framework Chakra UI dengan Dynamic Motion Animations"
+        ],
+        "en": [
+          "Spatial Grid Aggregation & Heatmap Layer System",
+          "Leaflet GIS with Custom React Heatmap Layer",
+          "Turf.js Library for Advanced Spatial Geospatial Computation",
+          "Backend Hono Framework on Bun/Node Server Engine",
+          "Drizzle ORM with MySQL Spatial Index Query Optimization",
+          "BullMQ Distributed Job Queue for Geospatial Big Data Aggregation",
+          "High-Resolution PDF & Image Export via Puppeteer & HTML-to-Image",
+          "Time-Series Movement Playback Component",
+          "Chakra UI Design System with Dynamic Motion Animations"
+        ]
+      }
+    }
+  },
+  {
+    "id": "04-cmp-tracker-mobile",
+    "name": "CMP Tracker Mobile",
+    "link": null,
+    "thumbnail": null,
+    "images": [],
+    "short_description": {
+      "id": "Aplikasi Mobile GPS Tracker & Absensi Wajah AI",
+      "en": "Mobile GPS Tracker & AI Face Attendance App"
+    },
+    "description": {
+      "id": "Aplikasi mobile pemantau lokasi background pekerja dan absensi berbasis kecerdasan buatan (deteksi wajah) untuk keakuratan verifikasi di lapangan.",
+      "en": "Mobile application for background GPS worker location tracking and AI-powered face detection attendance for accurate field verification."
+    },
+    "features": {
+      "general": {
+        "id": [
+          "Pelacak Lokasi & Rute Perjalanan Lapangan Background",
+          "Absensi Masuk/Keluar Berbasis Deteksi Wajah AI",
+          "Monitoring Status Baterai & Koneksi Perangkat Pekerja",
+          "Penyimpanan Koordinat Offline Saat Sinyal Hilang",
+          "Pelaporan Jam Istirahat & Kejadian Darurat Lapangan"
+        ],
+        "en": [
+          "Background Field GPS Location & Route Recorder",
+          "AI Face Detection Attendance Check-In / Check-Out",
+          "Worker Device Battery Level & Connectivity Monitoring",
+          "Offline GPS Coordinate Buffering During Cellular Outages",
+          "Break Time & Emergency Incident Reporting"
+        ]
+      },
+      "nerd": {
+        "id": [
+          "TensorFlow Lite / LiteRT On-Device AI Face Recognition",
+          "Native Android Background Location Service & Geofencing",
+          "Flutter Cross-Platform Framework",
+          "Integrasi Platform Channel untuk Status Baterai & Daya",
+          "Dynamic Queueing & Compression Koordinat GPS Sebelum Upload",
+          "Dio Network Client dengan Auto-Retry Engine & Rate Limiting",
+          "Penyimpanan Cache SQLite Lokal dengan Enkripsi Hardware",
+          "Device Fingerprinting Berdasarkan Hardware ID & Device Info"
+        ],
+        "en": [
+          "TensorFlow Lite / LiteRT On-Device AI Face Recognition",
+          "Native Android Background Location Service & Geofencing",
+          "Flutter Cross-Platform Framework",
+          "Platform Channel Integration for Battery & Power State Monitoring",
+          "Dynamic Queueing & GPS Coordinate Compression Engine",
+          "Dio Network Client with Auto-Retry Engine & Rate Limiting",
+          "Hardware-Encrypted Local SQLite Cache Storage",
+          "Device Fingerprinting using Hardware ID & Device Info API"
+        ]
+      }
+    }
+  },
+  {
+    "id": "05-sampletrack",
+    "name": "SampleTrack Web",
+    "link": null,
+    "thumbnail": null,
+    "images": [],
+    "short_description": {
+      "id": "Sistem Informasi Tracking Sampel Laboratorium Perkebunan",
+      "en": "Plantation Laboratory Sample Tracking System"
+    },
+    "description": {
+      "id": "Sistem manajemen lifecycle sampel laboratorium untuk pengujian jaringan tanaman (LSU) dan sampel pupuk dari berbagai lokasi dan supplier.",
+      "en": "Laboratory sample lifecycle management system for testing plant tissue (LSU) and fertilizer samples across multiple locations and suppliers."
+    },
+    "features": {
+      "general": {
+        "id": [
+          "Pelacakan Alur Sampel Laboratorium dari Lapangan ke Lab",
+          "Cetak & Labeling Barcode / QR Code Sampel Uji",
+          "Manajemen Hasil Analisis & Uji Laboratorium",
+          "Laporan Kualitas Pupuk & Jaringan Tanaman (LSU)",
+          "Pengawasan Status Sampel Multi-Lokasi & Multi-Supplier"
+        ],
+        "en": [
+          "End-to-End Field-to-Lab Sample Lifecycle Tracking",
+          "Sample Barcode / QR Code Printing & Labeling",
+          "Laboratory Analysis Result & Testing Management",
+          "Fertilizer & Plant Tissue (LSU) Quality Reporting",
+          "Multi-Location & Multi-Supplier Sample Status Monitoring"
+        ]
+      },
+      "nerd": {
+        "id": [
+          "Generasi Kode QR & Dynamic Barcode Engine (qrcode.react)",
+          "Hono REST API Engine dengan Zod Validation Pipeline",
+          "Drizzle ORM mendukung PostgreSQL & MySQL Database",
+          "BullMQ Job Queue untuk Impor & Ekspor Data Berkapasitas Besar",
+          "Ekspor Laporan Otomatis Format Excel & PDF (ExcelJS & Puppeteer)",
+          "Integrasi Push Notification via Firebase Cloud Messaging (FCM)",
+          "Sistem Multi-Tenant Scoping Perusahaan & Lokasi Kebun",
+          "Frontend React Query dengan TanStack Router Type-Safe Architecture"
+        ],
+        "en": [
+          "Dynamic QR Code & Barcode Engine (qrcode.react)",
+          "Hono REST API Engine with Zod Validation Pipeline",
+          "Drizzle ORM supporting PostgreSQL & MySQL Database",
+          "BullMQ Job Queue for High-Volume Data Import & Export",
+          "Automated Excel & PDF Report Export (ExcelJS & Puppeteer)",
+          "Push Notification Integration via Firebase Cloud Messaging (FCM)",
+          "Multi-Tenant Company & Plantation Unit Data Scoping System",
+          "React Query Frontend with TanStack Router Type-Safe Architecture"
+        ]
+      }
+    }
+  },
+  {
+    "id": "06-sampletrack-mobile",
+    "name": "SampleTrack Mobile",
+    "link": null,
+    "thumbnail": null,
+    "images": [],
+    "short_description": {
+      "id": "Aplikasi Mobile Scan QR & Registrasi Sampel Lab",
+      "en": "Mobile QR Scanner & Lab Sample Registration App"
+    },
+    "description": {
+      "id": "Aplikasi mobile petugas lapangan untuk memindai kode QR, mencatat fisik sampel laboratorium, dan mengambil foto kondisi sampel langsung di kebun.",
+      "en": "Mobile application for field technicians to scan QR codes, log physical laboratory samples, and capture sample condition photos directly in the field."
+    },
+    "features": {
+      "general": {
+        "id": [
+          "Pemindai Barcode & QR Code Cepat Menggunakan Kamera HP",
+          "Registrasi Sampel Lapangan Dilengkapi Lokasi GPS",
+          "Pengambilan Foto Kondisi Fisik Sampel Uji",
+          "Mode Offline untuk Daerah Kebun Minim Sinyal",
+          "Multi-Regional & Pilihan Unit Perkebunan"
+        ],
+        "en": [
+          "High-Speed Barcode & QR Code Camera Scanner",
+          "Field Sample Registration with GPS Location Tagging",
+          "Physical Sample Condition Photo Capture",
+          "Offline Mode for Low-Connectivity Plantation Remote Areas",
+          "Multi-Regional & Plantation Unit Selector"
+        ]
+      },
+      "nerd": {
+        "id": [
+          "Integrated Camera QR Scanner dengan Engine Auto-Focus",
+          "Database Offline SQLite dengan Automasi Resolusi Konflik Data",
+          "Dio HTTP Interceptor untuk Management Token & Retry Queue",
+          "Kompresi Gambar Lokal Sebelum Pengiriman ke Server",
+          "Flutter Riverpod State Management",
+          "Device Fingerprinting & Regional Data Caching"
+        ],
+        "en": [
+          "Integrated Camera QR Scanner with Auto-Focus Engine",
+          "Offline SQLite Database with Automated Conflict Resolution",
+          "Dio HTTP Interceptor for Token Management & Retry Queue",
+          "On-Device Image Compression Prior to Server Upload",
+          "Flutter Riverpod State Management",
+          "Device Fingerprinting & Regional Data Caching"
+        ]
+      }
+    }
+  },
+  {
+    "id": "07-monitoring-poh",
+    "name": "Monitoring POH Web",
+    "link": null,
+    "thumbnail": null,
+    "images": [],
+    "short_description": {
+      "id": "Dashboard Monitoring Pupuk Organik Hayati (POH)",
+      "en": "Organic Fertilizer (POH) Monitoring Dashboard"
+    },
+    "description": {
+      "id": "Platform web pengawasan operasional produksi, formulasi bahan, serta rantai distribusi Pupuk Organik Hayati (POH).",
+      "en": "Web monitoring platform for production operations, material formulation, and distribution tracking of Organic Bio-Fertilizer (POH)."
+    },
+    "features": {
+      "general": {
+        "id": [
+          "Dashboard Monitoring Produksi Pupuk Organik Hayati (POH) Real-Time",
+          "Pelacakan Distribusi & Stok Pupuk Organik Hayati",
+          "Notifikasi & Peringatan Otomatis via WhatsApp Integration",
+          "Manajemen Tugas & Schedule Pembuatan Batch Pupuk",
+          "Grafik Analisis Laporan Produksi & Komposisi Harian"
+        ],
+        "en": [
+          "Real-Time Organic Fertilizer (POH) Production Dashboard",
+          "Organic Fertilizer (POH) Inventory & Distribution Tracking",
+          "Automated Notifications & Alerts via WhatsApp Integration",
+          "Fertilizer Batch Task & Schedule Management",
+          "Daily Production & Composition Analytics Charts"
+        ]
+      },
+      "nerd": {
+        "id": [
+          "Integrasi Automated WhatsApp Gateway Service API",
+          "Komponen UI Modern Ark UI & Tailwind CSS Architecture",
+          "REST Engine berbasis Hono dengan Validasi Zod Schema",
+          "Drizzle ORM untuk Analytical Query Database MySQL/PostgreSQL",
+          "BullMQ Scheduled Jobs & Cron Automation Engine",
+          "Pemroses Dokumen PDF & Excel (compress-pdf, exceljs)",
+          "Visualisasi Grafik Analitik Interaktif berbasis Recharts"
+        ],
+        "en": [
+          "Automated WhatsApp Gateway Service API Integration",
+          "Ark UI & Tailwind CSS Component Architecture",
+          "Hono REST Engine with Zod Schema Validation",
+          "Drizzle ORM for Analytical MySQL/PostgreSQL Queries",
+          "BullMQ Scheduled Jobs & Cron Automation Engine",
+          "Document Processing Engine (compress-pdf, exceljs)",
+          "Interactive Analytical Visualizations using Recharts"
+        ]
+      }
+    }
+  },
+  {
+    "id": "08-monitoring-poh-mobile",
+    "name": "Monitoring POH Mobile",
+    "link": null,
+    "thumbnail": null,
+    "images": [],
+    "short_description": {
+      "id": "Aplikasi Mobile Operasional Pupuk Organik Hayati (POH)",
+      "en": "Organic Fertilizer (POH) Operations Mobile App"
+    },
+    "description": {
+      "id": "Aplikasi mobile operator dan supervisor untuk mencatat data formulasi harian, batch campuran pupuk organik hayati (POH), serta verifikasi stok.",
+      "en": "Mobile application for operators and supervisors to log daily formulation data, organic fertilizer (POH) batches, and inventory verification."
+    },
+    "features": {
+      "general": {
+        "id": [
+          "Input Log Batch Pembuatan Pupuk Organik Hayati Harian",
+          "Pencatatan Formulasi & Campuran Bahan Pupuk Organik",
+          "Pemeriksaan Checklist Peralatan & Fasilitas Pupuk",
+          "Persetujuan (Approval) Supervisor Pembuatan Batch",
+          "Pencatatan Data Lapangan Tanpa Sinyal Internet"
+        ],
+        "en": [
+          "Daily Organic Fertilizer (POH) Batch Creation Logging",
+          "Organic Fertilizer Formulation & Mixing Data Entry",
+          "Fertilizer Facility & Equipment Inspection Checklist",
+          "Supervisor Batch Creation Sign-Off & Approvals",
+          "Offline Data Logging in Remote Fertilizer Plant Areas"
+        ]
+      },
+      "nerd": {
+        "id": [
+          "Arsitektur Flutter Mobile dengan Pattern Clean Architecture",
+          "Engine Dynamic Form Builder untuk Parameter Formulasi Pupuk Organik",
+          "Dio HTTP Handling dengan Automated Token Lifecycle Management",
+          "Local Storage Caching dengan Hive / SharedPreferences",
+          "Optimasi Image Loading via Cached Network Image Pipeline"
+        ],
+        "en": [
+          "Flutter Mobile Architecture following Clean Architecture Patterns",
+          "Dynamic Form Builder Engine for Organic Fertilizer Formulation Parameters",
+          "Dio HTTP Handling with Automated Token Lifecycle Management",
+          "Local Storage Caching using Hive / SharedPreferences",
+          "Image Loading Optimization via Cached Network Image Pipeline"
+        ]
+      }
+    }
+  },
+  {
+    "id": "09-lsp-naker-jakarta",
+    "name": "LSP Naker Jakarta Portal",
+    "link": null,
+    "thumbnail": null,
+    "images": [],
+    "short_description": {
+      "id": "Portal Sertifikasi Profesi & Uji Kompetensi Ketenagakerjaan",
+      "en": "Professional Certification & Competency Testing Portal"
+    },
+    "description": {
+      "id": "Portal resmi Lembaga Sertifikasi Profesi untuk pendaftaran uji kompetensi tenaga kerja, penjadwalan asesor, dan penerbitan sertifikat digital di Jakarta.",
+      "en": "Official certification body portal for manpower competence test registration, assessor scheduling, and digital certificate issuance in Jakarta."
+    },
+    "features": {
+      "general": {
+        "id": [
+          "Katalog Skema Sertifikasi Profesi Ketenagakerjaan",
+          "Pendaftaran Uji Kompetensi & Ujian Online",
+          "Jadwal & Informasi Lokasi Ujian Bagi Peserta",
+          "Portal Penilaian & Penugasan Asesor Sertifikasi",
+          "Verifikasi Keaslian & Download Sertifikat Digital"
+        ],
+        "en": [
+          "Manpower Professional Certification Scheme Catalog",
+          "Online Competence Test Registration & Portal",
+          "Exam Schedule & Venue Tracking for Candidates",
+          "Assessor Exam Assignment & Grading Portal",
+          "Digital Certificate Authenticity Verification & Download"
+        ]
+      },
+      "nerd": {
+        "id": [
+          "Next.js App Router Architecture",
+          "Mantine UI Framework & Design System Integration",
+          "Mantine Tiptap Rich Text Editor untuk Panduan Skema",
+          "Visualisasi Data Pendaftar menggunakan Mantine Charts",
+          "Perlindungan Bot & Anti-Spam via Cloudflare Turnstile CAPTCHA",
+          "TanStack Query Client Side Data Management"
+        ],
+        "en": [
+          "Next.js App Router Architecture",
+          "Mantine UI Framework & Design System Integration",
+          "Mantine Tiptap Rich Text Editor for Scheme Documentation",
+          "Registration Data Analytics using Mantine Charts",
+          "Anti-Bot Protection via Cloudflare Turnstile CAPTCHA",
+          "TanStack Query Client Side Data Management"
+        ]
+      }
+    }
+  },
+  {
+    "id": "10-smart-mobilepro",
+    "name": "Smart MobilePro",
+    "link": null,
+    "thumbnail": null,
+    "images": [],
+    "short_description": {
+      "id": "Aplikasi Quality Control (QC) Perkebunan & Pabrik Sawit",
+      "en": "Plantation & Mill Quality Control (QC) Mobile App"
+    },
+    "description": {
+      "id": "Aplikasi mobile audit mutu dan Quality Control (QC) untuk inspeksi buah sawit, transportasi, kualitas pabrik, serta absensi berbasis lokasi di perkebunan.",
+      "en": "Mobile quality control (QC) and audit app for inspecting palm fruit quality, transport logistics, mill processing standards, and location-based attendance."
+    },
+    "features": {
+      "general": {
+        "id": [
+          "Inspeksi Quality Control (QC) Mutu Buah Kelapa Sawit",
+          "Sidak Mutu Pengangkutan & Logistik Buah",
+          "Audit Mutu Pengolahan di Pabrik Kelapa Sawit",
+          "Pemeriksaan Gudang & Stok Material Kebun",
+          "Absensi & Presensi Pekerja Lapangan Berbasis Lokasi GPS"
+        ],
+        "en": [
+          "Palm Oil Fresh Fruit Bunch (FFB) Quality Control Inspection",
+          "Fruit Transport & Logistics Quality Spot Checks",
+          "Palm Oil Processing Mill Audit & Quality Control",
+          "Warehouse Material & Inventory Inspection",
+          "GPS Geofenced Field Staff Attendance & Presence"
+        ]
+      },
+      "nerd": {
+        "id": [
+          "Flutter Riverpod State Management & GoRouter Navigation",
+          "Custom Native Camera dengan Watermark Stempel Lokasi & Waktu",
+          "Arsitektur Offline-First Multi-Module Berstandar Enterprise",
+          "Geofencing GPS Location Engine untuk Verifikasi Kehadiran",
+          "Dio Network Interceptor Flow dengan Manajemen Token JWT",
+          "Dynamic Form Inspector Engine untuk Penilaian QC Kebun"
+        ],
+        "en": [
+          "Flutter Riverpod State Management & GoRouter Navigation",
+          "Custom Native Camera with Timestamp & Geolocation Watermarking",
+          "Enterprise Offline-First Multi-Module Architecture",
+          "GPS Geofencing Location Engine for Presence Verification",
+          "Dio Network Interceptor Flow with JWT Token Lifecycle",
+          "Dynamic Form Inspector Engine for Plantation QC Audits"
+        ]
+      }
+    }
+  },
+  {
+    "id": "11-sustainable-forest",
+    "name": "Sustainable Forest Web",
+    "link": null,
+    "thumbnail": null,
+    "images": [],
+    "short_description": {
+      "id": "Platform Adopsi Pohon & Monitoring Konservasi Hutan",
+      "en": "Tree Adoption Platform & Forest Conservation Monitoring"
+    },
+    "description": {
+      "id": "Platform web adopsi pohon dan restorasi hutan yang menghubungkan adopter dengan program penghijauan, lengkap dengan sertifikat digital dan payment gateway.",
+      "en": "Tree adoption and rainforest restoration web platform connecting adopters with reforestation programs, featuring digital certificates and payment gateways."
+    },
+    "features": {
+      "general": {
+        "id": [
+          "Marketplace Adopsi Pohon & Program Konservasi Hutan",
+          "Pembayaran Online Otomatis (QRIS, E-Wallet, Transfer Bank)",
+          "Penerbitan Sertifikat Adopsi Pohon Digital (PDF)",
+          "Dinding Wishtree & Pelacakan Dampak Karbon",
+          "Peta Lokasi Penanaman Pohon & Biodiversitas Hutan"
+        ],
+        "en": [
+          "Tree Adoption Marketplace & Forest Conservation Programs",
+          "Automated Online Payments (QRIS, E-Wallets, Bank Transfers)",
+          "Digital Tree Adoption Certificate Issuance (PDF Download)",
+          "Community Wish Tree Wall & Carbon Impact Tracker",
+          "Interactive Tree Planting Location Map & Biodiversity Monitoring"
+        ]
+      },
+      "nerd": {
+        "id": [
+          "Integrasi Midtrans Payment Gateway Webhook & Notification System",
+          "Generasi Sertifikat PDF Otomatis via Puppeteer & Sharp Image Engine",
+          "BullMQ Queue Server untuk Pemrosesan Sertifikat & Kirim Email Async",
+          "Hono REST Server dengan Skema Validasi Zod",
+          "Drizzle ORM dengan Database Relasional MySQL",
+          "TanStack Router Type-Safe Frontend Routing Framework",
+          "Kalkulasi Dampak Serapan Karbon Otomatis dengan Scheduled Cron Jobs"
+        ],
+        "en": [
+          "Midtrans Payment Gateway Webhook & Notification Integration",
+          "Automated PDF Certificate Generation via Puppeteer & Sharp Engine",
+          "BullMQ Queue Server for Async Certificate Processing & Emails",
+          "Hono REST Server with Zod Schema Validation",
+          "Drizzle ORM with Relational MySQL Database",
+          "TanStack Router Type-Safe Frontend Routing Framework",
+          "Automated Carbon Sequestration Offset Calculations via Cron Jobs"
+        ]
+      }
+    }
+  },
+  {
+    "id": "12-sustainable-forest-mobile",
+    "name": "Sustainable Forest Mobile",
+    "link": null,
+    "thumbnail": null,
+    "images": [],
+    "short_description": {
+      "id": "Aplikasi Mobile GIS Monitoring Pohon Adopsi & Batas Hutan",
+      "en": "Adopted Tree GIS Monitoring & Forest Boundary Mobile App"
+    },
+    "description": {
+      "id": "Aplikasi mobile pendamping bagi adopter dan penjaga hutan untuk memantau lokasi pohon adopsi pada peta GIS interaktif serta melihat batas area kawasan hutan.",
+      "en": "Mobile companion application for adopters and forest guardians to track adopted tree locations on interactive GIS maps and view forest plot boundary polygons."
+    },
+    "features": {
+      "general": {
+        "id": [
+          "Peta GIS Interaktif Lokasi Pohon Adopsi",
+          "Pelacakan Koordinat Presisi Pohon di Area Hutan",
+          "Visualisasi Polygon Batas Kawasan Konservasi Hutan",
+          "Lihat Sertifikat Adopsi Pohon Lansung di HP",
+          "Peta Offline untuk Penggunaan di Tengah Hutan"
+        ],
+        "en": [
+          "Interactive GIS Map for Adopted Tree Locations",
+          "Precision Coordinate Tracking for Forest Trees",
+          "Conservation Forest Boundary Polygon Visualization",
+          "In-App Tree Adoption Certificate Viewer",
+          "Offline Vector Maps for Remote Forest Operations"
+        ]
+      },
+      "nerd": {
+        "id": [
+          "MapLibre React Native Vector Map Engine",
+          "React Native Paper UI Component Library & Theme Engine",
+          "Kalkulasi Spasial Geo-Viewport Polygon & Boundaries",
+          "Expo React Native Framework dengan Redux Toolkit State Engine",
+          "Embedded Drizzle ORM untuk Local Mobile SQLite Caching",
+          "Gorhom Reanimated Bottom Sheet Interface Component",
+          "Google Sign-In Native Authentication Integration"
+        ],
+        "en": [
+          "MapLibre React Native Vector Map Engine",
+          "React Native Paper UI Component Library & Theme Engine",
+          "Spatial Geo-Viewport Polygon & Boundary Calculation Engine",
+          "Expo React Native Framework with Redux Toolkit State Engine",
+          "Embedded Drizzle ORM for Local Mobile SQLite Caching",
+          "Gorhom Reanimated Bottom Sheet UX Component",
+          "Google Sign-In Native Authentication Integration"
+        ]
+      }
+    }
+  },
+  {
+    "id": "13-treeadopt",
+    "name": "TreeAdopt E-Commerce Platform",
+    "link": null,
+    "thumbnail": null,
+    "images": [],
+    "short_description": {
+      "id": "Platform Pembelian Adopsi Pohon Digital & Konservasi",
+      "en": "Digital Tree Adoption E-Commerce & Conservation Portal"
+    },
+    "description": {
+      "id": "Web e-commerce penanaman dan adopsi pohon digital dengan pemrosesan sertifikat instan dan opsi pembayaran beragam untuk program keanekaragaman hayati.",
+      "en": "Digital tree adoption and planting e-commerce web app featuring instant certificate rendering, payment options, and biodiversity project tracking."
+    },
+    "features": {
+      "general": {
+        "id": [
+          "Pembelian Paket Adopsi Pohon & Sertifikat Digital",
+          "Pembayaran Serba Otomatis via Midtrans (QRIS, E-Wallet)",
+          "Viewer & PDF Downloader Sertifikat Adopsi Langsung",
+          "Papan Ucapan Pesan Pelestarian (Wishtree Community)",
+          "Peringkat & Leaderboard Adopter Pohon Terbanyak"
+        ],
+        "en": [
+          "Tree Adoption Package Purchase & Digital Certificates",
+          "Automated Checkout via Midtrans Payment Gateway (QRIS, E-Wallets)",
+          "Instant In-Browser Certificate PDF Viewer & Downloader",
+          "Wishtree Public Environmental Message Board",
+          "Top Adopters & Community Impact Leaderboard"
+        ]
+      },
+      "nerd": {
+        "id": [
+          "Integrasi Payment Gateway Midtrans (Snap & Core API)",
+          "React PDF Viewer Core & Layout Integration",
+          "Google OAuth 2.0 Identity Provider Login",
+          "Backend REST Hono Server dengan Drizzle ORM Database",
+          "Engine Pengolah Gambar Sharp untuk Template Sertifikat",
+          "TanStack Query & Form Async State Handler"
+        ],
+        "en": [
+          "Midtrans Payment Gateway Integration (Snap & Core API)",
+          "React PDF Viewer Core & Layout Integration",
+          "Google OAuth 2.0 Identity Provider Integration",
+          "Hono Server REST Backend with Drizzle ORM Database",
+          "Sharp Image Processing Engine for Certificate Rendering",
+          "TanStack Query & Form Async State Management"
+        ]
+      }
+    }
+  },
+  {
+    "id": "14-sso-srs",
+    "name": "SSO SRS Central Service",
+    "link": null,
+    "thumbnail": null,
+    "images": [],
+    "short_description": {
+      "id": "Server Central Single Sign-On Provider Aplikasi SRS",
+      "en": "Central Single Sign-On Provider Server for SRS Apps"
+    },
+    "description": {
+      "id": "Layanan otentikasi pusat Single Sign-On (SSO) untuk seluruh ekosistem aplikasi SRS, mengamankan akses pengguna dan manajemen kredensial aplikasi klien.",
+      "en": "Central Single Sign-On (SSO) authentication provider service for the entire SRS application ecosystem, securing user access and client app credentials."
+    },
+    "features": {
+      "general": {
+        "id": [
+          "Satu Akun Pengguna untuk Semua Aplikasi Ecosystem SRS",
+          "Masuk Otomatis Tanpa Ketik Ulang Kata Sandi (Seamless Login)",
+          "Dashboard Manajemen Aplikasi Klien Terhubung",
+          "Standar Keamanan Otentikasi Terpusat"
+        ],
+        "en": [
+          "Single User Account Access Across All SRS Ecosystem Applications",
+          "Seamless One-Click Login Across Multiple Connected Platforms",
+          "Connected Client Website Security Management Dashboard",
+          "Centralized Security & Identity Standard"
+        ]
+      },
+      "nerd": {
+        "id": [
+          "Bun High-Performance JavaScript Runtime Engine",
+          "Framework Backend Hono Server",
+          "Bun SQLite Key-Value Store untuk Manajemen Client Credentials & Token Revocation",
+          "Protokol Komunikasi Cross-Domain SSO Popup PostMessage",
+          "OAuth 2.0 / JWT Token Generation & Verification Protocol",
+          "Admin Dashboard Manajemen Client Website dengan Client Secret Generation",
+          "Shadcn UI & Tailwind CSS Component Architecture"
+        ],
+        "en": [
+          "Bun High-Performance JavaScript Runtime Engine",
+          "Hono Lightweight Web Framework Backend",
+          "Bun SQLite Key-Value Store for Client Credentials & Token Revocation",
+          "Cross-Domain SSO Popup PostMessage Communication Protocol",
+          "OAuth 2.0 / JWT Token Generation & Verification Protocol",
+          "Admin Portal for Client Web Registration & Dynamic Secret Generation",
+          "Shadcn UI & Tailwind CSS Component Architecture"
+        ]
+      }
+    }
+  },
+  {
+    "id": "15-botwave",
+    "name": "BotWave API & Gateway",
+    "link": null,
+    "thumbnail": null,
+    "images": [],
+    "short_description": {
+      "id": "Platform Multi-Instance WhatsApp Automation Gateway",
+      "en": "Multi-Instance WhatsApp Automation Gateway Platform"
+    },
+    "description": {
+      "id": "Platform gateway WhatsApp multi-device untuk mengelola banyak nomor WA, pengiriman pesan massal terjadwal, dan integrasi API webhook ke sistem eksternal.",
+      "en": "Multi-device WhatsApp gateway platform for managing multiple WA instances, scheduled broadcast messaging, and external webhook API integrations."
+    },
+    "features": {
+      "general": {
+        "id": [
+          "Manajemen Banyak Perangkat WhatsApp (Multi-Instance WA)",
+          "Hubungkan WhatsApp Mudah Cukup Scan Kode QR",
+          "Pengiriman Pesan Broadcast & Notifikasi Terjadwal",
+          "Notifikasi Webhook Real-Time Saat Ada Pesan Masuk",
+          "Integrasi Kunci API untuk Aplikasi & Sistem Eksternal"
+        ],
+        "en": [
+          "Multi-Device WhatsApp Instance Manager",
+          "Quick WhatsApp Account Connection via QR Code Scan",
+          "Mass Broadcast & Scheduled Message Dispatcher",
+          "Real-Time Webhook Notifications for Incoming Events",
+          "API Key Integration Hub for External Microservices"
+        ]
+      },
+      "nerd": {
+        "id": [
+          "Engine Protokol WhatsApp Baileys Multi-Device Library",
+          "BullMQ Redis Distributed Queue untuk Antrean Pengiriman Pesan High-Volume",
+          "Server WebSocket Realtime untuk Event Status Instance & Pesan",
+          "Bun Runtime & Backend Framework Hono API",
+          "Drizzle ORM dengan PostgreSQL Relational Database",
+          "Sistem Keamanan Ganda (JWT untuk Dashboard & API Key untuk Microservices)",
+          "Automated Worker Jobs Cleanup & Rotation Engine",
+          "Dashboard Frontend berbasis TanStack Start & Zustand State Manager"
+        ],
+        "en": [
+          "Baileys Multi-Device WhatsApp Protocol Engine",
+          "BullMQ Redis Distributed Queue for High-Volume Message Dispatching",
+          "WebSocket Server for Realtime Instance State & Message Events",
+          "Bun Runtime & Hono API Backend Framework",
+          "Drizzle ORM with PostgreSQL Relational Database",
+          "Dual Security Layer (JWT for Dashboard & API Keys for Microservices)",
+          "Automated Worker Jobs Cleanup & Rotation Engine",
+          "Dashboard Frontend built on TanStack Start & Zustand State Engine"
+        ]
+      }
+    }
+  },
+  {
+    "id": "16-syngenta-id-tts",
+    "name": "Syngenta ID - Trial Traceability System",
+    "link": null,
+    "thumbnail": null,
+    "images": [],
+    "short_description": {
+      "id": "Sistem Pelacakan & Pengelolaan Uji Coba Lapangan Benih Pertanian",
+      "en": "Agricultural Seed Trial Field Traceability & Productivity System"
+    },
+    "description": {
+      "id": "Aplikasi produktivitas dan pelacakan uji coba benih pertanian Syngenta untuk memantau aktivitas lapangan, kondisi cuaca, serta persetujuan berjenjang supervisor dan manajer.",
+      "en": "Productivity and traceability application for Syngenta seed development trials, monitoring field activities, crop conditions, and multi-tier supervisor/manager approvals."
+    },
+    "features": {
+      "general": {
+        "id": [
+          "Pelacakan Kemajuan Proyek Uji Coba Benih Lapangan",
+          "Pencatatan Data Tanaman, Iklim & Penggunaan Pupuk",
+          "Update Status Aktivitas Uji Coba Secara Real-Time",
+          "Sistem Persetujuan Berjenjang Supervisor & Manager",
+          "Penyesuaian Aktivitas Lapangan yang Dinamis"
+        ],
+        "en": [
+          "Agricultural Seed Field Trial Progress Tracker",
+          "Field Crop Condition, Climate & Fertilizer Logging",
+          "Real-Time Trial Project Status Updates",
+          "Multi-Level Supervisor & Manager Approval Workflow",
+          "Dynamic Trial Activity Adaptability & Flex-Config"
+        ]
+      },
+      "nerd": {
+        "id": [
+          "React Native / Expo Mobile Application Framework",
+          "React Native Paper UI Component Library & Theme Engine",
+          "MapLibre React Native Vector Map Engine untuk Plot Trial",
+          "Hierarchical Multi-Tier Approval Workflow Engine",
+          "Real-Time Field Activity Synchronization Module",
+          "Dynamic Form & Variable Parameter Configuration Engine",
+          "Geo-tagged Trial Plot Recording & Geo-Location Tracking",
+          "Offline-First Storage Datastore dengan Retry Queue"
+        ],
+        "en": [
+          "React Native / Expo Mobile Application Framework",
+          "React Native Paper UI Component Library & Theme Engine",
+          "MapLibre React Native Vector Map Engine for Trial Plots",
+          "Hierarchical Multi-Tier Approval Workflow Engine",
+          "Real-Time Field Activity Synchronization Module",
+          "Dynamic Form & Variable Parameter Configuration Engine",
+          "Geo-tagged Trial Plot Recording & Geo-Location Tracking",
+          "Offline-First Storage Datastore with Retry Queue"
+        ]
+      }
+    }
+  }
+]

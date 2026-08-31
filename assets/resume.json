@@ -1,0 +1,95 @@
+{
+  "name": "Wahyu Patriaji",
+  "title": "Programmer at PT Sawit Sumbermas Sarana Tbk",
+  "contact": {
+    "phone": "+6282237420539",
+    "email": "wahyupatriaji@gmail.com",
+    "linkedin": "https://linkedin.com/in/wahyupatriaji",
+    "github": "https://github.com/whyaji"
+  },
+  "summary": "Software Engineer with hands-on experience building scalable web, backend, and cross-platform mobile applications using Node.js, HonoJS, React.js, React Native, and Flutter. Experienced in designing integrated systems that enable data sharing across multiple applications and implementing centralized SSO authentication for enterprise users. Strong background in system architecture, geospatial applications, legacy system modernization, performance optimization, deployment, and production application lifecycle management.",
+  "experience": [
+    {
+      "company": "PT Sawit Sumbermas Sarana, Tbk.",
+      "location": "Kotawaringin Barat - Indonesia",
+      "roles": [
+        {
+          "title": "Programmer (Full-Stack & Mobile Developer)",
+          "period": "04/2025 – Present",
+          "summary": "Contributed as a Fullstack Developer in building scalable web and mobile applications, leveraging the TypeScript ecosystem for both frontend and backend development.",
+          "highlights": [
+            "Designed, built, and maintained scalable backend services using Node.js and modern frameworks like HonoJS.",
+            "Developed interactive and responsive web frontends using React.js, and efficiently managed application state with Redux Toolkit, and Zustand.",
+            "Integrated interactive maps using Leaflet and MapLibre for geospatial data visualization, including heatmaps, clustering, and real-time coordinate tracking.",
+            "Built cross-platform mobile applications for Android from scratch to production using Flutter and React Native.",
+            "Integrated multiple company projects and applications by designing data-sharing and interoperability solutions to enable seamless data synchronization and centralized data access.",
+            "Designed and implemented Single Sign-On (SSO) authentication for company employees, enabling centralized and secure access across multiple internal applications.",
+            "Developed and maintained legacy project using Laravel, PHP, and Node.js, including feature enhancements, bug fixing, performance optimization, and system refactoring.",
+            "Managed the deployment to VPS using Cloudpanel, ensuring high application availability and performance.",
+            "Implemented Redis as a caching layer and job queue to boost application speed and responsiveness.",
+            "Implemented Midtrans payment gateway to support secure and seamless in-app transactions.",
+            "Handled the entire mobile application release cycle to the Google Play Store, from build and testing to version updates."
+          ]
+        }
+      ]
+    },
+    {
+      "company": "Sekawan Media",
+      "location": "Malang - Indonesia",
+      "roles": [
+        {
+          "title": "Mobile Developer",
+          "period": "03/2024 – 04/2025",
+          "summary": null,
+          "highlights": [
+            "Develop Mobile Apps: Build and maintain high-performance, reusable code using React Native.",
+            "Collaborate with Teams: Work with product managers, designers, and developers to deliver products on time.",
+            "Optimize Performance: Fix bugs and optimize for performance and responsiveness.",
+            "API Integration: Connect applications to back-end services via RESTful APIs.",
+            "Implement UI/UX: Convert designs into user-friendly, visually appealing code.",
+            "Testing & Debugging: Write tests and debug for stability and performance.",
+            "Publish to Play Store: Handle app publishing, APK prep, and ensure Google Play compliance."
+          ]
+        },
+        {
+          "title": "Mobile Developer Intern",
+          "period": "01/2024 – 03/2025",
+          "summary": null,
+          "highlights": [
+            "Assisted in building and maintaining high-performance mobile applications using React Native.",
+            "Collaborated with developers and designers to implement features and resolve issues.",
+            "Worked on UI/UX implementation to enhance the user interface based on design specifications.",
+            "Developed an understanding of integrating APIs for mobile app functionality."
+          ]
+        }
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University Of Muhammadiyah Malang",
+      "location": "Malang - Indonesia",
+      "degree": "Bachelor of Computer Science, Informatics",
+      "period": "08/2020 – 05/2025",
+      "gpa": "3.97",
+      "summary": null,
+      "highlights": []
+    },
+    {
+      "institution": "Bangkit Academy led by Google, Tokopedia, Gojek, & Traveloka",
+      "location": "Indonesia",
+      "degree": "Bangkit Academy 2023 Participant | Mobile Development",
+      "period": "02/2023 – 07/2023",
+      "gpa": null,
+      "summary": "Bangkit is a Google-led academy designed to produce high-calibre, technical talent for world-class, Indonesian technology companies and startups.",
+      "highlights": [
+        "Participated as a mobile developer (Android) in the Bangkit program",
+        "Succeeded to reach top 68 best teams from 787 teams during the capstone phase",
+        "Learned valuable Android development skills, including UX design, background processes, and networking",
+        "Expertise in advanced UI, animation, localization, and working with Firebase and Google Maps API",
+        "Embraced challenges and committed to leveraging feedback for continuous improvement",
+        "Excelled in Time Management, Critical Thinking, Adaptability, Project Management, Professional Communication, and Digital Branding."
+      ]
+    }
+  ]
+}
