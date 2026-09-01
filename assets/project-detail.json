@@ -118,7 +118,7 @@
   {
     "id": "03-cmp-tracker",
     "name": "CMP Tracker Web",
-    "link": "https://cmp-tracker.aji.dev",
+    "link": null,
     "thumbnail": "public/project/03-cmp-tracker/03-thumbnail.avif",
     "images": [
       "public/project/03-cmp-tracker/03-01.avif",

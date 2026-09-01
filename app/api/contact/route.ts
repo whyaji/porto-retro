@@ -1,5 +1,6 @@
 import { NextResponse } from "next/server";
 import nodemailer from "nodemailer";
+import { validateTurnstileToken } from "next-turnstile";
 import { contactFormSchema } from "@/lib/validation/contact";
 import { logger } from "@/lib/logger";
 
@@ -56,7 +57,45 @@ export async function POST(req: Request) {
       );
     }
 
-    const { name, email, subject, message } = parseResult.data;
+    const { name, email, subject, message, turnstileToken } = parseResult.data;
+
+    // Verify Turnstile Token if secret key is configured in environment
+    const turnstileSecret = process.env.TURNSTILE_SECRET_KEY;
+    if (turnstileSecret) {
+      if (!turnstileToken) {
+        logger.warn({ ip }, "Turnstile token missing in request");
+        return NextResponse.json(
+          { message: "Security verification token is missing. Please complete the captcha." },
+          { status: 400 }
+        );
+      }
+
+      try {
+        const turnstileResult = await validateTurnstileToken({
+          token: turnstileToken,
+          secretKey: turnstileSecret,
+          remoteip: ip !== "127.0.0.1" ? ip : undefined,
+        });
+
+        if (!turnstileResult.success) {
+          logger.warn(
+            { ip, errorCodes: turnstileResult.error_codes },
+            "Turnstile token verification failed"
+          );
+          return NextResponse.json(
+            { message: "Security verification failed. Please try again." },
+            { status: 400 }
+          );
+        }
+      } catch (turnstileErr) {
+        logger.error({ error: turnstileErr, ip }, "Error validating Turnstile token");
+        return NextResponse.json(
+          { message: "Security verification error. Please try again." },
+          { status: 500 }
+        );
+      }
+    }
+
     const sanitizedName = sanitizeHeader(name);
     const sanitizedEmail = sanitizeHeader(email);
     const sanitizedSubject = sanitizeHeader(subject);
@@ -100,7 +139,6 @@ export async function POST(req: Request) {
     const mailOptions = {
       from: smtpFrom,
       to: recipientEmail,
-      replyTo: `"${sanitizedName}" <${sanitizedEmail}>`,
       subject: `[Portfolio Inquiry] ${sanitizedSubject}`,
       text: `Name: ${sanitizedName}\nEmail: ${sanitizedEmail}\nSubject: ${sanitizedSubject}\n\nMessage:\n${message}`,
       html: `

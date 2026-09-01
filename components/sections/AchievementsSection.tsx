@@ -29,7 +29,7 @@ export const AchievementsSection: React.FC<{ isFullPage?: boolean }> = ({
             >
               <div>
                 {/* Header */}
-                <div className="flex items-start justify-between gap-3 pb-4 border-b-2 border-[var(--navy)]">
+                <div className="flex flex-col sm:flex-row sm:items-start justify-between gap-4 pb-4 border-b-2 border-[var(--navy)]">
                   <div className="flex items-start gap-3">
                     <div className="p-2.5 bg-[var(--navy)] text-[var(--gold)] border border-[var(--navy)] shrink-0">
                       {idx === 0 ? <FiBookOpen className="w-5 h-5" /> : <FiAward className="w-5 h-5" />}
@@ -43,6 +43,18 @@ export const AchievementsSection: React.FC<{ isFullPage?: boolean }> = ({
                       </p>
                     </div>
                   </div>
+
+                  {edu.gpa && (
+                    <div className="self-start sm:self-auto shrink-0 inline-flex items-center gap-2 px-3 py-1.5 bg-[var(--surface-light)] border-2 border-[var(--navy)] text-xs font-mono text-[var(--navy)] shadow-[2px_2px_0px_0px_var(--navy)]">
+                      <span className="text-[var(--navy)]/70 uppercase text-[11px] font-bold tracking-wider">
+                        {t.about.gpa}:
+                      </span>
+                      <span className="text-sm font-extrabold text-[var(--green)]">
+                        {edu.gpa}
+                      </span>
+                      <span className="text-[11px] text-[var(--navy)]/60 font-medium">/ 4.00</span>
+                    </div>
+                  )}
                 </div>
 
                 <div className="flex items-center gap-4 text-xs font-mono text-[var(--navy)]/70 py-3">

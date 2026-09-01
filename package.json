@@ -12,6 +12,7 @@
     "@hookform/resolvers": "^5.9.1",
     "@vercel/analytics": "^2.0.1",
     "next": "16.3.3",
+    "next-turnstile": "^1.0.7",
     "nodemailer": "^9.1.0",
     "pino": "^10.3.1",
     "pino-pretty": "^13.1.3",

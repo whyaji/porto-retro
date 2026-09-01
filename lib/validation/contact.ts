@@ -21,6 +21,7 @@ export const contactFormSchema = z.object({
     .min(10, { message: "Message must be at least 10 characters" })
     .max(3000, { message: "Message must not exceed 3000 characters" })
     .trim(),
+  turnstileToken: z.string().optional(),
 });
 
 export type ContactFormData = z.infer<typeof contactFormSchema>;

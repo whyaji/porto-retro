@@ -7,6 +7,7 @@ import { contactFormSchema, type ContactFormData } from "@/lib/validation/contac
 import { useI18n } from "@/context/i18n-context";
 import { Button } from "@/components/ui/Button";
 import { FiSend, FiCheckCircle, FiAlertCircle } from "react-icons/fi";
+import { Turnstile } from "next-turnstile";
 
 export const ContactForm: React.FC = () => {
   const { t } = useI18n();
@@ -14,6 +15,9 @@ export const ContactForm: React.FC = () => {
     "idle"
   );
   const [serverMessage, setServerMessage] = useState<string>("");
+  const [turnstileToken, setTurnstileToken] = useState<string>("");
+
+  const turnstileSiteKey = process.env.NEXT_PUBLIC_TURNSTILE_SITE_KEY;
 
   const {
     register,
@@ -31,6 +35,12 @@ export const ContactForm: React.FC = () => {
   });
 
   const onSubmit = async (data: ContactFormData) => {
+    if (turnstileSiteKey && !turnstileToken) {
+      setStatus("error");
+      setServerMessage("Please complete the security verification (Turnstile).");
+      return;
+    }
+
     setStatus("loading");
     setServerMessage("");
 
@@ -38,7 +48,7 @@ export const ContactForm: React.FC = () => {
       const res = await fetch("/api/contact", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
-        body: JSON.stringify(data),
+        body: JSON.stringify({ ...data, turnstileToken }),
       });
 
       const json = await res.json();
@@ -50,6 +60,7 @@ export const ContactForm: React.FC = () => {
       setStatus("success");
       setServerMessage(t.contact.successMessage);
       reset();
+      setTurnstileToken("");
     } catch (err: unknown) {
       setStatus("error");
       const errorMessage =
@@ -175,6 +186,19 @@ export const ContactForm: React.FC = () => {
             </p>
           )}
         </div>
+
+        {/* Turnstile Captcha */}
+        {turnstileSiteKey && (
+          <div className="pt-1">
+            <Turnstile
+              siteKey={turnstileSiteKey}
+              onVerify={(token) => setTurnstileToken(token)}
+              onExpire={() => setTurnstileToken("")}
+              onError={() => setTurnstileToken("")}
+              theme="light"
+            />
+          </div>
+        )}
 
         {/* Submit Button */}
         <div className="pt-2">
