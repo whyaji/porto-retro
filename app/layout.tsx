@@ -4,6 +4,17 @@ import { Analytics } from "@vercel/analytics/react";
 import { I18nProvider } from "@/context/i18n-context";
 import { Navbar } from "@/components/layout/Navbar";
 import { Footer } from "@/components/layout/Footer";
+import {
+  AUTHOR_NAME,
+  DEFAULT_DESCRIPTION,
+  DEFAULT_TITLE,
+  getPersonJsonLd,
+  getWebSiteJsonLd,
+  OG_IMAGE,
+  SEO_KEYWORDS,
+  SITE_NAME,
+  SITE_URL,
+} from "@/lib/seo";
 import "./globals.css";
 
 const bricolageGrotesque = Bricolage_Grotesque({
@@ -31,53 +42,64 @@ export const viewport: Viewport = {
   themeColor: "#0B1849",
   width: "device-width",
   initialScale: 1,
+  colorScheme: "light",
 };
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://patrialabs.vercel.app"),
+  metadataBase: new URL(SITE_URL),
   title: {
-    default: "Wahyu Patriaji | Full-Stack & Mobile Software Engineer",
-    template: "%s | Wahyu Patriaji",
+    default: DEFAULT_TITLE,
+    template: `%s | ${AUTHOR_NAME}`,
   },
-  description:
-    "Professional portfolio and resume of Wahyu Patriaji — Full-Stack & Mobile Software Engineer at PT Sawit Sumbermas Sarana Tbk. Specializing in Node.js, Hono, React, React Native, Flutter, and Geospatial GIS applications.",
-  keywords: [
-    "Wahyu Patriaji",
-    "PatriaLabs",
-    "Software Engineer",
-    "Full-Stack Developer",
-    "Mobile Developer",
-    "React",
-    "Next.js",
-    "Flutter",
-    "React Native",
-    "Hono",
-    "GIS",
-    "Leaflet",
-    "MapLibre",
-    "Indonesia Programmer",
-  ],
-  authors: [{ name: "Wahyu Patriaji", url: "https://patrialabs.vercel.app" }],
-  creator: "Wahyu Patriaji",
+  description: DEFAULT_DESCRIPTION,
+  applicationName: SITE_NAME,
+  keywords: [...SEO_KEYWORDS],
+  authors: [{ name: AUTHOR_NAME, url: SITE_URL }],
+  creator: AUTHOR_NAME,
+  publisher: AUTHOR_NAME,
+  category: "technology",
+  alternates: {
+    canonical: SITE_URL,
+    languages: {
+      "id-ID": SITE_URL,
+      "en-US": SITE_URL,
+    },
+  },
+  icons: {
+    icon: [
+      { url: "/icon64.png", sizes: "64x64", type: "image/png" },
+      { url: "/icon256.png", sizes: "256x256", type: "image/png" },
+    ],
+    apple: [{ url: "/icon256.png", sizes: "256x256", type: "image/png" }],
+  },
   openGraph: {
     type: "website",
     locale: "id_ID",
     alternateLocale: ["en_US"],
-    url: "https://patrialabs.vercel.app",
-    siteName: "Wahyu Patriaji Portfolio",
-    title: "Wahyu Patriaji | Full-Stack & Mobile Software Engineer",
+    url: SITE_URL,
+    siteName: SITE_NAME,
+    title: DEFAULT_TITLE,
     description:
       "Explore software systems, web GIS platforms, and cross-platform mobile apps engineered by Wahyu Patriaji.",
+    images: [OG_IMAGE],
   },
   twitter: {
     card: "summary_large_image",
-    title: "Wahyu Patriaji | Full-Stack & Mobile Software Engineer",
+    title: DEFAULT_TITLE,
     description:
       "Full-Stack & Mobile Software Engineer specializing in scalable web, backend, and cross-platform mobile apps.",
+    images: [OG_IMAGE.url],
   },
   robots: {
     index: true,
     follow: true,
+    googleBot: {
+      index: true,
+      follow: true,
+      "max-image-preview": "large",
+      "max-snippet": -1,
+      "max-video-preview": -1,
+    },
   },
 };
 
@@ -86,44 +108,7 @@ export default function RootLayout({
 }: {
   children: React.ReactNode;
 }) {
-  const jsonLd = {
-    "@context": "https://schema.org",
-    "@type": "Person",
-    name: "Wahyu Patriaji",
-    jobTitle: "Full-Stack & Mobile Software Engineer",
-    worksFor: {
-      "@type": "Organization",
-      name: "PT Sawit Sumbermas Sarana, Tbk.",
-    },
-    url: "https://patrialabs.vercel.app",
-    sameAs: [
-      "https://github.com/whyaji",
-      "https://linkedin.com/in/wahyupatriaji",
-    ],
-    alumniOf: [
-      {
-        "@type": "EducationalOrganization",
-        name: "University Of Muhammadiyah Malang",
-      },
-      {
-        "@type": "EducationalOrganization",
-        name: "Bangkit Academy led by Google, Tokopedia, Gojek, & Traveloka",
-      },
-    ],
-    knowsAbout: [
-      "TypeScript",
-      "React.js",
-      "Next.js",
-      "Flutter",
-      "React Native",
-      "Node.js",
-      "Hono",
-      "Geospatial GIS",
-      "Redis",
-      "MySQL",
-      "Drizzle ORM",
-    ],
-  };
+  const jsonLd = [getPersonJsonLd(), getWebSiteJsonLd()];
 
   return (
     <html
@@ -139,9 +124,9 @@ export default function RootLayout({
       </head>
       <body className="min-h-screen flex flex-col bg-[var(--surface)] text-[var(--navy)] bg-noise">
         <I18nProvider>
-            <Navbar />
-            <main className="flex-1 w-full flex flex-col">{children}</main>
-            <Footer />
+          <Navbar />
+          <main className="flex-1 w-full flex flex-col">{children}</main>
+          <Footer />
         </I18nProvider>
         <Analytics />
       </body>

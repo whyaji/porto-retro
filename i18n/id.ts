@@ -12,7 +12,8 @@ export const idTranslations = {
   hero: {
     badge: "Full-Stack & Mobile Software Engineer",
     greeting: "Halo, saya",
-    tagline: "Membangun sistem terdistribusi, aplikasi web interaktif, & aplikasi mobile berkinerja tinggi.",
+    tagline:
+      "Membangun sistem terdistribusi, aplikasi web interaktif, & aplikasi mobile berkinerja tinggi.",
     subtagline:
       "Programmer di PT Sawit Sumbermas Sarana Tbk. Berpengalaman dalam arsitektur backend Hono/Node, web GIS MapLibre/Leaflet, dan mobile cross-platform Flutter/React Native.",
     viewProjects: "Lihat Portofolio",
@@ -67,7 +68,8 @@ export const idTranslations = {
     filterWeb: "Web & GIS",
     filterMobile: "Aplikasi Mobile",
     filterSystem: "Sistem & Backend",
-    searchPlaceholder: "Cari proyek atau teknologi (misal: GIS, Flutter, Redis)...",
+    searchPlaceholder:
+      "Cari proyek atau teknologi (misal: GIS, Flutter, Redis)...",
     noProjectsFound: "Tidak ada proyek yang sesuai dengan kriteria pencarian.",
     viewDetail: "Lihat Detail Arsitektur",
     visitLive: "Kunjungi Situs",
@@ -82,7 +84,8 @@ export const idTranslations = {
       navigation: "Navigasi Proyek",
       prevProject: "Proyek Sebelumnya",
       nextProject: "Proyek Selanjutnya",
-      noScreenshot: "Dokumentasi visual internal / proprietary sistem enterprise.",
+      noScreenshot:
+        "Dokumentasi visual internal / proprietary sistem enterprise.",
     },
   },
   achievements: {
@@ -92,7 +95,8 @@ export const idTranslations = {
   },
   contact: {
     title: "Hubungi Saya",
-    subtitle: "Mari berdiskusi mengenai proyek rekayasa perangkat lunak, kolaborasi, atau peluang karir.",
+    subtitle:
+      "Mari berdiskusi mengenai proyek rekayasa perangkat lunak, kolaborasi, atau peluang karir.",
     badge: "SALURAN KOMUNIKASI",
     formTitle: "Kirim Pesan Langsung",
     nameLabel: "Nama Lengkap",
@@ -102,11 +106,14 @@ export const idTranslations = {
     subjectLabel: "Subjek Pesan",
     subjectPlaceholder: "Topik diskusi atau penawaran kerja sama",
     messageLabel: "Isi Pesan",
-    messagePlaceholder: "Tuliskan rincian kebutuhan atau pesan Anda secara detail...",
+    messagePlaceholder:
+      "Tuliskan rincian kebutuhan atau pesan Anda secara detail...",
     submitBtn: "Kirim Pesan Sekarang",
     sendingBtn: "Mengirim Pesan...",
-    successMessage: "Pesan Anda berhasil dikirim! Saya akan segera merespons melalui email.",
-    errorMessage: "Gagal mengirim pesan. Silakan coba lagi atau hubungi langsung via email.",
+    successMessage:
+      "Pesan Anda berhasil dikirim! Saya akan segera merespons melalui email.",
+    errorMessage:
+      "Gagal mengirim pesan. Silakan coba lagi atau hubungi langsung via email.",
     directContact: "Kontak Langsung",
     location: "Lokasi Kerja",
     locationValue: "Kotawaringin Barat, Kalimantan Tengah / Indonesia",
@@ -115,13 +122,15 @@ export const idTranslations = {
   footer: {
     systemTag: "PATRIALABS // REKAYASA SISTEM",
     rights: "Seluruh Hak Cipta Dilindungi.",
-    sourceCodeNote: "Dibangun dengan Next.js App Router, TypeScript, Tailwind CSS, & GSAP.",
-    backToTop: "Kembali ke Atas ↑",
+    sourceCodeNote:
+      "Dibangun dengan Next.js App Router, TypeScript, Tailwind CSS, & GSAP.",
+    backToTop: "Kembali ke Atas",
   },
   notFound: {
     code: "ERR_404_PAGE_NOT_FOUND",
     title: "Halaman Tidak Ditemukan",
-    description: "Rute yang Anda tuju tidak terdaftar dalam routing table aplikasi.",
+    description:
+      "Rute yang Anda tuju tidak terdaftar dalam routing table aplikasi.",
     backHome: "Kembali ke Beranda",
   },
 };

@@ -1,7 +1,7 @@
 "use client";
 
 import { useI18n } from "@/context/i18n-context";
-import { resumeData } from "@/lib/data/resume";
+import { resumeData, getWhatsAppUrl } from "@/lib/data/resume";
 import { SectionHeader } from "@/components/ui/SectionHeader";
 import { Badge } from "@/components/ui/Badge";
 import { Button } from "@/components/ui/Button";
@@ -14,7 +14,9 @@ import {
   FiMapPin,
   FiGithub,
   FiLinkedin,
+  FiInstagram,
 } from "react-icons/fi";
+import { FaWhatsapp } from "react-icons/fa";
 
 export default function AboutPage() {
   const { t } = useI18n();
@@ -76,7 +78,9 @@ export default function AboutPage() {
                   </div>
                   <div className="flex items-start gap-2 p-3 bg-white border border-[var(--navy)]/20">
                     <FiCheckCircle className="w-4 h-4 text-[var(--green)] shrink-0 mt-0.5" />
-                    <span>Cross-Platform Flutter & React Native Mobile Apps</span>
+                    <span>
+                      Cross-Platform Flutter & React Native Mobile Apps
+                    </span>
                   </div>
                   <div className="flex items-start gap-2 p-3 bg-white border border-[var(--navy)]/20">
                     <FiCheckCircle className="w-4 h-4 text-[var(--green)] shrink-0 mt-0.5" />
@@ -109,18 +113,26 @@ export default function AboutPage() {
 
                 <div className="space-y-3 font-mono text-xs text-[var(--navy)]">
                   <div>
-                    <span className="text-[var(--navy)]/50 block text-[10px]">ORGANIZATION</span>
-                    <span className="font-bold">PT Sawit Sumbermas Sarana, Tbk.</span>
+                    <span className="text-[var(--navy)]/50 block text-[10px]">
+                      ORGANIZATION
+                    </span>
+                    <span className="font-bold">
+                      PT Sawit Sumbermas Sarana, Tbk.
+                    </span>
                   </div>
                   <div>
-                    <span className="text-[var(--navy)]/50 block text-[10px]">LOCATION</span>
+                    <span className="text-[var(--navy)]/50 block text-[10px]">
+                      LOCATION
+                    </span>
                     <div className="flex items-center gap-1 mt-0.5">
                       <FiMapPin className="w-3 h-3 text-[var(--green)]" />
                       <span>Kotawaringin Barat, Indonesia</span>
                     </div>
                   </div>
                   <div>
-                    <span className="text-[var(--navy)]/50 block text-[10px]">EMAIL CONTACT</span>
+                    <span className="text-[var(--navy)]/50 block text-[10px]">
+                      EMAIL CONTACT
+                    </span>
                     <a
                       href={`mailto:${resumeData.contact.email}`}
                       className="text-[var(--green)] underline font-bold"
@@ -129,8 +141,17 @@ export default function AboutPage() {
                     </a>
                   </div>
                   <div>
-                    <span className="text-[var(--navy)]/50 block text-[10px]">PHONE / WA</span>
-                    <span>{resumeData.contact.phone}</span>
+                    <span className="text-[var(--navy)]/50 block text-[10px]">
+                      PHONE / WA
+                    </span>
+                    <a
+                      href={getWhatsAppUrl()}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      className="text-[var(--green)] underline font-bold"
+                    >
+                      {resumeData.contact.phone}
+                    </a>
                   </div>
                 </div>
 
@@ -153,6 +174,24 @@ export default function AboutPage() {
                     leftIcon={<FiLinkedin className="w-3.5 h-3.5" />}
                   >
                     LinkedIn
+                  </Button>
+                  <Button
+                    href={resumeData.contact.instagram}
+                    external
+                    variant="outline"
+                    size="sm"
+                    leftIcon={<FiInstagram className="w-3.5 h-3.5" />}
+                  >
+                    Instagram
+                  </Button>
+                  <Button
+                    href={getWhatsAppUrl()}
+                    external
+                    variant="outline"
+                    size="sm"
+                    leftIcon={<FaWhatsapp className="w-3.5 h-3.5" />}
+                  >
+                    WhatsApp
                   </Button>
                 </div>
 

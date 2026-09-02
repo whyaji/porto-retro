@@ -3,12 +3,14 @@ import { getAllProjects } from "@/lib/data/projects";
 import { ProjectFilter } from "@/components/projects/ProjectFilter";
 import { SectionHeader } from "@/components/ui/SectionHeader";
 import { ContactCTA } from "@/components/sections/ContactCTA";
+import { createPageMetadata } from "@/lib/seo";
 
-export const metadata: Metadata = {
-  title: "Projects & Systems Catalogue | Wahyu Patriaji",
+export const metadata: Metadata = createPageMetadata({
+  title: "Projects & Systems Catalogue",
   description:
     "Explore 16 production web GIS platforms, cross-platform mobile apps, and distributed backend systems designed and built by Wahyu Patriaji.",
-};
+  path: "/projects",
+});
 
 export default function ProjectsPage() {
   const projects = getAllProjects();

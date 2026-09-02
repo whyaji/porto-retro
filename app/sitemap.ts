@@ -1,8 +1,9 @@
 import { MetadataRoute } from "next";
 import { getAllProjects } from "@/lib/data/projects";
+import { SITE_URL } from "@/lib/seo";
 
 export default function sitemap(): MetadataRoute.Sitemap {
-  const baseUrl = "https://patrialabs.vercel.app";
+  const baseUrl = SITE_URL;
   const projects = getAllProjects();
 
   const staticRoutes: MetadataRoute.Sitemap = [

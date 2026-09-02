@@ -7,11 +7,16 @@ import { SkillsMatrix } from "@/components/sections/SkillsMatrix";
 import { AchievementsSection } from "@/components/sections/AchievementsSection";
 import { ContactCTA } from "@/components/sections/ContactCTA";
 import { ScrollReveal } from "@/components/ui/ScrollReveal";
+import { createPageMetadata, DEFAULT_TITLE } from "@/lib/seo";
 
 export const metadata: Metadata = {
-  title: "Wahyu Patriaji | Full-Stack & Mobile Software Engineer",
-  description:
-    "Production portfolio of Wahyu Patriaji — Full-Stack & Mobile Software Engineer at PT Sawit Sumbermas Sarana Tbk. Specializing in Node.js, Hono, React, React Native, Flutter, and Geospatial GIS applications.",
+  ...createPageMetadata({
+    title: "Home",
+    description:
+      "Production portfolio of Wahyu Patriaji — Full-Stack & Mobile Software Engineer at PT Sawit Sumbermas Sarana Tbk. Specializing in Node.js, Hono, React, React Native, Flutter, and Geospatial GIS applications.",
+    path: "/",
+  }),
+  title: { absolute: DEFAULT_TITLE },
 };
 
 export default function HomePage() {

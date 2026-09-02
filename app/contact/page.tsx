@@ -2,7 +2,7 @@
 
 import React from "react";
 import { useI18n } from "@/context/i18n-context";
-import { resumeData } from "@/lib/data/resume";
+import { resumeData, getWhatsAppUrl } from "@/lib/data/resume";
 import { SectionHeader } from "@/components/ui/SectionHeader";
 import { ContactForm } from "@/components/contact/ContactForm";
 import { Button } from "@/components/ui/Button";
@@ -12,9 +12,11 @@ import {
   FiMapPin,
   FiGithub,
   FiLinkedin,
+  FiInstagram,
   FiDownload,
   FiClock,
 } from "react-icons/fi";
+import { FaWhatsapp } from "react-icons/fa";
 
 export default function ContactPage() {
   const { t } = useI18n();
@@ -47,7 +49,9 @@ export default function ContactPage() {
                 <div className="flex items-start gap-3 p-3 bg-[var(--surface-light)] border border-[var(--navy)]/20">
                   <FiMail className="w-4 h-4 text-[var(--green)] shrink-0 mt-0.5" />
                   <div>
-                    <span className="text-[var(--navy)]/50 block text-[10px]">EMAIL ADDRESS</span>
+                    <span className="text-[var(--navy)]/50 block text-[10px]">
+                      EMAIL ADDRESS
+                    </span>
                     <a
                       href={`mailto:${resumeData.contact.email}`}
                       className="font-bold text-[var(--navy)] hover:text-[var(--green)] underline"
@@ -60,9 +64,13 @@ export default function ContactPage() {
                 <div className="flex items-start gap-3 p-3 bg-[var(--surface-light)] border border-[var(--navy)]/20">
                   <FiPhone className="w-4 h-4 text-[var(--green)] shrink-0 mt-0.5" />
                   <div>
-                    <span className="text-[var(--navy)]/50 block text-[10px]">PHONE / WHATSAPP</span>
+                    <span className="text-[var(--navy)]/50 block text-[10px]">
+                      PHONE / WHATSAPP
+                    </span>
                     <a
-                      href={`tel:${resumeData.contact.phone}`}
+                      href={getWhatsAppUrl()}
+                      target="_blank"
+                      rel="noopener noreferrer"
                       className="font-bold text-[var(--navy)] hover:text-[var(--green)]"
                     >
                       {resumeData.contact.phone}
@@ -73,16 +81,24 @@ export default function ContactPage() {
                 <div className="flex items-start gap-3 p-3 bg-[var(--surface-light)] border border-[var(--navy)]/20">
                   <FiMapPin className="w-4 h-4 text-[var(--green)] shrink-0 mt-0.5" />
                   <div>
-                    <span className="text-[var(--navy)]/50 block text-[10px]">{t.contact.location}</span>
-                    <span className="font-bold text-[var(--navy)]">{t.contact.locationValue}</span>
+                    <span className="text-[var(--navy)]/50 block text-[10px]">
+                      {t.contact.location}
+                    </span>
+                    <span className="font-bold text-[var(--navy)]">
+                      {t.contact.locationValue}
+                    </span>
                   </div>
                 </div>
 
                 <div className="flex items-start gap-3 p-3 bg-[var(--surface-light)] border border-[var(--navy)]/20">
                   <FiClock className="w-4 h-4 text-[var(--green)] shrink-0 mt-0.5" />
                   <div>
-                    <span className="text-[var(--navy)]/50 block text-[10px]">TIMEZONE / RESPONSE</span>
-                    <span className="font-bold text-[var(--navy)]">UTC+7 (WIB) — 24h Response SLA</span>
+                    <span className="text-[var(--navy)]/50 block text-[10px]">
+                      TIMEZONE / RESPONSE
+                    </span>
+                    <span className="font-bold text-[var(--navy)]">
+                      UTC+7 (WIB) — 24h Response SLA
+                    </span>
                   </div>
                 </div>
               </div>
@@ -92,7 +108,7 @@ export default function ContactPage() {
                 <span className="font-mono text-[10px] font-bold text-[var(--navy)]/60 uppercase block mb-2">
                   {"//"} {t.contact.socialLinks}:
                 </span>
-                <div className="grid grid-cols-2 gap-2">
+                <div className="grid grid-cols-2 sm:grid-cols-4 gap-2">
                   <Button
                     href={resumeData.contact.github}
                     external
@@ -112,6 +128,26 @@ export default function ContactPage() {
                     leftIcon={<FiLinkedin className="w-3.5 h-3.5" />}
                   >
                     LinkedIn
+                  </Button>
+                  <Button
+                    href={resumeData.contact.instagram}
+                    external
+                    variant="outline"
+                    size="sm"
+                    fullWidth
+                    leftIcon={<FiInstagram className="w-3.5 h-3.5" />}
+                  >
+                    Instagram
+                  </Button>
+                  <Button
+                    href={getWhatsAppUrl()}
+                    external
+                    variant="outline"
+                    size="sm"
+                    fullWidth
+                    leftIcon={<FaWhatsapp className="w-3.5 h-3.5" />}
+                  >
+                    WhatsApp
                   </Button>
                 </div>
               </div>

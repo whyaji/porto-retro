@@ -5,7 +5,8 @@
     "phone": "+6282237420539",
     "email": "wahyupatriaji@gmail.com",
     "linkedin": "https://linkedin.com/in/wahyupatriaji",
-    "github": "https://github.com/whyaji"
+    "github": "https://github.com/whyaji",
+    "instagram": "https://www.instagram.com/wahyu.patriaji/"
   },
   "summary": "Software Engineer with hands-on experience building scalable web, backend, and cross-platform mobile applications using Node.js, HonoJS, React.js, React Native, and Flutter. Experienced in designing integrated systems that enable data sharing across multiple applications and implementing centralized SSO authentication for enterprise users. Strong background in system architecture, geospatial applications, legacy system modernization, performance optimization, deployment, and production application lifecycle management.",
   "experience": [
@@ -53,7 +54,7 @@
         },
         {
           "title": "Mobile Developer Intern",
-          "period": "01/2024 – 03/2025",
+          "period": "01/2024 – 03/2024",
           "summary": null,
           "highlights": [
             "Assisted in building and maintaining high-performance mobile applications using React Native.",

@@ -6,6 +6,12 @@ import {
   getAdjacentProjects,
 } from "@/lib/data/projects";
 import { ProjectDetailClient } from "@/components/projects/ProjectDetailClient";
+import {
+  absoluteUrl,
+  createPageMetadata,
+  getProjectJsonLd,
+  OG_IMAGE,
+} from "@/lib/seo";
 
 interface Props {
   params: Promise<{ slug: string }>;
@@ -28,22 +34,22 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
     };
   }
 
-  const title = `${project.name} | Wahyu Patriaji`;
   const description =
     project.short_description?.en ||
     project.short_description?.id ||
     "Detailed system architecture and features.";
 
-  return {
-    title,
+  const images = project.thumbnail
+    ? [{ url: absoluteUrl(project.thumbnail), alt: project.name }]
+    : [OG_IMAGE];
+
+  return createPageMetadata({
+    title: project.name,
     description,
-    openGraph: {
-      title,
-      description,
-      type: "article",
-      images: project.thumbnail ? [project.thumbnail] : undefined,
-    },
-  };
+    path: `/projects/${slug}`,
+    ogType: "article",
+    images,
+  });
 }
 
 export default async function ProjectDetailPage({ params }: Props) {
@@ -55,12 +61,19 @@ export default async function ProjectDetailPage({ params }: Props) {
   }
 
   const { prev, next } = getAdjacentProjects(slug);
+  const projectJsonLd = getProjectJsonLd(project);
 
   return (
-    <ProjectDetailClient
-      project={project}
-      prevProject={prev}
-      nextProject={next}
-    />
+    <>
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(projectJsonLd) }}
+      />
+      <ProjectDetailClient
+        project={project}
+        prevProject={prev}
+        nextProject={next}
+      />
+    </>
   );
 }

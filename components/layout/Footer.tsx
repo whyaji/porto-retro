@@ -3,8 +3,16 @@
 import React from "react";
 import Link from "next/link";
 import { useI18n } from "@/context/i18n-context";
-import { resumeData } from "@/lib/data/resume";
-import { FiGithub, FiLinkedin, FiMail, FiPhone, FiArrowUp } from "react-icons/fi";
+import { resumeData, getWhatsAppUrl } from "@/lib/data/resume";
+import {
+  FiGithub,
+  FiLinkedin,
+  FiInstagram,
+  FiMail,
+  FiPhone,
+  FiArrowUp,
+} from "react-icons/fi";
+import { FaWhatsapp } from "react-icons/fa";
 
 export const Footer: React.FC = () => {
   const { t } = useI18n();
@@ -20,7 +28,9 @@ export const Footer: React.FC = () => {
         <div className="max-w-7xl mx-auto flex flex-col sm:flex-row items-center justify-between gap-2">
           <div className="flex items-center gap-2">
             <span className="w-2 h-2 rounded-full bg-[var(--gold)]"></span>
-            <span className="text-[var(--gold)] font-bold">{t.footer.systemTag}</span>
+            <span className="text-[var(--gold)] font-bold">
+              {t.footer.systemTag}
+            </span>
           </div>
           <button
             onClick={scrollToTop}
@@ -67,6 +77,24 @@ export const Footer: React.FC = () => {
                 <FiLinkedin className="w-4 h-4" />
               </a>
               <a
+                href={resumeData.contact.instagram}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="p-2 bg-[var(--navy-light)] border border-[var(--surface)]/30 text-white hover:text-[var(--gold)] hover:border-[var(--gold)] transition-colors"
+                aria-label="Instagram Profile"
+              >
+                <FiInstagram className="w-4 h-4" />
+              </a>
+              <a
+                href={getWhatsAppUrl()}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="p-2 bg-[var(--navy-light)] border border-[var(--surface)]/30 text-white hover:text-[var(--gold)] hover:border-[var(--gold)] transition-colors"
+                aria-label="Chat on WhatsApp"
+              >
+                <FaWhatsapp className="w-4 h-4" />
+              </a>
+              <a
                 href={`mailto:${resumeData.contact.email}`}
                 className="p-2 bg-[var(--navy-light)] border border-[var(--surface)]/30 text-white hover:text-[var(--gold)] hover:border-[var(--gold)] transition-colors"
                 aria-label="Send Email"
@@ -90,32 +118,50 @@ export const Footer: React.FC = () => {
             </h4>
             <ul className="space-y-2 text-xs font-mono text-white/80">
               <li>
-                <Link href="/" className="hover:text-[var(--gold)] transition-colors">
+                <Link
+                  href="/"
+                  className="hover:text-[var(--gold)] transition-colors"
+                >
                   &gt; {t.nav.home}
                 </Link>
               </li>
               <li>
-                <Link href="/about" className="hover:text-[var(--gold)] transition-colors">
+                <Link
+                  href="/about"
+                  className="hover:text-[var(--gold)] transition-colors"
+                >
                   &gt; {t.nav.about}
                 </Link>
               </li>
               <li>
-                <Link href="/experience" className="hover:text-[var(--gold)] transition-colors">
+                <Link
+                  href="/experience"
+                  className="hover:text-[var(--gold)] transition-colors"
+                >
                   &gt; {t.nav.experience}
                 </Link>
               </li>
               <li>
-                <Link href="/skills" className="hover:text-[var(--gold)] transition-colors">
+                <Link
+                  href="/skills"
+                  className="hover:text-[var(--gold)] transition-colors"
+                >
                   &gt; {t.nav.skills}
                 </Link>
               </li>
               <li>
-                <Link href="/projects" className="hover:text-[var(--gold)] transition-colors">
+                <Link
+                  href="/projects"
+                  className="hover:text-[var(--gold)] transition-colors"
+                >
                   &gt; {t.nav.projects}
                 </Link>
               </li>
               <li>
-                <Link href="/contact" className="hover:text-[var(--gold)] transition-colors">
+                <Link
+                  href="/contact"
+                  className="hover:text-[var(--gold)] transition-colors"
+                >
                   &gt; {t.nav.contact}
                 </Link>
               </li>
@@ -138,7 +184,9 @@ export const Footer: React.FC = () => {
                 </a>
               </div>
               <div>
-                <span className="text-white/40 block text-[10px]">PHONE / WA</span>
+                <span className="text-white/40 block text-[10px]">
+                  PHONE / WA
+                </span>
                 <a
                   href={`tel:${resumeData.contact.phone}`}
                   className="hover:text-[var(--gold)] transition-colors"
@@ -147,7 +195,9 @@ export const Footer: React.FC = () => {
                 </a>
               </div>
               <div>
-                <span className="text-white/40 block text-[10px]">CURRENT ROLE</span>
+                <span className="text-white/40 block text-[10px]">
+                  CURRENT ROLE
+                </span>
                 <span className="text-white">{resumeData.title}</span>
               </div>
             </div>

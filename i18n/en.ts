@@ -12,7 +12,8 @@ export const enTranslations = {
   hero: {
     badge: "Full-Stack & Mobile Software Engineer",
     greeting: "Hi, I'm",
-    tagline: "Engineering distributed systems, interactive web apps, & high-performance mobile apps.",
+    tagline:
+      "Engineering distributed systems, interactive web apps, & high-performance mobile apps.",
     subtagline:
       "Programmer at PT Sawit Sumbermas Sarana Tbk. Experienced in Hono/Node backend architecture, MapLibre/Leaflet web GIS, and Flutter/React Native cross-platform mobile apps.",
     viewProjects: "Explore Projects",
@@ -53,7 +54,8 @@ export const enTranslations = {
   },
   skills: {
     title: "Skills & Technologies",
-    subtitle: "Technical Capability Matrix Derived from Real Production Systems",
+    subtitle:
+      "Technical Capability Matrix Derived from Real Production Systems",
     badge: "TECH ARCHITECTURE",
     coreCompetencies: "Core Competencies",
     allCategories: "All Categories",
@@ -82,7 +84,8 @@ export const enTranslations = {
       navigation: "Project Navigation",
       prevProject: "Previous Project",
       nextProject: "Next Project",
-      noScreenshot: "Proprietary enterprise documentation / internal enterprise platform.",
+      noScreenshot:
+        "Proprietary enterprise documentation / internal enterprise platform.",
     },
   },
   achievements: {
@@ -92,7 +95,8 @@ export const enTranslations = {
   },
   contact: {
     title: "Contact Me",
-    subtitle: "Let's discuss software engineering projects, collaborations, or engineering roles.",
+    subtitle:
+      "Let's discuss software engineering projects, collaborations, or engineering roles.",
     badge: "COMMUNICATION CHANNELS",
     formTitle: "Send a Direct Message",
     nameLabel: "Full Name",
@@ -105,8 +109,10 @@ export const enTranslations = {
     messagePlaceholder: "Write your message or inquiry in detail...",
     submitBtn: "Send Message Now",
     sendingBtn: "Sending Message...",
-    successMessage: "Your message has been sent successfully! I'll get back to you promptly via email.",
-    errorMessage: "Failed to send message. Please try again or reach out directly via email.",
+    successMessage:
+      "Your message has been sent successfully! I'll get back to you promptly via email.",
+    errorMessage:
+      "Failed to send message. Please try again or reach out directly via email.",
     directContact: "Direct Contact",
     location: "Location",
     locationValue: "Kotawaringin Barat, Central Kalimantan / Indonesia",
@@ -115,13 +121,15 @@ export const enTranslations = {
   footer: {
     systemTag: "PATRIALABS // SYSTEM ENGINEERING",
     rights: "All Rights Reserved.",
-    sourceCodeNote: "Built with Next.js App Router, TypeScript, Tailwind CSS, & GSAP.",
-    backToTop: "Back to Top ↑",
+    sourceCodeNote:
+      "Built with Next.js App Router, TypeScript, Tailwind CSS, & GSAP.",
+    backToTop: "Back to Top",
   },
   notFound: {
     code: "ERR_404_PAGE_NOT_FOUND",
     title: "Page Not Found",
-    description: "The requested route does not exist in the application's routing table.",
+    description:
+      "The requested route does not exist in the application's routing table.",
     backHome: "Return to Homepage",
   },
 };

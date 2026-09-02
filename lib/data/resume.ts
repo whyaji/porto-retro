@@ -19,6 +19,13 @@ export function getContactInfo() {
   return resumeData.contact;
 }
 
+export function getWhatsAppUrl(
+  phone: string = resumeData.contact.phone,
+): string {
+  const digits = phone.replace(/\D/g, "");
+  return `https://wa.me/${digits}`;
+}
+
 export interface SkillCategory {
   id: string;
   name: {
