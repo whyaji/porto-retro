@@ -41,6 +41,14 @@ export const OG_IMAGE = {
   alt: "Wahyu Patriaji — Full-Stack & Mobile Software Engineer | PatriaLabs",
 } as const;
 
+/** Optional — only needed for Facebook Login, Insights, or SDK features */
+export const FB_APP_ID = process.env.NEXT_PUBLIC_FB_APP_ID;
+
+export function getFacebookMeta(): Record<string, string> | undefined {
+  if (!FB_APP_ID) return undefined;
+  return { "fb:app_id": FB_APP_ID };
+}
+
 type PageMetadataOptions = {
   title: string;
   description: string;
@@ -87,6 +95,7 @@ export function createPageMetadata({
       description,
       images: resolvedImages,
     },
+    other: getFacebookMeta(),
   };
 }
 

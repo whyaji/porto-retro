@@ -8,6 +8,7 @@ import {
   AUTHOR_NAME,
   DEFAULT_DESCRIPTION,
   DEFAULT_TITLE,
+  getFacebookMeta,
   getPersonJsonLd,
   getWebSiteJsonLd,
   OG_IMAGE,
@@ -90,6 +91,7 @@ export const metadata: Metadata = {
       "Full-Stack & Mobile Software Engineer specializing in scalable web, backend, and cross-platform mobile apps.",
     images: [OG_IMAGE.url],
   },
+  other: getFacebookMeta(),
   robots: {
     index: true,
     follow: true,
