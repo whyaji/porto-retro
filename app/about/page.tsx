@@ -156,12 +156,13 @@ export default function AboutPage() {
                 </div>
 
                 {/* Social Channels */}
-                <div className="pt-3 border-t border-[var(--navy)]/20 flex gap-2">
+                <div className="pt-3 border-t border-[var(--navy)]/20 grid grid-cols-2 gap-2">
                   <Button
                     href={resumeData.contact.github}
                     external
                     variant="outline"
                     size="sm"
+                    fullWidth
                     leftIcon={<FiGithub className="w-3.5 h-3.5" />}
                   >
                     GitHub
@@ -171,6 +172,7 @@ export default function AboutPage() {
                     external
                     variant="outline"
                     size="sm"
+                    fullWidth
                     leftIcon={<FiLinkedin className="w-3.5 h-3.5" />}
                   >
                     LinkedIn
@@ -180,6 +182,7 @@ export default function AboutPage() {
                     external
                     variant="outline"
                     size="sm"
+                    fullWidth
                     leftIcon={<FiInstagram className="w-3.5 h-3.5" />}
                   >
                     Instagram
@@ -189,6 +192,7 @@ export default function AboutPage() {
                     external
                     variant="outline"
                     size="sm"
+                    fullWidth
                     leftIcon={<FaWhatsapp className="w-3.5 h-3.5" />}
                   >
                     WhatsApp

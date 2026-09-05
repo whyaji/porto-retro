@@ -6,16 +6,18 @@ import Link from "next/link";
 import type { ProjectMeta } from "@/types/project";
 import { useI18n } from "@/context/i18n-context";
 import { Badge } from "@/components/ui/Badge";
-import { FiExternalLink, FiArrowRight, FiLayers } from "react-icons/fi";
+import { FiExternalLink, FiArrowRight, FiLayers, FiImage } from "react-icons/fi";
 
 interface ProjectCardProps {
   project: ProjectMeta;
   featured?: boolean;
+  className?: string;
 }
 
 export const ProjectCard: React.FC<ProjectCardProps> = ({
   project,
   featured = false,
+  className = "",
 }) => {
   const { locale, t } = useI18n();
 
@@ -35,7 +37,7 @@ export const ProjectCard: React.FC<ProjectCardProps> = ({
     <article
       className={`group bg-[var(--card)] border-2 border-[var(--navy)] retro-shadow transition-all duration-200 flex flex-col justify-between overflow-hidden hover:-translate-y-1 hover:retro-shadow-lg ${
         featured ? "md:col-span-2 lg:col-span-2" : ""
-      }`}
+      } ${className}`}
     >
       <div>
         {/* Card Header Bar */}
@@ -55,9 +57,9 @@ export const ProjectCard: React.FC<ProjectCardProps> = ({
           )}
         </div>
 
-        {/* Thumbnail (if available) */}
+        {/* Thumbnail (16:9 ratio) */}
         {project.thumbnail ? (
-          <div className="relative w-full h-48 sm:h-56 bg-[var(--navy-dark)] overflow-hidden border-b-2 border-[var(--navy)]">
+          <div className="relative w-full aspect-video bg-[var(--navy-dark)] overflow-hidden border-b-2 border-[var(--navy)]">
             <Image
               src={project.thumbnail}
               alt={project.name}
@@ -65,10 +67,16 @@ export const ProjectCard: React.FC<ProjectCardProps> = ({
               sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
               className="object-cover group-hover:scale-105 transition-transform duration-300"
             />
-            <div className="absolute inset-0 bg-gradient-to-t from-[var(--navy)]/80 via-transparent to-transparent opacity-60 pointer-events-none" />
+            <div className="absolute inset-0 bg-gradient-to-t from-[var(--navy)]/80 via-transparent to-transparent opacity-50 group-hover:opacity-30 transition-opacity duration-300 pointer-events-none" />
+            {project.images && project.images.length > 1 && (
+              <div className="absolute bottom-2 right-2 px-2 py-0.5 bg-[var(--navy)]/90 backdrop-blur-xs text-[var(--gold)] border border-[var(--navy)] text-[10px] font-mono font-bold flex items-center gap-1.5 shadow-sm">
+                <FiImage className="w-3 h-3 text-[var(--green)]" />
+                <span>{project.images.length} SHOTS</span>
+              </div>
+            )}
           </div>
         ) : (
-          <div className="w-full h-24 bg-[var(--surface-light)] border-b-2 border-[var(--navy)] flex items-center justify-center p-4">
+          <div className="w-full aspect-video bg-[var(--surface-light)] border-b-2 border-[var(--navy)] flex items-center justify-center p-4">
             <div className="flex items-center gap-2 text-[var(--navy)]/40 font-mono text-xs">
               <FiLayers className="w-4 h-4" />
               <span>ENTERPRISE ARCHITECTURE // PROPRIETARY</span>

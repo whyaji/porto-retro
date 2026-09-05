@@ -39,6 +39,7 @@ export const FeaturedProjects: React.FC = () => {
               key={project.id}
               project={project}
               featured={idx === 0}
+              className={idx === 7 ? "hidden lg:block" : ""}
             />
           ))}
         </div>

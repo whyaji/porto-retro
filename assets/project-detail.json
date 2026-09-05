@@ -3,8 +3,19 @@
     "id": "01-srs-docs",
     "name": "SRS Docs & Research Portal",
     "link": null,
-    "thumbnail": null,
-    "images": [],
+    "thumbnail": "public/project/01-srs-docs-01.jpg",
+    "images": [
+      "public/project/01-srs-docs-01.jpg",
+      "public/project/01-srs-docs-02.jpg",
+      "public/project/01-srs-docs-03.jpg",
+      "public/project/01-srs-docs-04.jpg",
+      "public/project/01-srs-docs-05.jpg",
+      "public/project/01-srs-docs-06.jpg",
+      "public/project/01-srs-docs-07.jpg",
+      "public/project/01-srs-docs-08.jpg",
+      "public/project/01-srs-docs-09.jpg",
+      "public/project/01-srs-docs-10.jpg"
+    ],
     "short_description": {
       "id": "Platform Monitoring Penelitian Agronomi, Dokumentasi & Hotspot Perkebunan",
       "en": "Agronomic Research Monitoring, Document Management & Hotspot Portal"
@@ -62,8 +73,10 @@
     "id": "02-agro-srs",
     "name": "Agro SRS Mobile",
     "link": null,
-    "thumbnail": null,
-    "images": [],
+    "thumbnail": "public/project/02-agro-srs-01.jpg",
+    "images": [
+      "public/project/02-agro-srs-01.jpg"
+    ],
     "short_description": {
       "id": "Aplikasi Mobile Field Survey & Offline Maps Penelitian Agronomi Perkebunan",
       "en": "Agronomic Research Field Survey & Offline Maps Mobile Application"
@@ -119,11 +132,12 @@
     "id": "03-cmp-tracker",
     "name": "CMP Tracker Web",
     "link": null,
-    "thumbnail": "public/project/03-cmp-tracker/03-thumbnail.avif",
+    "thumbnail": "public/project/03-cmp-tracker-01.jpg",
     "images": [
-      "public/project/03-cmp-tracker/03-01.avif",
-      "public/project/03-cmp-tracker/03-02.avif"
-      ],
+      "public/project/03-cmp-tracker-01.jpg",
+      "public/project/03-cmp-tracker-02.jpg",
+      "public/project/03-cmp-tracker-03.jpg"
+    ],
     "short_description": {
       "id": "Platform Spatial Tracking & Work Heatmap Perkebunan",
       "en": "Plantation Spatial Tracking & Work Heatmap Platform"
@@ -179,8 +193,10 @@
     "id": "04-cmp-tracker-mobile",
     "name": "CMP Tracker Mobile",
     "link": null,
-    "thumbnail": null,
-    "images": [],
+    "thumbnail": "public/project/04-cmp-tracker-mobile-01.jpg",
+    "images": [
+      "public/project/04-cmp-tracker-mobile-01.jpg"
+    ],
     "short_description": {
       "id": "Aplikasi Mobile GPS Tracker & Absensi Wajah AI",
       "en": "Mobile GPS Tracker & AI Face Attendance App"
@@ -234,8 +250,12 @@
     "id": "05-sampletrack",
     "name": "SampleTrack Web",
     "link": null,
-    "thumbnail": null,
-    "images": [],
+    "thumbnail": "public/project/05-sampletrack-01.jpg",
+    "images": [
+      "public/project/05-sampletrack-01.jpg",
+      "public/project/05-sampletrack-02.jpg",
+      "public/project/05-sampletrack-03.jpg"
+    ],
     "short_description": {
       "id": "Sistem Informasi Tracking Sampel Laboratorium Perkebunan",
       "en": "Plantation Laboratory Sample Tracking System"
@@ -289,8 +309,10 @@
     "id": "06-sampletrack-mobile",
     "name": "SampleTrack Mobile",
     "link": null,
-    "thumbnail": null,
-    "images": [],
+    "thumbnail": "public/project/06-sampletrack-mobile-01.jpg",
+    "images": [
+      "public/project/06-sampletrack-mobile-01.jpg"
+    ],
     "short_description": {
       "id": "Aplikasi Mobile Scan QR & Registrasi Sampel Lab",
       "en": "Mobile QR Scanner & Lab Sample Registration App"
@@ -340,8 +362,12 @@
     "id": "07-monitoring-poh",
     "name": "Monitoring POH Web",
     "link": null,
-    "thumbnail": null,
-    "images": [],
+    "thumbnail": "public/project/07-monitoring-poh-01.jpg",
+    "images": [
+      "public/project/07-monitoring-poh-01.jpg",
+      "public/project/07-monitoring-poh-02.jpg",
+      "public/project/07-monitoring-poh-03.jpg"
+    ],
     "short_description": {
       "id": "Dashboard Monitoring Pupuk Organik Hayati (POH)",
       "en": "Organic Fertilizer (POH) Monitoring Dashboard"
@@ -393,8 +419,10 @@
     "id": "08-monitoring-poh-mobile",
     "name": "Monitoring POH Mobile",
     "link": null,
-    "thumbnail": null,
-    "images": [],
+    "thumbnail": "public/project/08-monitoring-poh-mobile-01.jpg",
+    "images": [
+      "public/project/08-monitoring-poh-mobile-01.jpg"
+    ],
     "short_description": {
       "id": "Aplikasi Mobile Operasional Pupuk Organik Hayati (POH)",
       "en": "Organic Fertilizer (POH) Operations Mobile App"
@@ -441,9 +469,13 @@
   {
     "id": "09-lsp-naker-jakarta",
     "name": "LSP Naker Jakarta Portal",
-    "link": null,
-    "thumbnail": null,
-    "images": [],
+    "link": "https://lspnakerjakarta.id/",
+    "thumbnail": "public/project/09-lsp-naker-jakarta-01.jpg",
+    "images": [
+      "public/project/09-lsp-naker-jakarta-01.jpg",
+      "public/project/09-lsp-naker-jakarta-02.jpg",
+      "public/project/09-lsp-naker-jakarta-03.jpg"
+    ],
     "short_description": {
       "id": "Portal Sertifikasi Profesi & Uji Kompetensi Ketenagakerjaan",
       "en": "Professional Certification & Competency Testing Portal"
@@ -493,8 +525,10 @@
     "id": "10-smart-mobilepro",
     "name": "Smart MobilePro",
     "link": null,
-    "thumbnail": null,
-    "images": [],
+    "thumbnail": "public/project/10-smart-mobilepro-01.jpg",
+    "images": [
+      "public/project/10-smart-mobilepro-01.jpg"
+    ],
     "short_description": {
       "id": "Aplikasi Quality Control (QC) Perkebunan & Pabrik Sawit",
       "en": "Plantation & Mill Quality Control (QC) Mobile App"
@@ -544,8 +578,11 @@
     "id": "11-sustainable-forest",
     "name": "Sustainable Forest Web",
     "link": null,
-    "thumbnail": null,
-    "images": [],
+    "thumbnail": "public/project/11-sustainable-forest-01.jpg",
+    "images": [
+      "public/project/11-sustainable-forest-01.jpg",
+      "public/project/11-sustainable-forest-02.jpg"
+    ],
     "short_description": {
       "id": "Platform Adopsi Pohon & Monitoring Konservasi Hutan",
       "en": "Tree Adoption Platform & Forest Conservation Monitoring"
@@ -597,8 +634,10 @@
     "id": "12-sustainable-forest-mobile",
     "name": "Sustainable Forest Mobile",
     "link": null,
-    "thumbnail": null,
-    "images": [],
+    "thumbnail": "public/project/12-sustainable-forest-mobile-01.jpg",
+    "images": [
+      "public/project/12-sustainable-forest-mobile-01.jpg"
+    ],
     "short_description": {
       "id": "Aplikasi Mobile GIS Monitoring Pohon Adopsi & Batas Hutan",
       "en": "Adopted Tree GIS Monitoring & Forest Boundary Mobile App"
@@ -650,8 +689,12 @@
     "id": "13-treeadopt",
     "name": "TreeAdopt E-Commerce Platform",
     "link": null,
-    "thumbnail": null,
-    "images": [],
+    "thumbnail": "public/project/13-treeadopt-01.jpg",
+    "images": [
+      "public/project/13-treeadopt-01.jpg",
+      "public/project/13-treeadopt-02.jpg",
+      "public/project/13-treeadopt-03.jpg"
+    ],
     "short_description": {
       "id": "Platform Pembelian Adopsi Pohon Digital & Konservasi",
       "en": "Digital Tree Adoption E-Commerce & Conservation Portal"
@@ -701,8 +744,12 @@
     "id": "14-sso-srs",
     "name": "SSO SRS Central Service",
     "link": null,
-    "thumbnail": null,
-    "images": [],
+    "thumbnail": "public/project/14-sso-srs-01.jpg",
+    "images": [
+      "public/project/14-sso-srs-01.jpg",
+      "public/project/14-sso-srs-02.jpg",
+      "public/project/14-sso-srs-03.jpg"
+    ],
     "short_description": {
       "id": "Server Central Single Sign-On Provider Aplikasi SRS",
       "en": "Central Single Sign-On Provider Server for SRS Apps"
@@ -752,8 +799,11 @@
     "id": "15-botwave",
     "name": "BotWave API & Gateway",
     "link": null,
-    "thumbnail": null,
-    "images": [],
+    "thumbnail": "public/project/15-botwave-01.jpg",
+    "images": [
+      "public/project/15-botwave-01.jpg",
+      "public/project/15-botwave-02.jpg"
+    ],
     "short_description": {
       "id": "Platform Multi-Instance WhatsApp Automation Gateway",
       "en": "Multi-Instance WhatsApp Automation Gateway Platform"
@@ -806,9 +856,11 @@
   {
     "id": "16-syngenta-id-tts",
     "name": "Syngenta ID - Trial Traceability System",
-    "link": null,
-    "thumbnail": null,
-    "images": [],
+    "link": "https://play.google.com/store/apps/details?id=com.syngentadigitalapps.nsppactivitytracker",
+    "thumbnail": "public/project/16-syngenta-id-tts-01.jpg",
+    "images": [
+      "public/project/16-syngenta-id-tts-01.jpg"
+    ],
     "short_description": {
       "id": "Sistem Pelacakan & Pengelolaan Uji Coba Lapangan Benih Pertanian",
       "en": "Agricultural Seed Trial Field Traceability & Productivity System"
