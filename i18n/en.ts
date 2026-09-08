@@ -8,6 +8,8 @@ export const enTranslations = {
     contact: "Contact",
     downloadCV: "Download CV",
     availableForWork: "Available for Opportunities",
+    officialPortfolio: "OFFICIAL PORTFOLIO",
+    verifiedProfile: "VERIFIED PROFILE",
   },
   hero: {
     badge: "Full-Stack & Mobile Software Engineer",
@@ -20,6 +22,7 @@ export const enTranslations = {
     contactMe: "Get in Touch",
     downloadCV: "Download PDF Resume",
     terminalStatus: "SYSTEM STATUS: ONLINE",
+    verifiedTrackRecord: "100% Verified Track Record & Work History",
     stats: {
       experience: "Years Experience",
       projects: "Production Projects",
@@ -92,6 +95,19 @@ export const enTranslations = {
     title: "Achievements & Honors",
     subtitle: "Academic Excellence & National Program Distinctions",
     badge: "RECOGNITION",
+  },
+  trustedBy: {
+    title: "Trusted By & Partners",
+    subtitle: "Institutions & Enterprise Collaborators",
+    badge: "INSTITUTIONAL TRUST",
+    visitWebsite: "Visit Website",
+  },
+  testimonials: {
+    title: "Client & Partner Endorsements",
+    subtitle: "Feedback & Recommendations from Professional Collaborators",
+    badge: "TESTIMONIALS",
+    verifiedBadge: "VERIFIED ENDORSEMENT",
+    ratingText: "5.0 / 5.0 Rating",
   },
   contact: {
     title: "Contact Me",

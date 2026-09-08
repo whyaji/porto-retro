@@ -4,6 +4,8 @@ import { MarqueeTicker } from "@/components/ui/MarqueeTicker";
 import { FeaturedProjects } from "@/components/sections/FeaturedProjects";
 import { ExperienceSection } from "@/components/sections/ExperienceSection";
 import { SkillsMatrix } from "@/components/sections/SkillsMatrix";
+import { TrustedBySection } from "@/components/sections/TrustedBySection";
+import { TestimonialsSection } from "@/components/sections/TestimonialsSection";
 import { AchievementsSection } from "@/components/sections/AchievementsSection";
 import { ContactCTA } from "@/components/sections/ContactCTA";
 import { ScrollReveal } from "@/components/ui/ScrollReveal";
@@ -35,6 +37,14 @@ export default function HomePage() {
 
       <ScrollReveal direction="up">
         <SkillsMatrix />
+      </ScrollReveal>
+
+      <ScrollReveal direction="up">
+        <TrustedBySection />
+      </ScrollReveal>
+
+      <ScrollReveal direction="up">
+        <TestimonialsSection />
       </ScrollReveal>
 
       <ScrollReveal direction="up">

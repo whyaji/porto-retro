@@ -1,0 +1,20 @@
+[
+  {
+    "id": "testimonial-lsp-dki",
+    "name": "Drs. H. M. Ridwan, M.Si",
+    "role": {
+      "id": "Kepala Bidang Sertifikasi & System Quality Lead",
+      "en": "Head of Certification & System Quality Lead"
+    },
+    "company": "LSP Tenaga Kerja DKI Jakarta",
+    "avatar": "/trusted-by/lsp-tenaga-kerja-dki-jakarta.jpg",
+    "rating": 5,
+    "maxRating": 5,
+    "date": "2024",
+    "content": {
+      "id": "Wahyu Patriaji berhasil mengimplementasikan dan mengoptimalkan arsitektur sistem dengan standar profesionalisme yang sangat tinggi. Pemahaman mendalam mengenai arsitektur backend, validasi data yang ketat, dan integrasi yang efisien memberikan kontribusi besar pada keandalan sistem kami. Sangat direkomendasikan!",
+      "en": "Wahyu Patriaji successfully implemented and optimized system architecture with an exceptionally high standard of professionalism. Deep technical mastery in backend architecture, strict data validation, and seamless integration made a significant contribution to our system reliability. Highly recommended!"
+    },
+    "badge": "VERIFIED CLIENT / PARTNER"
+  }
+]
