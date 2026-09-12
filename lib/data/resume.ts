@@ -1,26 +1,29 @@
 import resumeDataRaw from "@/assets/resume.json";
 import type { ResumeData } from "@/types/resume";
+import type { Locale } from "@/types/project";
 
-export const resumeData: ResumeData = resumeDataRaw as ResumeData;
+export const rawResumeData = resumeDataRaw as { en: ResumeData; id: ResumeData };
 
-export function getResume(): ResumeData {
-  return resumeData;
+export const resumeData: ResumeData = rawResumeData.en;
+
+export function getResume(locale: Locale = "en"): ResumeData {
+  return rawResumeData[locale] || rawResumeData.en;
 }
 
-export function getExperiences() {
-  return resumeData.experience;
+export function getExperiences(locale: Locale = "en") {
+  return getResume(locale).experience;
 }
 
-export function getEducations() {
-  return resumeData.education;
+export function getEducations(locale: Locale = "en") {
+  return getResume(locale).education;
 }
 
-export function getContactInfo() {
-  return resumeData.contact;
+export function getContactInfo(locale: Locale = "en") {
+  return getResume(locale).contact;
 }
 
 export function getWhatsAppUrl(
-  phone: string = resumeData.contact.phone,
+  phone: string = rawResumeData.en.contact.phone,
 ): string {
   const digits = phone.replace(/\D/g, "");
   return `https://wa.me/${digits}`;

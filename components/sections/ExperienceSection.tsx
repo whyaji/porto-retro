@@ -2,7 +2,7 @@
 
 import React from "react";
 import { useI18n } from "@/context/i18n-context";
-import { resumeData } from "@/lib/data/resume";
+import { getResume } from "@/lib/data/resume";
 import { SectionHeader } from "@/components/ui/SectionHeader";
 import { Badge } from "@/components/ui/Badge";
 import { FiMapPin, FiCalendar, FiCheckCircle } from "react-icons/fi";
@@ -10,7 +10,8 @@ import { FiMapPin, FiCalendar, FiCheckCircle } from "react-icons/fi";
 export const ExperienceSection: React.FC<{ isFullPage?: boolean }> = ({
   isFullPage = false,
 }) => {
-  const { t } = useI18n();
+  const { t, locale } = useI18n();
+  const resume = getResume(locale);
 
   return (
     <section className={`w-full py-16 md:py-24 border-b-2 border-[var(--navy)] ${isFullPage ? "" : "bg-[var(--surface)]"}`}>
@@ -23,7 +24,7 @@ export const ExperienceSection: React.FC<{ isFullPage?: boolean }> = ({
         />
 
         <div className="space-y-10 relative before:absolute before:inset-0 before:left-3.5 sm:before:left-7 before:w-0.5 before:bg-[var(--navy)]/30">
-          {resumeData.experience.map((companyItem, compIdx) => (
+          {resume.experience.map((companyItem, compIdx) => (
             <div key={companyItem.company} className="relative pl-8 sm:pl-16 space-y-6">
               {/* Timeline Node Point */}
               <div className="absolute -left-1 sm:left-4 top-1.5 w-7 h-7 bg-[var(--navy)] text-[var(--gold)] border-2 border-[var(--navy)] flex items-center justify-center font-mono font-bold text-xs retro-shadow-sm z-10">

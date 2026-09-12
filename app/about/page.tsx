@@ -1,7 +1,7 @@
 "use client";
 
 import { useI18n } from "@/context/i18n-context";
-import { resumeData, getWhatsAppUrl } from "@/lib/data/resume";
+import { getResume, getWhatsAppUrl } from "@/lib/data/resume";
 import { SectionHeader } from "@/components/ui/SectionHeader";
 import { Badge } from "@/components/ui/Badge";
 import { Button } from "@/components/ui/Button";
@@ -19,7 +19,8 @@ import {
 import { FaWhatsapp } from "react-icons/fa";
 
 export default function AboutPage() {
-  const { t } = useI18n();
+  const { t, locale } = useI18n();
+  const resume = getResume(locale);
 
   return (
     <div className="w-full py-12 md:py-20">
@@ -46,7 +47,7 @@ export default function AboutPage() {
                   </h3>
                 </div>
                 <p className="text-sm sm:text-base text-[var(--navy)]/90 font-sans leading-relaxed">
-                  {resumeData.summary}
+                  {resume.summary}
                 </p>
               </div>
 
@@ -103,7 +104,7 @@ export default function AboutPage() {
                   </div>
                   <div>
                     <h3 className="font-display font-extrabold text-lg text-[var(--navy)]">
-                      {resumeData.name}
+                      {resume.name}
                     </h3>
                     <Badge variant="green" size="sm">
                       Active Engineer
@@ -134,10 +135,10 @@ export default function AboutPage() {
                       EMAIL CONTACT
                     </span>
                     <a
-                      href={`mailto:${resumeData.contact.email}`}
+                      href={`mailto:${resume.contact.email}`}
                       className="text-[var(--green)] underline font-bold"
                     >
-                      {resumeData.contact.email}
+                      {resume.contact.email}
                     </a>
                   </div>
                   <div>
@@ -150,7 +151,7 @@ export default function AboutPage() {
                       rel="noopener noreferrer"
                       className="text-[var(--green)] underline font-bold"
                     >
-                      {resumeData.contact.phone}
+                      {resume.contact.phone}
                     </a>
                   </div>
                 </div>
@@ -158,7 +159,7 @@ export default function AboutPage() {
                 {/* Social Channels */}
                 <div className="pt-3 border-t border-[var(--navy)]/20 grid grid-cols-2 gap-2">
                   <Button
-                    href={resumeData.contact.github}
+                    href={resume.contact.github}
                     external
                     variant="outline"
                     size="sm"
@@ -168,7 +169,7 @@ export default function AboutPage() {
                     GitHub
                   </Button>
                   <Button
-                    href={resumeData.contact.linkedin}
+                    href={resume.contact.linkedin}
                     external
                     variant="outline"
                     size="sm"
@@ -178,7 +179,7 @@ export default function AboutPage() {
                     LinkedIn
                   </Button>
                   <Button
-                    href={resumeData.contact.instagram}
+                    href={resume.contact.instagram}
                     external
                     variant="outline"
                     size="sm"

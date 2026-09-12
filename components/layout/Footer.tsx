@@ -3,7 +3,7 @@
 import React from "react";
 import Link from "next/link";
 import { useI18n } from "@/context/i18n-context";
-import { resumeData, getWhatsAppUrl } from "@/lib/data/resume";
+import { getResume, getWhatsAppUrl } from "@/lib/data/resume";
 import {
   FiGithub,
   FiLinkedin,
@@ -15,7 +15,8 @@ import {
 import { FaWhatsapp } from "react-icons/fa";
 
 export const Footer: React.FC = () => {
-  const { t } = useI18n();
+  const { t, locale } = useI18n();
+  const resume = getResume(locale);
 
   const scrollToTop = () => {
     window.scrollTo({ top: 0, behavior: "smooth" });
@@ -51,15 +52,15 @@ export const Footer: React.FC = () => {
                 WP
               </div>
               <span className="font-display font-black text-xl text-white tracking-tight">
-                {resumeData.name}
+                {resume.name}
               </span>
             </div>
             <p className="text-xs sm:text-sm text-white/80 font-sans leading-relaxed max-w-md">
-              {resumeData.summary}
+              {resume.summary}
             </p>
             <div className="flex items-center gap-3 pt-2">
               <a
-                href={resumeData.contact.github}
+                href={resume.contact.github}
                 target="_blank"
                 rel="noopener noreferrer"
                 className="p-2 bg-[var(--navy-light)] border border-[var(--surface)]/30 text-white hover:text-[var(--gold)] hover:border-[var(--gold)] transition-colors"
@@ -68,7 +69,7 @@ export const Footer: React.FC = () => {
                 <FiGithub className="w-4 h-4" />
               </a>
               <a
-                href={resumeData.contact.linkedin}
+                href={resume.contact.linkedin}
                 target="_blank"
                 rel="noopener noreferrer"
                 className="p-2 bg-[var(--navy-light)] border border-[var(--surface)]/30 text-white hover:text-[var(--gold)] hover:border-[var(--gold)] transition-colors"
@@ -77,7 +78,7 @@ export const Footer: React.FC = () => {
                 <FiLinkedin className="w-4 h-4" />
               </a>
               <a
-                href={resumeData.contact.instagram}
+                href={resume.contact.instagram}
                 target="_blank"
                 rel="noopener noreferrer"
                 className="p-2 bg-[var(--navy-light)] border border-[var(--surface)]/30 text-white hover:text-[var(--gold)] hover:border-[var(--gold)] transition-colors"
@@ -95,14 +96,14 @@ export const Footer: React.FC = () => {
                 <FaWhatsapp className="w-4 h-4" />
               </a>
               <a
-                href={`mailto:${resumeData.contact.email}`}
+                href={`mailto:${resume.contact.email}`}
                 className="p-2 bg-[var(--navy-light)] border border-[var(--surface)]/30 text-white hover:text-[var(--gold)] hover:border-[var(--gold)] transition-colors"
                 aria-label="Send Email"
               >
                 <FiMail className="w-4 h-4" />
               </a>
               <a
-                href={`tel:${resumeData.contact.phone}`}
+                href={`tel:${resume.contact.phone}`}
                 className="p-2 bg-[var(--navy-light)] border border-[var(--surface)]/30 text-white hover:text-[var(--gold)] hover:border-[var(--gold)] transition-colors"
                 aria-label="Call Phone"
               >
@@ -177,10 +178,10 @@ export const Footer: React.FC = () => {
               <div>
                 <span className="text-white/40 block text-[10px]">EMAIL</span>
                 <a
-                  href={`mailto:${resumeData.contact.email}`}
+                  href={`mailto:${resume.contact.email}`}
                   className="hover:text-[var(--gold)] underline transition-colors"
                 >
-                  {resumeData.contact.email}
+                  {resume.contact.email}
                 </a>
               </div>
               <div>
@@ -188,17 +189,17 @@ export const Footer: React.FC = () => {
                   PHONE / WA
                 </span>
                 <a
-                  href={`tel:${resumeData.contact.phone}`}
+                  href={`tel:${resume.contact.phone}`}
                   className="hover:text-[var(--gold)] transition-colors"
                 >
-                  {resumeData.contact.phone}
+                  {resume.contact.phone}
                 </a>
               </div>
               <div>
                 <span className="text-white/40 block text-[10px]">
                   CURRENT ROLE
                 </span>
-                <span className="text-white">{resumeData.title}</span>
+                <span className="text-white">{resume.title}</span>
               </div>
             </div>
           </div>
@@ -207,7 +208,7 @@ export const Footer: React.FC = () => {
         {/* Bottom Bar */}
         <div className="border-t border-[var(--surface)]/20 mt-10 pt-6 flex flex-col sm:flex-row items-center justify-between gap-4 text-xs font-mono text-white/60">
           <div>
-            © {new Date().getFullYear()} {resumeData.name}. {t.footer.rights}
+            © {new Date().getFullYear()} {resume.name}. {t.footer.rights}
           </div>
           <div>{t.footer.sourceCodeNote}</div>
         </div>

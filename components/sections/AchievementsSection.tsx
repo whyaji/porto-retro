@@ -2,14 +2,15 @@
 
 import React from "react";
 import { useI18n } from "@/context/i18n-context";
-import { resumeData } from "@/lib/data/resume";
+import { getResume } from "@/lib/data/resume";
 import { SectionHeader } from "@/components/ui/SectionHeader";
 import { FiAward, FiBookOpen, FiCalendar, FiCheckCircle } from "react-icons/fi";
 
 export const AchievementsSection: React.FC<{ isFullPage?: boolean }> = ({
   isFullPage = false,
 }) => {
-  const { t } = useI18n();
+  const { t, locale } = useI18n();
+  const resume = getResume(locale);
 
   return (
     <section className={`w-full py-16 md:py-24 border-b-2 border-[var(--navy)] ${isFullPage ? "" : "bg-[var(--surface)]"}`}>
@@ -22,7 +23,7 @@ export const AchievementsSection: React.FC<{ isFullPage?: boolean }> = ({
         />
 
         <div className="space-y-6 w-full">
-          {resumeData.education.map((edu, idx) => (
+          {resume.education.map((edu, idx) => (
             <div
               key={edu.institution}
               className="bg-[var(--card)] border-2 border-[var(--navy)] retro-shadow p-6 sm:p-8 flex flex-col justify-between"
