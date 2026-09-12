@@ -1,13 +1,162 @@
 [
   {
+    "id": "sulung-research-station",
+    "name": "Sulung Research Station",
+    "logo": "/trusted-by/sulung-research-station.webp",
+    "category": {
+      "id": "Riset & Agronomi Perkebunan",
+      "en": "Agronomy & Plantation Research"
+    },
+    "relationship": {
+      "id": "Mitra Pengembangan Web GIS & Portal Riset",
+      "en": "Web GIS & Research Portal Platform Partner"
+    },
+    "description": {
+      "id": "Pusat riset dan inovasi agronomi yang berfokus pada kelestarian lingkungan, pemantauan tanah & tinggi muka air tanah (TMAT), serta sistem pemantauan hotspot kebakaran perkebunan.",
+      "en": "Agronomic research and innovation center focusing on environmental sustainability, soil & water table tracking (TMAT), and spatial plantation fire alert systems."
+    },
+    "highlights": {
+      "id": [
+        "Pengembangan Platform Monitoring Penelitian Agronomi & GeoPDF",
+        "Sistem Pelacakan Muka Air Tanah (TMAT) & Deteksi Hotspot Fire Alert",
+        "Dokumentasi Riset & Integrasi Spasial MapLibre GL Engine"
+      ],
+      "en": [
+        "Agronomic Research Monitoring & GeoPDF Platform Development",
+        "Water Table Level (TMAT) & Spatial Hotspot Fire Alert System",
+        "Research Documentation & MapLibre GL Spatial Integration"
+      ]
+    },
+    "website": "https://www.ssms.co.id",
+    "bgDark": false,
+    "withLabel": false
+  },
+  {
+    "id": "citra-borneo-indah",
+    "name": "Citra Borneo Indah Group",
+    "logo": "/trusted-by/citra-borneo-indah.webp",
+    "category": {
+      "id": "Konglomerasi Bisnis Enterprise",
+      "en": "Enterprise Business Conglomerate"
+    },
+    "relationship": {
+      "id": "Grup Perusahaan Enterprise",
+      "en": "Parent Enterprise Group"
+    },
+    "description": {
+      "id": "Grup bisnis terkemuka berbasis di Kalimantan Tengah yang mengelola ekosistem agribisnis terintegrasi, infrastruktur, perhotelan, dan industri pendukung berstandar nasional.",
+      "en": "Leading business group based in Central Kalimantan operating integrated agribusiness ecosystems, infrastructure, hospitality, and supporting industries."
+    },
+    "highlights": {
+      "id": [
+        "Pengembangan Sistem SSO Terpusat untuk Ekosistem Perusahaan",
+        "Integrasi Interoperabilitas Multi-Aplikasi Enterprise",
+        "Optimalisasi Infrastruktur Backend & Layanan Cloud VPS"
+      ],
+      "en": [
+        "Centralized Enterprise SSO System Architecture",
+        "Multi-Application Interoperability & Data Sync Integration",
+        "Backend Infrastructure & Cloud VPS Optimization"
+      ]
+    },
+    "website": "https://www.citraborneo.co.id",
+    "bgDark": false,
+    "withLabel": false
+  },
+  {
+    "id": "sawit-sumbermas-sarana",
+    "name": "PT Sawit Sumbermas Sarana, Tbk.",
+    "logo": "/trusted-by/sawit-sumbermas-sarana.png",
+    "category": {
+      "id": "Perusahaan Agribisnis Terbuka (IDX: SSMS)",
+      "en": "Public Agribusiness Enterprise (IDX: SSMS)"
+    },
+    "relationship": {
+      "id": "Tempat Kerja (Full-Stack & Mobile Engineer)",
+      "en": "Full-Time Work Experience (Full-Stack & Mobile Engineer)"
+    },
+    "description": {
+      "id": "Perusahaan kelapa sawit publik berkelas dunia yang berdedikasi pada tata kelola perkebunan berkelanjutan, digitalisasi operasional, dan arsitektur aplikasi mobile & web enterprise.",
+      "en": "World-class public palm oil enterprise dedicated to sustainable plantation management, operational digitization, and enterprise mobile & web applications."
+    },
+    "highlights": {
+      "id": [
+        "Pengembangan Aplikasi Web GIS Interaktif & Dynamic Form Engine",
+        "Rilis Aplikasi Mobile Android (Flutter & React Native) ke Play Store",
+        "Arsitektur Backend Hono/Node.js, Caching Redis, & Job Queue BullMQ"
+      ],
+      "en": [
+        "Interactive Web GIS & Dynamic Form Engine Architecture",
+        "Production Mobile App Deployment (Flutter & React Native) to Play Store",
+        "Hono/Node.js Backend, Redis Caching & BullMQ Job Queue Architecture"
+      ]
+    },
+    "website": "https://www.ssms.co.id",
+    "bgDark": false,
+    "withLabel": false
+  },
+  {
     "id": "lsp-tenaga-kerja-dki-jakarta",
     "name": "LSP Tenaga Kerja DKI Jakarta",
     "logo": "/trusted-by/lsp-tenaga-kerja-dki-jakarta.jpg",
-    "category": "Lembaga Sertifikasi Profesi",
-    "description": {
-      "id": "Lembaga Sertifikasi Profesi Tenaga Kerja DKI Jakarta - Sertifikasi Kompetensi Nasional",
-      "en": "DKI Jakarta Labor Professional Certification Board - National Competency Certification"
+    "category": {
+      "id": "Lembaga Sertifikasi Profesi (LSP)",
+      "en": "Professional Certification Body"
     },
-    "website": "https://lspnakerjakarta.id/"
+    "relationship": {
+      "id": "Klien / Sistem Uji Kompetensi & Sertifikasi",
+      "en": "Client / Competency Certification System Project"
+    },
+    "description": {
+      "id": "Lembaga sertifikasi profesi resmi DKI Jakarta yang menyelenggarakan standarisasi kompetensi nasional, manajemen asesmen tenaga kerja, dan platform digital sertifikasi.",
+      "en": "Official professional certification body in DKI Jakarta conducting national competency standardization, labor assessment, and digital certification platform."
+    },
+    "highlights": {
+      "id": [
+        "Pengembangan Platform Digital Sistem Sertifikasi & Asesmen",
+        "Arsitektur Scalable dengan Penyelesaian Proyek Tepat Waktu (2 Bulan)",
+        "Struktur Data Ketat & Aksesibel untuk Manajemen Uji Kompetensi"
+      ],
+      "en": [
+        "Digital Certification & Assessment Platform Development",
+        "Scalable Architecture Completed On-Schedule within 2 Months",
+        "Strict Data Validation & Access Control for Competency Exams"
+      ]
+    },
+    "website": "https://lspnakerjakarta.id/",
+    "bgDark": false,
+    "withLabel": false
+  },
+  {
+    "id": "sekawan-media",
+    "name": "Sekawan Media",
+    "logo": "/trusted-by/sekawan-media.png",
+    "category": {
+      "id": "Software House & Konsultan IT",
+      "en": "Software Development Agency & IT Consultancy"
+    },
+    "relationship": {
+      "id": "Tempat Kerja (Mobile Developer)",
+      "en": "Work Experience (Mobile Developer)"
+    },
+    "description": {
+      "id": "Konsultan IT dan pengembang perangkat lunak ternama di Malang yang melayani berbagai klien enterprise untuk pembuatan aplikasi mobile, web, dan sistem informasi kustom.",
+      "en": "Renowned IT consultancy and software house in Malang serving enterprise clients with custom mobile app, web, and information system engineering."
+    },
+    "highlights": {
+      "id": [
+        "Pengembangan Aplikasi Mobile High-Performance dengan React Native",
+        "Integrasi RESTful API & Optimasi Responsivitas Antarmuka UI/UX",
+        "Publikasi Build APK & Manajemen Kepatuhan Google Play Store"
+      ],
+      "en": [
+        "High-Performance React Native Mobile Application Engineering",
+        "RESTful API Integration & UI/UX Responsiveness Optimization",
+        "APK Build Deployment & Google Play Store Compliance Management"
+      ]
+    },
+    "website": "https://www.sekawanmedia.co.id",
+    "bgDark": false,
+    "withLabel": false
   }
 ]

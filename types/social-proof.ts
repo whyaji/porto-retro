@@ -2,11 +2,24 @@ export interface TrustedByItem {
   id: string;
   name: string;
   logo: string;
-  category: string;
+  category: {
+    id: string;
+    en: string;
+  } | string;
+  relationship?: {
+    id: string;
+    en: string;
+  };
   description: {
     id: string;
     en: string;
   };
+  highlights?: {
+    id: string[];
+    en: string[];
+  };
+  bgDark?: boolean;
+  withLabel?: boolean;
   website?: string;
 }
 

@@ -64,7 +64,7 @@ export const TestimonialsSection: React.FC = () => {
                   </div>
 
                   {/* Testimonial Quote Content */}
-                  <blockquote className="text-sm sm:text-base font-sans text-[var(--navy)] leading-relaxed italic bg-[var(--surface-light)] p-4 sm:p-5 border-l-4 border-[var(--gold)] mb-6">
+                  <blockquote className="text-sm sm:text-base font-sans text-[var(--navy)] leading-relaxed italic bg-[var(--surface-light)] p-4 sm:p-5 border-l-4 border-[var(--gold)] mb-6 whitespace-pre-line text-left">
                     &ldquo;{item.content[locale as "id" | "en"] || item.content.en}&rdquo;
                   </blockquote>
                 </div>
@@ -77,6 +77,7 @@ export const TestimonialsSection: React.FC = () => {
                         src={item.avatar}
                         alt={item.name}
                         fill
+                        sizes="48px"
                         className="object-cover"
                       />
                     </div>

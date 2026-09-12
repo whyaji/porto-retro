@@ -1,10 +1,10 @@
 [
   {
     "id": "testimonial-lsp-dki",
-    "name": "Drs. H. M. Ridwan, M.Si",
+    "name": "Beben Moch. Akbar Perkasa",
     "role": {
-      "id": "Kepala Bidang Sertifikasi & System Quality Lead",
-      "en": "Head of Certification & System Quality Lead"
+      "id": "Manager IT",
+      "en": "IT Manager"
     },
     "company": "LSP Tenaga Kerja DKI Jakarta",
     "avatar": "/trusted-by/lsp-tenaga-kerja-dki-jakarta.jpg",
@@ -12,8 +12,8 @@
     "maxRating": 5,
     "date": "2024",
     "content": {
-      "id": "Wahyu Patriaji berhasil mengimplementasikan dan mengoptimalkan arsitektur sistem dengan standar profesionalisme yang sangat tinggi. Pemahaman mendalam mengenai arsitektur backend, validasi data yang ketat, dan integrasi yang efisien memberikan kontribusi besar pada keandalan sistem kami. Sangat direkomendasikan!",
-      "en": "Wahyu Patriaji successfully implemented and optimized system architecture with an exceptionally high standard of professionalism. Deep technical mastery in backend architecture, strict data validation, and seamless integration made a significant contribution to our system reliability. Highly recommended!"
+      "id": "Saya sangat puas dengan hasil kerja mas Wahyu Patriaji dalam pengembangan project LSP Naker Jakarta. Project ini dapat diselesaikan dalam waktu sekitar 2 bulan dengan hasil yang baik dan struktur aplikasi yang dirancang secara scalable, sehingga memiliki fondasi yang cukup kuat untuk dikembangkan lebih lanjut.\n\nSelama proses pengembangan, programmer mampu memahami kebutuhan project dengan baik, memecahkan permasalahan dengan cepat, serta memberikan solusi yang pas ketika menghadapi kendala teknis.\n\nSelain kemampuan teknis yang baik, kemampuan berkomunikasi juga menjadi salah satu poin yang dimiliki. Responsif dalam berdiskusi, mudah diajak berkoordinasi, responsible terhadap pekerjaan, dan memiliki komitmen untuk menyelesaikan tugas sesuai kebutuhan project.\n\nSecara keseluruhan, saya sangat merekomendasikan mas Wahyu Patriaji untuk project pengembangan software maupun aplikasi lainnya, khususnya bagi tim yang membutuhkan technical skill yang baik, problem solving yang cepat, komunikasi yang efektif, dan dapat diandalkan.",
+      "en": "I am very satisfied with Wahyu Patriaji's work on the LSP Naker Jakarta project. The project was completed in about 2 months with great results and a scalable application architecture, establishing a solid foundation for future development.\n\nThroughout the development process, he understood the project requirements thoroughly, solved issues quickly, and delivered appropriate solutions when encountering technical challenges.\n\nIn addition to strong technical skills, his communication ability is also a standout quality. Responsive in discussions, easy to coordinate with, responsible, and fully committed to delivering tasks according to project needs.\n\nOverall, I highly recommend Wahyu Patriaji for software development and application projects, especially for teams looking for strong technical skills, fast problem solving, effective communication, and reliability."
     },
     "badge": "VERIFIED CLIENT / PARTNER"
   }

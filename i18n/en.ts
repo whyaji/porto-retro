@@ -97,10 +97,13 @@ export const enTranslations = {
     badge: "RECOGNITION",
   },
   trustedBy: {
-    title: "Trusted By & Partners",
-    subtitle: "Institutions & Enterprise Collaborators",
+    title: "Trusted By & Organizations",
+    subtitle: "Institutions, Companies & Enterprise Collaborators",
     badge: "INSTITUTIONAL TRUST",
     visitWebsite: "Visit Website",
+    clickToView: "Click for details",
+    closeModal: "Close Detail",
+    keyHighlights: "Key Scope & Contributions",
   },
   testimonials: {
     title: "Client & Partner Endorsements",

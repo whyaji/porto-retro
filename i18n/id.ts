@@ -97,10 +97,13 @@ export const idTranslations = {
     badge: "REKOR & PRESTASI",
   },
   trustedBy: {
-    title: "Dipercaya Oleh & Mitra",
-    subtitle: "Institusi, Organisasi, & Kolaborator Enterprise",
+    title: "Dipercaya Oleh & Organisasi",
+    subtitle: "Institusi, Perusahaan, & Kolaborator Enterprise",
     badge: "KEPERCAYAAN INSTITUSI",
     visitWebsite: "Kunjungi Situs",
+    clickToView: "Klik untuk rincian",
+    closeModal: "Tutup Detail",
+    keyHighlights: "Lingkup & Kontribusi Utama",
   },
   testimonials: {
     title: "Testimoni & Rekomendasi",
