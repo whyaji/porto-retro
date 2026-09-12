@@ -49,14 +49,14 @@ export const Navbar: React.FC = () => {
         <div className="flex items-center gap-3">
           <span className="flex items-center gap-1.5">
             <span className="w-2 h-2 rounded-full bg-[#27c93f] inline-block animate-pulse"></span>
-            <span className="text-[var(--gold)] font-bold">PATRIALABS V1.0</span>
+            <span className="text-[var(--gold)] font-bold">PATRIALABS V1.3</span>
           </span>
           <span className="text-white/40">|</span>
           <span className="text-white/80">{t.nav.availableForWork}</span>
         </div>
         <div className="flex items-center gap-4 text-white/80">
-          <span>SSOT: RESUME.JSON</span>
-          <span>DEV_STACK: NEXT.JS 16 // TS</span>
+          <span>{t.nav.officialPortfolio}</span>
+          <span>{t.nav.verifiedProfile}</span>
         </div>
       </div>
 

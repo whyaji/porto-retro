@@ -15,7 +15,7 @@ export const AchievementsSection: React.FC<{ isFullPage?: boolean }> = ({
     <section className={`w-full py-16 md:py-24 border-b-2 border-[var(--navy)] ${isFullPage ? "" : "bg-[var(--surface)]"}`}>
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <SectionHeader
-          number="04"
+          number="06"
           badge={t.achievements.badge}
           title={t.achievements.title}
           subtitle={t.achievements.subtitle}

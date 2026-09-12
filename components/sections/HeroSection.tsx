@@ -132,7 +132,7 @@ export const HeroSection: React.FC = () => {
 
                 <div className="border-t border-[var(--navy)]/10 pt-3 text-[11px] text-[var(--navy)]/70 flex items-center gap-1.5">
                   <FiCheck className="w-3.5 h-3.5 text-[var(--green)] shrink-0" />
-                  <span>Verified Single Source of Truth</span>
+                  <span>{t.hero.verifiedTrackRecord}</span>
                 </div>
               </div>
             </div>

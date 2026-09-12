@@ -8,6 +8,8 @@ export const idTranslations = {
     contact: "Kontak",
     downloadCV: "Unduh CV",
     availableForWork: "Tersedia untuk Kolaborasi",
+    officialPortfolio: "PORTOFOLIO RESMI",
+    verifiedProfile: "PROFIL TERVERIFIKASI",
   },
   hero: {
     badge: "Full-Stack & Mobile Software Engineer",
@@ -20,6 +22,7 @@ export const idTranslations = {
     contactMe: "Hubungi Saya",
     downloadCV: "Unduh Resume PDF",
     terminalStatus: "STATUS SISTEM: ONLINE",
+    verifiedTrackRecord: "Rekam Jejak & Pengalaman Terverifikasi 100%",
     stats: {
       experience: "Tahun Pengalaman",
       projects: "Proyek Produksi",
@@ -92,6 +95,22 @@ export const idTranslations = {
     title: "Pencapaian & Kehormatan",
     subtitle: "Pengakuan Akademik dan Program Kompetisi Nasional",
     badge: "REKOR & PRESTASI",
+  },
+  trustedBy: {
+    title: "Dipercaya Oleh & Organisasi",
+    subtitle: "Institusi, Perusahaan, & Kolaborator Enterprise",
+    badge: "KEPERCAYAAN INSTITUSI",
+    visitWebsite: "Kunjungi Situs",
+    clickToView: "Klik untuk rincian",
+    closeModal: "Tutup Detail",
+    keyHighlights: "Lingkup & Kontribusi Utama",
+  },
+  testimonials: {
+    title: "Testimoni & Rekomendasi",
+    subtitle: "Ulasan & Umpan Balik dari Mitra Kerja Profesional",
+    badge: "TESTIMONI",
+    verifiedBadge: "REKOMENDASI TERVERIFIKASI",
+    ratingText: "Rating 5.0 / 5.0",
   },
   contact: {
     title: "Hubungi Saya",
