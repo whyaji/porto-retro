@@ -231,6 +231,24 @@ export const ProjectDetailClient: React.FC<ProjectDetailClientProps> = ({
     project.description?.id ||
     "";
 
+  const role =
+    project.role?.[locale] ||
+    project.role?.en ||
+    project.role?.id ||
+    "";
+
+  const rawContribution =
+    project.contribution?.[locale] ||
+    project.contribution?.en ||
+    project.contribution?.id ||
+    [];
+
+  const contributionList: string[] = Array.isArray(rawContribution)
+    ? rawContribution
+    : rawContribution
+    ? [rawContribution]
+    : [];
+
   const generalFeatures =
     project.features?.general?.[locale] ||
     project.features?.general?.en ||
@@ -411,6 +429,39 @@ export const ProjectDetailClient: React.FC<ProjectDetailClientProps> = ({
               <p className="text-sm sm:text-base text-[var(--navy)]/90 font-sans leading-relaxed">
                 {fullDesc}
               </p>
+
+              {(role || contributionList.length > 0) && (
+                <div className="border-t border-[var(--navy)]/10 pt-4 space-y-4">
+                  {role && (
+                    <div>
+                      <span className="font-mono text-xs font-bold text-[var(--navy)] uppercase tracking-wider block mb-1">
+                        {"//"} {t.projects.details.roleTitle}:
+                      </span>
+                      <p className="text-sm sm:text-base font-bold text-[var(--green)] font-sans">
+                        {role}
+                      </p>
+                    </div>
+                  )}
+                  {contributionList.length > 0 && (
+                    <div>
+                      <span className="font-mono text-xs font-bold text-[var(--navy)] uppercase tracking-wider block mb-2">
+                        {"//"} {t.projects.details.contributionTitle}:
+                      </span>
+                      <ul className="space-y-2">
+                        {contributionList.map((item, idx) => (
+                          <li
+                            key={idx}
+                            className="flex items-start gap-2.5 text-xs sm:text-sm text-[var(--navy)]/90 font-sans leading-relaxed"
+                          >
+                            <span className="w-1.5 h-1.5 rounded-full bg-[var(--green)] shrink-0 mt-2" />
+                            <span>{item}</span>
+                          </li>
+                        ))}
+                      </ul>
+                    </div>
+                  )}
+                </div>
+              )}
             </div>
 
             {/* General Features */}

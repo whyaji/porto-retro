@@ -24,6 +24,26 @@
       "id": "Platform manajemen dan pemantauan penelitian agronomi perkebunan secara komprehensif, mencakup sistem manajemen dokumen, file manager, pemantauan titik panas (hotspot), serta survei tanah dan air.",
       "en": "Comprehensive agronomic research management platform featuring document & file management system, hotspot monitoring, soil surveys, and water table tracking."
     },
+    "role": {
+      "id": "Fullstack Developer & System Analyst",
+      "en": "Fullstack Developer & System Analyst"
+    },
+    "contribution": {
+      "id": [
+        "Mengembangkan seluruh aplikasi dari nol (from scratch) sebagai full developer untuk seluruh sistem, berkolaborasi dengan manager dan lead staff.",
+        "Merancang antarmuka UI/UX yang menarik, modern, dan responsif serta melakukan pembaruan fitur secara berkala berdasarkan masukan dan kebutuhan pengguna.",
+        "Merancang arsitektur sistem fullstack monorepo, ERD database relasional MySQL, dan RESTful API berbasis Hono Server & Zod Schema.",
+        "Mengembangkan Document Management Engine dengan File Manager, Spatial Hotspot Fire Alert System, serta GIS Engine MapLibre dengan visualisasi GeoPDF interaktif.",
+        "Mengimplementasikan pemrosesan antrean background asinkron Redis & BullMQ untuk ekspor otomatis laporan PDF (Puppeteer) dan Excel (ExcelJS) berkapasitas besar."
+      ],
+      "en": [
+        "Developed the entire project from scratch as the full developer, collaborating closely with the manager and lead staff.",
+        "Crafted modern, responsive, and visually appealing UI/UX designs while continuously implementing feature updates driven by user requests.",
+        "Architected the fullstack monorepo system, MySQL relational database ERDs, and Hono Server RESTful APIs validated with Zod schemas.",
+        "Developed the core Document Management & File Manager engine, Spatial Hotspot Fire Alert System, and MapLibre GIS engine featuring interactive GeoPDF rendering.",
+        "Implemented async Redis & BullMQ background queue processing for high-volume automated PDF (Puppeteer) and Excel (ExcelJS) report generation."
+      ]
+    },
     "features": {
       "general": {
         "id": [
@@ -84,6 +104,26 @@
     "description": {
       "id": "Aplikasi mobile lapangan untuk surveyor dalam mencatat data penelitian agronomi seperti TMAT, survei tanah, erosi, subsidensi, dan hama secara offline di area perkebunan remote dengan peta offline.",
       "en": "Mobile field application for surveyors to collect agronomic research data such as TMAT, soil surveys, erosion, subsidence, and pests offline in remote plantation areas using offline maps."
+    },
+    "role": {
+      "id": "Mobile Developer & System Analyst",
+      "en": "Mobile Developer & System Analyst"
+    },
+    "contribution": {
+      "id": [
+        "Membangun aplikasi mobile dari nol (from scratch) secara penuh sebagai full developer, berkolaborasi dengan manager dan lead staff.",
+        "Merancang desain UI/UX antarmuka mobile yang intuitif dan ergonomis untuk penggunaan di lapangan, serta memperbarui aplikasi sesuai kebutuhan pengguna.",
+        "Menganalisis kebutuhan pengumpulan data lapangan penelitian agronomi dan membangun arsitektur Flutter mobile (Riverpod/Bloc).",
+        "Mengembangkan engine peta offline (Vector Tile & Raster Caching), penyimpanan lokal SQLite/Hive, serta modul survei tanah, erosi, subsidensi, dan TMAT offline.",
+        "Membangun pipeline kompresi foto lokal, penandaan lokasi GPS presisi tinggi (Geolocator), dan antrean sinkronisasi auto-recovery saat koneksi internet pulih."
+      ],
+      "en": [
+        "Built the mobile application from scratch as the full developer for the entire project, collaborating with the manager and lead staff.",
+        "Designed intuitive and ergonomic mobile UI/UX tailored for field operations, iteratively applying feature enhancements based on user feedback.",
+        "Analyzed agronomic research field data logging requirements and built the Flutter cross-platform mobile architecture using Riverpod/Bloc.",
+        "Engineered offline vector tile & raster map caching, local SQLite/Hive storage, and offline mobile logging modules for soil quality, erosion, land subsidence, and water table level (TMAT).",
+        "Built on-device image compression pipelines, high-precision GPS location tagging, and an auto-recovery offline sync queue upon internet connection restoration."
+      ]
     },
     "features": {
       "general": {
@@ -146,6 +186,26 @@
       "id": "Platform web analitik spasial untuk memantau pergerakan pekerja, menghasilkan peta panas (heatmap) aktivitas, dan menghitung cakupan area kerja secara real-time.",
       "en": "Spatial analytics web platform for monitoring worker movement, generating activity heatmaps, and calculating real-time work area coverage."
     },
+    "role": {
+      "id": "Fullstack Developer & System Analyst",
+      "en": "Fullstack Developer & System Analyst"
+    },
+    "contribution": {
+      "id": [
+        "Mengembangkan platform dari nol (from scratch) sebagai full developer untuk seluruh aplikasi web analitik spasial ini, berkolaborasi dengan manager dan lead staff.",
+        "Merancang tampilan UI/UX dashboard analitik spasial yang menarik dan intuitif serta menyempurnakan fitur berdasarkan masukan pengguna.",
+        "Merancang sistem analitik spasial perkebunan dan optimasi query database spatial index MySQL berbasis Drizzle ORM.",
+        "Mengembangkan visualisasi peta heatmap pergerakan pekerja real-time menggunakan Leaflet GIS, custom React Heatmap Layer, dan komponen time-series route playback.",
+        "Mengintegrasikan library Turf.js untuk kalkulasi geospasial advanced (cakupan area kerja) dan antrean BullMQ Redis untuk agregasi data koordinat big data."
+      ],
+      "en": [
+        "Developed the platform from scratch as the full developer for the entire spatial analytics web app, collaborating with the manager and lead staff.",
+        "Designed engaging and intuitive spatial analytics UI/UX dashboards while refining application features based on user requests.",
+        "Architected the plantation spatial analytics platform and optimized MySQL spatial index queries via Drizzle ORM.",
+        "Developed real-time worker movement heatmap visualizers using Leaflet GIS, custom React Heatmap layers, and time-series route playback components.",
+        "Integrated Turf.js for advanced geospatial area coverage analytics and BullMQ Redis queues for processing high-volume GPS coordinate streams."
+      ]
+    },
     "features": {
       "general": {
         "id": [
@@ -204,6 +264,26 @@
     "description": {
       "id": "Aplikasi mobile pemantau lokasi background pekerja dan absensi berbasis kecerdasan buatan (deteksi wajah) untuk keakuratan verifikasi di lapangan.",
       "en": "Mobile application for background GPS worker location tracking and AI-powered face detection attendance for accurate field verification."
+    },
+    "role": {
+      "id": "Mobile Developer & System Analyst",
+      "en": "Mobile Developer & System Analyst"
+    },
+    "contribution": {
+      "id": [
+        "Membangun aplikasi dari nol (from scratch) secara penuh sebagai full developer untuk seluruh sistem mobile ini, berkolaborasi dengan manager dan lead staff.",
+        "Merancang antarmuka UI/UX mobile yang ramah pengguna dan modern serta mengimplementasikan penyesuaian aplikasi berbasis feedback pengguna.",
+        "Menganalisis skenario absensi lapangan dan merancang aplikasi mobile GPS tracking background & verifikasi wajah berbasis AI.",
+        "Mengintegrasikan TensorFlow Lite / LiteRT on-device AI face recognition dan Native Android Background Location Service dengan geofencing.",
+        "Membangun mekanisme buffering koordinat GPS offline dengan penyimpanan cache SQLite lokal berenkripsi hardware dan device fingerprinting."
+      ],
+      "en": [
+        "Built the application from scratch as the full developer for the entire mobile system, collaborating with the manager and lead staff.",
+        "Crafted a modern, user-friendly mobile UI/UX interface and implemented application updates driven by continuous user feedback.",
+        "Analyzed field attendance scenarios and architected the Flutter mobile application featuring background GPS tracking & AI face verification.",
+        "Integrated TensorFlow Lite / LiteRT on-device AI face recognition alongside persistent Native Android background location services and geofencing.",
+        "Implemented hardware-encrypted local SQLite coordinate buffering for cellular outage resiliency and device fingerprinting authentication."
+      ]
     },
     "features": {
       "general": {
@@ -264,6 +344,26 @@
       "id": "Sistem manajemen lifecycle sampel laboratorium untuk pengujian jaringan tanaman (LSU) dan sampel pupuk dari berbagai lokasi dan supplier.",
       "en": "Laboratory sample lifecycle management system for testing plant tissue (LSU) and fertilizer samples across multiple locations and suppliers."
     },
+    "role": {
+      "id": "Fullstack Developer & System Analyst",
+      "en": "Fullstack Developer & System Analyst"
+    },
+    "contribution": {
+      "id": [
+        "Mengembangkan platform dari nol (from scratch) sebagai full developer seluruh sistem web tracking laboratorium, berkolaborasi dengan manager dan lead staff.",
+        "Merancang tata letak UI/UX web yang bersih, responsif, dan mudah digunakan serta melakukan pembaruan alur kerja sesuai permintaan pengguna.",
+        "Merancang alur pelacakan lifecycle sampel laboratorium perkebunan (LSU & pupuk) dari lapangan ke lab.",
+        "Mengembangkan backend Hono REST API dengan Zod validation, sistem multi-tenant scoping unit perkebunan, dan generator kode QR/barcode dinamis.",
+        "Membangun pemrosesan antrean BullMQ untuk pengolahan data masif, ekspor laporan Excel/PDF (ExcelJS & Puppeteer), serta push notification via Firebase FCM."
+      ],
+      "en": [
+        "Developed the platform from scratch as the full developer for the entire laboratory tracking system, collaborating with the manager and lead staff.",
+        "Designed clean, responsive, and accessible web UI/UX layouts while delivering iterative updates based on user requests.",
+        "Designed the end-to-end laboratory sample lifecycle tracking system for plant tissue (LSU) and fertilizer testing.",
+        "Developed Hono REST APIs with Zod validation, multi-tenant company data scoping, and dynamic QR code/barcode generation engines.",
+        "Engineered BullMQ background queues for high-volume data import/export, automated Excel/PDF reporting (ExcelJS & Puppeteer), and Firebase FCM push notifications."
+      ]
+    },
     "features": {
       "general": {
         "id": [
@@ -321,6 +421,26 @@
       "id": "Aplikasi mobile petugas lapangan untuk memindai kode QR, mencatat fisik sampel laboratorium, dan mengambil foto kondisi sampel langsung di kebun.",
       "en": "Mobile application for field technicians to scan QR codes, log physical laboratory samples, and capture sample condition photos directly in the field."
     },
+    "role": {
+      "id": "Mobile Developer & System Analyst",
+      "en": "Mobile Developer & System Analyst"
+    },
+    "contribution": {
+      "id": [
+        "Membangun aplikasi mobile dari nol (from scratch) sebagai full developer seluruh aplikasi, berkolaborasi dengan manager dan lead staff.",
+        "Merancang antarmuka UI/UX mobile yang intuitif untuk kemudahan pemindaian QR di lapangan serta meng-update fitur sesuai feedback operasional.",
+        "Menganalisis alur pencatatan sampel di kebun dan membangun aplikasi mobile Flutter (Riverpod).",
+        "Mengembangkan kamera pemindai QR code & barcode cepat dengan engine auto-focus dan pencatatan lokasi GPS otomatis.",
+        "Mengimplementasikan datastore offline SQLite dengan mekanisme resolusi konflik data otomatis dan Dio HTTP retry queue."
+      ],
+      "en": [
+        "Built the mobile application from scratch as the full developer for the entire app, collaborating with the manager and lead staff.",
+        "Designed an intuitive mobile UI/UX interface optimized for rapid field QR scanning and updated features based on operational user feedback.",
+        "Analyzed field sample collection workflows and built the Flutter Riverpod mobile app.",
+        "Engineered an integrated auto-focus camera QR code & barcode scanner with automatic GPS location tagging.",
+        "Implemented offline SQLite local storage with automated data conflict resolution and Dio HTTP retry queue interceptors."
+      ]
+    },
     "features": {
       "general": {
         "id": [
@@ -375,6 +495,26 @@
     "description": {
       "id": "Platform web pengawasan operasional produksi, formulasi bahan, serta rantai distribusi Pupuk Organik Hayati (POH).",
       "en": "Web monitoring platform for production operations, material formulation, and distribution tracking of Organic Bio-Fertilizer (POH)."
+    },
+    "role": {
+      "id": "Fullstack Developer & System Analyst",
+      "en": "Fullstack Developer & System Analyst"
+    },
+    "contribution": {
+      "id": [
+        "Mengembangkan platform dari nol (from scratch) sebagai full developer seluruh sistem monitoring pupuk, berkolaborasi dengan manager dan lead staff.",
+        "Merancang desain UI/UX dashboard yang visual dan informatif serta memperbarui modul analitik sesuai kebutuhan pengguna.",
+        "Merancang platform pengawasan produksi, formulasi bahan, dan stok Pupuk Organik Hayati (POH).",
+        "Mengembangkan integrasi API Automated WhatsApp Gateway Service untuk notifikasi real-time, alert formulasi, dan jadwal pembuatan batch.",
+        "Membangun dashboard visualisasi grafik analitik interaktif berbasis Recharts dan Cron automation engine dengan BullMQ."
+      ],
+      "en": [
+        "Developed the platform from scratch as the full developer for the entire fertilizer monitoring system, collaborating with the manager and lead staff.",
+        "Designed visual and informative dashboard UI/UX interfaces, updating analytical modules based on user requests.",
+        "Designed the Organic Bio-Fertilizer (POH) production monitoring platform, formula tracking, and inventory management.",
+        "Engineered automated WhatsApp Gateway Service API integrations for real-time stock alerts, batch schedules, and task dispatches.",
+        "Created interactive analytics dashboards using Recharts, Ark UI components, and BullMQ scheduled cron automation engines."
+      ]
     },
     "features": {
       "general": {
@@ -431,6 +571,26 @@
       "id": "Aplikasi mobile operator dan supervisor untuk mencatat data formulasi harian, batch campuran pupuk organik hayati (POH), serta verifikasi stok.",
       "en": "Mobile application for operators and supervisors to log daily formulation data, organic fertilizer (POH) batches, and inventory verification."
     },
+    "role": {
+      "id": "Mobile Developer & System Analyst",
+      "en": "Mobile Developer & System Analyst"
+    },
+    "contribution": {
+      "id": [
+        "Membangun aplikasi mobile dari nol (from scratch) secara penuh sebagai full developer, berkolaborasi dengan manager dan lead staff.",
+        "Merancang antarmuka UI/UX mobile yang sederhana dan efisien untuk input data formulasi serta melakukan penyesuaian berdasarkan permintaan pengguna.",
+        "Menganalisis kebutuhan operasional pabrik pupuk dan membangun aplikasi Flutter mobile berbasis Clean Architecture.",
+        "Mengembangkan Dynamic Form Builder Engine untuk pencatatan parameter formulasi pupuk organik yang dapat disesuaikan secara fleksibel.",
+        "Mengimplementasikan penyimpanan cache lokal (Hive/SharedPreferences) untuk daerah minim sinyal dan manajemen token JWT otomatis via Dio interceptors."
+      ],
+      "en": [
+        "Built the mobile application from scratch as the full developer for the entire app, collaborating with the manager and lead staff.",
+        "Designed clean and efficient mobile UI/UX screens for seamless formulation data entry, incorporating updates requested by users.",
+        "Analyzed fertilizer plant operational workflows and built the Flutter mobile app following Clean Architecture patterns.",
+        "Engineered a Dynamic Form Builder Engine for customizable organic fertilizer formulation and batch mixing parameters.",
+        "Implemented local Hive caching for low-connectivity plant areas and automated JWT token refresh lifecycle management using Dio network interceptors."
+      ]
+    },
     "features": {
       "general": {
         "id": [
@@ -484,6 +644,26 @@
       "id": "Portal resmi Lembaga Sertifikasi Profesi untuk pendaftaran uji kompetensi tenaga kerja, penjadwalan asesor, dan penerbitan sertifikat digital di Jakarta.",
       "en": "Official certification body portal for manpower competence test registration, assessor scheduling, and digital certificate issuance in Jakarta."
     },
+    "role": {
+      "id": "Lead Fullstack Developer",
+      "en": "Lead Fullstack Developer"
+    },
+    "contribution": {
+      "id": [
+        "Mengembangkan portal dari nol (from scratch) sejak awal proyek, bertindak sebagai developer utama dan lead berkolaborasi bersama pair developer.",
+        "Merancang antarmuka UI/UX portal web publik & admin yang elegan dan profesional berbasis Mantine UI, serta memperbarui sistem sesuai masukan pengguna.",
+        "Merancang arsitektur Next.js App Router & Mantine UI untuk seluruh sistem portal sertifikasi profesi.",
+        "Mengembangkan portal pendaftaran uji kompetensi online, sistem penugasan & penilaian asesor, serta visualisasi grafik statistik pendaftar (Mantine Charts).",
+        "Mengintegrasikan Mantine Tiptap Rich Text Editor untuk dokumentasi skema, proteksi anti-spam Cloudflare Turnstile, dan sistem verifikasi sertifikat digital."
+      ],
+      "en": [
+        "Developed the portal from scratch from the project inception, serving as the lead developer collaborating with a pair developer.",
+        "Crafted elegant and professional public and admin UI/UX web layouts using Mantine UI, continuously tailoring features to user requests.",
+        "Architected the Next.js App Router portal using Mantine UI framework for the entire certification system.",
+        "Developed the online competence test registration portal, assessor exam assignment & grading system, and applicant data analytics charts.",
+        "Integrated Mantine Tiptap rich text editor for scheme guides, Cloudflare Turnstile CAPTCHA protection, and digital certificate authenticity verification."
+      ]
+    },
     "features": {
       "general": {
         "id": [
@@ -536,6 +716,24 @@
     "description": {
       "id": "Aplikasi mobile audit mutu dan Quality Control (QC) untuk inspeksi buah sawit, transportasi, kualitas pabrik, serta absensi berbasis lokasi di perkebunan.",
       "en": "Mobile quality control (QC) and audit app for inspecting palm fruit quality, transport logistics, mill processing standards, and location-based attendance."
+    },
+    "role": {
+      "id": "Mobile Developer & Mobile Backend Developer",
+      "en": "Mobile Developer & Mobile Backend Developer"
+    },
+    "contribution": {
+      "id": [
+        "Bertindak sebagai Mobile Developer & Mobile Backend Developer, berkolaborasi dengan developer lain yang membangun dashboard web.",
+        "Merancang antarmuka UI/UX mobile khusus inspeksi QC yang cepat dan responsif serta meng-update fitur berdasarkan masukan pengguna lapangan.",
+        "Membangun aplikasi mobile Flutter dengan arsitektur enterprise multi-module offline-first dan REST API backend khusus mobile.",
+        "Mengembangkan kamera native custom berkertas watermark lokasi & timestamp, GPS geofencing absensi, serta dynamic form inspector QC kebun & pabrik."
+      ],
+      "en": [
+        "Developed the application as Mobile Developer and Mobile Backend Developer, collaborating with other developers who built the web dashboard.",
+        "Designed high-performance mobile UI/UX layouts tailored for rapid field QC audits, implementing updates requested by plantation teams.",
+        "Built the enterprise offline-first multi-module Flutter mobile application and dedicated mobile backend REST API endpoints.",
+        "Engineered custom native camera watermarking (timestamp & location), GPS geofencing attendance, and dynamic QC form inspection engines for palm mills & plantations."
+      ]
     },
     "features": {
       "general": {
@@ -591,6 +789,26 @@
       "id": "Platform web adopsi pohon dan restorasi hutan yang menghubungkan adopter dengan program penghijauan, lengkap dengan sertifikat digital dan payment gateway.",
       "en": "Tree adoption and rainforest restoration web platform connecting adopters with reforestation programs, featuring digital certificates and payment gateways."
     },
+    "role": {
+      "id": "Fullstack Developer & System Analyst",
+      "en": "Fullstack Developer & System Analyst"
+    },
+    "contribution": {
+      "id": [
+        "Mengembangkan platform web dari nol (from scratch) sebagai full developer seluruh sistem, berkolaborasi dengan manager dan lead staff.",
+        "Merancang tata letak UI/UX e-commerce yang menarik dan interaktif untuk adopsi pohon serta memperbarui fitur berdasarkan kebutuhan pengguna.",
+        "Merancang platform web adopsi pohon dan skema database relasional MySQL berbasis Hono Server.",
+        "Mengintegrasikan Midtrans Payment Gateway (QRIS, E-Wallet, Transfer Bank) webhook dan penerbitan sertifikat PDF otomatis via Puppeteer & Sharp.",
+        "Membangun antrean BullMQ Redis untuk pengiriman email & sertifikat asinkron serta cron jobs kalkulasi otomatis serapan karbon."
+      ],
+      "en": [
+        "Developed the web platform from scratch as the full developer for the entire system, collaborating with the manager and lead staff.",
+        "Designed engaging and interactive e-commerce UI/UX web layouts for tree adoption, delivering feature updates based on user requests.",
+        "Designed the tree adoption & forest restoration web platform and MySQL relational database schemas.",
+        "Integrated Midtrans Payment Gateway webhooks (QRIS, E-Wallets) and automated PDF certificate generation using Puppeteer & Sharp image engines.",
+        "Implemented BullMQ Redis queue workers for async email & certificate dispatching and automated carbon sequestration calculations via scheduled cron jobs."
+      ]
+    },
     "features": {
       "general": {
         "id": [
@@ -645,6 +863,26 @@
     "description": {
       "id": "Aplikasi mobile pendamping bagi adopter dan penjaga hutan untuk memantau lokasi pohon adopsi pada peta GIS interaktif serta melihat batas area kawasan hutan.",
       "en": "Mobile companion application for adopters and forest guardians to track adopted tree locations on interactive GIS maps and view forest plot boundary polygons."
+    },
+    "role": {
+      "id": "Mobile Developer & System Analyst",
+      "en": "Mobile Developer & System Analyst"
+    },
+    "contribution": {
+      "id": [
+        "Membangun aplikasi mobile dari nol (from scratch) sebagai full developer seluruh aplikasi, berkolaborasi dengan manager dan lead staff.",
+        "Merancang antarmuka UI/UX mobile berbasis peta interaktif yang modern dan intuitif serta memperbarui aplikasi sesuai masukan pengguna.",
+        "Menganalisis kebutuhan monitoring lokasi pohon di hutan dan membangun aplikasi Expo React Native.",
+        "Mengembangkan engine peta vektor MapLibre React Native untuk visualisasi polygon batas kawasan hutan dan penanda lokasi presisi pohon.",
+        "Mengimplementasikan komputasi geospasial viewport, embedded Drizzle ORM untuk local SQLite caching, dan in-app certificate viewer."
+      ],
+      "en": [
+        "Built the mobile application from scratch as the full developer for the entire app, collaborating with the manager and lead staff.",
+        "Crafted a modern interactive map-centric mobile UI/UX interface, incorporating continuous app updates requested by users.",
+        "Analyzed forest plot monitoring requirements and built the Expo React Native mobile app.",
+        "Engineered MapLibre React Native vector map integrations for forest plot boundary polygons and precision tree location tagging.",
+        "Implemented spatial geo-viewport calculations, embedded Drizzle SQLite local caching, and in-app adoption certificate viewer."
+      ]
     },
     "features": {
       "general": {
@@ -703,6 +941,26 @@
       "id": "Web e-commerce penanaman dan adopsi pohon digital dengan pemrosesan sertifikat instan dan opsi pembayaran beragam untuk program keanekaragaman hayati.",
       "en": "Digital tree adoption and planting e-commerce web app featuring instant certificate rendering, payment options, and biodiversity project tracking."
     },
+    "role": {
+      "id": "Fullstack Developer & System Analyst",
+      "en": "Fullstack Developer & System Analyst"
+    },
+    "contribution": {
+      "id": [
+        "Mengembangkan platform dari nol (from scratch) sebagai full developer seluruh aplikasi e-commerce adopsi pohon, berkolaborasi dengan manager dan lead staff.",
+        "Merancang desain UI/UX e-commerce yang estetis dan berorientasi pada pengguna (user-centric) serta meng-update fitur berdasarkan feedback.",
+        "Merancang platform e-commerce adopsi pohon digital berbasis Hono REST API & Drizzle ORM.",
+        "Mengintegrasikan Midtrans Snap & Core API checkout, Google OAuth 2.0 single sign-on, dan in-browser React PDF certificate viewer.",
+        "Mengembangkan papan pesan pelestarian lingkungan (Wishtree Community) dan leaderboard dampak ekologis adopter pohon."
+      ],
+      "en": [
+        "Developed the platform from scratch as the full developer for the entire tree adoption e-commerce application, collaborating with the manager and lead staff.",
+        "Designed aesthetic, user-centric e-commerce UI/UX interfaces while regularly delivering updates driven by user feedback.",
+        "Architected the digital tree adoption e-commerce platform using Hono REST APIs and Drizzle ORM.",
+        "Integrated Midtrans Snap Payment Gateway, Google OAuth 2.0 login, and client-side React PDF certificate viewer & downloader.",
+        "Built the Wishtree public environmental message board and real-time top adopters community impact leaderboard."
+      ]
+    },
     "features": {
       "general": {
         "id": [
@@ -758,6 +1016,26 @@
       "id": "Layanan otentikasi pusat Single Sign-On (SSO) untuk seluruh ekosistem aplikasi SRS, mengamankan akses pengguna dan manajemen kredensial aplikasi klien.",
       "en": "Central Single Sign-On (SSO) authentication provider service for the entire SRS application ecosystem, securing user access and client app credentials."
     },
+    "role": {
+      "id": "Fullstack Developer & System Analyst",
+      "en": "Fullstack Developer & System Analyst"
+    },
+    "contribution": {
+      "id": [
+        "Mengembangkan sistem dari nol (from scratch) sebagai full developer seluruh server otentikasi pusat SSO, berkolaborasi dengan manager dan lead staff.",
+        "Merancang antarmuka UI/UX login popup & dashboard admin yang bersih dan aman berbasis Shadcn UI & Tailwind CSS, serta meng-update fitur sesuai kebutuhan pengguna.",
+        "Merancang server otentikasi pusat Single Sign-On (SSO) ekosistem SRS berbasis Bun Runtime & Hono Server.",
+        "Mengembangkan protokol otentikasi OAuth 2.0 / JWT, Bun SQLite key-value store untuk manajemen client credentials & token revocation, serta komunikasi cross-domain via PostMessage popup.",
+        "Membangun admin dashboard manajemen registrasi website klien terhubung dengan fitur pembuatan Client Secret secara dinamis."
+      ],
+      "en": [
+        "Developed the system from scratch as the full developer for the entire central SSO authentication server, collaborating with the manager and lead staff.",
+        "Designed clean and secure login popup & admin portal UI/UX interfaces using Shadcn UI & Tailwind CSS, incorporating requested updates.",
+        "Designed the central Single Sign-On (SSO) authentication server for the SRS ecosystem on Bun Runtime & Hono.",
+        "Engineered OAuth 2.0 / JWT authentication protocols, Bun SQLite key-value stores for client credentials & token revocation, and cross-domain PostMessage popups.",
+        "Built an administrative portal for managing connected client app registrations and secure dynamic Client Secret generation."
+      ]
+    },
     "features": {
       "general": {
         "id": [
@@ -811,6 +1089,26 @@
     "description": {
       "id": "Platform gateway WhatsApp multi-device untuk mengelola banyak nomor WA, pengiriman pesan massal terjadwal, dan integrasi API webhook ke sistem eksternal.",
       "en": "Multi-device WhatsApp gateway platform for managing multiple WA instances, scheduled broadcast messaging, and external webhook API integrations."
+    },
+    "role": {
+      "id": "Fullstack Developer & System Analyst",
+      "en": "Fullstack Developer & System Analyst"
+    },
+    "contribution": {
+      "id": [
+        "Mengembangkan platform dari nol (from scratch) sebagai full developer seluruh sistem gateway ini, berkolaborasi dengan manager dan lead staff.",
+        "Merancang tampilan UI/UX dashboard kontrol WhatsApp gateway yang intuitif dan modern serta memperbarui sistem sesuai masukan pengguna.",
+        "Merancang platform WhatsApp automation gateway multi-instance berbasis Baileys protocol & Hono Server.",
+        "Mengembangkan antrean pengiriman pesan broadcast massal berkapasitas tinggi via BullMQ Redis, server WebSocket real-time untuk status instance, dan notifikasi webhook.",
+        "Membangun sistem keamanan ganda (JWT untuk dashboard & API Key untuk microservice) serta frontend TanStack Start & Zustand."
+      ],
+      "en": [
+        "Developed the platform from scratch as the full developer for the entire gateway system, collaborating with the manager and lead staff.",
+        "Designed an intuitive and modern WhatsApp gateway control dashboard UI/UX, refining feature sets based on user requests.",
+        "Designed the multi-instance WhatsApp automation gateway platform powered by Baileys protocol engine.",
+        "Engineered high-volume mass broadcast dispatch queues via BullMQ Redis, real-time WebSocket servers for instance state events, and incoming event webhooks.",
+        "Implemented dual-layer security (JWT for dashboard & API Keys for external microservices) and the TanStack Start + Zustand frontend."
+      ]
     },
     "features": {
       "general": {
@@ -868,6 +1166,26 @@
     "description": {
       "id": "Aplikasi produktivitas dan pelacakan uji coba benih pertanian Syngenta untuk memantau aktivitas lapangan, kondisi cuaca, serta persetujuan berjenjang supervisor dan manajer.",
       "en": "Productivity and traceability application for Syngenta seed development trials, monitoring field activities, crop conditions, and multi-tier supervisor/manager approvals."
+    },
+    "role": {
+      "id": "Mobile Developer & Backend Contributor",
+      "en": "Mobile Developer & Backend Contributor"
+    },
+    "contribution": {
+      "id": [
+        "Membangun seluruh aplikasi mobile dari nol (from scratch) sebagai full mobile developer, serta berkontribusi dalam pengembangan API backend.",
+        "Mengimplementasikan rancangan antarmuka UI/UX aplikasi mobile yang disiapkan oleh tim desainer UI/UX serta memperbarui fitur berdasarkan masukan pengguna.",
+        "Mengembangkan aplikasi mobile secara penuh menggunakan React Native / Expo & MapLibre.",
+        "Berkontribusi dalam merancang dan mengembangkan API backend untuk sinkronisasi data uji coba benih, pencatatan tanaman, iklim, dan pupuk.",
+        "Mengembangkan engine workflow persetujuan berjenjang (supervisor & manager), dynamic activity flex-config, dan offline storage datastore dengan retry queue."
+      ],
+      "en": [
+        "Built the entire mobile application from scratch as the full mobile developer, and contributed to backend API development.",
+        "Implemented mobile application UI/UX interfaces based on design assets provided by the UI/UX design team, iterating features based on user requests.",
+        "Fully built the mobile application using React Native / Expo framework and MapLibre vector map engine.",
+        "Contributed directly to backend API development for seed trial data synchronization, crop logging, climate tracking, and fertilizer usage.",
+        "Engineered multi-tier supervisor/manager approval workflow engines, dynamic trial activity flex-config, and offline datastores with retry queues."
+      ]
     },
     "features": {
       "general": {

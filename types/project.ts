@@ -23,6 +23,8 @@ export interface ProjectDetail {
   images: string[];
   short_description: LocalizedString;
   description: LocalizedString;
+  role?: LocalizedString;
+  contribution?: LocalizedList | LocalizedString;
   features: ProjectFeatures;
 }
 
@@ -39,5 +41,7 @@ export interface ProjectMeta {
   images: string[];
   short_description: LocalizedString;
   description: LocalizedString;
+  role?: LocalizedString;
+  contribution?: LocalizedList | LocalizedString;
   features: ProjectFeatures;
 }

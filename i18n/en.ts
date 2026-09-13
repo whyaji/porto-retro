@@ -79,6 +79,8 @@ export const enTranslations = {
     details: {
       backToProjects: "Back to Project Catalog",
       overviewTitle: "Project Overview",
+      roleTitle: "Role",
+      contributionTitle: "Project Contribution",
       featuresGeneralTitle: "Key User Features & Capabilities",
       featuresNerdTitle: "System Architecture & Nerd Specs",
       technologiesTitle: "Technologies Applied",

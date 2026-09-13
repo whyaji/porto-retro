@@ -79,6 +79,8 @@ export const idTranslations = {
     details: {
       backToProjects: "Kembali ke Katalog Proyek",
       overviewTitle: "Ikhtisar Proyek",
+      roleTitle: "Peran",
+      contributionTitle: "Kontribusi Proyek",
       featuresGeneralTitle: "Fitur & Fungsionalitas Pengguna",
       featuresNerdTitle: "Arsitektur & Spesifikasi Teknis",
       technologiesTitle: "Teknologi yang Digunakan",
