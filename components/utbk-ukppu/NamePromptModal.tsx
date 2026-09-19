@@ -3,18 +3,19 @@
 import React, { useState } from "react";
 import { parseAndValidateImportedSession } from "@/lib/cbt-session";
 import { UserSession } from "@/types/utbk-ukppu";
+import { QUESTION_VERSIONS, LATEST_VERSION } from "@/assets/utbk-ukppu";
 import { FiUser, FiUpload, FiPlay, FiShield } from "react-icons/fi";
 
 interface Props {
   isOpen: boolean;
-  onStartSession: (userName: string, version: "v1" | "v2") => void;
+  onStartSession: (userName: string, version: string) => void;
   onImportSession: (session: UserSession) => void;
   onError: (msg: string) => void;
 }
 
 export function NamePromptModal({ isOpen, onStartSession, onImportSession, onError }: Props) {
   const [nameInput, setNameInput] = useState("");
-  const [version, setVersion] = useState<"v1" | "v2">("v2");
+  const [version, setVersion] = useState<string>(LATEST_VERSION);
   const [errorMsg, setErrorMsg] = useState("");
 
   if (!isOpen) return null;
@@ -49,6 +50,9 @@ export function NamePromptModal({ isOpen, onStartSession, onImportSession, onErr
     reader.readAsText(file);
   };
 
+  // Split versions: first (default/featured) goes full-width, rest go in a grid
+  const [featuredVersion, ...otherVersions] = QUESTION_VERSIONS;
+
   return (
     <div className="fixed inset-0 z-50 flex items-center justify-center bg-slate-950/75 backdrop-blur-xs p-4 animate-fade-in overflow-y-auto">
       <div className="w-full max-w-lg bg-white dark:bg-slate-900 rounded-2xl shadow-2xl border border-slate-200 dark:border-slate-800 overflow-hidden my-6">
@@ -59,7 +63,7 @@ export function NamePromptModal({ isOpen, onStartSession, onImportSession, onErr
           </div>
           <h2 className="text-2xl font-black tracking-tight font-display">CBT UTBK UKPPU</h2>
           <p className="text-slate-300 text-xs sm:text-sm mt-1 font-medium">
-            Simulasi Ujian Tulis Berbasis Komputer & Soal HOTS Profesi Psikolog
+            Simulasi Ujian Tulis Berbasis Komputer &amp; Soal HOTS Profesi Psikolog
           </p>
         </div>
 
@@ -85,71 +89,37 @@ export function NamePromptModal({ isOpen, onStartSession, onImportSession, onErr
               </div>
             </div>
 
-            {/* Version Selection */}
+            {/* Version Selection — rendered dynamically from QUESTION_VERSIONS registry */}
             <div>
               <label className="block text-xs font-bold uppercase tracking-wider text-slate-700 dark:text-slate-300 mb-2">
                 Pilih Paket Soal Ujian
               </label>
-              <div className="grid grid-cols-1 sm:grid-cols-2 gap-3">
-                {/* Version 2 Option (Default Newest) */}
-                <div
-                  onClick={() => setVersion("v2")}
-                  className={`p-3.5 rounded-xl border-2 cursor-pointer transition-all ${
-                    version === "v2"
-                      ? "border-emerald-600 dark:border-emerald-500 bg-emerald-50/70 dark:bg-emerald-950/40 shadow-xs ring-1 ring-emerald-500"
-                      : "border-slate-200 dark:border-slate-800 hover:border-slate-300 dark:hover:border-slate-700 bg-white dark:bg-slate-800/40"
-                  }`}
-                >
-                  <div className="flex items-center justify-between mb-1.5">
-                    <span className="text-xs font-bold text-slate-900 dark:text-slate-100 flex items-center gap-1.5">
-                      <span className={`w-3 h-3 rounded-full border-2 flex items-center justify-center ${
-                        version === "v2" ? "border-emerald-600 bg-emerald-600" : "border-slate-400"
-                      }`}>
-                        {version === "v2" && <span className="w-1 h-1 bg-white rounded-full"></span>}
-                      </span>
-                      Paket V2 (Terbaru)
-                    </span>
-                    <span className="px-2 py-0.5 bg-emerald-600 text-white rounded text-[10px] font-black uppercase tracking-wider">
-                      Default
-                    </span>
-                  </div>
-                  <p className="text-[11px] text-slate-600 dark:text-slate-300 font-medium leading-snug">
-                    <strong>40 Soal HOTS</strong> • 5 Opsi (A–E)
-                  </p>
-                  <p className="text-[10px] text-slate-500 dark:text-slate-400 mt-1 leading-tight">
-                    Skenario kasus panjang & SJT dilematis. Bobot 70% Asesmen & Intervensi.
-                  </p>
-                </div>
+              <div className="flex flex-col gap-3">
 
-                {/* Version 1 Option */}
-                <div
-                  onClick={() => setVersion("v1")}
-                  className={`p-3.5 rounded-xl border-2 cursor-pointer transition-all ${
-                    version === "v1"
-                      ? "border-emerald-600 dark:border-emerald-500 bg-emerald-50/70 dark:bg-emerald-950/40 shadow-xs ring-1 ring-emerald-500"
-                      : "border-slate-200 dark:border-slate-800 hover:border-slate-300 dark:hover:border-slate-700 bg-white dark:bg-slate-800/40"
-                  }`}
-                >
-                  <div className="flex items-center justify-between mb-1.5">
-                    <span className="text-xs font-bold text-slate-900 dark:text-slate-100 flex items-center gap-1.5">
-                      <span className={`w-3 h-3 rounded-full border-2 flex items-center justify-center ${
-                        version === "v1" ? "border-emerald-600 bg-emerald-600" : "border-slate-400"
-                      }`}>
-                        {version === "v1" && <span className="w-1 h-1 bg-white rounded-full"></span>}
-                      </span>
-                      Paket V1 (Klasik)
-                    </span>
-                    <span className="px-2 py-0.5 bg-slate-200 dark:bg-slate-700 text-slate-700 dark:text-slate-300 rounded text-[10px] font-bold">
-                      Bank Arsip
-                    </span>
+                {/* Featured version (first in registry) — full width */}
+                <VersionCard
+                  meta={featuredVersion}
+                  selected={version === featuredVersion.id}
+                  onSelect={() => setVersion(featuredVersion.id)}
+                />
+
+                {/* Remaining versions — 2-column grid */}
+                {otherVersions.length > 0 && (
+                  <div
+                    className={`grid gap-3 ${
+                      otherVersions.length === 1 ? "grid-cols-1" : "grid-cols-1 sm:grid-cols-2"
+                    }`}
+                  >
+                    {otherVersions.map((v) => (
+                      <VersionCard
+                        key={v.id}
+                        meta={v}
+                        selected={version === v.id}
+                        onSelect={() => setVersion(v.id)}
+                      />
+                    ))}
                   </div>
-                  <p className="text-[11px] text-slate-600 dark:text-slate-300 font-medium leading-snug">
-                    <strong>610 Soal Lengkap</strong> • 4 Opsi (A–D)
-                  </p>
-                  <p className="text-[10px] text-slate-500 dark:text-slate-400 mt-1 leading-tight">
-                    Bank soal komprehensif mencakup 13 domain secara luas.
-                  </p>
-                </div>
+                )}
               </div>
             </div>
 
@@ -190,6 +160,58 @@ export function NamePromptModal({ isOpen, onStartSession, onImportSession, onErr
           </div>
         </div>
       </div>
+    </div>
+  );
+}
+
+// ── Internal sub-component — no need to change when adding versions ──────────
+import type { QuestionVersionMeta } from "@/assets/utbk-ukppu";
+
+function VersionCard({
+  meta,
+  selected,
+  onSelect,
+}: {
+  meta: QuestionVersionMeta;
+  selected: boolean;
+  onSelect: () => void;
+}) {
+  return (
+    <div
+      onClick={onSelect}
+      className={`p-3.5 rounded-xl border-2 cursor-pointer transition-all ${
+        selected
+          ? "border-emerald-600 dark:border-emerald-500 bg-emerald-50/70 dark:bg-emerald-950/40 shadow-xs ring-1 ring-emerald-500"
+          : "border-slate-200 dark:border-slate-800 hover:border-slate-300 dark:hover:border-slate-700 bg-white dark:bg-slate-800/40"
+      }`}
+    >
+      <div className="flex items-center justify-between mb-1.5">
+        <span className="text-xs font-bold text-slate-900 dark:text-slate-100 flex items-center gap-1.5">
+          <span
+            className={`w-3 h-3 rounded-full border-2 flex items-center justify-center ${
+              selected ? "border-emerald-600 bg-emerald-600" : "border-slate-400"
+            }`}
+          >
+            {selected && <span className="w-1 h-1 bg-white rounded-full" />}
+          </span>
+          {meta.name}
+        </span>
+        <span
+          className={`px-2 py-0.5 rounded text-[10px] font-bold ${
+            meta.isDefault
+              ? "bg-emerald-600 text-white font-black uppercase tracking-wider"
+              : "bg-slate-200 dark:bg-slate-700 text-slate-700 dark:text-slate-300"
+          }`}
+        >
+          {meta.badge}
+        </span>
+      </div>
+      <p className="text-[11px] text-slate-600 dark:text-slate-300 font-medium leading-snug">
+        {meta.description}
+      </p>
+      <p className="text-[10px] text-slate-500 dark:text-slate-400 mt-1 leading-tight">
+        {meta.detail}
+      </p>
     </div>
   );
 }

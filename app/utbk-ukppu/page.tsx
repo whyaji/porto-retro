@@ -1,7 +1,7 @@
 "use client";
 
 import React, { useState, useEffect, useMemo } from "react";
-import { getQuestionsByVersion } from "@/assets/utbk-ukppu";
+import { getQuestionsByVersion, getNextVersion, LATEST_VERSION } from "@/assets/utbk-ukppu";
 import { Question, QuestionVersion, UserSession } from "@/types/utbk-ukppu";
 import {
   getStoredSession,
@@ -23,8 +23,8 @@ export default function CBTUtbkUkppuPage() {
   const [currentIndex, setCurrentIndex] = useState(0);
   const [theme, setTheme] = useState<"light" | "dark">("light");
 
-  // Dynamic question set based on active session's questionVersion (default newest: "v2")
-  const activeVersion: QuestionVersion = session?.questionVersion || "v2";
+  // Dynamic question set based on active session's questionVersion (default: latest from registry)
+  const activeVersion: QuestionVersion = session?.questionVersion || LATEST_VERSION;
   const questions: Question[] = useMemo(() => getQuestionsByVersion(activeVersion), [activeVersion]);
 
   // Modals & Drawers state
@@ -63,7 +63,7 @@ export default function CBTUtbkUkppuPage() {
     if (existing) {
       const normalizedExisting: UserSession = {
         ...existing,
-        questionVersion: existing.questionVersion || "v2",
+        questionVersion: existing.questionVersion || LATEST_VERSION,
       };
       setSession(normalizedExisting);
       saveStoredSession(normalizedExisting);
@@ -117,7 +117,7 @@ export default function CBTUtbkUkppuPage() {
   }, [session?.userName, session?.isSubmitted]);
 
   // Start brand new session with selected question version
-  const handleStartSession = (userName: string, version: QuestionVersion = "v2") => {
+  const handleStartSession = (userName: string, version: string = LATEST_VERSION) => {
     const newSession: UserSession = {
       userName,
       createdAt: new Date().toISOString(),
@@ -139,7 +139,7 @@ export default function CBTUtbkUkppuPage() {
   const handleImportSession = (importedSession: UserSession) => {
     const normalized: UserSession = {
       ...importedSession,
-      questionVersion: importedSession.questionVersion || "v2",
+      questionVersion: importedSession.questionVersion || LATEST_VERSION,
     };
     saveStoredSession(normalized);
     setSession(normalized);
@@ -155,22 +155,21 @@ export default function CBTUtbkUkppuPage() {
     setIsNameModalOpen(false);
   };
 
-  // Switch between question versions (V1 <-> V2)
+  // Cycle to the next version in the registry (fully data-driven — no hardcoded version names)
   const handlePromptSwitchVersion = () => {
     if (!session) return;
-    const targetVersion: QuestionVersion = session.questionVersion === "v1" ? "v2" : "v1";
-    const targetName = targetVersion === "v2" ? "Paket V2 (Terbaru 40 Soal HOTS)" : "Paket V1 (Klasik 610 Soal)";
+    const nextMeta = getNextVersion(session.questionVersion || LATEST_VERSION);
 
     setConfirmModalState({
       isOpen: true,
       type: "reset",
       title: "Ganti Paket Soal Ujian?",
-      message: `Anda akan beralih ke ${targetName}. Jawaban pada sesi saat ini akan diatur ulang untuk paket baru. Lanjutkan?`,
-      confirmText: `Ya, Beralih ke ${targetVersion.toUpperCase()}`,
+      message: `Anda akan beralih ke ${nextMeta.name}. Jawaban pada sesi saat ini akan diatur ulang untuk paket baru. Lanjutkan?`,
+      confirmText: `Ya, Beralih ke ${nextMeta.label}`,
       cancelText: "Batal",
       onConfirm: () => {
         setConfirmModalState((prev) => ({ ...prev, isOpen: false }));
-        handleStartSession(session.userName, targetVersion);
+        handleStartSession(session.userName, nextMeta.id);
       },
     });
   };

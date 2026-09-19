@@ -1,0 +1,1522 @@
+[
+  {
+    "id": "V3_Q01",
+    "domainId": 1,
+    "domainTitle": "Sikap (Etika, Moral, Pluralitas, dan Empati) & Kegiatan Profesional Psikologi",
+    "indicatorId": "1.2",
+    "indicatorFullId": "D1-1.2",
+    "indicatorTitle": "Kemampuan melakukan intervensi secara beretika",
+    "caseStudy": {
+      "title": "Studi Kasus 1: Permintaan Intervensi oleh Pihak Pengirim",
+      "scenario": "Ny. S (42 tahun) datang atas rujukan suaminya. Suaminya hadir di sesi pertama dan meminta psikolog untuk 'meluruskan pemikiran istri agar lebih patuh'. Dalam wawancara individual, Ny. S mengungkapkan bahwa ia sebenarnya ingin suaminya mau berdiskusi sebelum mengambil keputusan penting. Ia menyatakan menghargai pernikahannya dan tidak ingin berpisah. Ia tampak kooperatif dan tidak berada dalam situasi bahaya.",
+      "contextTags": ["Otonomi Klien", "Tujuan Intervensi", "Etika", "Permintaan Pihak Ketiga"]
+    },
+    "question": "Dalam menentukan orientasi intervensi, psikolog PERTAMA-TAMA harus berpegang pada:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Kebutuhan yang diungkapkan klien yang hadir dalam layanan — dalam hal ini Ny. S — bukan agenda pihak yang merujuk."
+      },
+      {
+        "id": "B",
+        "text": "Keseimbangan antara kebutuhan Ny. S dan kekhawatiran suami, karena mengesampingkan perspektif suami sepenuhnya dapat merusak sistem keluarga yang menjadi konteks permasalahan."
+      },
+      {
+        "id": "C",
+        "text": "Penilaian klinis psikolog tentang apa yang paling dibutuhkan pasangan ini secara keseluruhan, terlepas dari siapa yang mendefinisikan masalah tersebut, karena psikolog memiliki perspektif yang lebih objektif."
+      },
+      {
+        "id": "D",
+        "text": "Klarifikasi peran dan tujuan intervensi yang disampaikan secara transparan kepada kedua pihak di awal, sehingga tidak terjadi konflik ekspektasi antara suami, Ny. S, dan psikolog yang dapat menghambat proses terapeutik."
+      },
+      {
+        "id": "E",
+        "text": "Eksplorasi apakah situasi pernikahan ini lebih tepat ditangani melalui konseling pasangan atau konseling individual, karena pilihan format layanan menentukan siapa yang diperlakukan sebagai klien dan siapa yang menjadi pihak pengirim."
+      }
+    ],
+    "key": "A",
+    "explanation": "Prinsip otonomi mengharuskan psikolog menetapkan tujuan intervensi berdasarkan kebutuhan klien yang hadir, bukan agenda pihak ketiga. Ny. S adalah klien; suami adalah pengirim/pihak ketiga. Jawaban A benar karena langsung menyebutkan prinsip etika yang paling fundamental dan tidak dapat dikompromikan dalam situasi ini. Jawaban B terlihat 'adil' tetapi secara etis bermasalah karena menyetarakan kepentingan klien dengan kepentingan pihak ketiga. Jawaban C memberikan kewenangan berlebih kepada psikolog atas kepentingan klien sendiri. Jawaban D dan E relevan sebagai pertimbangan tambahan tetapi bukan prinsip yang 'pertama-tama' harus dipegang."
+  },
+  {
+    "id": "V3_Q02",
+    "domainId": 1,
+    "domainTitle": "Sikap (Etika, Moral, Pluralitas, dan Empati) & Kegiatan Profesional Psikologi",
+    "indicatorId": "1.5",
+    "indicatorFullId": "D1-1.5",
+    "indicatorTitle": "Kemampuan dalam hubungan profesional",
+    "caseStudy": {
+      "title": "Studi Kasus 2: Self-Disclosure dan Pertanyaan Langsung Klien",
+      "scenario": "Psikolog A sedang menangani Tn. F (30 tahun) yang berjuang dengan rasa bersalah mendalam setelah kehilangan saudaranya. Pada sesi ke-7, Tn. F bertanya, 'Apakah Anda pernah kehilangan seseorang yang dicintai? Saya ingin tahu apakah Anda benar-benar bisa memahami apa yang saya rasakan.' Psikolog A memang pernah mengalami kehilangan serupa. Ia mempertimbangkan cara merespons yang paling tepat.",
+      "contextTags": ["Self-Disclosure", "Aliansi Terapeutik", "Kebutuhan Klien", "Batas Profesional"]
+    },
+    "question": "Pertimbangan PALING mendasar yang harus memandu respons Psikolog A terhadap pertanyaan Tn. F adalah:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Apakah pengungkapan pengalaman pribadi Psikolog A akan menguntungkan proses terapeutik Tn. F atau justru mengalihkan fokus sesi kepada psikolog — bukan tentang apakah psikolog merasa nyaman berbagi atau tidak."
+      },
+      {
+        "id": "B",
+        "text": "Bahwa kerahasiaan berlaku dua arah, termasuk melindungi kehidupan pribadi psikolog dari pertanyaan klien, sehingga tidak ada kewajiban etis untuk menjawab pertanyaan personal apapun."
+      },
+      {
+        "id": "C",
+        "text": "Bahwa pertanyaan tersebut mencerminkan kebutuhan Tn. F untuk merasa dipahami, sehingga respons paling tepat adalah mengelaborasi mengapa empati psikolog tetap valid bahkan tanpa pengalaman langsung yang serupa, menggunakan contoh-contoh konkret untuk meyakinkan Tn. F."
+      },
+      {
+        "id": "D",
+        "text": "Bahwa pertanyaan Tn. F lebih bermakna sebagai ekspresi kebutuhan terapeutik daripada permintaan informasi faktual, sehingga langkah pertama yang lebih tepat adalah mengeksplorasi makna di balik pertanyaan itu sebelum memutuskan apakah berbagi atau tidak."
+      },
+      {
+        "id": "E",
+        "text": "Bahwa kejujuran adalah landasan aliansi terapeutik yang efektif, sehingga psikolog harus menjawab jujur — baik dengan mengakui pengalaman kehilangan jika memang ada, maupun mengakui bahwa ia tidak memiliki pengalaman langsung jika memang belum pernah kehilangan orang terdekat."
+      }
+    ],
+    "key": "A",
+    "explanation": "Prinsip tata kelola self-disclosure dalam konteks terapeutik adalah bahwa setiap informasi yang diungkapkan psikolog harus memiliki manfaat bagi klien, bukan bagi psikolog. Pertimbangan tunggal yang paling mendasar adalah treatment utility: apakah ini menguntungkan Tn. F? Jawaban A tepat karena langsung dan presisi — menetapkan satu kriteria tunggal yang paling fundamental tanpa menambahkan langkah tambahan yang belum tentu perlu. Jawaban D juga valid sebagai teknik (mengeksplorasi makna) tetapi menjadikan eksplorasi sebagai prinsip yang 'lebih mendasar', padahal eksplorasi itu sendiri hanya merupakan cara untuk menerapkan prinsip A. Jawaban B kaku dan melewatkan fleksibilitas self-disclosure terapeutik yang diakui dalam etika profesional."
+  },
+  {
+    "id": "V3_Q03",
+    "domainId": 2,
+    "domainTitle": "Penguasaan Pengetahuan/Keilmuan (Individu sebagai bagian dari sistem ekologis)",
+    "indicatorId": "2.1",
+    "indicatorFullId": "D2-2.1",
+    "indicatorTitle": "Menelaah permasalahan individu berdasarkan teori sistem ekologis",
+    "caseStudy": {
+      "title": "Studi Kasus 3: Penurunan Fungsi Akademik Remaja",
+      "scenario": "R (14 tahun, kelas VIII) mengalami penurunan prestasi akademik selama tiga bulan. Guru menyimpulkan R 'kehilangan motivasi'. Dalam wawancara, R menyatakan masih ingin nilai baik, merasa mampu memahami materi saat belajar sendiri, tetapi sulit berkonsentrasi saat tugas menumpuk. Sejak ibunya bekerja lebih lama, R belajar sendiri dan segan meminta bantuan. Dua teman dekat baru pindah sekolah. R masih memiliki kelompok pertemanan dan tidak menolak teman lain. Ketika membicarakan bidang minatnya, R tampak antusias dan menyebutkan beberapa rencana pendidikan.",
+      "contextTags": ["Sistem Ekologis", "Analisis Multisistem", "Sumber Daya Klien", "Teori Bronfenbrenner"]
+    },
+    "question": "Interpretasi yang PALING tepat terhadap kondisi R dari perspektif ekologis adalah:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Penurunan prestasi R terutama menunjukkan rendahnya motivasi intrinsik sehingga intervensi sebaiknya berfokus pada pengembangan motivasi internal sebelum mempertimbangkan faktor lingkungan."
+      },
+      {
+        "id": "B",
+        "text": "R mengalami gangguan penyesuaian ringan karena perubahan lingkungan keluarga dan pertemanan cukup signifikan, dan diagnosis ini penting sebagai dasar penetapan jenis intervensi yang akan digunakan."
+      },
+      {
+        "id": "C",
+        "text": "Penurunan fungsi akademik R terutama disebabkan berkurangnya dukungan sosial, sehingga intervensi perlu diprioritaskan pada pemulihan sistem dukungan keluarga dan pertemanan sebelum menangani masalah akademik secara langsung."
+      },
+      {
+        "id": "D",
+        "text": "Kondisi R merupakan respons adaptif yang dapat dipahami melalui interaksi antara kapasitas regulasi diri R, berkurangnya dukungan dari mikrosistem keluarga dan pertemanan, serta meningkatnya tuntutan akademik — sementara minat dan rencana masa depan R menunjukkan sumber daya yang masih dapat dikembangkan."
+      },
+      {
+        "id": "E",
+        "text": "Penurunan prestasi R mencerminkan ketidakmampuan regulasi diri dalam menghadapi peningkatan tuntutan akademik, dengan perubahan keluarga dan pertemanan sebagai faktor pemberatan yang perlu dipertimbangkan dalam rencana intervensi."
+      }
+    ],
+    "key": "D",
+    "explanation": "Pendekatan ekologis tidak menetapkan satu faktor sebagai penyebab utama, melainkan memahami kondisi sebagai produk interaksi simultan antar sistem. Jawaban D paling tepat karena: (1) mengintegrasikan faktor individual (kapasitas regulasi diri), (2) faktor mikrosistem (keluarga dan pertemanan yang berubah), (3) tuntutan akademik, dan (4) mengakui sumber daya internal R — tanpa menghierarki salah satu sebagai 'penyebab utama'. Jawaban A, C, dan E masing-masing memilih satu faktor sebagai yang 'terutama', bertentangan dengan prinsip ekologis. Jawaban B melompat ke diagnosis formal tanpa data yang cukup."
+  },
+  {
+    "id": "V3_Q04",
+    "domainId": 3,
+    "domainTitle": "Penguasaan Pengetahuan/Keilmuan (Fungsi dan perubahan perilaku manusia sepanjang hayat)",
+    "indicatorId": "1.1",
+    "indicatorFullId": "D3-1.1",
+    "indicatorTitle": "Membedakan pendekatan utama dalam memahami perilaku manusia",
+    "caseStudy": {
+      "title": "Studi Kasus 4: Perilaku Menghindar pada Remaja",
+      "scenario": "Dj (17 tahun) mulai menghindari interaksi sosial setelah beberapa kali mencoba bergabung dalam percakapan kelompok dan merasa 'salah bicara'. Lama-kelamaan ia memilih tidak mencoba karena 'lebih aman sendiri'. Dalam wawancara, Psikolog mengidentifikasi bahwa setiap kali Dj mempertimbangkan untuk berinteraksi, muncul pikiran otomatis 'pasti akan ditertawakan'. Menghindari situasi sosial segera mengurangi kecemasan Dj, yang ia rasakan sebagai 'lega'.",
+      "contextTags": ["Pendekatan Kognitif Perilakuan", "Pendekatan Behavioral", "Mekanisme Penghindaran", "Psikopatologi Remaja"]
+    },
+    "question": "Mekanisme yang PALING tepat menjelaskan bagaimana perilaku menghindar Dj TERBENTUK dan DIPERTAHANKAN berdasarkan data klinis adalah:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Pengkondisian klasik — stimulus sosial awalnya netral kemudian terkondisi menjadi stimulus aversif melalui pengalaman sosial negatif berulang, sehingga menimbulkan respons kecemasan terkondisi."
+      },
+      {
+        "id": "B",
+        "text": "Interaksi antara pikiran otomatis negatif ('pasti ditertawakan') yang memicu kecemasan, dan penguatan negatif dari perilaku menghindar (perasaan 'lega' setelah menghindari) yang mempertahankan siklus ini — suatu mekanisme kognitif-perilakuan yang saling memperkuat."
+      },
+      {
+        "id": "C",
+        "text": "Defisit keterampilan sosial yang berkembang karena kurangnya pengalaman sosial yang berhasil, dikombinasikan dengan ekspektasi kegagalan yang membuat Dj tidak mencoba, sehingga keterampilan tidak pernah berkembang dan ketakutan terus dipertahankan."
+      },
+      {
+        "id": "D",
+        "text": "Kebutuhan dasar akan penerimaan yang tidak terpenuhi oleh lingkungan sosial Dj, menyebabkan ia mengembangkan strategi protektif dengan menarik diri untuk menghindari pengalaman penolakan lebih lanjut yang akan memperburuk harga diri."
+      },
+      {
+        "id": "E",
+        "text": "Penguatan negatif semata — menghindari situasi sosial mengurangi kecemasan secara langsung, dan pengurangan kecemasan ini memperkuat perilaku menghindar sehingga semakin sulit bagi Dj untuk mencoba berinteraksi kembali."
+      }
+    ],
+    "key": "B",
+    "explanation": "Data klinis secara eksplisit menyebutkan DUA komponen yang berinteraksi: pikiran otomatis ('pasti ditertawakan') DAN penguatan negatif (rasa 'lega' saat menghindari). Mekanisme pembentukan (pikiran otomatis → kecemasan → penghindaran) dan pemeliharaan (penghindaran → lega → diperkuat) keduanya hadir dalam data. Jawaban B menangkap kedua komponen ini sebagai satu siklus yang saling memperkuat — inilah mekanisme CBT klasik. Jawaban E hanya menjelaskan komponen behavioral (penguatan negatif) tanpa komponen kognitif yang secara eksplisit ada dalam data. Jawaban A (pengkondisian klasik) menjelaskan asal-muasal kecemasan tetapi tidak menjawab bagaimana perilaku menghindar DIPERTAHANKAN. Jawaban C mengasumsikan defisit keterampilan yang tidak teridentifikasi dalam data."
+  },
+  {
+    "id": "V3_Q05",
+    "domainId": 4,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Identifikasi Permasalahan/Kebutuhan)",
+    "indicatorId": "1.2",
+    "indicatorFullId": "D4-1.2",
+    "indicatorTitle": "Mengidentifikasi permasalahan/kebutuhan dengan mempertimbangkan keluhan dan intake assessment",
+    "caseStudy": {
+      "title": "Studi Kasus 5: Keluhan Fisik Berulang tanpa Temuan Medis",
+      "scenario": "Tn. K (38 tahun) dirujuk dokter setelah pemeriksaan fisik berulang tidak menemukan kelainan organik. Ia mengeluhkan nyeri kepala hampir setiap hari, rasa berat di dada, dan kelelahan yang tidak hilang meski sudah tidur cukup. Gejala muncul pertama kali sekitar 10 bulan lalu, bersamaan dengan periode evaluasi kinerja di kantor. Ia menyebutkan dirinya perfeksionis dalam bekerja, sering khawatir bila ada tugas yang belum selesai, dan sulit mendelegasikan pekerjaan. Ia juga menyebutkan jadwal kerja meningkat sejak kantor membuka cabang baru. Ia menyangkal gejala depresi dan menyatakan masih menikmati pekerjaan.",
+      "contextTags": ["Identifikasi Masalah", "Keluhan Somatik", "Stres Kerja", "Intake Assessment"]
+    },
+    "question": "Berdasarkan data intake assessment, identifikasi permasalahan yang PALING tepat untuk Tn. K adalah:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Burnout profesional dengan manifestasi somatik — ditandai kelelahan kronik yang tidak pulih dengan istirahat, terjadi dalam konteks tuntutan kerja yang meningkat dan karakteristik kepribadian perfeksionis."
+      },
+      {
+        "id": "B",
+        "text": "Gangguan somatoform yang dipicu stres kerja, di mana tekanan psikologis yang tidak terekspresikan secara langsung dikonversi menjadi keluhan fisik yang menjadi cara Tn. K mengkomunikasikan distres tanpa harus mengakui masalah psikologis."
+      },
+      {
+        "id": "C",
+        "text": "Respons stres berkepanjangan dengan manifestasi somatik, terkait dengan karakteristik perfeksionis dan kesulitan delegasi Tn. K dalam menghadapi peningkatan tuntutan kerja — gambaran ini konsisten dengan data yang ada, meskipun belum memadai untuk menetapkan diagnosis gangguan spesifik."
+      },
+      {
+        "id": "D",
+        "text": "Gangguan kecemasan dengan manifestasi somatik, mengingat pola kekhawatiran berlebihan terhadap tugas yang belum selesai dan kesulitan mendelegasikan pekerjaan mencerminkan kecemasan yang telah melampaui level normal dan memerlukan intervensi klinis."
+      },
+      {
+        "id": "E",
+        "text": "Masalah keseimbangan kerja-kehidupan yang belum berkembang menjadi gangguan klinis, sehingga yang dibutuhkan adalah psikoedukatif tentang manajemen stres, penetapan prioritas, dan teknik relaksasi yang dapat langsung diterapkan Tn. K."
+      }
+    ],
+    "key": "C",
+    "explanation": "Identifikasi masalah berdasarkan intake assessment harus proporsional dengan kedalaman data yang ada. Data yang tersedia cukup untuk menggambarkan pola respons stres yang jelas, tetapi belum cukup untuk menegakkan diagnosis spesifik seperti burnout (yang memerlukan asesmen lebih komprehensif), somatoform/somatisasi (yang memerlukan kriteria diagnostik ketat), atau gangguan kecemasan (yang memerlukan asesmen spesifik lebih lanjut). Jawaban C tepat karena mendeskripsikan gambaran masalah yang akurat berdasarkan data yang ada tanpa overgeneralisasi. Jawaban A, B, dan D mengambil kesimpulan diagnostik yang terlalu spesifik dari data intake yang masih terbatas. Jawaban E terlalu meremehkan dan langsung melompat ke rekomendasi."
+  },
+  {
+    "id": "V3_Q06",
+    "domainId": 4,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Identifikasi Permasalahan/Kebutuhan)",
+    "indicatorId": "1.3",
+    "indicatorFullId": "D4-1.3",
+    "indicatorTitle": "Mengidentifikasi permasalahan/kebutuhan dengan mempertimbangkan faktor pemicu/penyebab",
+    "caseStudy": {
+      "title": "Studi Kasus 6: Mahasiswi dengan Pola Makan Bermasalah",
+      "scenario": "Nv (20 tahun) menceritakan kebiasaan melewatkan makan siang, diikuti 'makan berlebihan' di malam hari yang selalu diikuti rasa bersalah intens. Ia menimbang berat badan hampir setiap hari dan sangat cemas bila angkanya naik. Ia mengaku berpikir tentang makanan dan berat badan hingga mengganggu konsentrasi belajar. Nilainya turun semester ini. Ia tumbuh dalam keluarga yang menekankan penampilan fisik; ibunya sering mengomentari berat badannya sejak kecil. Ia merasa 'satu-satunya hal yang bisa saya kendalikan adalah berat badan saya'. Nv tidak melakukan purgasi.",
+      "contextTags": ["Faktor Pemelihara", "Faktor Predisposisi", "Faktor Presipitasi", "Gangguan Makan"]
+    },
+    "question": "Dari data yang tersedia, yang PALING tepat diidentifikasi sebagai faktor PEMELIHARA (maintaining factor) utama permasalahan Nv saat ini adalah:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Komentar ibunya tentang berat badan sejak kecil yang membentuk skema tubuh negatif yang kini secara otomatis memengaruhi cara Nv mengevaluasi dirinya sendiri setiap hari."
+      },
+      {
+        "id": "B",
+        "text": "Tekanan akademik semester ini yang memperburuk kemampuan regulasi emosi Nv dan menjadikan perilaku makan sebagai satu-satunya strategi koping yang tersedia baginya dalam situasi stres."
+      },
+      {
+        "id": "C",
+        "text": "Siklus pembatasan makan siang yang memicu makan berlebihan di malam hari, yang kemudian menghasilkan rasa bersalah dan pembatasan kembali keesokan harinya — siklus behavioral ini secara langsung mengabadikan pola makan bermasalah Nv."
+      },
+      {
+        "id": "D",
+        "text": "Keyakinan bahwa berat badan adalah satu-satunya domain yang dapat dikendalikan, yang membuat Nv mempertahankan perilaku pembatasan makan sebagai respons terhadap perasaan tidak berdaya di area lain kehidupannya, termasuk akademik yang memburuk."
+      },
+      {
+        "id": "E",
+        "text": "Pemantauan berat badan harian yang berlebihan yang secara langsung memperkuat fokus kognitif pada berat badan dan mencegah Nv untuk bersikap netral terhadap perubahan tubuh yang normal, sehingga mempertahankan kecemasan tentang berat badan sebagai inti dari masalahnya."
+      }
+    ],
+    "key": "C",
+    "explanation": "Faktor pemelihara adalah mekanisme yang secara aktif mengabadikan masalah saat ini — berbeda dari faktor predisposisi (latar belakang) atau presipitasi (pemicu awal). Jawaban C menggambarkan siklus behavioral langsung: pembatasan → lapar/dorongan → makan berlebihan → rasa bersalah → pembatasan kembali. Ini adalah maintaining cycle yang paling langsung dan konkret berdasarkan data. Jawaban A adalah faktor predisposisi (pembentuk skema awal). Jawaban B adalah faktor presipitasi (pemicu terkini). Jawaban D menggambarkan mekanisme kognitif yang berkontribusi tetapi lebih sebagai faktor yang memotivasi perilaku, bukan siklus yang langsung mempertahankan pola makan bermasalah. Jawaban E relevan sebagai pemelihara sekunder."
+  },
+  {
+    "id": "V3_Q07",
+    "domainId": 4,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Identifikasi Permasalahan/Kebutuhan)",
+    "indicatorId": "1.1",
+    "indicatorFullId": "D4-1.1",
+    "indicatorTitle": "Mengetahui cara mengidentifikasi permasalahan/kebutuhan",
+    "caseStudy": {
+      "title": "Studi Kasus 7: Klien Involunter yang Sangat Defensif",
+      "scenario": "Tn. B (45 tahun) datang atas desakan istrinya yang mengancam meninggalkannya. Ia menyatakan tidak merasa ada masalah pada dirinya. Ia mengakui pernah membanting barang dan memukul dinding dua kali dalam setahun, tetapi menjelaskan istrilah yang 'memancing kemarahan'. Ia tampak defensif, mengalihkan topik setiap kali diajak membahas dampak perilakunya, dan menyatakan 'saya ke sini hanya untuk membuktikan bahwa saya tidak gila'.",
+      "contextTags": ["Klien Involunter", "Resistensi", "Identifikasi Kebutuhan", "Rapport"]
+    },
+    "question": "Dalam mengidentifikasi permasalahan Tn. B di sesi pertama, hal yang PALING perlu dijaga oleh psikolog adalah:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Memulai dengan memberikan psikoedukasi tentang perbedaan antara 'memiliki masalah psikologis' dan 'menjadi orang yang bermasalah', karena kesalahpahaman ini yang paling jelas menghambat keterbukaan Tn. B dan perlu dikoreksi sejak awal agar proses identifikasi dapat berjalan."
+      },
+      {
+        "id": "B",
+        "text": "Bahwa identifikasi masalah pada klien involunter tidak dapat dipaksakan; psikolog perlu menciptakan kondisi di mana Tn. B merasa cukup aman untuk mulai membuka diri, karena tanpa rasa aman tersebut data apapun yang dikumpulkan akan terdistorsi oleh defensivitas."
+      },
+      {
+        "id": "C",
+        "text": "Mencatat secara cermat semua inkonsistensi dalam narasi Tn. B sebagai data klinis yang bermakna untuk dianalisis kemudian, karena pola pertahanan diri klien sering mengungkapkan lebih banyak tentang dinamika psikologis daripada apa yang secara eksplisit diungkapkan."
+      },
+      {
+        "id": "D",
+        "text": "Menetapkan batas yang jelas bahwa meskipun Tn. B datang atas paksaan, sesi ini memiliki tujuan tertentu dan psikolog perlu mendapatkan informasi yang memadai untuk menentukan apakah layanan psikologis memang diperlukan."
+      },
+      {
+        "id": "E",
+        "text": "Memulai dengan mengeksplorasi perspektif Tn. B tentang situasi pernikahannya tanpa langsung menantang narasi yang ia bangun, karena pendekatan non-konfrontatif pada sesi pertama memberikan ruang bagi klien untuk merasa didengar sebelum eksplorasi yang lebih mendalam."
+      }
+    ],
+    "key": "B",
+    "explanation": "Pada klien involunter dengan resistensi tinggi, kondisi keamanan psikologis adalah prasyarat mutlak bagi proses identifikasi masalah yang valid. Tanpa rasa aman, semua teknik eksplorasi lainnya akan menghasilkan data yang terdistorsi. Jawaban B secara tepat menempatkan penciptaan rasa aman sebagai hal yang 'paling perlu dijaga', bukan hanya sebagai teknik pertama. Jawaban E mendeskripsikan satu teknik yang benar (non-konfrontatif) tetapi tidak menjelaskan MENGAPA itu penting — yaitu agar data yang dikumpulkan valid. Jawaban A memberikan psikoedukasi terlalu dini sebelum rapport terbentuk. Jawaban C dan D berpusat pada kepentingan data/tujuan psikolog, bukan kebutuhan klien untuk merasa aman."
+  },
+  {
+    "id": "V3_Q08",
+    "domainId": 5,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Tujuan Asesmen)",
+    "indicatorId": "1.2",
+    "indicatorFullId": "D5-1.2",
+    "indicatorTitle": "Memformulasikan tujuan asesmen dengan mempertimbangkan keluhan",
+    "caseStudy": {
+      "title": "Studi Kasus 8: Keluhan Berbeda antara Orang Tua dan Remaja",
+      "scenario": "Ar (15 tahun) diantarkan orang tuanya yang mengeluhkan ia 'sering berbohong dan nilai sekolahnya anjlok'. Orang tua ingin tahu 'ada apa sebenarnya' dengan Ar dan apakah Ar 'bermasalah secara psikologis'. Dalam sesi individual, Ar mengungkapkan bahwa ia menyembunyikan beberapa hal karena 'orang tua tidak akan mengerti'. Ia merasa sangat tertekan oleh ekspektasi orang tua yang tidak realistis, dan sering merasa 'tidak ada gunanya berusaha'. Ar tampak cemas dan kadang menghindari kontak mata saat topik keluarga disinggung.",
+      "contextTags": ["Tujuan Asesmen", "Multiperspektif", "Keluhan Pengirim vs Klien", "Asesmen Remaja"]
+    },
+    "question": "Mempertimbangkan keluhan dari kedua perspektif, formulasi tujuan asesmen yang PALING tepat adalah:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Mengevaluasi ada tidaknya gangguan psikologis pada Ar yang mungkin mendasari penurunan prestasi dan perilaku tidak jujur yang dilaporkan, menggunakan pendekatan asesmen yang berpusat pada keluhan pengirim sebagai titik acuan utama."
+      },
+      {
+        "id": "B",
+        "text": "Memahami kondisi psikologis Ar dari sudut pandangnya sendiri, termasuk sumber tekanan yang ia rasakan dan cara ia meresponsnya, serta mengevaluasi dinamika keluarga yang mungkin berkontribusi pada permasalahan yang dilaporkan."
+      },
+      {
+        "id": "C",
+        "text": "Mengidentifikasi faktor-faktor yang memengaruhi motivasi dan prestasi akademik Ar, karena penurunan prestasi adalah keluhan yang paling konkret dan terukur yang dapat menjadi titik masuk asesmen yang paling produktif."
+      },
+      {
+        "id": "D",
+        "text": "Menilai apakah perilaku Ar yang digambarkan orang tua adalah bagian dari perkembangan remaja normal atau memerlukan intervensi klinis, dengan perspektif Ar sebagai sumber data primer karena ia adalah klien langsung."
+      },
+      {
+        "id": "E",
+        "text": "Memahami gambaran fungsi psikologis Ar secara menyeluruh termasuk kondisi emosional, pola pikir, dan sumber stres yang ia hadapi, mengidentifikasi faktor protektif dan risiko, serta mengevaluasi bagaimana dinamika komunikasi keluarga berinteraksi dengan fungsi Ar — untuk menghasilkan rekomendasi yang komprehensif bagi Ar dan orang tuanya."
+      }
+    ],
+    "key": "B",
+    "explanation": "Tujuan asesmen harus mencerminkan kedua sumber keluhan secara proporsional. Ar mengungkapkan tekanan dari ekspektasi keluarga (perspektifnya sendiri), sedangkan orang tua memiliki kekhawatiran tentang perilaku Ar. Jawaban B paling tepat karena mengintegrasikan perspektif Ar (sumber tekanan dan pola respons) sekaligus mempertimbangkan dinamika keluarga sebagai konteks — tanpa mengasumsikan patologi (A), terlalu mempersempit ke akademik (C), atau membingkai dalam 'normatif vs klinis' yang prematur (D). Jawaban E terlalu luas dan masuk ke wilayah rekomendasi yang bukan bagian dari formulasi tujuan asesmen itu sendiri."
+  },
+  {
+    "id": "V3_Q09",
+    "domainId": 5,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Tujuan Asesmen)",
+    "indicatorId": "1.3",
+    "indicatorFullId": "D5-1.3",
+    "indicatorTitle": "Memformulasikan tujuan asesmen dengan mempertimbangkan dugaan sementara",
+    "caseStudy": {
+      "title": "Studi Kasus 9: Penurunan Kinerja Pasca Promosi",
+      "scenario": "Tn. L (35 tahun) dirujuk HRD karena kinerjanya menurun drastis sejak dipromosikan enam bulan lalu. Sebelumnya ia konsisten berprestasi. Saat ini ia sering terlambat menyelesaikan laporan dan beberapa kali membatalkan keputusan yang sudah ia buat sendiri. Ia mengungkapkan merasa 'tidak layak berada di posisi ini' dan terus khawatir akan 'ketahuan bahwa ia tidak secerdas yang orang-orang kira'. Secara teknis ia merasa bisa menangani pekerjaan, tetapi merasa 'lumpuh' saat harus memimpin rapat atau mempresentasikan hasil kerja.",
+      "contextTags": ["Dugaan Sementara", "Impostor Phenomenon", "Kecemasan Performa", "Tujuan Asesmen"]
+    },
+    "question": "Berdasarkan dugaan sementara yang paling kuat dari data, tujuan asesmen yang PALING tepat untuk Tn. L adalah:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Menilai kompetensi aktual Tn. L dalam peran barunya secara objektif, untuk memverifikasi apakah kekhawatirannya tentang ketidaklayakan mencerminkan kondisi nyata atau merupakan distorsi persepsi yang memerlukan intervensi psikologis."
+      },
+      {
+        "id": "B",
+        "text": "Membedakan apakah penurunan kinerja Tn. L disebabkan oleh kurangnya keterampilan manajerial yang dibutuhkan dalam peran baru, atau oleh hambatan psikologis yang menghalangi ekspresi kemampuan yang sebenarnya ia miliki."
+      },
+      {
+        "id": "C",
+        "text": "Memahami pola keyakinan Tn. L tentang diri sendiri dalam konteks evaluatif, mekanisme kopingnya menghadapi peran kepemimpinan, dan apakah kondisinya lebih tepat dipahami sebagai fenomena impostorisme dan/atau kecemasan performa yang memerlukan intervensi."
+      },
+      {
+        "id": "D",
+        "text": "Mengevaluasi faktor stres spesifik dalam peran baru Tn. L dan sumber dukungan yang tersedia dari atasan dan rekan, untuk menentukan apakah permasalahan ini lebih bersifat situasional atau mencerminkan karakteristik individual yang memerlukan penanganan psikologis jangka panjang."
+      },
+      {
+        "id": "E",
+        "text": "Mengidentifikasi tingkat kecemasan klinis Tn. L dan menentukan apakah ia memenuhi kriteria gangguan kecemasan yang membutuhkan intervensi terapeutik, serta menilai kapasitas kerjanya untuk menginformasikan keputusan HRD tentang posisi jabatannya."
+      }
+    ],
+    "key": "C",
+    "explanation": "Dugaan sementara yang paling kuat dari data adalah fenomena impostor dan/atau kecemasan performa: narasi 'tidak layak', 'ketahuan tidak secerdas', dan 'lumpuh saat tampil publik' meskipun secara teknis merasa mampu. Tujuan asesmen harus menarget dugaan ini secara langsung. Jawaban C paling tepat karena secara eksplisit menarget komponen kunci: pola keyakinan dalam konteks evaluatif dan mekanisme koping — sekaligus membuka kemungkinan diferensial yang relevan. Jawaban A berfokus pada verifikasi kompetensi objektif yang bukan inti permasalahan. Jawaban B memisahkan 'keterampilan vs hambatan psikologis' padahal keduanya bisa simultan. Jawaban D terlalu menekankan faktor lingkungan. Jawaban E mengarah ke keputusan HRD yang bukan tujuan asesmen psikologis."
+  },
+  {
+    "id": "V3_Q10",
+    "domainId": 5,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Tujuan Asesmen)",
+    "indicatorId": "1.4",
+    "indicatorFullId": "D5-1.4",
+    "indicatorTitle": "Memformulasikan tujuan asesmen secara komprehensif",
+    "caseStudy": {
+      "title": "Studi Kasus 10: Anak Prasekolah dengan Keterlambatan Bicara",
+      "scenario": "Rn (4,5 tahun) diantarkan orang tuanya karena kosakata sangat terbatas dan belum bisa membentuk kalimat dua kata secara konsisten. Dokter anak menyatakan tidak ada kelainan pendengaran atau fisik. Orang tua melaporkan Rn sangat aktif secara fisik, suka bermain konstruktif, dan kontak mata baik. Namun Rn lebih suka bermain sendiri, kurang tertarik pada permainan bersama teman sebaya, dan memiliki rutinitas bermain yang sangat ketat — menjadi sangat distres bila rutinitasnya terganggu.",
+      "contextTags": ["Asesmen Komprehensif", "Keterlambatan Bicara", "Asesmen Perkembangan", "Diferensial"]
+    },
+    "question": "Tujuan asesmen yang PALING komprehensif dan tepat untuk Rn adalah:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Melakukan skrining awal untuk gangguan spektrum autisme mengingat adanya karakteristik yang relevan, kemudian menilai keterlambatan bahasa dalam konteks temuan skrining tersebut untuk menentukan diagnosis yang paling tepat."
+      },
+      {
+        "id": "B",
+        "text": "Menilai profil perkembangan Rn secara menyeluruh mencakup kemampuan bahasa, kognisi, dan fungsi sosial-adaptif — dengan perhatian khusus pada interaksi antardomain — untuk menentukan apakah keterlambatan bahasa berdiri sendiri atau merupakan bagian dari profil perkembangan yang lebih luas."
+      },
+      {
+        "id": "C",
+        "text": "Menilai kemampuan bahasa dan kognitif Rn secara terpisah untuk menentukan apakah keterlambatan bicara mencerminkan keterlambatan kognitif umum atau keterlambatan yang spesifik pada domain bahasa saja."
+      },
+      {
+        "id": "D",
+        "text": "Mengevaluasi kualitas stimulasi bahasa di lingkungan rumah dan frekuensi interaksi verbal antara Rn dan pengasuh sebagai faktor lingkungan yang paling mungkin menjelaskan keterlambatan bicara Rn."
+      },
+      {
+        "id": "E",
+        "text": "Menilai perkembangan bahasa dan bicara Rn secara mendetail untuk mengidentifikasi jenis dan tingkat keterlambatan yang dialami, kemudian mengidentifikasi faktor yang mungkin berkontribusi baik dari sisi individual maupun lingkungan."
+      }
+    ],
+    "key": "B",
+    "explanation": "Data menunjukkan gambaran yang lebih kompleks dari sekadar keterlambatan bahasa terisolir: preferensi bermain sendiri, kurang tertarik pada peer play, dan keterikatan kuat pada rutinitas — ini adalah kombinasi yang memerlukan asesmen profil perkembangan menyeluruh, bukan hanya bahasa. Jawaban B paling tepat karena menarget profil perkembangan secara komprehensif (bahasa, kognisi, sosial-adaptif) tanpa langsung menetapkan arah diagnostik tertentu. Jawaban A terlalu dini menetapkan arah sebagai 'skrining autisme' sebelum data lebih lengkap. Jawaban C mengabaikan dimensi sosial yang menonjol. Jawaban D hanya fokus faktor lingkungan. Jawaban E sempit pada domain bahasa saja."
+  },
+  {
+    "id": "V3_Q11",
+    "domainId": 6,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Menentukan Metode Asesmen)",
+    "indicatorId": "1.2",
+    "indicatorFullId": "D6-1.2",
+    "indicatorTitle": "Membedakan metode asesmen yang tepat berdasarkan karakteristik klien",
+    "caseStudy": {
+      "title": "Studi Kasus 11: Klien dengan Trauma Kompleks dan Episode Disosiatif",
+      "scenario": "Ny. P (34 tahun) memiliki riwayat trauma kompleks sejak masa kecil. Ia melaporkan episode disosiatif, kesulitan mempercayai orang lain, dan reaksi kecemasan intens terhadap berbagai situasi. Dalam wawancara awal, ia menunjukkan keterbukaan yang fluktuatif — kadang sangat terbuka, kadang tiba-tiba diam dan tampak tidak hadir. Ia pernah mengikuti satu sesi psikotes sebelumnya dan merasa pengalaman itu 'sangat melelahkan karena terlalu banyak pertanyaan yang menerobos masuk sekaligus'.",
+      "contextTags": ["Metode Asesmen", "Trauma Kompleks", "Window of Tolerance", "Pendekatan Bertahap"]
+    },
+    "question": "Pertimbangan paling KRITIS dalam pemilihan metode asesmen untuk Ny. P adalah:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Memilih instrumen asesmen trauma yang telah tervalidasi secara khusus untuk populasi trauma kompleks, karena penggunaan instrumen yang tepat adalah jaminan validitas data yang diperoleh."
+      },
+      {
+        "id": "B",
+        "text": "Bahwa metode apapun yang dipilih harus responsif terhadap kapasitas toleransi Ny. P dan tidak memaksakan pemrosesan material traumatik melebihi jendela toleransinya, karena pelanggaran terhadap prinsip ini berisiko retraumatisasi."
+      },
+      {
+        "id": "C",
+        "text": "Menunda seluruh asesmen formal dan memulai dengan sesi stabilisasi terlebih dahulu agar Ny. P memiliki keterampilan regulasi emosi yang memadai sebelum mengeksplorasi materi yang berpotensi memicu disosiasi."
+      },
+      {
+        "id": "D",
+        "text": "Menggunakan wawancara semi-terstruktur yang dapat diisi sebagian oleh klien antarsesi karena memberikan kontrol lebih kepada Ny. P tentang informasi apa yang ingin ia bagikan dan kapan waktunya."
+      },
+      {
+        "id": "E",
+        "text": "Menyusun pendekatan asesmen bertahap yang dimulai dengan wawancara berpusat klien, mengintegrasikan instrumen formal secara bertahap hanya ketika rapport sudah kuat, dan terus memantau indikator disosiatif sebagai panduan kecepatan proses asesmen."
+      }
+    ],
+    "key": "B",
+    "explanation": "Pertimbangan paling kritis adalah prinsip 'do no harm' dalam konteks trauma — yaitu tidak melebihi kapasitas toleransi klien. Prinsip ini lebih fundamental dari pemilihan instrumen spesifik (A), strategi waktu asesmen (C, E), atau format administrasi (D). Jawaban B tepat karena mengidentifikasi prinsip yang harus mendasari SEMUA keputusan metode lainnya — apapun instrumen yang dipilih, apapun formatnya, prinsip responsivitas terhadap jendela toleransi tidak dapat dikompromikan. Jawaban E mendeskripsikan satu pendekatan yang baik, tetapi sebagai 'pertimbangan paling kritis', B lebih fundamental karena B adalah prinsip, sedangkan E adalah salah satu implementasi dari prinsip tersebut."
+  },
+  {
+    "id": "V3_Q12",
+    "domainId": 6,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Menentukan Metode Asesmen)",
+    "indicatorId": "1.3",
+    "indicatorFullId": "D6-1.3",
+    "indicatorTitle": "Membedakan metode asesmen yang tepat berdasarkan konteks atau latar layanan",
+    "caseStudy": {
+      "title": "Studi Kasus 12: Evaluasi Fitness to Stand Trial",
+      "scenario": "Psikolog diminta mengevaluasi Tn. W (28 tahun) yang ditahan dalam kasus dugaan penipuan. Pengacara meminta asesmen kapasitas mental untuk mengikuti persidangan. Tn. W tampak kooperatif dan memahami pertanyaan dengan baik. Namun, ia memberikan jawaban yang tidak konsisten ketika topik kronologi kejadian dibahas. Ia menyebutkan mendengar 'bisikan' belakangan ini, tetapi ketika dieksplorasi lebih lanjut, ia tampak ragu dan mengubah pernyataannya.",
+      "contextTags": ["Konteks Forensik", "Fitness to Stand Trial", "Malingering", "Inkonsistensi"]
+    },
+    "question": "Pertimbangan yang PALING tepat dalam merancang metode asesmen untuk Tn. W adalah:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Menggunakan instrumen terstandar untuk menilai fitness to stand trial (seperti MacCAT-CA) yang telah tervalidasi secara forensik, dikombinasikan dengan wawancara klinis mendalam tentang pemahaman Tn. W terhadap proses hukum."
+      },
+      {
+        "id": "B",
+        "text": "Mengutamakan wawancara klinis terstruktur dan observasi perilaku yang cermat karena inkonsistensi yang muncul selama sesi merupakan data klinis yang paling langsung dapat menggambarkan kondisi kapasitas mental Tn. W."
+      },
+      {
+        "id": "C",
+        "text": "Menginkorporasikan instrumen evaluasi fitness to stand trial yang tervalidasi forensik bersama instrumen symptom validity testing untuk mengevaluasi kemungkinan simulasi gejala — yang sangat relevan mengingat inkonsistensi pernyataan tentang 'bisikan' — serta menggunakan rekam historis dan informasi kolateral untuk triangulasi."
+      },
+      {
+        "id": "D",
+        "text": "Melakukan evaluasi neuropsikologis komprehensif terlebih dahulu untuk menyingkirkan kemungkinan gangguan kognitif organik yang dapat memengaruhi kapasitas Tn. W mengikuti persidangan sebelum menerapkan instrumen forensik."
+      },
+      {
+        "id": "E",
+        "text": "Menunda administrasi instrumen formal hingga dua atau tiga sesi wawancara selesai agar rapport yang cukup terbentuk dan Tn. W memberikan informasi yang lebih konsisten."
+      }
+    ],
+    "key": "C",
+    "explanation": "Konteks forensik dengan inkonsistensi yang jelas memerlukan metode yang secara bersamaan dapat: (1) mengevaluasi kapasitas mengikuti persidangan, dan (2) mengevaluasi kemungkinan simulasi gejala. Inkonsistensi pernyataan tentang 'bisikan' yang kemudian dimodifikasi adalah tanda kuat yang harus memicu evaluasi malingering secara formal. Jawaban C mencakup kedua elemen ini plus triangulasi dari sumber lain. Jawaban A sudah baik tetapi tidak mencakup symptom validity testing yang sangat relevan dengan inkonsistensi yang terdeteksi. Jawaban B terlalu mengandalkan wawancara yang mudah dipengaruhi simulasi. Jawaban D tidak langsung menarget pertanyaan fitness to stand trial. Jawaban E mengorbankan objektivitas forensik demi rapport."
+  },
+  {
+    "id": "V3_Q13",
+    "domainId": 6,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Menentukan Metode Asesmen)",
+    "indicatorId": "1.4",
+    "indicatorFullId": "D6-1.4",
+    "indicatorTitle": "Membandingkan dan memilih metode asesmen yang sesuai dengan karakteristik klien",
+    "caseStudy": {
+      "title": "Studi Kasus 13: Asesmen Kepribadian pada Klien dengan Kecurigaan Tinggi",
+      "scenario": "Tn. G (52 tahun) dirujuk untuk asesmen kepribadian terkait konflik kerja berulang. Ia sangat berhati-hati sepanjang wawancara, sering mempertanyakan tujuan setiap pertanyaan, dan menyatakan 'jawaban dalam tes psikologi bisa dimanipulasi'. Ia mau hadir tetapi mengingatkan bahwa 'hanya akan mengungkapkan apa yang menurut saya aman'. Ia berpendidikan tinggi dan pernah membaca buku tentang psikologi kepribadian.",
+      "contextTags": ["Pemilihan Metode", "Kecurigaan", "Validitas Respons", "Asesmen Kepribadian"]
+    },
+    "question": "Membandingkan metode asesmen kepribadian yang tersedia, metode yang PALING tepat untuk Tn. G adalah:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Inventori kepribadian dengan skala validitas yang kuat (seperti MMPI-2/3) karena skala validitasnya dapat mendeteksi upaya manipulasi respons yang secara eksplisit dikemukakan oleh Tn. G."
+      },
+      {
+        "id": "B",
+        "text": "Teknik proyektif seperti Rorschach karena sifatnya yang ambigu membuat respons lebih sulit dimanipulasi secara sadar, sehingga lebih dapat mengungkap kepribadian pada klien yang berusaha mengontrol jawabannya."
+      },
+      {
+        "id": "C",
+        "text": "Wawancara klinis terstruktur dengan pendekatan behavioral yang berfokus pada deskripsi peristiwa konkret di masa lalu, karena fakta perilaku lebih sulit dikontrol daripada respons kuesioner dan menghasilkan data yang lebih dapat diverifikasi."
+      },
+      {
+        "id": "D",
+        "text": "Kombinasi wawancara klinis mendalam, observasi perilaku selama sesi, dan data kolateral yang tersedia — karena profil kepribadian yang valid pada klien dengan kecurigaan tinggi dan kemungkinan kontrol respons tidak dapat bergantung pada satu metode saja."
+      },
+      {
+        "id": "E",
+        "text": "Menunda pemilihan metode formal dan terlebih dahulu membangun kepercayaan melalui beberapa sesi eksplorasi tidak terstruktur, karena kecurigaan tinggi akan membuat semua metode menghasilkan data tidak valid jika diterapkan terlalu dini."
+      }
+    ],
+    "key": "D",
+    "explanation": "Klien yang secara eksplisit menyatakan akan mengontrol jawabannya dan memiliki pengetahuan tentang psikologi kepribadian membuat satu metode tunggal tidak dapat diandalkan: MMPI-2 bisa dipelajari cara 'mengontrolnya' oleh individu berpendidikan tinggi (A); teknik proyektif juga bisa dipelajari cara meresponsnya (B); wawancara terstruktur rentan terhadap kontrol naratif (C). Hanya triangulasi multi-metode (D) yang paling sulit dimanipulasi secara bersamaan dan menghasilkan data dengan validitas lebih tinggi melalui inkonsistensi antar-sumber. Jawaban E menunda asesmen tanpa batas yang tidak praktis dan tidak menyelesaikan masalah validitas."
+  },
+  {
+    "id": "V3_Q14",
+    "domainId": 6,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Menentukan Metode Asesmen)",
+    "indicatorId": "1.6",
+    "indicatorFullId": "D6-1.6",
+    "indicatorTitle": "Melakukan evaluasi terhadap metode asesmen berdasarkan kesesuaian dengan karakteristik klien",
+    "caseStudy": {
+      "title": "Studi Kasus 14: Tes Kecerdasan pada Anak dari Latar Budaya Minoritas",
+      "scenario": "Psikolog mengevaluasi hasil WISC-V yang telah diadministrasikan kepada Mt (8 tahun), anak dari suku tertentu yang baru berpindah ke kota tiga bulan lalu. Mt mengikuti instruksi dengan baik tetapi kebingungan pada beberapa subtes yang memuat konten gambar dan cerita dengan latar perkotaan. Guru melaporkan bahwa di kelas, Mt justru menunjukkan kemampuan problem-solving yang baik dalam tugas-tugas yang familiar baginya.",
+      "contextTags": ["Evaluasi Instrumen", "Bias Budaya", "Validitas Ekologis", "Interpretasi Asesmen"]
+    },
+    "question": "Evaluasi yang PALING tepat terhadap kesesuaian instrumen dan hasil asesmen Mt adalah:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Hasil tes dapat diinterpretasikan secara hati-hati karena instrumen sudah diadaptasi untuk Indonesia; yang diperlukan adalah catatan tentang keterbatasan sampel norma dalam laporan."
+      },
+      {
+        "id": "B",
+        "text": "Hasil tes harus diinterpretasikan sebagai estimasi batas bawah kemampuan Mt, karena konten yang tidak familiar berpotensi melemahkan performa tanpa mencerminkan kapasitas kognitif sebenarnya — dan kesenjangan antara skor tes dengan fungsi nyata di kelas harus menjadi pertimbangan utama dalam interpretasi."
+      },
+      {
+        "id": "C",
+        "text": "Instrumen ini tidak valid untuk digunakan pada Mt karena bias budaya yang jelas, sehingga hasil harus dianulir sepenuhnya dan digantikan dengan instrumen yang lebih culture-fair seperti Raven's Progressive Matrices yang tidak bergantung pada konten budaya spesifik."
+      },
+      {
+        "id": "D",
+        "text": "Administrasi ulang perlu dilakukan setelah Mt beradaptasi dengan lingkungan kota selama setidaknya satu tahun penuh, karena hasil yang diperoleh saat ini terlalu dipengaruhi oleh faktor akulturasi yang belum selesai."
+      },
+      {
+        "id": "E",
+        "text": "Hasil tes tetap bermakna jika dilengkapi dengan observasi terstruktur dan penilaian berbasis kurikulum menggunakan materi yang familiar, sehingga profil kemampuan Mt dapat dipahami lebih lengkap dari berbagai sumber data yang saling melengkapi."
+      }
+    ],
+    "key": "B",
+    "explanation": "Evaluasi instrumen yang baik harus menilai ancaman validitas secara spesifik dan menarik implikasi yang proporsional. Inkonsistensi antara skor tes (terpengaruh konten tidak familiar) dan fungsi nyata di kelas (baik dalam tugas familiar) adalah sinyal kritis bahwa skor tidak mencerminkan kapasitas penuh. Jawaban B paling tepat karena: mengidentifikasi implikasi spesifik dari bias (estimasi batas bawah), tidak mengabaikan hasil sepenuhnya, dan menekankan integrasi dengan data fungsi nyata. Jawaban A terlalu meremehkan ancaman validitas. Jawaban C terlalu ekstrem menganulir seluruh hasil. Jawaban D menunda asesmen secara tidak perlu. Jawaban E valid sebagai langkah tambahan tetapi tidak secara langsung mengevaluasi masalah validitas instrumen yang sudah digunakan."
+  },
+  {
+    "id": "V3_Q15",
+    "domainId": 6,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Menentukan Metode Asesmen)",
+    "indicatorId": "1.7",
+    "indicatorFullId": "D6-1.7",
+    "indicatorTitle": "Melakukan evaluasi terhadap metode asesmen berdasarkan pertimbangan konteks layanan",
+    "caseStudy": {
+      "title": "Studi Kasus 15: Protokol Asesmen di Klinik Komunitas",
+      "scenario": "Psikolog baru bergabung dengan klinik kesehatan jiwa komunitas yang melayani populasi sosial-ekonomi rendah. Protokol asesmen yang berlaku mencakup baterai tes 4-5 jam termasuk tes proyektif dan inventori kepribadian panjang. Banyak klien tidak menyelesaikan sesi karena harus kembali bekerja, waktu tunggu rata-rata 6 minggu, dan beberapa klien yang seharusnya segera mendapat intervensi akhirnya tidak melanjutkan.",
+      "contextTags": ["Evaluasi Protokol", "Aksesibilitas Layanan", "Konteks Komunitas", "Stepped Care"]
+    },
+    "question": "Evaluasi dan rekomendasi yang PALING tepat terhadap protokol asesmen yang berjalan adalah:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Protokol perlu dipertahankan karena kedalaman asesmen menjamin kualitas diagnosis; yang perlu diperbaiki adalah manajemen antrian agar waktu tunggu berkurang tanpa mengorbankan standar klinis."
+      },
+      {
+        "id": "B",
+        "text": "Menghapus komponen tes proyektif dari protokol karena reliabilitas dan validitasnya lebih lemah dibanding inventori kepribadian, sehingga pengurangan waktu dapat dicapai tanpa kehilangan kualitas secara substantif."
+      },
+      {
+        "id": "C",
+        "text": "Merancang ulang protokol berbasis prinsip stepped care — asesmen minimal yang cukup untuk memfasilitasi intervensi awal, dengan pendalaman hanya untuk kasus yang memerlukan keputusan klinis kompleks — sehingga aksesibilitas dan kedalaman klinis dapat diseimbangkan secara sistemik."
+      },
+      {
+        "id": "D",
+        "text": "Mengadvokasi kepada manajemen klinik untuk menambah tenaga psikolog agar beban per klinisi berkurang sehingga protokol yang ada dapat dijalankan dengan waktu tunggu yang lebih singkat."
+      },
+      {
+        "id": "E",
+        "text": "Mengganti semua instrumen dengan versi singkat yang telah tervalidasi, karena instrument singkat sudah cukup akurat untuk konteks layanan komunitas dan pengurangan waktu administrasi akan langsung mengurangi waktu tunggu secara signifikan."
+      }
+    ],
+    "key": "C",
+    "explanation": "Evaluasi protokol dalam konteks komunitas harus mempertimbangkan keseimbangan antara kedalaman klinis dan aksesibilitas. Data menunjukkan protokol saat ini menciptakan hambatan akses nyata — klien dropout, tidak mendapat intervensi tepat waktu. Prinsip stepped care adalah pendekatan yang dirancang khusus untuk menyelesaikan trade-off ini secara sistemik: tidak mengorbankan kedalaman untuk semua kasus, tetapi tidak juga memaksa semua kasus melalui protokol yang sama. Jawaban A mengabaikan masalah protokol itu sendiri. Jawaban B dan E hanya mengubah komposisi/format tanpa prinsip yang tepat untuk konteks komunitas. Jawaban D tidak menyelesaikan masalah protokol."
+  },
+  {
+    "id": "V3_Q16",
+    "domainId": 7,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Integrasi Data)",
+    "indicatorId": "1.2",
+    "indicatorFullId": "D7-1.2",
+    "indicatorTitle": "Menginterpretasikan data asesmen untuk menyusun dinamika psikologis",
+    "caseStudy": {
+      "title": "Studi Kasus 16: Pola Kerja Berulang dengan Siklus Resign",
+      "scenario": "Tn. Y (31 tahun) tidak dapat mempertahankan pekerjaan. Hasil asesmen: IQ rata-rata atas; tes kepribadian menunjukkan skor tinggi pada kebutuhan persetujuan sosial dan sensitivitas terhadap penolakan; dalam wawancara ia mengungkapkan pola berulang — di setiap pekerjaan baru ia sangat antusias dan bekerja keras, kemudian tiba-tiba merasa 'tidak dihargai' ketika mendapat umpan balik kritis, dan mengundurkan diri. Beberapa atasan lamanya digambarkan sangat positif di awal, kemudian sangat negatif di kemudian hari.",
+      "contextTags": ["Integrasi Data", "Pola Interpersonal", "Idealisasi-Devaluasi", "Dinamika Psikologis"]
+    },
+    "question": "Interpretasi yang PALING tepat mengintegrasikan seluruh data asesmen Tn. Y adalah:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Regulasi emosi Tn. Y tidak seimbang dengan kapasitas kognitifnya, sehingga respons emosional terhadap umpan balik kritis lebih dominan dari pertimbangan rasional."
+      },
+      {
+        "id": "B",
+        "text": "Pola kerja Tn. Y mencerminkan siklus yang melibatkan kebutuhan tinggi untuk disetujui, sensitivitas intens terhadap evaluasi negatif, dan pola idealisasi-devaluasi terhadap figur otoritas yang secara bersamaan mengganggu kemampuannya mempertahankan hubungan kerja."
+      },
+      {
+        "id": "C",
+        "text": "Gaya kerja Tn. Y yang tinggi menciptakan ekspektasi apresiasi yang tidak realistis dari lingkungan, sehingga ia rentan terhadap kekecewaan berulang ketika lingkungan tidak merespons sesuai ekspektasi tersebut."
+      },
+      {
+        "id": "D",
+        "text": "Citra diri ideal Tn. Y yang tinggi bertentangan dengan penilaian dirinya tentang respons lingkungan, menciptakan kesenjangan yang memicu reaksi intense terhadap umpan balik kritis."
+      },
+      {
+        "id": "E",
+        "text": "Pengalaman attachment yang tidak aman di masa lalu kemungkinan teraktivasi dalam hubungan dengan figur otoritas, menyebabkan pola idealisasi awal yang diikuti rasa tidak aman ketika hubungan menjadi evaluatif dan Tn. Y merasa kebutuhannya tidak terpenuhi."
+      }
+    ],
+    "key": "B",
+    "explanation": "Interpretasi yang baik mengintegrasikan SEMUA sumber data secara koheren. Jawaban B menghubungkan tiga data yang tersedia menjadi satu narasi: (1) skor kebutuhan persetujuan dan sensitivitas penolakan dari tes kepribadian, (2) pola idealisasi-devaluasi figur atasan dari wawancara, dan (3) siklus berulang yang konsisten. Ketiganya terhubung dalam satu mekanisme yang menjelaskan baik terbentuknya maupun dipertahankannya pola. Jawaban A hanya menggunakan satu aspek data (regulasi emosi). Jawaban E menggunakan kerangka attachment yang valid sebagai hipotesis etiologis tetapi tidak secara langsung mendeskripsikan dinamika aktual berdasarkan data yang ada. Jawaban C dan D masing-masing hanya merangkum satu elemen."
+  },
+  {
+    "id": "V3_Q17",
+    "domainId": 7,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Integrasi Data)",
+    "indicatorId": "1.3",
+    "indicatorFullId": "D7-1.3",
+    "indicatorTitle": "Mengidentifikasi data asesmen yang tepat untuk menyusun dinamika psikologis",
+    "caseStudy": {
+      "title": "Studi Kasus 17: Data Asesmen Komprehensif pada Anak yang Sering Bertengkar",
+      "scenario": "Psikolog telah melakukan asesmen komprehensif terhadap Dn (12 tahun) yang dirujuk karena sering bertengkar dengan teman dan guru. Data yang tersedia: (a) IQ 95, tidak ada kesenjangan signifikan antar domain; (b) TAT: tema kemarahan dan pengkhianatan oleh figur yang dipercaya; (c) Wawancara: ayah digambarkan sebagai figur yang 'tidak bisa dipercaya' karena sering tidak menepati janji; (d) Laporan guru: Dn bereaksi keras terhadap situasi yang dipersepsikan tidak adil; (e) Tidak ada riwayat gangguan perkembangan; (f) Fungsi eksekutif dalam rentang normal; (g) Skala kecemasan: skor rendah.",
+      "contextTags": ["Seleksi Data Relevan", "Dinamika Psikologis", "Data Primer vs Sekunder", "Formulasi Kasus"]
+    },
+    "question": "Data yang PALING relevan untuk menyusun dinamika psikologis terkait masalah interpersonal Dn adalah:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Data (a), (e), dan (f) karena bersama-sama menunjukkan bahwa perilaku Dn bukan akibat keterbatasan kognitif atau gangguan perkembangan, sehingga penyebabnya harus dicari di tempat lain."
+      },
+      {
+        "id": "B",
+        "text": "Data (b), (c), dan (d) — tema pengkhianatan figur yang dipercaya dalam TAT, gambaran ayah yang tidak dapat dipercaya, dan reaksi keras terhadap ketidakadilan yang dipersepsikan — karena ketiganya secara koheren membentuk narasi skema interpersonal yang terbentuk dari kekecewaan dengan figur yang dipercaya."
+      },
+      {
+        "id": "C",
+        "text": "Data (b) dan (d) saja sudah cukup untuk menyusun dinamika psikologis yang akurat, karena data proyektif dan observasi perilaku langsung memberikan informasi yang paling objektif tentang pola psikologis Dn."
+      },
+      {
+        "id": "D",
+        "text": "Seluruh data (a) hingga (g) karena formulasi kasus yang komprehensif harus mempertimbangkan semua informasi yang tersedia agar tidak ada faktor yang terlewatkan."
+      },
+      {
+        "id": "E",
+        "text": "Data (c), (d), dan (g) karena kombinasi gambaran ayah, pola respons di sekolah, dan skor kecemasan yang rendah menunjukkan bahwa Dn memiliki masalah kepercayaan interpersonal yang bukan berbasis kecemasan."
+      }
+    ],
+    "key": "B",
+    "explanation": "Seleksi data yang relevan mensyaratkan memilih data yang secara langsung menjelaskan MEKANISME masalah interpersonal, bukan hanya data yang menyingkirkan hipotesis alternatif. Jawaban B mengidentifikasi tiga data yang membentuk narasi kausal yang koheren: pengalaman kekecewaan dengan ayah (c) → skema bahwa figur yang dipercaya akhirnya mengkhianati (b) → aktivasi dalam situasi yang dipersepsikan tidak adil di sekolah (d). Ini adalah data yang menjelaskan MENGAPA masalah terjadi. Jawaban A hanya mengidentifikasi apa yang BUKAN penyebab. Jawaban C mengabaikan data wawancara yang sangat informatif. Jawaban D memasukkan semua data tanpa seleksi yang tidak membuat formulasi lebih fokus. Jawaban E kurang lengkap karena mengabaikan data proyektif yang sangat relevan."
+  },
+  {
+    "id": "V3_Q18",
+    "domainId": 7,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Integrasi Data)",
+    "indicatorId": "1.4",
+    "indicatorFullId": "D7-1.4",
+    "indicatorTitle": "Mengintegrasikan data asesmen untuk menyusun dinamika psikologis",
+    "caseStudy": {
+      "title": "Studi Kasus 18: Gejala Campuran Depresi-Kecemasan dengan Pola Episodik",
+      "scenario": "Ny. T (44 tahun) menjalani asesmen komprehensif. Data: (1) PHQ-9: skor 14 (depresi sedang); (2) GAD-7: skor 16 (kecemasan sedang-berat); (3) Wawancara: sangat perfeksionis, merasa bertanggung jawab penuh atas keberhasilan timnya; (4) Pola tidur: insomnia onset karena pikiran berputar tentang pekerjaan; (5) Riwayat: pola serupa pernah terjadi 5 tahun lalu saat menghadapi proyek besar; (6) Sumber daya: pernikahan stabil, jaringan sosial cukup; (7) Situasi saat ini: sedang memimpin proyek terbesar dalam kariernya.",
+      "contextTags": ["Integrasi Multi-Sumber", "Dinamika Siklus", "Faktor Pemelihara", "Formulasi Kasus"]
+    },
+    "question": "Dinamika psikologis Ny. T yang PALING tepat berdasarkan integrasi seluruh data adalah:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Depresi dan kecemasan komorbid yang diperburuk oleh stresor situasional proyek besar, dengan faktor protektif berupa dukungan pernikahan yang stabil."
+      },
+      {
+        "id": "B",
+        "text": "Respons stres proporsional terhadap tekanan proyek besar yang kemungkinan akan mereda setelah proyek selesai, sehingga intervensi intensif mungkin tidak diperlukan."
+      },
+      {
+        "id": "C",
+        "text": "Standar perfeksionistik dan rasa tanggung jawab berlebihan Ny. T berfungsi sebagai skema pemelihara yang mengaktivasi kecemasan intens dalam situasi proyek besar, yang berkontribusi pada insomnia dan memperburuk regulasi emosi hingga memunculkan gejala depresi — membentuk siklus yang teraktivasi berulang saat tekanan tinggi, konsisten dengan riwayat episode sebelumnya."
+      },
+      {
+        "id": "D",
+        "text": "Skor PHQ-9 dan GAD-7 yang tinggi menunjukkan komorbiditas klinis yang memerlukan intervensi segera, dengan sumber daya pernikahan yang stabil sebagai faktor protektif yang dapat dimanfaatkan dalam rencana terapi."
+      },
+      {
+        "id": "E",
+        "text": "Pola episodik yang berulang dalam konteks tekanan tinggi mengindikasikan kemungkinan gangguan mood episodik dengan komponen siklotimik yang perlu dievaluasi lebih lanjut melalui pemeriksaan psikiatri sebelum memulai intervensi psikologis."
+      }
+    ],
+    "key": "C",
+    "explanation": "Dinamika psikologis yang baik adalah narasi kausal yang menghubungkan semua data dalam satu siklus yang bermakna. Jawaban C mengintegrasikan: (1) karakteristik kepribadian — perfeksionisme dan rasa tanggung jawab berlebihan; (2) situasi pemicu — proyek besar; (3) mekanisme siklus: kecemasan → insomnia → gangguan regulasi → depresi; (4) pola episodik yang konsisten. Ini menghasilkan narasi yang dapat langsung memandu intervensi. Jawaban A hanya menyebutkan komorbiditas dan faktor protektif tanpa menjelaskan mekanisme yang menghubungkan. Jawaban B meremehkan tingkat keparahan. Jawaban D hanya merangkum skor tanpa dinamika. Jawaban E melompat ke hipotesis diagnostik baru yang belum didukung data."
+  },
+  {
+    "id": "V3_Q19",
+    "domainId": 7,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Integrasi Data)",
+    "indicatorId": "1.1",
+    "indicatorFullId": "D7-1.1",
+    "indicatorTitle": "Mengetahui prinsip dasar dalam menyusun dinamika psikologis",
+    "caseStudy": {
+      "title": "Studi Kasus 19: Prinsip Penyusunan Formulasi Kasus",
+      "scenario": "Psikolog muda baru menyelesaikan asesmen komprehensif dan menghadapi dilema: apakah ia harus memasukkan semua data yang dikumpulkan untuk menunjukkan ketelitian, atau memilih data yang paling relevan dan membangun narasi yang terfokus. Ia juga ragu apakah formulasinya harus menggunakan satu kerangka teori atau mengintegrasikan beberapa teori.",
+      "contextTags": ["Prinsip Formulasi", "Dinamika Psikologis", "Kelengkapan vs Fokus", "Kerangka Teori"]
+    },
+    "question": "Prinsip yang PALING tepat dalam menyusun dinamika psikologis yang baik adalah:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Formulasi harus mengintegrasikan seluruh data yang terkumpul secara sistematis karena kelengkapan data adalah jaminan kualitas analisis dan memastikan tidak ada informasi klinis penting yang terlewatkan."
+      },
+      {
+        "id": "B",
+        "text": "Formulasi harus menggunakan satu teori psikologi yang paling dominan dan konsisten, karena integrasi banyak teori sekaligus berisiko menghasilkan penjelasan yang tidak koheren dan sulit diterjemahkan ke dalam rencana intervensi yang terarah."
+      },
+      {
+        "id": "C",
+        "text": "Formulasi yang baik adalah narasi kausal yang menjelaskan bagaimana dan mengapa permasalahan berkembang dan dipertahankan, dibangun dari data yang paling relevan, dan dapat secara langsung memandu pilihan tujuan dan teknik intervensi."
+      },
+      {
+        "id": "D",
+        "text": "Formulasi harus netral secara teoritis dan hanya mendeskripsikan pola perilaku yang dapat diobservasi karena interpretasi teoritis yang berlebihan berisiko menciptakan bias klinis dalam perencanaan intervensi."
+      },
+      {
+        "id": "E",
+        "text": "Formulasi harus disusun bersama klien karena pandangan klien tentang penyebab masalahnya adalah sumber informasi yang paling autentik dan mencerminkan konteks kehidupan nyata yang harus menjadi landasan utama setiap analisis psikologis."
+      }
+    ],
+    "key": "C",
+    "explanation": "Formulasi kasus bukan ringkasan data dan bukan deskripsi perilaku semata. Prinsip intinya adalah: narasi kausal yang menjelaskan mekanisme terbentuk dan bertahannya masalah, dari data yang relevan (bukan semua data), dalam kerangka teori yang sesuai, dengan treatment utility yang jelas — dapat langsung memandu intervensi. Jawaban C mencakup semua prinsip ini dalam kalimat yang presisi dan ringkas. Jawaban A salah karena menyamakan kelengkapan data dengan kualitas formulasi. Jawaban B terlalu kaku tentang penggunaan satu teori. Jawaban D menghilangkan komponen interpretasi yang justru merupakan nilai utama formulasi. Jawaban E mengacaukan peran perspektif klien (data) dengan landasan formulasi (analisis klinis)."
+  },
+  {
+    "id": "V3_Q20",
+    "domainId": 8,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Membuat Kesimpulan/Menegakkan Diagnosis)",
+    "indicatorId": "1.2",
+    "indicatorFullId": "D8-1.2",
+    "indicatorTitle": "Membuat kesimpulan atau menegakkan diagnosis berdasarkan hasil asesmen dan teori psikologi",
+    "caseStudy": {
+      "title": "Studi Kasus 20: Pola Ledakan Amarah Anak yang Sangat Konteks-Spesifik",
+      "scenario": "Ps (9 tahun) dirujuk karena 'sering ngamuk dan susah diatur'. Asesmen mengidentifikasi: ledakan amarah hampir eksklusif terjadi saat permintaannya tidak dipenuhi atau saat harus menghentikan aktivitas favorit; setelah ledakan, orang tua biasanya memenuhi permintaannya untuk menghentikan tangisan; di sekolah dengan jadwal konsisten, Ps jarang bermasalah; pola respons orang tua di rumah sangat tidak konsisten.",
+      "contextTags": ["Kesimpulan Asesmen", "Pendekatan Behavioral", "Kontrol Stimulus", "Konteks-Spesifik"]
+    },
+    "question": "Berdasarkan data dan pendekatan perilakuan, kesimpulan yang PALING tepat menggambarkan kondisi Ps adalah:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Ps menunjukkan Oppositional Defiant Disorder (ODD) yang ditandai pola amarah menetap dan penolakan otoritas, yang perlu diintervensi melalui program manajemen perilaku terstruktur di rumah dan sekolah."
+      },
+      {
+        "id": "B",
+        "text": "Perilaku ledakan amarah Ps dipertahankan oleh penguatan positif tidak konsisten dari orang tua — pemenuhan permintaan setelah ledakan — sementara absennya perilaku serupa di sekolah menunjukkan kondisi ini sangat konteks-spesifik dan bukan mencerminkan gangguan internalisasi yang menetap."
+      },
+      {
+        "id": "C",
+        "text": "Ps mengalami disregulasi emosi yang berkembang akibat ketidakkonsistenan pola asuh, yang memerlukan intervensi gabungan berupa pelatihan keterampilan emosi untuk Ps dan pelatihan parenting untuk orang tua secara bersamaan."
+      },
+      {
+        "id": "D",
+        "text": "Tantrum yang dialami Ps masih dalam rentang normatif untuk anak usia sekolah dasar dan kemungkinan mereda seiring perkembangan, meskipun peningkatan konsistensi pola asuh perlu dilakukan."
+      },
+      {
+        "id": "E",
+        "text": "Ps memiliki kesulitan toleransi frustrasi yang merupakan karakteristik temperamental, yang diperburuk oleh inkonsistensi lingkungan rumah dan diperbaiki oleh struktur di sekolah, sehingga intervensi perlu menarget baik temperamen maupun faktor lingkungan."
+      }
+    ],
+    "key": "B",
+    "explanation": "Pendekatan behavioral menganalisis perilaku dalam konteks antecedent-behavior-consequence (ABC). Data menunjukkan: perilaku eksklusif dalam konteks tertentu (permintaan tidak dipenuhi), konsekuensi memperkuat perilaku (orang tua memenuhi permintaan setelah ledakan), dan perbedaan dramatis antara konteks rumah dan sekolah. Ini adalah pola penguatan operan yang klasik — bukan gangguan internalisasi atau temperamental. Jawaban B menangkap mekanisme ini dengan tepat dan menekankan implikasi konteks-spesifik. Jawaban A langsung melabeli ODD tanpa justifikasi diferensial yang cukup — data menunjukkan konteks-spesifisitas yang tidak konsisten dengan ODD. Jawaban C beralih ke disregulasi emosi yang kurang didukung data langsung. Jawaban D meremehkan dengan menyebutnya tantrum normatif."
+  },
+  {
+    "id": "V3_Q21",
+    "domainId": 8,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Membuat Kesimpulan/Menegakkan Diagnosis)",
+    "indicatorId": "1.3",
+    "indicatorFullId": "D8-1.3",
+    "indicatorTitle": "Membandingkan berbagai gejala dan fungsi psikologis untuk membuat kesimpulan",
+    "caseStudy": {
+      "title": "Studi Kasus 21: Gangguan Mood dengan Siklus Energi yang Tidak Stabil",
+      "scenario": "Kl (26 tahun) mengeluhkan mood yang sangat tidak stabil. Ia menggambarkan periode 3-4 hari berturut-turut di mana ia merasa sangat bersemangat, produktif, dan hanya butuh tidur 4 jam, diikuti oleh periode lebih dari seminggu di mana ia merasa sangat lelah dan putus asa. Ini berlangsung sejak usia 18 tahun. Ia pernah didiagnosis depresi mayor dua kali dan mendapat antidepresan, namun obat tersebut justru membuatnya 'semakin cepat dan tidak bisa tidur'. Fungsi kerja dan sosialnya sangat terganggu. Tidak ada penyalahgunaan zat.",
+      "contextTags": ["Diagnosis Diferensial", "Bipolar II", "Respons Paradoksal Antidepresan", "Hipomania"]
+    },
+    "question": "Membandingkan gambaran klinis Kl secara menyeluruh, kesimpulan diagnostik yang PALING tepat adalah:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Episode Depresi Mayor berulang dengan gambaran campuran, mengingat riwayat dua episode depresi dan periode energi tinggi yang mungkin merupakan agitasi psikomotor dalam konteks depresi yang belum dikenali."
+      },
+      {
+        "id": "B",
+        "text": "Gangguan Siklotimik, mengingat adanya perubahan mood bersiklus sejak usia muda dengan periode hipomania dan depresi yang berlangsung kronik, meskipun perlu dievaluasi apakah gejala memenuhi ambang intensitas penuh."
+      },
+      {
+        "id": "C",
+        "text": "Gambaran klinis Kl — episode hipomania 3-4 hari dengan energi tinggi dan kebutuhan tidur berkurang, episode depresi yang lebih panjang dan dominan, onset usia 18 tahun, serta respons paradoksal terhadap antidepresan (switch ke aktivasi) — paling konsisten dengan Gangguan Bipolar II yang sebelumnya salah didiagnosis sebagai Depresi Mayor."
+      },
+      {
+        "id": "D",
+        "text": "Gangguan Kepribadian Emosional Tidak Stabil karena instabilitas mood yang kronik sejak usia muda, gangguan fungsi signifikan, dan pola yang mungkin tidak sepenuhnya cocok dengan kriteria gangguan bipolar manapun."
+      },
+      {
+        "id": "E",
+        "text": "Depresi Mayor dengan respons paradoksal terhadap antidepresan yang memerlukan evaluasi medis lebih lanjut untuk menyingkirkan kondisi tiroid atau neurologis sebelum menetapkan diagnosis psikiatri definitif."
+      }
+    ],
+    "key": "C",
+    "explanation": "Kunci diferensial dalam kasus ini adalah kombinasi tiga fitur sangat spesifik: (1) episode hipomania yang jelas dengan karakteristik khas (3-4 hari, energi tinggi, kebutuhan tidur berkurang), (2) episode depresi yang lebih dominan dan panjang, (3) switch ke aktivasi/hipomanik saat mendapat antidepresan — yang merupakan salah satu indikator paling kuat untuk gangguan bipolar dalam praktik klinis. Bipolar II (hipomanik + depresi tanpa manik penuh) adalah kesimpulan yang paling konsisten dengan seluruh profil ini. Jawaban A salah menginterpretasikan hipomania sebagai agitasi depresi. Jawaban B (siklotimik) mensyaratkan intensitas yang tidak memenuhi kriteria penuh, namun data Kl tampak memenuhi kriteria hipomania. Jawaban D tidak didukung data instabilitas identitas atau hubungan."
+  },
+  {
+    "id": "V3_Q22",
+    "domainId": 8,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Membuat Kesimpulan/Menegakkan Diagnosis)",
+    "indicatorId": "1.4",
+    "indicatorFullId": "D8-1.4",
+    "indicatorTitle": "Membandingkan dan memilih teori psikologi yang sesuai untuk menjelaskan gejala klien",
+    "caseStudy": {
+      "title": "Studi Kasus 22: Pola Hubungan Romantis Bermasalah dengan Riwayat Pengasuh Tidak Dapat Diprediksi",
+      "scenario": "Ny. M (38 tahun) mengeluhkan hubungan romantis yang selalu berakhir sama: jatuh cinta sangat cepat, sangat bergantung pada pasangan, merasa ditinggalkan saat pasangan membutuhkan ruang pribadi, dan bereaksi dengan cara yang membuat pasangan menjauh. Ia mengungkapkan bahwa ayahnya sangat tidak dapat diprediksi — sangat hangat di beberapa waktu dan tiba-tiba marah tanpa alasan di waktu lain. Ny. M menyatakan 'saya selalu tidak pernah tahu harus berharap apa dari orang yang saya cintai'.",
+      "contextTags": ["Teori Attachment", "Schema Therapy", "Pola Relasional", "Pemilihan Kerangka Teori"]
+    },
+    "question": "Untuk menjelaskan mekanisme terbentuk dan bertahannya pola hubungan Ny. M berdasarkan data yang tersedia, kerangka teori yang PALING sesuai adalah:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Teori attachment — pola anxious-preoccupied yang terbentuk dari interaksi dengan figur pengasuh yang tidak dapat diprediksi menyebabkan Ny. M mengembangkan hipervigilance terhadap sinyal penolakan dan perilaku protest yang justru mendorong pasangan menjauh."
+      },
+      {
+        "id": "B",
+        "text": "Schema therapy — early maladaptive schema abandonment/instability yang terbentuk dari ayah yang tidak dapat diprediksi, teraktivasi dalam hubungan intim dan mendorong coping mode berupa clinging atau overcompensation."
+      },
+      {
+        "id": "C",
+        "text": "Pendekatan kognitif-perilakuan — keyakinan inti negatif tentang kelayakan dicintai yang mendasari kecemasan berlebihan dalam hubungan dan perilaku yang secara paradoksal memperburuk kekhawatiran tentang penolakan."
+      },
+      {
+        "id": "D",
+        "text": "Integrasi teori attachment dan schema therapy — keduanya saling melengkapi, dengan attachment menjelaskan asal-usul pola dan schema therapy memberikan peta yang lebih spesifik untuk memandu intervensi secara operasional."
+      },
+      {
+        "id": "E",
+        "text": "Pendekatan psikodinamik interpersonal — pola hubungan dengan ayah yang tidak dapat diprediksi secara langsung ditransfer ke dalam hubungan dewasa, dan eksplorasi transfer pola ini dalam relasi terapeutik memberikan jalur perubahan yang paling mendalam."
+      }
+    ],
+    "key": "A",
+    "explanation": "Meskipun jawaban D (integrasi) terdengar lebih komprehensif, pertanyaan ini menanyakan teori yang PALING sesuai untuk menjelaskan mekanisme berdasarkan DATA yang tersedia — bukan tentang rencana intervensi. Teori attachment (A) paling langsung dan presisi karena: (1) secara eksplisit menjelaskan mekanisme terbentuknya pola dari pengasuh yang tidak dapat diprediksi (anxious-preoccupied attachment), dan (2) secara langsung menjelaskan mekanisme pola saat ini (hipervigilance → perilaku protest → pasangan menjauh). Setiap elemen dalam data Ny. M dapat dijelaskan secara langsung melalui satu kerangka ini tanpa memerlukan kombinasi. Schema therapy (B) valid tetapi memerlukan asesmen schema yang belum dilakukan. Jawaban D valid untuk perencanaan intervensi tetapi tidak menjawab pertanyaan tentang teori yang paling sesuai menjelaskan mekanisme dari data yang ada."
+  },
+  {
+    "id": "V3_Q23",
+    "domainId": 8,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Membuat Kesimpulan/Menegakkan Diagnosis)",
+    "indicatorId": "1.1",
+    "indicatorFullId": "D8-1.1",
+    "indicatorTitle": "Mengetahui prinsip dasar dalam membuat kesimpulan atau menegakkan diagnosis",
+    "caseStudy": {
+      "title": "Studi Kasus 23: Tekanan Waktu dalam Pembuatan Kesimpulan Asesmen",
+      "scenario": "Psikolog telah melakukan empat sesi wawancara dan dua sesi tes dengan Tn. C (40 tahun). Gambaran klinis menunjukkan gejala yang tumpang tindih antara beberapa kondisi dan belum memberikan gambaran yang jelas untuk kesimpulan diagnostik definitif. Namun, instansi yang merujuk membutuhkan laporan dalam dua hari untuk keperluan evaluasi di tempat kerja Tn. C.",
+      "contextTags": ["Prinsip Diagnosis", "Tekanan Eksternal", "Ketidakpastian Klinis", "Tanggung Jawab Profesional"]
+    },
+    "question": "Menghadapi tekanan waktu dan ketidakjelasan data, tindakan yang PALING mencerminkan prinsip diagnosis yang bertanggung jawab adalah:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Membuat kesimpulan berdasarkan data yang ada dengan mencantumkan tingkat keyakinan yang jujur, karena menunda laporan dapat merugikan klien dan instansi yang membutuhkan informasi untuk keputusan penting."
+      },
+      {
+        "id": "B",
+        "text": "Melaporkan temuan asesmen yang sudah diperoleh tanpa menegakkan kesimpulan diagnostik definitif, menjelaskan bahwa data tidak mencukupi untuk kesimpulan yang valid, dan menyarankan asesmen lanjutan."
+      },
+      {
+        "id": "C",
+        "text": "Menghubungi instansi, menjelaskan keterbatasan data dan risiko kesimpulan prematur, kemudian mendiskusikan opsi: memperpanjang waktu asesmen atau menyampaikan laporan sementara dengan catatan keterbatasan yang eksplisit dan jelas."
+      },
+      {
+        "id": "D",
+        "text": "Menegakkan diagnosis yang paling sesuai dengan gambaran saat ini sambil mencatat bahwa diagnosis ini bersifat sementara dan perlu ditinjau ulang setelah data tambahan diperoleh."
+      },
+      {
+        "id": "E",
+        "text": "Merujuk Tn. C kepada psikolog lain yang memiliki waktu lebih banyak untuk melakukan asesmen yang lebih komprehensif sebelum laporan untuk keperluan evaluasi kerja dibuat, karena keputusan ini terlalu penting untuk dibuat berdasarkan data yang tidak memadai."
+      }
+    ],
+    "key": "C",
+    "explanation": "Prinsip diagnosis yang bertanggung jawab mensyaratkan bahwa kesimpulan didukung data yang memadai, namun juga bahwa psikolog secara aktif mencari solusi yang melindungi semua pihak. Jawaban C paling tepat karena: (1) tidak memaksakan kesimpulan prematur, (2) tidak menolak begitu saja permintaan instansi, (3) secara aktif berkomunikasi dengan pihak yang meminta untuk mendiskusikan opsi yang menghormati standar profesional sekaligus kebutuhan praktis. Jawaban B benar dalam prinsip tetapi pasif — tidak mencari solusi bersama. Jawaban D menghasilkan diagnosis sementara yang berisiko diinterpretasikan sebagai definitif dalam konteks evaluasi kerja. Jawaban A mengompromikan standar. Jawaban E terlalu ekstrem merujuk tanpa eksplorasi opsi lain."
+  },
+  {
+    "id": "V3_Q24",
+    "domainId": 9,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Intervensi Psikologi - Menetapkan Tujuan dan Teknik Intervensi)",
+    "indicatorId": "1.2",
+    "indicatorFullId": "D9-1.2",
+    "indicatorTitle": "Memformulasikan tujuan intervensi dengan mempertimbangkan diagnosis/kesimpulan dan dinamika psikologis",
+    "caseStudy": {
+      "title": "Studi Kasus 24: Gangguan Kecemasan Sosial dengan Avoidance Progresif",
+      "scenario": "Ny. H (36 tahun) didiagnosis Gangguan Kecemasan Sosial. Dinamika psikologis menunjukkan: keyakinan bahwa orang lain secara aktif mengevaluasi dan menghakiminya; perilaku keselamatan berupa menyiapkan skrip bicara, selalu duduk di pojok, menghindari berbicara kecuali ditanya; avoidance situasi sosial yang semakin progresif dalam 2 tahun terakhir; dan evaluasi diri yang sangat kritis setelah setiap interaksi sosial.",
+      "contextTags": ["Tujuan Intervensi", "Kecemasan Sosial", "Safety Behaviors", "Maintaining Mechanisms"]
+    },
+    "question": "Berdasarkan diagnosis dan dinamika psikologis Ny. H, tujuan intervensi yang PALING tepat dan terarah adalah:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Meningkatkan rasa percaya diri Ny. H dan membantu ia mengembangkan keterampilan komunikasi yang lebih efektif agar dapat berinteraksi dengan lebih nyaman di berbagai situasi sosial."
+      },
+      {
+        "id": "B",
+        "text": "Mengurangi kecemasan Ny. H dalam situasi sosial dan mengembangkan keterampilan sosial yang memungkinkan ia tampil lebih baik secara objektif di hadapan orang lain."
+      },
+      {
+        "id": "C",
+        "text": "Mengubah keyakinan evaluatif negatif Ny. H, mengurangi perilaku keselamatan yang mempertahankan kecemasan, dan membangun toleransi terhadap ketidaknyamanan sosial melalui exposur bertahap pada situasi yang dihindari."
+      },
+      {
+        "id": "D",
+        "text": "Membantu Ny. H menerima bahwa evaluasi sosial adalah hal yang normal dan tidak perlu ditakuti, serta mengembangkan kemampuan untuk hadir secara penuh dalam interaksi sosial tanpa terganggu oleh kekhawatiran tentang penilaian orang lain."
+      },
+      {
+        "id": "E",
+        "text": "Memfasilitasi Ny. H untuk memahami akar kecemasan sosialnya dari pengalaman masa lalu, membangun perspektif baru tentang diri dalam konteks sosial, dan secara bertahap meningkatkan frekuensi serta kualitas keterlibatan sosialnya dalam berbagai konteks kehidupan."
+      }
+    ],
+    "key": "C",
+    "explanation": "Tujuan intervensi harus menarget mekanisme pemelihara yang teridentifikasi dalam dinamika psikologis. Dinamika Ny. H menunjukkan tiga mekanisme pemelihara utama: (1) keyakinan evaluatif negatif, (2) perilaku keselamatan yang mencegah disconfirmation, dan (3) avoidance. Jawaban C secara eksplisit menarget ketiga mekanisme ini. Jawaban A berfokus pada kepercayaan diri dan keterampilan komunikasi yang tidak secara langsung menghapus mekanisme pemelihara. Jawaban B menekankan keterampilan performa yang tidak menarget safety behaviors atau keyakinan inti. Jawaban D valid secara pendekatan tetapi tidak menarget mekanisme pemelihara secara spesifik. Jawaban E berorientasi pada etiologi masa lalu dan terlalu luas — bukan menarget mekanisme pemelihara saat ini."
+  },
+  {
+    "id": "V3_Q25",
+    "domainId": 9,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Intervensi Psikologi - Menetapkan Tujuan dan Teknik Intervensi)",
+    "indicatorId": "2.2",
+    "indicatorFullId": "D9-2.2",
+    "indicatorTitle": "Mengidentifikasi teknik intervensi yang tepat berdasarkan kondisi/karakteristik klien",
+    "caseStudy": {
+      "title": "Studi Kasus 25: Depresi Berat dengan Fungsi Sangat Rendah",
+      "scenario": "Tn. A (42 tahun) didiagnosis Episode Depresi Berat. Ia hampir tidak meninggalkan kamar dalam dua minggu terakhir, tidak melakukan aktivitas apapun sepanjang hari, energi sangat rendah, dan sulit berkonsentrasi bahkan untuk menonton televisi. Ia menyatakan 'ingin berubah tapi tidak tahu bagaimana memulai' dan 'semua terasa sia-sia sebelum dicoba'. Tidak ada ideasi bunuh diri aktif. Ia pernah menjalani CBT dua tahun lalu dengan hasil baik untuk episode sebelumnya.",
+      "contextTags": ["Sequencing Intervensi", "Depresi Berat", "Behavioral Activation", "Fungsi Rendah"]
+    },
+    "question": "Berdasarkan kondisi Tn. A saat ini, teknik yang PALING tepat menjadi titik masuk intervensi awal adalah:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Restrukturisasi kognitif untuk menantang keyakinan 'semua terasa sia-sia sebelum dicoba' karena keyakinan ini secara langsung menghalangi pemulihan dan menjadi target terapeutik yang paling jelas berdasarkan narasi Tn. A."
+      },
+      {
+        "id": "B",
+        "text": "Behavioral activation dalam bentuk paling minimal — satu aktivitas kecil yang bermakna bagi Tn. A — karena pada fungsi yang sangat rendah, perubahan behavioral sederhana lebih dapat dilaksanakan dan dapat memutus siklus inaktivitas-depresi tanpa membutuhkan kapasitas kognitif yang saat ini sangat terbatas."
+      },
+      {
+        "id": "C",
+        "text": "Evaluasi psikiatri untuk farmakoterapi sebelum intervensi psikologis apapun, karena tingkat keparahan Episode Depresi Berat menunjukkan bahwa intervensi psikologis saja kemungkinan tidak akan efektif tanpa dukungan farmakologis sebagai fondasi."
+      },
+      {
+        "id": "D",
+        "text": "Melanjutkan protokol CBT yang pernah berhasil pada episode sebelumnya karena Tn. A sudah familiar dengan prosesnya sehingga kurva belajar yang biasanya memperlambat perkembangan dapat disingkat dan terapi dapat berjalan lebih efisien."
+      },
+      {
+        "id": "E",
+        "text": "Beberapa sesi awal untuk membangun aliansi terapeutik yang kuat sebelum menerapkan teknik apapun, karena efektivitas semua teknik CBT bergantung pada kualitas hubungan terapeutik yang tidak dapat diabaikan sebagai prasyarat."
+      }
+    ],
+    "key": "B",
+    "explanation": "Pada depresi berat dengan fungsi yang sangat rendah, sequencing teknik sangat krusial. Restrukturisasi kognitif (A) membutuhkan kapasitas kognitif dan energi mental yang tidak dimiliki Tn. A saat ini. Behavioral activation minimal adalah titik masuk paling tepat karena: (1) tidak memerlukan kapasitas kognitif tinggi, (2) langsung menarget siklus inaktivitas yang memperburuk depresi, dan (3) memberikan 'kemenangan kecil' yang membangun momentum. Riwayat respons baik terhadap CBT relevan (D) tetapi CBT penuh prematur pada fungsi saat ini — Tn. A perlu bisa 'bergerak' dulu sebelum berpikir. Evaluasi psikiatri (C) mungkin perlu tetapi tidak menghalangi behavioral activation simultan. Jawaban E menunda intervensi aktif terlalu lama."
+  },
+  {
+    "id": "V3_Q26",
+    "domainId": 9,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Intervensi Psikologi - Menetapkan Tujuan dan Teknik Intervensi)",
+    "indicatorId": "3.2",
+    "indicatorFullId": "D9-3.2",
+    "indicatorTitle": "Membandingkan dan memilih teknik intervensi yang tepat sesuai kondisi/karakteristik klien",
+    "caseStudy": {
+      "title": "Studi Kasus 26: Ruminasi Kronis dengan Keyakinan Metakognitif Positif",
+      "scenario": "Ny. V (29 tahun) menghabiskan berjam-jam menganalisis percakapan yang sudah lewat dan memikirkan skenario terburuk. Ia percaya bahwa 'memikirkan masalah secara menyeluruh adalah cara menyelesaikannya', tetapi yang terjadi justru ia semakin cemas dan tidak menemukan jawaban. Ia sudah mencoba 'berpikir positif' tetapi menganggap cara ini 'tidak logis karena hanya menyangkal kenyataan'. Ia memiliki kemampuan analisis yang sangat baik dan sangat menghargai logika.",
+      "contextTags": ["Ruminasi", "Keyakinan Metakognitif", "Metacognitive Therapy", "Pemilihan Teknik"]
+    },
+    "question": "Membandingkan berbagai pendekatan, teknik yang PALING tepat untuk Ny. V dengan mempertimbangkan karakteristik dan pola ruminasinya adalah:",
+    "options": [
+      {
+        "id": "A",
+        "text": "CBT standar dengan restrukturisasi kognitif untuk mengidentifikasi dan menantang pikiran-pikiran negatif selama ruminasi, karena pendekatan berbasis logika ini sesuai dengan preferensi analitis Ny. V dan dapat memanfaatkan kemampuan analisisnya secara konstruktif."
+      },
+      {
+        "id": "B",
+        "text": "Metacognitive Therapy (MCT) yang berfokus pada mengubah keyakinan Ny. V tentang manfaat ruminasi ('memikirkan masalah adalah cara menyelesaikannya') dan melatih kemampuan memilih apakah dan kapan harus terlibat dalam pemikiran tertentu."
+      },
+      {
+        "id": "C",
+        "text": "Mindfulness-Based Cognitive Therapy (MBCT) yang melatih Ny. V untuk mengobservasi pikiran tanpa terlibat di dalamnya, memutus siklus ruminasi dengan menciptakan jarak antara diri dengan konten pikiran."
+      },
+      {
+        "id": "D",
+        "text": "Problem-solving therapy terstruktur untuk mengubah kecenderungan ruminasi menjadi pemecahan masalah yang produktif dan terarah, memanfaatkan kemampuan analisis Ny. V secara konstruktif untuk menghasilkan solusi konkret."
+      },
+      {
+        "id": "E",
+        "text": "Acceptance and Commitment Therapy (ACT) yang membantu Ny. V menerima kehadiran pikiran ruminatif tanpa berusaha menghilangkannya, sambil memfokuskan tindakan pada nilai-nilai yang bermakna dalam hidupnya."
+      }
+    ],
+    "key": "B",
+    "explanation": "Fitur kritis kasus Ny. V adalah adanya keyakinan metakognitif positif yang eksplisit: 'memikirkan masalah secara menyeluruh adalah cara menyelesaikannya.' Keyakinan ini adalah yang mendorong dan mempertahankan ruminasi — bukan konten pikiran itu sendiri. MCT (B) adalah satu-satunya pendekatan yang secara spesifik dirancang untuk menarget keyakinan metakognitif tentang proses berpikir seperti ini. CBT standar (A) menarget konten pikiran, bukan keyakinan tentang nilai berpikir itu sendiri — tidak optimal untuk ruminasi berbasis keyakinan metakognitif. MBCT (C) efektif untuk mencegah relaps depresi tetapi tidak menarget keyakinan metakognitif. Problem-solving (D) berisiko memperkuat keyakinan bahwa berpikir panjang adalah cara yang benar. ACT (E) mengajarkan penerimaan tetapi tidak secara langsung menantang keyakinan metakognitif yang menjadi mesin ruminasi."
+  },
+  {
+    "id": "V3_Q27",
+    "domainId": 9,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Intervensi Psikologi - Menetapkan Tujuan dan Teknik Intervensi)",
+    "indicatorId": "2.1",
+    "indicatorFullId": "D9-2.1",
+    "indicatorTitle": "Memformulasikan tujuan intervensi dengan mempertimbangkan kesesuaian kewenangan",
+    "caseStudy": {
+      "title": "Studi Kasus 27: Perubahan Kondisi Klien yang Memerlukan Rujukan",
+      "scenario": "Tn. U (55 tahun) sudah 3 bulan menjalani konseling dengan Psikolog Rd untuk masalah stres kerja dengan kemajuan baik. Pada sesi ke-10, ia mengungkapkan bahwa sejak dua minggu terakhir mengalami gangguan tidur berat, mudah tersinggung, dan pikiran yang terasa 'sangat cepat dan melompat-lompat'. Ia meminta Psikolog Rd untuk merekomendasikan 'obat penenang yang bisa dibeli bebas' karena 'tidak mau repot ke dokter'. Psikolog Rd menilai gejala baru ini memerlukan evaluasi medis.",
+      "contextTags": ["Kewenangan Psikolog", "Perubahan Kondisi", "Kolaborasi Interprofesional", "Rujukan"]
+    },
+    "question": "Menghadapi perubahan kondisi dan permintaan Tn. U, tindakan yang PALING tepat sesuai kewenangan Psikolog Rd adalah:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Menolak merekomendasikan obat apapun, kemudian melanjutkan sesi konseling seperti biasa karena gejala baru yang muncul mungkin terkait dengan stres kerja yang sedang ditangani dan dapat membaik seiring kemajuan konseling."
+      },
+      {
+        "id": "B",
+        "text": "Memberikan psikoedukasi tentang pentingnya evaluasi medis untuk gejala baru yang dialami, mendorong Tn. U menemui dokter atau psikiater dengan menjelaskan alasan klinis yang konkret, dan bila Tn. U setuju, memfasilitasi komunikasi dengan profesional medis yang akan menanganinya."
+      },
+      {
+        "id": "C",
+        "text": "Menyarankan Tn. U mencoba teknik relaksasi dan sleep hygiene terlebih dahulu selama satu minggu, dan jika tidak membaik barulah dirujuk ke dokter, karena intervensi non-farmakologis perlu dicoba dulu sebelum eskalasi."
+      },
+      {
+        "id": "D",
+        "text": "Mengakhiri sesi dan menghentikan konseling hingga Tn. U mendapat evaluasi medis terlebih dahulu, karena perubahan kondisi yang signifikan mengubah gambaran klinis secara fundamental."
+      },
+      {
+        "id": "E",
+        "text": "Menginformasikan beberapa suplemen tidur yang tersedia bebas dan umumnya dianggap aman, sambil menekankan bahwa ini bukan rekomendasi medis dan mendorong Tn. U untuk tetap berkonsultasi ke dokter."
+      }
+    ],
+    "key": "B",
+    "explanation": "Psikolog umum tidak berwenang merekomendasikan obat atau suplemen untuk gejala yang memerlukan evaluasi medis. Ketika klien menunjukkan gejala baru yang memerlukan evaluasi medis, kewajiban psikolog adalah: (1) memberikan psikoedukasi agar klien memahami urgensi, dan (2) memfasilitasi rujukan secara aktif. Jawaban B mencakup keduanya dengan cara yang menghormati otonomi klien. Jawaban A benar menolak rekomendasi obat tetapi terlalu pasif — tidak memfasilitasi rujukan yang diperlukan. Jawaban C menunda rujukan yang perlu dilakukan segera untuk gejala yang telah berlangsung dua minggu. Jawaban D terlalu ekstrem menghentikan konseling. Jawaban E memberikan informasi produk yang melampaui kewenangan psikolog."
+  },
+  {
+    "id": "V3_Q28",
+    "domainId": 9,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Intervensi Psikologi - Menetapkan Tujuan dan Teknik Intervensi)",
+    "indicatorId": "3.3",
+    "indicatorFullId": "D9-3.3",
+    "indicatorTitle": "Membandingkan dan memilih jenis intervensi yang tepat sesuai dinamika permasalahan",
+    "caseStudy": {
+      "title": "Studi Kasus 28: Duka Cita Terhambat dengan Avoidance Sistematis",
+      "scenario": "Tn. Q (58 tahun) kehilangan istrinya 18 bulan lalu setelah 30 tahun menikah. Ia tidak pernah menangis sejak istri meninggal, tidak mau menyentuh barang-barang istri yang masih tertata rapi, menghindari berbicara tentang istri, dan sangat sibuk bekerja sejak hari pertama setelah pemakaman. Ia berkata, 'Saya tidak punya waktu untuk sedih, masih banyak yang harus dikerjakan.'",
+      "contextTags": ["Complicated Grief", "Avoidance Emosional", "Jenis Intervensi", "Grief Processing"]
+    },
+    "question": "Membandingkan berbagai pendekatan intervensi, jenis yang PALING tepat untuk dinamika permasalahan Tn. Q adalah:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Supportive counseling yang memberikan ruang aman bagi Tn. Q untuk mengungkapkan kesedihannya secara bertahap dengan validasi dan dukungan emosional tanpa memaksakan proses."
+      },
+      {
+        "id": "B",
+        "text": "Terapi berbasis penerimaan yang membantu Tn. Q menerima kehilangan sebagai bagian dari kehidupan sambil mengidentifikasi nilai-nilai yang dapat menjadi landasan untuk melanjutkan hidup yang bermakna."
+      },
+      {
+        "id": "C",
+        "text": "Cognitive restructuring untuk menantang keyakinan Tn. Q bahwa 'tidak punya waktu untuk sedih', karena keyakinan kognitif ini paling langsung menghalangi proses duka cita yang sehat."
+      },
+      {
+        "id": "D",
+        "text": "Complicated grief therapy atau pendekatan grief processing yang secara spesifik menarget avoidance emosional dan kognitif Tn. Q dengan mendorong re-engagement bertahap pada memori dan emosi terkait kehilangan, sesuai dengan pola duka cita terhambat yang menjadi dinamika utama."
+      },
+      {
+        "id": "E",
+        "text": "Konseling kerja-kehidupan untuk membantu Tn. Q menyeimbangkan kembali komitmen pekerjaannya dengan kebutuhan pemulihan diri, mengidentifikasi waktu dan ruang yang dapat dialokasikan untuk proses berduka secara bertahap."
+      }
+    ],
+    "key": "D",
+    "explanation": "Dinamika utama Tn. Q adalah complicated/inhibited grief — proses duka cita terhambat oleh avoidance emosional dan kognitif yang sistematis dan ekstensif (18 bulan tanpa menangis, menghindari semua pengingat, hiperfokus pada kerja). Ini memerlukan jenis intervensi yang secara spesifik menarget avoidance ini dan memfasilitasi pemrosesan kehilangan, bukan hanya dukungan atau penerimaan. Jawaban D paling tepat karena menyebutkan complicated grief therapy yang dirancang untuk pola seperti ini, dan menjelaskan mekanisme intervensi yang relevan. Jawaban A valid tetapi supportive counseling saja tidak cukup kuat untuk avoidance sekuat ini. Jawaban C benar bahwa keyakinan kognitif berkontribusi, tetapi menarget satu keyakinan saja tidak memadai untuk avoidance yang begitu pervasif. Jawaban B dan E tidak menarget avoidance sebagai mekanisme inti."
+  },
+  {
+    "id": "V3_Q29",
+    "domainId": 9,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Intervensi Psikologi - Menetapkan Tujuan dan Teknik Intervensi)",
+    "indicatorId": "4.1",
+    "indicatorFullId": "D9-4.1",
+    "indicatorTitle": "Melakukan evaluasi terhadap teknik intervensi yang sedang berjalan",
+    "caseStudy": {
+      "title": "Studi Kasus 29: Teknik Desensitisasi yang Menghasilkan Perburukan",
+      "scenario": "Psikolog menerapkan desensitisasi sistematis selama 8 sesi kepada Mn (28 tahun) untuk mengatasi fobia anjing. Mn kooperatif dan termotivasi. Namun, kecemasan subjektif Mn justru meningkat dari sesi ke sesi, dan ia kini mulai menghindari jalan-jalan tertentu di mana ia pernah bertemu anjing — meskipun sebelumnya ia hanya takut pada anjing besar yang mendekat.",
+      "contextTags": ["Evaluasi Teknik", "Fobia Spesifik", "Perburukan Kondisi", "Evaluasi Kemajuan Terapi"]
+    },
+    "question": "Evaluasi yang PALING tepat terhadap situasi ini dan langkah yang harus diambil adalah:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Peningkatan kecemasan sementara dan perluasan avoidance adalah respons normal dalam proses desensitisasi yang perlu diatasi dengan memperkuat motivasi Mn dan menjelaskan bahwa ini bagian dari proses yang harus dijalani."
+      },
+      {
+        "id": "B",
+        "text": "Teknik perlu diganti dengan in-vivo exposure yang lebih intensif karena desensitisasi imajinal memberikan pemrosesan yang tidak cukup kuat untuk menghasilkan perubahan bermakna pada kasus fobia spesifik."
+      },
+      {
+        "id": "C",
+        "text": "Perlu evaluasi menyeluruh terhadap implementasi dan kondisi Mn: apakah prosedur relaksasi cukup terlatih, apakah hierarki kecemasan dikalibrasi dengan tepat, dan apakah ada faktor yang belum teridentifikasi — karena perluasan avoidance setelah 8 sesi adalah tanda kondisi Mn kemungkinan memburuk, bukan sekadar respons sementara."
+      },
+      {
+        "id": "D",
+        "text": "Terapi perlu dihentikan sementara dan Mn dirujuk ke psikolog spesialis fobia karena 8 sesi tanpa kemajuan menunjukkan teknik ini tidak cocok untuk kasus Mn."
+      },
+      {
+        "id": "E",
+        "text": "Perlu asesmen ulang untuk memeriksa apakah masalah Mn lebih dalam dari fobia spesifik — seperti kecemasan umum atau trauma yang mendasari — sebelum melanjutkan atau mengubah intervensi apapun."
+      }
+    ],
+    "key": "C",
+    "explanation": "Evaluasi yang baik mencakup dua aspek: (1) evaluasi fidelity of implementation (apakah teknik diterapkan dengan benar), dan (2) penilaian apakah kondisi klien berubah secara signifikan. Perluasan avoidance setelah 8 sesi adalah sinyal klinis penting — ini bukan variasi normal desensitisasi, ini indikasi kondisi Mn mungkin memburuk. Jawaban C paling tepat karena secara sistematis mengevaluasi kedua aspek ini sebelum memutuskan perubahan. Jawaban A salah karena perluasan avoidance jelas BUKAN normal. Jawaban B langsung mengganti teknik tanpa mengevaluasi implementasi — bagaimana jika masalahnya pada implementasi, bukan tekniknya? Jawaban D terlalu dini menyerah. Jawaban E relevan sebagai tambahan tetapi tidak merespons langsung pada kebutuhan evaluasi implementasi terlebih dahulu."
+  },
+  {
+    "id": "V3_Q30",
+    "domainId": 10,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Intervensi Psikologi - Merencanakan Intervensi)",
+    "indicatorId": "2.2",
+    "indicatorFullId": "D10-2.2",
+    "indicatorTitle": "Menjelaskan kesesuaian antara pendekatan dan teknik intervensi yang dipilih dengan masalah klien",
+    "caseStudy": {
+      "title": "Studi Kasus 30: Ketergantungan Game pada Remaja Tanpa Motivasi Berubah",
+      "scenario": "Bp (16 tahun) datang diantar orang tuanya. Ia bermain game 12-14 jam sehari hingga mengabaikan sekolah. Dalam sesi individual, ia mengungkapkan game adalah satu-satunya tempat di mana ia merasa 'benar-benar baik dalam sesuatu' dan 'dihargai oleh teman-teman online'. Di sekolah ia merasa tidak menonjol dan sering tidak diikutsertakan oleh teman sebaya. Ia tidak menganggap dirinya bermasalah dan hadir hanya karena orang tua memaksa.",
+      "contextTags": ["Intervensi Remaja", "Kebutuhan Psikologis", "Motivasi Rendah", "Ketergantungan Game"]
+    },
+    "question": "Rencana intervensi yang PALING tepat berdasarkan kesesuaian dengan dinamika permasalahan Bp adalah:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Kontrak perilaku antara Bp dan orang tua untuk pembatasan waktu game secara bertahap, karena target perilaku yang terukur dan konkret adalah fondasi intervensi yang efektif untuk perilaku adiktif pada remaja."
+      },
+      {
+        "id": "B",
+        "text": "Intervensi kognitif untuk menantang keyakinan Bp bahwa nilainya hanya dapat diperoleh melalui game, sambil membantu mengembangkan sumber harga diri yang lebih beragam di luar dunia digital."
+      },
+      {
+        "id": "C",
+        "text": "Memulai dengan membangun rapport dan eksplorasi motivasional untuk meningkatkan kesiapan Bp terhadap perubahan, kemudian bekerja pada pemenuhan kebutuhan kompetensi dan afiliasi yang saat ini hanya tersedia melalui game, sambil secara paralel melibatkan orang tua dalam menyesuaikan respons mereka."
+      },
+      {
+        "id": "D",
+        "text": "Merujuk Bp ke komunitas gaming yang sehat atau layanan konseling berbasis teknologi sebagai alternatif yang lebih dapat diterima Bp, karena intervensi yang disesuaikan dengan minat klien memiliki kemungkinan keberhasilan yang lebih tinggi."
+      },
+      {
+        "id": "E",
+        "text": "Melibatkan sekolah dalam perencanaan intervensi untuk membantu Bp menemukan aktivitas atau komunitas yang dapat memenuhi kebutuhan kompetensi dan afiliasi yang saat ini hanya diperoleh melalui game."
+      }
+    ],
+    "key": "C",
+    "explanation": "Rencana intervensi harus mempertimbangkan dua faktor kritis: (1) Bp tidak memiliki motivasi untuk berubah (klien involunter), dan (2) game memenuhi kebutuhan psikologis nyata (kompetensi, afiliasi) yang tidak terpenuhi di tempat lain. Menghentikan game tanpa mengatasi kebutuhan yang dipenuhinya akan menciptakan krisis psikologis, dan memaksakan tanpa motivasi tidak akan efektif. Jawaban C paling tepat karena dimulai dengan membangun motivasi (MI) — yang kritis untuk klien involunter — kemudian menarget kebutuhan psikologis yang mendasari (bukan hanya perilaku game), sambil melibatkan orang tua. Jawaban A menarget perilaku tanpa motivasi dan tanpa mengatasi kebutuhan. Jawaban B langsung mengintervensi kognisi tanpa membangun motivasi. Jawaban E sebagai komponen tambahan valid tetapi tidak cukup sebagai rencana utama."
+  },
+  {
+    "id": "V3_Q31",
+    "domainId": 10,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Intervensi Psikologi - Merencanakan Intervensi)",
+    "indicatorId": "1.1",
+    "indicatorFullId": "D10-1.1",
+    "indicatorTitle": "Mengetahui prinsip dasar dalam menyusun rencana intervensi sesuai jenis intervensi",
+    "caseStudy": {
+      "title": "Studi Kasus 31: Program Preventif Bullying di Sekolah",
+      "scenario": "Psikolog sekolah diminta merancang program untuk mencegah peningkatan bullying yang dilaporkan guru. Data: insiden meningkat 40% setahun terakhir; terjadi di berbagai tingkat kelas; pelaku umumnya memiliki pengikut (dinamika kelompok kuat); korban cenderung menarik diri dan tidak melapor; guru merasa kurang percaya diri menangani insiden.",
+      "contextTags": ["Intervensi Preventif", "Pendekatan Sistemik", "Bullying", "Program Sekolah"]
+    },
+    "question": "Berdasarkan data dan prinsip intervensi preventif, rancangan program yang PALING tepat adalah:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Konseling kelompok untuk siswa yang teridentifikasi sebagai pelaku bullying, karena mengintervensi pelaku secara langsung adalah cara paling efisien untuk mengurangi insiden yang terjadi."
+      },
+      {
+        "id": "B",
+        "text": "Pelatihan empati dan keterampilan sosial untuk seluruh siswa, karena defisit kompetensi sosial-emosional adalah faktor individual utama yang paling umum berkontribusi pada perilaku bullying."
+      },
+      {
+        "id": "C",
+        "text": "Program multi-komponen yang menarget berbagai level secara bersamaan: pelatihan kapasitas guru untuk menangani insiden, pengembangan norma kelas anti-bullying, pemberdayaan bystander, dan dukungan untuk korban — karena bullying adalah fenomena sistemik yang tidak dapat diatasi hanya melalui intervensi pada satu level."
+      },
+      {
+        "id": "D",
+        "text": "Penguatan kebijakan sekolah tentang bullying beserta konsekuensi yang jelas dan konsisten, karena struktur regulasi yang tegas dan diterapkan secara konsisten terbukti lebih efektif daripada program keterampilan dalam mengurangi insiden."
+      },
+      {
+        "id": "E",
+        "text": "Program dukungan prioritas untuk korban bullying karena mereka adalah pihak paling terdampak yang membutuhkan intervensi segera, sementara program pencegahan untuk komponen lain dapat dirancang secara paralel."
+      }
+    ],
+    "key": "C",
+    "explanation": "Intervensi preventif untuk bullying yang efektif (didukung penelitian seperti Olweus Bullying Prevention Program) menekankan pendekatan multi-level karena bullying adalah fenomena sosial-sistemik. Data menunjukkan masalah di semua level: guru kurang percaya diri (level dewasa), dinamika kelompok sebaya (level peer), korban menarik diri dan tidak melapor. Jawaban C menarget semua level ini secara bersamaan. Jawaban A, B, D, dan E masing-masing hanya menarget satu level — yang terbukti kurang efektif untuk mengurangi bullying secara signifikan dan berkelanjutan dibanding pendekatan multi-level."
+  },
+  {
+    "id": "V3_Q32",
+    "domainId": 10,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Intervensi Psikologi - Merencanakan Intervensi)",
+    "indicatorId": "3.1",
+    "indicatorFullId": "D10-3.1",
+    "indicatorTitle": "Menjelaskan makna intervensi psikologi berbasis bukti",
+    "caseStudy": {
+      "title": "Studi Kasus 32: Adaptasi Protokol Evidence-Based dalam Konteks Terpencil",
+      "scenario": "Psikolog Wn bekerja di daerah terpencil. Ia menangani Ny. D (45 tahun) dengan depresi sedang. Protokol CBT lengkap yang terbukti efektif memerlukan 12-16 sesi, namun kondisi transportasi hanya memungkinkan Ny. D hadir setiap 3-4 minggu sekali. Psikolog Wn mempertimbangkan apakah harus menerapkan protokol standar secara penuh atau mengadaptasinya.",
+      "contextTags": ["Evidence-Based Practice", "Adaptasi Protokol", "Konteks Keterbatasan", "Prinsip EBP"]
+    },
+    "question": "Pemahaman yang PALING tepat tentang penerapan intervensi berbasis bukti dalam situasi ini adalah:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Psikolog harus tetap menerapkan protokol CBT standar secara penuh karena menyimpang dari protokol yang telah terbukti efektif berisiko mengurangi efektivitas intervensi secara signifikan."
+      },
+      {
+        "id": "B",
+        "text": "EBP mengintegrasikan bukti penelitian terbaik dengan keahlian klinis dan konteks klien; adaptasi protokol yang mempertahankan komponen aktif inti sambil menyesuaikan format dengan konteks Ny. D adalah penerapan EBP yang tepat — bukan penyimpangan darinya."
+      },
+      {
+        "id": "C",
+        "text": "Psikolog sebaiknya menggunakan intervensi lain yang lebih mudah diterapkan dalam sesi tunggal yang jarang, meskipun bukan yang paling kuat bukti empirisnya, karena kesesuaian konteks lebih menentukan keberhasilan daripada kekuatan bukti."
+      },
+      {
+        "id": "D",
+        "text": "Psikolog perlu merujuk Ny. D ke psikolog di kota karena tanpa kemampuan menerapkan protokol berbasis bukti secara penuh, layanan yang diberikan tidak dapat dianggap memadai secara standar profesional."
+      },
+      {
+        "id": "E",
+        "text": "Psikolog dapat menggunakan pertimbangannya sendiri dalam memilih intervensi karena dalam konteks keterbatasan sumber daya, pragmatisme klinis lebih relevan daripada kepatuhan pada bukti empiris yang dikembangkan dalam konteks yang berbeda."
+      }
+    ],
+    "key": "B",
+    "explanation": "Definisi APA tentang EBP adalah integrasi dari: (1) bukti penelitian terbaik, (2) keahlian klinis, dan (3) karakteristik, nilai, dan KONTEKS klien. EBP bukan berarti menerapkan protokol secara kaku — justru keahlian klinis yang menentukan adaptasi yang tepat agar komponen aktif inti tetap terjaga meski format disesuaikan. Jawaban B mencerminkan pemahaman EBP yang paling akurat dan langsung. Jawaban A menyamakan EBP dengan kepatuhan protokol kaku. Jawaban C membalikkan prioritas EBP dengan mengedepankan kemudahan di atas bukti. Jawaban D tidak melayani kepentingan terbaik Ny. D. Jawaban E menghilangkan peran bukti empiris dari EBP."
+  },
+  {
+    "id": "V3_Q33",
+    "domainId": 10,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Intervensi Psikologi - Merencanakan Intervensi)",
+    "indicatorId": "3.3",
+    "indicatorFullId": "D10-3.3",
+    "indicatorTitle": "Membandingkan berbagai alternatif teknik intervensi berbasis bukti",
+    "caseStudy": {
+      "title": "Studi Kasus 33: Insomnia Kronis Primer",
+      "scenario": "Ny. Jm (48 tahun) mengeluhkan insomnia kronis selama dua tahun: rata-rata baru tertidur setelah 2-3 jam, sering terbangun tengah malam, dan bangun lebih awal dari yang diinginkan. Ia mengonsumsi obat tidur selama 6 bulan dan ingin berhenti. Ia sangat termotivasi untuk sembuh. Tidak ada gangguan medis atau psikiatri lain yang signifikan.",
+      "contextTags": ["Insomnia Kronis", "CBT-I", "Perbandingan Teknik", "Evidence-Based Treatment"]
+    },
+    "question": "Membandingkan teknik intervensi berbasis bukti yang tersedia, teknik yang PALING tepat untuk Ny. Jm adalah:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Relaksasi progresif dan mindfulness untuk mengurangi arousal fisiologis sebelum tidur karena ketegangan fisik dan mental adalah faktor utama yang paling umum mempertahankan insomnia."
+      },
+      {
+        "id": "B",
+        "text": "Sleep hygiene education yang komprehensif sebagai intervensi lini pertama yang aman dan dapat langsung diterapkan tanpa risiko efek samping."
+      },
+      {
+        "id": "C",
+        "text": "Cognitive Behavioral Therapy for Insomnia (CBT-I) yang mencakup sleep restriction, stimulus control, cognitive restructuring tentang keyakinan maladaptif tentang tidur, dan sleep hygiene — karena CBT-I adalah intervensi lini pertama berbasis bukti terkuat yang direkomendasikan untuk insomnia kronis primer bahkan di atas farmakoterapi jangka panjang."
+      },
+      {
+        "id": "D",
+        "text": "Stimulus control dan sleep restriction sebagai komponen behavioral inti CBT-I karena komponen ini memberikan efek paling kuat dan cepat dibandingkan komponen kognitif atau psikoedukasi, sehingga lebih efisien untuk kasus insomnia yang motivasinya sudah tinggi."
+      },
+      {
+        "id": "E",
+        "text": "MBSR yang membantu Ny. Jm mengubah hubungannya dengan pikiran dan kekhawatiran yang muncul saat mencoba tidur, karena ruminasi dan kekhawatiran tentang tidur sering lebih berperan daripada faktor behavioral dalam mempertahankan insomnia kronis."
+      }
+    ],
+    "key": "C",
+    "explanation": "CBT-I adalah intervensi yang mendapat rekomendasi kuat dari panduan klinis internasional sebagai lini pertama untuk insomnia kronis primer — bahkan lebih disarankan daripada farmakoterapi untuk jangka panjang. CBT-I mencakup komponen yang saling melengkapi: sleep restriction, stimulus control, cognitive restructuring, dan sleep hygiene. Jawaban C tepat karena merekomendasikan CBT-I secara utuh. Jawaban D benar mengidentifikasi komponen behavioral yang kuat tetapi mengabaikan komponen kognitif yang juga penting — dan CBT-I utuh lebih efektif daripada komponen parsial. Jawaban A, B, dan E masing-masing hanya menarget satu komponen yang lebih lemah dari CBT-I lengkap. Jawaban B (sleep hygiene saja) khususnya terbukti tidak cukup efektif untuk insomnia kronis."
+  },
+  {
+    "id": "V3_Q34",
+    "domainId": 10,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Intervensi Psikologi - Merencanakan Intervensi)",
+    "indicatorId": "3.4",
+    "indicatorFullId": "D10-3.4",
+    "indicatorTitle": "Melakukan evaluasi terhadap teknik intervensi berbasis bukti",
+    "caseStudy": {
+      "title": "Studi Kasus 34: Evaluasi Psychological Debriefing Pasca Bencana",
+      "scenario": "Setelah banjir besar, tim psikolog melaksanakan Psychological Debriefing (PD) universal kepada ratusan warga terdampak dalam beberapa hari pertama. Empat bulan kemudian, evaluasi menunjukkan 35% peserta masih mengalami gejala PTSD yang signifikan — lebih tinggi dari yang diharapkan. Beberapa peneliti juga mempertanyakan apakah PD justru menghambat proses pemulihan alami.",
+      "contextTags": ["Evaluasi Berbasis Bukti", "Psychological Debriefing", "Intervensi Pasca Bencana", "PTSD"]
+    },
+    "question": "Evaluasi berbasis bukti yang PALING tepat terhadap program PD yang telah dilaksanakan adalah:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Program berhasil karena 65% peserta tidak mengalami PTSD signifikan; angka yang tersisa wajar mengingat tingkat paparan bencana yang tinggi dan keterbatasan sumber daya yang ada."
+      },
+      {
+        "id": "B",
+        "text": "Program perlu dilanjutkan dan ditingkatkan frekuensinya karena data menunjukkan masih banyak warga yang memerlukan dukungan psikologis dan debriefing tambahan akan membantu mereka yang belum pulih."
+      },
+      {
+        "id": "C",
+        "text": "Psychological Debriefing universal pasca-trauma tidak terbukti efektif dan beberapa studi menunjukkan dapat menghambat pemulihan alami; data program ini konsisten dengan temuan tersebut dan mengindikasikan perlunya beralih ke pendekatan berbasis bukti seperti Psychological First Aid untuk fase akut dan intervensi bertarget untuk yang menunjukkan gejala menetap."
+      },
+      {
+        "id": "D",
+        "text": "Efektivitas PD sulit dievaluasi tanpa kelompok kontrol yang memadai; langkah paling tepat adalah merancang studi evaluasi yang lebih ketat sebelum membuat kesimpulan tentang program ini."
+      },
+      {
+        "id": "E",
+        "text": "Tingkat PTSD yang tinggi menunjukkan bahwa psikolog pelaksana memerlukan pelatihan lebih baik dalam teknik debriefing yang benar, bukan berarti program PD itu sendiri tidak efektif sebagai pendekatan."
+      }
+    ],
+    "key": "C",
+    "explanation": "Evaluasi berbasis bukti mengharuskan psikolog merujuk pada literatur empiris yang ada, bukan hanya menginterpretasikan data lokal secara terisolir. Psychological Debriefing universal telah ditinjau secara sistematik dan konsisten menunjukkan tidak lebih efektif daripada tidak memberikan intervensi, dan beberapa studi menunjukkan potensi bahaya. PFA dan intervensi bertarget berbasis asesmen lebih didukung bukti untuk konteks bencana. Jawaban C paling tepat karena mengintegrasikan bukti empiris dengan data program. Jawaban D menghindar dari evaluasi dengan alasan metodologis. Jawaban A dan B mengabaikan pertanyaan efektivitas PD itu sendiri. Jawaban E menyalahkan implementasi bukan metode, padahal bukti menunjukkan masalah ada pada metodenya."
+  },
+  {
+    "id": "V3_Q35",
+    "domainId": 11,
+    "domainTitle": "Keterampilan Kerja Khusus - Etika Psikologi dan Hukum",
+    "indicatorId": "1.1",
+    "indicatorFullId": "D11-1.1",
+    "indicatorTitle": "Menjelaskan standar perilaku profesional berdasarkan Kode Etik Psikologi Indonesia",
+    "caseStudy": {
+      "title": "Studi Kasus 35: Kerahasiaan dalam Tim Multidisipliner",
+      "scenario": "Psikolog Lb bekerja dalam tim rehabilitasi rumah sakit merawat Ny. Rk (60 tahun) pasca-stroke. Tim terdiri dari dokter, fisioterapis, perawat, dan pekerja sosial. Dalam sesi psikologis, Ny. Rk mengungkapkan kekhawatiran mendalam tentang kondisi pernikahannya (tidak diketahui tim) dan menyatakan terkadang tidak mau mengikuti program rehabilitasi fisik karena merasa 'tidak ada gunanya'. Dokter meminta Psikolog Lb untuk berbagi semua informasi dari sesi psikologis untuk kepentingan perencanaan perawatan terpadu.",
+      "contextTags": ["Kerahasiaan", "Tim Multidisipliner", "Minimum Necessary Information", "Informed Consent"]
+    },
+    "question": "Berkaitan dengan permintaan dokter, tindakan PALING tepat Psikolog Lb berdasarkan standar profesional adalah:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Berbagi semua informasi dari sesi psikologis karena dalam tim multidisipliner, kerahasiaan berlaku untuk tim secara keseluruhan dan informasi lengkap diperlukan untuk koordinasi perawatan yang optimal."
+      },
+      {
+        "id": "B",
+        "text": "Menolak berbagi informasi apapun karena kerahasiaan klien adalah prinsip yang tidak dapat dilanggar oleh permintaan siapapun, termasuk anggota tim profesional kesehatan."
+      },
+      {
+        "id": "C",
+        "text": "Berbagi hanya informasi yang relevan secara klinis untuk perawatan (termasuk motivasi dan kepatuhan rehabilitasi) sambil melindungi informasi yang tidak relevan (kondisi pernikahan), setelah menginformasikan kepada Ny. Rk tentang apa yang akan dibagikan dalam tim."
+      },
+      {
+        "id": "D",
+        "text": "Meminta persetujuan tertulis Ny. Rk untuk berbagi semua informasi kepada tim, dan jika Ny. Rk menolak maka kerahasiaan penuh dipertahankan meskipun menghambat koordinasi perawatan."
+      },
+      {
+        "id": "E",
+        "text": "Menyampaikan ringkasan impresionistis tentang kondisi psikologis Ny. Rk tanpa mengungkapkan detail spesifik, sehingga tim mendapat gambaran umum yang cukup untuk perencanaan tanpa melanggar kerahasiaan secara eksplisit."
+      }
+    ],
+    "key": "C",
+    "explanation": "Standar profesional tentang kerahasiaan dalam tim multidisipliner menerapkan prinsip 'minimum necessary information' — berbagi hanya informasi yang relevan untuk tujuan perawatan, bukan semua informasi. Psikolog harus membedakan antara: informasi yang relevan secara klinis untuk koordinasi perawatan (motivasi dan kepatuhan terhadap rehabilitasi) dengan informasi yang tidak relevan untuk tujuan tersebut (kondisi pernikahan). Jawaban C menerapkan prinsip ini sambil menjaga transparansi kepada klien. Jawaban A mengabaikan perbedaan relevansi informasi. Jawaban B terlalu kaku dan menghambat koordinasi perawatan yang sah. Jawaban D membebani klien dengan keputusan yang seharusnya dapat dinavigasi psikolog. Jawaban E tidak transparan kepada klien dan tidak tepat secara klinis."
+  },
+  {
+    "id": "V3_Q36",
+    "domainId": 11,
+    "domainTitle": "Keterampilan Kerja Khusus - Etika Psikologi dan Hukum",
+    "indicatorId": "2.1",
+    "indicatorFullId": "D11-2.1",
+    "indicatorTitle": "Menerapkan standar perilaku profesional berdasarkan Kode Etik Psikologi Indonesia",
+    "caseStudy": {
+      "title": "Studi Kasus 36: Countertransference yang Memengaruhi Kualitas Layanan",
+      "scenario": "Psikolog Fn menangani Tn. O (35 tahun) dengan masalah interpersonal. Setelah beberapa sesi, Psikolog Fn menyadari bahwa ia merasa jengkel ketika Tn. O berulang kali mengeluh hal yang sama tanpa menerapkan saran yang diberikan. Ia mulai mengalihkan percakapan dari topik tersebut dan kadang merasa sesi berlangsung lebih lambat. Ia belum yakin apakah reaksinya berdampak pada kualitas layanan.",
+      "contextTags": ["Countertransference", "Kesadaran Diri Profesional", "Kualitas Layanan", "Supervisi"]
+    },
+    "question": "Dalam menghadapi reaksi subjektifnya terhadap Tn. O, tindakan yang PALING tepat berdasarkan standar profesional adalah:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Mengungkapkan perasaan jengkel tersebut kepada Tn. O secara terapeutik karena genuine self-disclosure tentang reaksi terapis dapat menjadi umpan balik bermakna yang mendorong Tn. O merefleksikan polanya."
+      },
+      {
+        "id": "B",
+        "text": "Melakukan self-monitoring, mencari supervisi atau konsultasi klinis untuk memproses countertransference ini, dan mengevaluasi apakah kualitas layanan kepada Tn. O telah terdampak."
+      },
+      {
+        "id": "C",
+        "text": "Merujuk Tn. O kepada psikolog lain karena reaksi negatif yang konsisten menunjukkan bahwa hubungan terapeutik sudah tidak produktif dan melanjutkannya berisiko merugikan klien."
+      },
+      {
+        "id": "D",
+        "text": "Membahas pola Tn. O yang berulang secara langsung dalam sesi sebagai data klinis yang bermakna, karena mempertanyakan pola tersebut lebih terapeutik daripada membiarkan psikolog terus merasa tidak nyaman tanpa mengambil tindakan."
+      },
+      {
+        "id": "E",
+        "text": "Mengganti pendekatan intervensi karena kemungkinan teknik yang digunakan tidak sesuai dengan gaya belajar atau kebutuhan Tn. O, sehingga ia tidak dapat menerapkan saran yang diberikan dan frustrasi yang muncul pada kedua pihak mencerminkan ketidaksesuaian metode."
+      }
+    ],
+    "key": "B",
+    "explanation": "Countertransference yang tidak dikelola dengan baik dapat memengaruhi objektivitas dan kualitas layanan. Standar profesional mensyaratkan psikolog untuk: (1) menyadari reaksi subjektifnya, (2) memonitor dampaknya terhadap kualitas layanan, dan (3) mencari supervisi atau konsultasi untuk memproses countertransference. Jawaban B mencakup ketiga elemen ini secara ringkas dan tepat. Jawaban A salah karena mengungkapkan rasa jengkel kepada klien tanpa kerangka terapeutik yang jelas berisiko merusak aliansi. Jawaban C terlalu dini merujuk sebelum countertransference diproses secara profesional. Jawaban D dan E mengalihkan respons ke perubahan taktik klinis yang mungkin relevan tetapi bukan respons primer terhadap masalah countertransference yang harus ditangani dulu."
+  },
+  {
+    "id": "V3_Q37",
+    "domainId": 11,
+    "domainTitle": "Keterampilan Kerja Khusus - Etika Psikologi dan Hukum",
+    "indicatorId": "2.2",
+    "indicatorFullId": "D11-2.2",
+    "indicatorTitle": "Mendeteksi perilaku profesional dan tidak profesional berdasarkan Kode Etik Psikologi Indonesia",
+    "caseStudy": {
+      "title": "Studi Kasus 37: Testimoni Klien untuk Keperluan Promosi",
+      "scenario": "Psikolog Hd mendirikan praktik mandiri dan ingin mempromosikan layanannya. Beberapa klien lamanya yang sudah selesai terapi menyatakan secara sukarela bersedia memberikan testimoni positif untuk dipublikasikan di website dan media sosial. Beberapa bahkan secara eksplisit meminta agar nama lengkap mereka ditampilkan sebagai bentuk rasa terima kasih.",
+      "contextTags": ["Promosi Layanan", "Eksploitasi Relasi Terapeutik", "Undue Influence", "Kode Etik Iklan"]
+    },
+    "question": "Aspek etis yang PALING krusial dalam situasi ini adalah:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Penggunaan testimoni klien dapat dilakukan jika ada persetujuan tertulis yang jelas dan eksplisit dari masing-masing klien yang bersedia, karena persetujuan adalah syarat utama yang harus dipenuhi."
+      },
+      {
+        "id": "B",
+        "text": "Penggunaan testimoni diperbolehkan selama identitas klien dianonimkan sepenuhnya karena penghapusan informasi identitas melindungi privasi sambil tetap memungkinkan penggunaan konten yang bermakna."
+      },
+      {
+        "id": "C",
+        "text": "Hubungan profesional menciptakan relasi pengaruh yang tidak setara sehingga 'kesukarelaaan' klien tidak sepenuhnya bebas dari tekanan relasional — dan penggunaan testimoni klien bermasalah secara etis bahkan dengan persetujuan, karena berisiko mengeksploitasi kepercayaan yang dibangun dalam konteks terapeutik."
+      },
+      {
+        "id": "D",
+        "text": "Penggunaan testimoni klien lama yang sudah selesai terapi sepenuhnya etis karena hubungan terapeutik sudah berakhir dan klien kini dalam posisi yang setara dengan masyarakat umum sehingga dapat membuat keputusan bebas."
+      },
+      {
+        "id": "E",
+        "text": "Penggunaan testimoni dapat dilakukan jika konten tidak mengungkapkan detail sensitif tentang kondisi klien dan hanya mencerminkan pengalaman umum tentang kualitas layanan yang diterima."
+      }
+    ],
+    "key": "C",
+    "explanation": "Aspek paling krusial di sini bukan tentang prosedur (persetujuan atau anonimitas), melainkan tentang sifat relasi terapeutik itu sendiri. Hubungan terapeutik menciptakan ketidaksetaraan relasional yang inheren — klien dalam posisi rentan dan bergantung. Meskipun terapi sudah selesai, dinamika ini tidak hilang sepenuhnya, dan 'kesukarelaan' dalam konteks ini mengandung tekanan implisit yang tidak disadari. Kode Etik Psikologi Indonesia membatasi penggunaan testimoni klien untuk promosi karena alasan ini. Jawaban A dan B benar secara prosedural tetapi melewatkan masalah etis yang lebih mendasar tentang undue influence dalam relasi profesional. Jawaban D keliru karena mengasumsikan selesainya terapi sepenuhnya menghapus dinamika relasional yang terbentuk."
+  },
+  {
+    "id": "V3_Q38",
+    "domainId": 12,
+    "domainTitle": "Keterampilan Kerja Khusus - Etika Psikologi dan Hukum (Hak dan Kewenangan Kompetensi)",
+    "indicatorId": "1.2",
+    "indicatorFullId": "D12-1.2",
+    "indicatorTitle": "Menerapkan tindakan dalam layanan psikologis yang sesuai dengan hak dan kewenangan psikolog umum",
+    "caseStudy": {
+      "title": "Studi Kasus 38: Laporan Psikologis untuk Konteks Hukum",
+      "scenario": "Psikolog umum Ny. Sm diminta pengacara untuk menulis 'surat keterangan psikologis' bagi kliennya, Tn. Yp (32 tahun), yang baru menjalani 3 sesi konseling. Surat diminta menyatakan bahwa Tn. Yp 'tidak memiliki gangguan psikologis yang memengaruhi kapasitas pengambilan keputusannya' dalam konteks sengketa bisnis. Tn. Yp menyetujui pembuatan surat dan merasa itu akan sangat membantunya.",
+      "contextTags": ["Kewenangan Psikolog Umum", "Laporan Psikologis", "Konteks Legal", "Batas Kompetensi"]
+    },
+    "question": "Tindakan yang PALING tepat sesuai kewenangan dan prinsip profesional Psikolog Sm adalah:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Menulis surat keterangan yang diminta karena psikolog berwenang memberikan informasi tentang kondisi psikologis klien berdasarkan hasil observasi dan wawancara dalam sesi konseling yang telah dilakukan."
+      },
+      {
+        "id": "B",
+        "text": "Menolak membuat surat keterangan tersebut dan menjelaskan bahwa tiga sesi konseling tidak memadai sebagai dasar untuk membuat pernyataan tentang kapasitas pengambilan keputusan yang akan digunakan dalam konteks hukum."
+      },
+      {
+        "id": "C",
+        "text": "Bersedia membuat surat keterangan dengan pembatasan yang jelas: hanya mencakup hal-hal yang dapat diobservasi selama sesi dan tidak mencakup pernyataan tentang kapasitas legal, sehingga surat tetap informatif tanpa melampaui data yang ada."
+      },
+      {
+        "id": "D",
+        "text": "Melakukan asesmen tambahan yang lebih komprehensif terlebih dahulu sebelum mempertimbangkan pembuatan surat, karena data yang ada belum memadai dan penambahan data mungkin memungkinkan pernyataan yang lebih valid."
+        },
+      {
+        "id": "E",
+        "text": "Menolak membuat surat yang menyatakan ketiadaan gangguan yang memengaruhi kapasitas pengambilan keputusan, karena pernyataan ini tidak dapat didukung oleh data dari tiga sesi konseling dan penggunaannya dalam konteks hukum memiliki implikasi yang mungkin tidak sepenuhnya dipahami oleh psikolog."
+      }
+    ],
+    "key": "E",
+    "explanation": "Ada dua masalah utama yang tidak dapat diatasi: (1) Pernyataan spesifik yang diminta ('tidak memiliki gangguan yang memengaruhi kapasitas pengambilan keputusan') tidak dapat disimpulkan dari 3 sesi konseling tanpa asesmen kapasitas yang terstruktur dan komprehensif. (2) Penggunaan dalam konteks hukum memiliki implikasi serius yang melampaui pemahaman psikolog konseling umum. Jawaban E paling tepat karena menolak atas kedua alasan yang tepat — ketidakcukupan data DAN ketidakjelasan/risiko penggunaan dalam konteks hukum. Jawaban B juga benar menolak tetapi hanya menekankan kecukupan data, bukan risiko konteks hukum. Jawaban D mempertimbangkan menambah asesmen, yang mungkin mengatasi masalah pertama tetapi tidak masalah kewenangan dalam konteks legal."
+  },
+  {
+    "id": "V3_Q39",
+    "domainId": 12,
+    "domainTitle": "Keterampilan Kerja Khusus - Etika Psikologi dan Hukum (Hak dan Kewenangan Kompetensi)",
+    "indicatorId": "2.1",
+    "indicatorFullId": "D12-2.1",
+    "indicatorTitle": "Mendeteksi tindakan yang sesuai dan tidak sesuai dengan hak dan kewenangan psikolog umum",
+    "caseStudy": {
+      "title": "Studi Kasus 39: Evaluasi Tindakan Empat Psikolog Umum",
+      "scenario": "Dalam forum diskusi kasus, empat psikolog umum memaparkan tindakan mereka: Psikolog A menyampaikan kesimpulan asesmen dan merekomendasikan jenis intervensi kepada klien. Psikolog B memberikan panduan terapeutik spesifik untuk PTSD kepada klien setelah satu sesi awal tanpa asesmen formal. Psikolog C merujuk klien dengan gejala melebihi kapasitas penanganannya kepada psikiater dengan penjelasan klinis yang lengkap. Psikolog D menyatakan secara tertulis dalam laporan bahwa klien 'menderita Skizofrenia' setelah dua sesi wawancara.",
+      "contextTags": ["Kewenangan Psikolog Umum", "Standar Praktik", "Batas Kompetensi", "Prosedur Asesmen"]
+    },
+    "question": "Dari keempat tindakan tersebut, yang PALING jelas sesuai dengan kewenangan dan standar praktik psikolog umum adalah:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Psikolog A, karena menyampaikan kesimpulan asesmen dan merekomendasikan intervensi adalah inti kewenangan psikolog dan merupakan tujuan utama dari proses asesmen yang dilakukan."
+      },
+      {
+        "id": "B",
+        "text": "Psikolog B, karena memberikan panduan terapeutik untuk membantu klien mengelola gejala akut adalah bagian dari layanan psikologis yang responsif terhadap kebutuhan mendesak klien."
+      },
+      {
+        "id": "C",
+        "text": "Psikolog C, karena mengenali batas kompetensi dan melakukan rujukan yang tepat dengan penjelasan klinis memadai adalah tindakan paling jelas sesuai standar profesional — tanpa syarat atau ambiguitas."
+      },
+      {
+        "id": "D",
+        "text": "Psikolog D, karena psikolog memiliki kewenangan menegakkan diagnosis psikologis berdasarkan wawancara klinis yang komprehensif sesuai sistem klasifikasi yang berlaku."
+      },
+      {
+        "id": "E",
+        "text": "Psikolog A dan Psikolog C, karena keduanya mencerminkan dua aspek inti kompetensi psikolog: kemampuan membuat kesimpulan asesmen dan kemampuan mengenali batas kewenangan."
+      }
+    ],
+    "key": "C",
+    "explanation": "Analisis kewenangan: Psikolog A (menyampaikan kesimpulan dan rekomendasi) pada prinsipnya sesuai, tetapi tanpa detail lebih lanjut, kita tidak tahu apakah asesmen yang mendasarinya sudah memadai. Psikolog B bermasalah karena memberikan intervensi spesifik untuk PTSD tanpa asesmen formal — ini melampaui wewenang berdasarkan data yang tersedia. Psikolog D bermasalah ganda: diagnosis skizofrenia adalah domain psikiater, dan dua sesi wawancara tidak mencukupi untuk diagnosis seberat ini. Psikolog C — mengenali batas kapasitas dan melakukan rujukan dengan penjelasan klinis yang memadai — adalah tindakan yang paling jelas, tanpa syarat, dan tidak ambigu sesuai dengan standar profesional psikolog umum. Jawaban E memasukkan Psikolog A yang memiliki ambiguitas, sedangkan Psikolog C tidak."
+  },
+  {
+    "id": "V3_Q40",
+    "domainId": 13,
+    "domainTitle": "Keterampilan Kerja Khusus - Etika Psikologi dan Hukum (Pengetahuan Hukum)",
+    "indicatorId": "2.1",
+    "indicatorFullId": "D13-2.1",
+    "indicatorTitle": "Menunjukkan peraturan perundangan yang relevan dengan permasalahan psikologis terkait hukum",
+    "caseStudy": {
+      "title": "Studi Kasus 40: Kekerasan Anak yang Terungkap dalam Sesi Konseling",
+      "scenario": "Dalam sesi konseling dengan Am (15 tahun) yang dirujuk karena prestasi menurun, Am menceritakan bahwa ia dipukul ayah tirinya secara fisik ketika melakukan kesalahan — sudah berlangsung dua tahun. Am tidak menganggap ini 'masalah serius' karena 'itu biasa dalam keluarga saya' dan sangat takut jika cerita ini diketahui orang. Am memohon psikolog merahasiakannya. Psikolog menilai cedera yang dialami Am tergolong ringan dan tidak ada ancaman keselamatan akut saat ini.",
+      "contextTags": ["Mandatory Reporting", "UU Perlindungan Anak", "Kerahasiaan", "Kekerasan Terhadap Anak"]
+    },
+    "question": "Mempertimbangkan ketentuan hukum yang berlaku dan kondisi Am, tindakan psikolog yang PALING tepat adalah:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Mempertahankan kerahasiaan karena cedera ringan dan tidak ada ancaman akut; sebaliknya membantu Am mengembangkan strategi keamanan dan mendorongnya berbicara kepada orang dewasa yang dipercaya di lingkungannya."
+      },
+      {
+        "id": "B",
+        "text": "Melaporkan dugaan kekerasan segera kepada pihak berwenang sesuai UU Perlindungan Anak tanpa menunggu persetujuan Am, sambil menjelaskan kepada Am tentang proses pelaporan dan memberikan dukungan emosional."
+      },
+      {
+        "id": "C",
+        "text": "Mendiskusikan situasi ini dengan supervisor atau konsultan etika terlebih dahulu karena kompleksitas kasus — tidak adanya ancaman akut, permintaan kerahasiaan Am, dan kekerasan yang sudah berlangsung lama — memerlukan pertimbangan kolektif sebelum mengambil keputusan."
+      },
+      {
+        "id": "D",
+        "text": "Menginformasikan kepada Am bahwa psikolog memiliki kewajiban hukum untuk melaporkan kekerasan terhadap anak berdasarkan UU Perlindungan Anak, menjelaskan apa yang akan terjadi selanjutnya, dan memproses respons emosional Am terhadap keputusan ini sebelum pelaporan dilakukan."
+      },
+      {
+        "id": "E",
+        "text": "Meminta Am membawa ibunya ke sesi berikutnya untuk menilai dinamika keluarga secara lebih lengkap dan mendorong ibu Am mengambil tindakan perlindungan, sehingga perlindungan tetap dapat diupayakan tanpa harus melibatkan otoritas dari luar keluarga terlebih dahulu."
+      }
+    ],
+    "key": "D",
+    "explanation": "UU No. 35 Tahun 2014 tentang Perlindungan Anak mewajibkan pelaporan dugaan kekerasan terhadap anak. Kewajiban ini berlaku meskipun cedera ringan dan tidak ada ancaman akut saat ini — karena pola kekerasan yang telah berlangsung dua tahun adalah kekerasan berulang yang berisiko berlanjut. Jawaban D paling tepat karena: (1) memenuhi kewajiban hukum, (2) melakukan transparansi kepada Am tentang proses yang akan terjadi (standar etis dalam situasi mandatory reporting), dan (3) memproses dampak emosional Am sebagai perawatan berkelanjutan. Berbeda dengan melaporkan tanpa memberitahu Am (B), jawaban D lebih mempertahankan kepercayaan terapeutik sambil tetap memenuhi kewajiban hukum. Jawaban A salah karena mengabaikan kewajiban pelaporan mandatory. Jawaban C tidak boleh digunakan sebagai alasan menunda pelaporan yang diwajibkan hukum."
+  }
+]

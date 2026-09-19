@@ -66,13 +66,6 @@ export const metadata: Metadata = {
       "en-US": SITE_URL,
     },
   },
-  icons: {
-    icon: [
-      { url: "/icon64.png", sizes: "64x64", type: "image/png" },
-      { url: "/icon256.png", sizes: "256x256", type: "image/png" },
-    ],
-    apple: [{ url: "/icon256.png", sizes: "256x256", type: "image/png" }],
-  },
   openGraph: {
     type: "website",
     locale: "id_ID",

@@ -12,7 +12,8 @@ import domain11 from "./domain_11.json";
 import domain12 from "./domain_12.json";
 import domain13 from "./domain_13.json";
 import v2Data from "./v2_questions.json";
-import { Question, QuestionVersion } from "@/types/utbk-ukppu";
+import v3Data from "./v3_questions.json";
+import { Question } from "@/types/utbk-ukppu";
 
 export const domain1Questions = domain1 as Question[];
 export const domain2Questions = domain2 as Question[];
@@ -28,7 +29,7 @@ export const domain11Questions = domain11 as Question[];
 export const domain12Questions = domain12 as Question[];
 export const domain13Questions = domain13 as Question[];
 
-export const v1Questions: Question[] = [
+const v1Questions: Question[] = [
   ...domain1Questions,
   ...domain2Questions,
   ...domain3Questions,
@@ -44,20 +45,96 @@ export const v1Questions: Question[] = [
   ...domain13Questions,
 ];
 
-export const v2Questions = v2Data as Question[];
+const v2Questions = v2Data as Question[];
+const v3Questions = v3Data as Question[];
 
 /**
- * Returns questions for the selected version. Default is newest (v2).
+ * ─────────────────────────────────────────────────────────────────
+ * QUESTION VERSION REGISTRY — Single source of truth
+ *
+ * To add a new version:
+ *   1. Import the JSON file above (e.g. import v4Data from "./v4_questions.json")
+ *   2. Cast it:   const v4Questions = v4Data as Question[]
+ *   3. Add a new entry to QUESTION_VERSIONS below
+ *   4. Done — everything else updates automatically
+ * ─────────────────────────────────────────────────────────────────
  */
-export function getQuestionsByVersion(version?: QuestionVersion): Question[] {
-  if (version === "v1") {
-    return v1Questions;
-  }
-  return v2Questions;
+export interface QuestionVersionMeta {
+  /** Unique version key stored in UserSession */
+  id: string;
+  /** Short label shown in badges and buttons, e.g. "V3" */
+  label: string;
+  /** Full human-readable name, e.g. "Paket V3 (Terbaru)" */
+  name: string;
+  /** Small badge text shown next to the name in the modal, e.g. "Terbaru" | "Arsip" | "Klasik" */
+  badge: string;
+  /** Whether the badge should use the accent (emerald) colour */
+  isDefault?: boolean;
+  /** One-line description shown in the version card */
+  description: string;
+  /** Sub-description / detail line */
+  detail: string;
+  /** The actual question array */
+  questions: Question[];
 }
 
-// Default exported allQuestions points to newest (v2)
-export const allQuestions: Question[] = v2Questions;
+export const QUESTION_VERSIONS: QuestionVersionMeta[] = [
+  // ── add newest versions at the TOP of this array ──────────────
+  {
+    id: "v3",
+    label: "V3",
+    name: "Paket V3 (Terbaru)",
+    badge: "Default",
+    isDefault: true,
+    description: "40 Soal HOTS • 5 Opsi (A–E) • Semua terlihat benar",
+    detail: "Dilematis SJT terbaru. Bobot lebih banyak di Domain 4–10 (Asesmen & Intervensi).",
+    questions: v3Questions,
+  },
+  {
+    id: "v2",
+    label: "V2",
+    name: "Paket V2",
+    badge: "Arsip",
+    isDefault: false,
+    description: "40 Soal HOTS • 5 Opsi (A–E)",
+    detail: "Skenario kasus panjang & SJT dilematis versi sebelumnya.",
+    questions: v2Questions,
+  },
+  {
+    id: "v1",
+    label: "V1",
+    name: "Paket V1 (Klasik)",
+    badge: "Bank Arsip",
+    isDefault: false,
+    description: "610 Soal Lengkap • 4 Opsi (A–D)",
+    detail: "Bank soal komprehensif mencakup 13 domain secara luas.",
+    questions: v1Questions,
+  },
+];
+
+/** The default/latest version id (first entry in QUESTION_VERSIONS with isDefault) */
+export const LATEST_VERSION: string =
+  QUESTION_VERSIONS.find((v) => v.isDefault)?.id ?? QUESTION_VERSIONS[0].id;
+
+/** Returns the QuestionVersionMeta for a given id, or the default if not found */
+export function getVersionMeta(id?: string): QuestionVersionMeta {
+  return QUESTION_VERSIONS.find((v) => v.id === id) ?? QUESTION_VERSIONS[0];
+}
+
+/** Returns the questions for the given version id */
+export function getQuestionsByVersion(id?: string): Question[] {
+  return getVersionMeta(id).questions;
+}
+
+/** Returns the next version in the cycle (wraps around) */
+export function getNextVersion(currentId?: string): QuestionVersionMeta {
+  const idx = QUESTION_VERSIONS.findIndex((v) => v.id === currentId);
+  const nextIdx = (idx + 1) % QUESTION_VERSIONS.length;
+  return QUESTION_VERSIONS[nextIdx];
+}
+
+// Default exported allQuestions points to newest version
+export const allQuestions: Question[] = getVersionMeta(LATEST_VERSION).questions;
 
 // Map questions by unique indicator full ID e.g. "D1-1.1", "D2-1.2", etc.
 export const questionsByIndicator: Record<string, Question[]> = {};
@@ -69,4 +146,3 @@ allQuestions.forEach((q) => {
   }
   questionsByIndicator[fullId].push(q);
 });
-

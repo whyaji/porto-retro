@@ -22,7 +22,8 @@ export interface Question {
   explanation: string;
 }
 
-export type QuestionVersion = "v1" | "v2";
+/** Version key — defined by QUESTION_VERSIONS registry in assets/utbk-ukppu/index.ts */
+export type QuestionVersion = string;
 
 export interface UserSession {
   userName: string;

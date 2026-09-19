@@ -97,11 +97,6 @@ export function QuestionPanel({
                 <div className="flex-1 text-xs sm:text-sm font-medium text-slate-900 dark:text-slate-200 pt-0.5 leading-relaxed">
                   {opt.text}
                 </div>
-
-                {/* Radio selection checkmark */}
-                {isSelected && (
-                  <FiCheckCircle className="w-4 h-4 sm:w-5 sm:h-5 text-emerald-600 dark:text-emerald-400 flex-shrink-0 mt-0.5" />
-                )}
               </label>
             );
           })}
