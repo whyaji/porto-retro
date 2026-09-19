@@ -1,0 +1,1562 @@
+[
+  {
+    "id": "D5_I1.1_Q1",
+    "domainId": 5,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Tujuan asesmen)",
+    "indicatorId": "1.1",
+    "indicatorFullId": "D5-1.1",
+    "indicatorTitle": "Mengetahui dasar-dasar dalam menentukan tujuan asesmen",
+    "caseStudy": {
+      "title": "Studi Kasus 1: Dasar-Dasar Penetapan Tujuan Asesmen Seleksi Promosi Jabatan (Kasus 1)",
+      "scenario": "Psikolog Organisasi diminta menetapkan tujuan asesmen psikologis untuk 5 calon manajer senior di sebuah perusahaan BUMN. Psikolog mempertimbangkan tujuan spesifik asesmen: apakah untuk diagnostik klinis, pemetaan potensi kepemimpinan (assessment center), penempatan kerja, atau evaluasi kesiapan mental promosi.",
+      "contextTags": [
+        "Tujuan Asesmen",
+        "Dasar Asesmen",
+        "Psikologi Industri",
+        "Promosi Jabatan"
+      ]
+    },
+    "question": "Prinsip dasar apakah yang HARUS melandasi penetapan tujuan asesmen psikologis dalam konteks organisasi ini?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Tujuan asesmen ditetapkan secara acak tanpa mempertimbangkan konteks kebutuhan organisasi."
+      },
+      {
+        "id": "B",
+        "text": "Tujuan asesmen dirumuskan secara jelas, spesifik, serta diselaraskan dengan kebutuhan kompetensi jabatan dan pertanyaan evaluasi pengguna layanan."
+      },
+      {
+        "id": "C",
+        "text": "Tujuan asesmen disamakan dengan asesmen kegawatdaruratan psikiatri rumah sakit jiwa."
+      },
+      {
+        "id": "D",
+        "text": "Tujuan asesmen hanya fokus untuk mengukur tingkat hafalan rumus matematika dasar."
+      }
+    ],
+    "key": "B",
+    "explanation": "Dasar dalam menentukan tujuan asesmen adalah kejelasan relevansi antara pertanyaan evaluasi (evaluation question), konteks kebutuhan pengguna layanan (klien/organisasi), dan sasaran ukur psikologis yang ingin dicapai."
+  },
+  {
+    "id": "D5_I1.1_Q2",
+    "domainId": 5,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Tujuan asesmen)",
+    "indicatorId": "1.1",
+    "indicatorFullId": "D5-1.1",
+    "indicatorTitle": "Mengetahui dasar-dasar dalam menentukan tujuan asesmen",
+    "caseStudy": {
+      "title": "Studi Kasus 2: Dasar-Dasar Penetapan Tujuan Asesmen Seleksi Promosi Jabatan (Kasus 2)",
+      "scenario": "Psikolog Organisasi diminta menetapkan tujuan asesmen psikologis untuk 5 calon manajer senior di sebuah perusahaan BUMN. Psikolog mempertimbangkan tujuan spesifik asesmen: apakah untuk diagnostik klinis, pemetaan potensi kepemimpinan (assessment center), penempatan kerja, atau evaluasi kesiapan mental promosi.",
+      "contextTags": [
+        "Tujuan Asesmen",
+        "Dasar Asesmen",
+        "Psikologi Industri",
+        "Promosi Jabatan"
+      ]
+    },
+    "question": "Prinsip dasar apakah yang HARUS melandasi penetapan tujuan asesmen psikologis dalam konteks organisasi ini?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Tujuan asesmen ditetapkan secara acak tanpa mempertimbangkan konteks kebutuhan organisasi."
+      },
+      {
+        "id": "B",
+        "text": "Tujuan asesmen dirumuskan secara jelas, spesifik, serta diselaraskan dengan kebutuhan kompetensi jabatan dan pertanyaan evaluasi pengguna layanan."
+      },
+      {
+        "id": "C",
+        "text": "Tujuan asesmen disamakan dengan asesmen kegawatdaruratan psikiatri rumah sakit jiwa."
+      },
+      {
+        "id": "D",
+        "text": "Tujuan asesmen hanya fokus untuk mengukur tingkat hafalan rumus matematika dasar."
+      }
+    ],
+    "key": "B",
+    "explanation": "Dasar dalam menentukan tujuan asesmen adalah kejelasan relevansi antara pertanyaan evaluasi (evaluation question), konteks kebutuhan pengguna layanan (klien/organisasi), dan sasaran ukur psikologis yang ingin dicapai."
+  },
+  {
+    "id": "D5_I1.1_Q3",
+    "domainId": 5,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Tujuan asesmen)",
+    "indicatorId": "1.1",
+    "indicatorFullId": "D5-1.1",
+    "indicatorTitle": "Mengetahui dasar-dasar dalam menentukan tujuan asesmen",
+    "caseStudy": {
+      "title": "Studi Kasus 3: Dasar-Dasar Penetapan Tujuan Asesmen Seleksi Promosi Jabatan (Kasus 3)",
+      "scenario": "Psikolog Organisasi diminta menetapkan tujuan asesmen psikologis untuk 5 calon manajer senior di sebuah perusahaan BUMN. Psikolog mempertimbangkan tujuan spesifik asesmen: apakah untuk diagnostik klinis, pemetaan potensi kepemimpinan (assessment center), penempatan kerja, atau evaluasi kesiapan mental promosi.",
+      "contextTags": [
+        "Tujuan Asesmen",
+        "Dasar Asesmen",
+        "Psikologi Industri",
+        "Promosi Jabatan"
+      ]
+    },
+    "question": "Prinsip dasar apakah yang HARUS melandasi penetapan tujuan asesmen psikologis dalam konteks organisasi ini?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Tujuan asesmen ditetapkan secara acak tanpa mempertimbangkan konteks kebutuhan organisasi."
+      },
+      {
+        "id": "B",
+        "text": "Tujuan asesmen dirumuskan secara jelas, spesifik, serta diselaraskan dengan kebutuhan kompetensi jabatan dan pertanyaan evaluasi pengguna layanan."
+      },
+      {
+        "id": "C",
+        "text": "Tujuan asesmen disamakan dengan asesmen kegawatdaruratan psikiatri rumah sakit jiwa."
+      },
+      {
+        "id": "D",
+        "text": "Tujuan asesmen hanya fokus untuk mengukur tingkat hafalan rumus matematika dasar."
+      }
+    ],
+    "key": "B",
+    "explanation": "Dasar dalam menentukan tujuan asesmen adalah kejelasan relevansi antara pertanyaan evaluasi (evaluation question), konteks kebutuhan pengguna layanan (klien/organisasi), dan sasaran ukur psikologis yang ingin dicapai."
+  },
+  {
+    "id": "D5_I1.1_Q4",
+    "domainId": 5,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Tujuan asesmen)",
+    "indicatorId": "1.1",
+    "indicatorFullId": "D5-1.1",
+    "indicatorTitle": "Mengetahui dasar-dasar dalam menentukan tujuan asesmen",
+    "caseStudy": {
+      "title": "Studi Kasus 4: Dasar-Dasar Penetapan Tujuan Asesmen Seleksi Promosi Jabatan (Kasus 4)",
+      "scenario": "Psikolog Organisasi diminta menetapkan tujuan asesmen psikologis untuk 5 calon manajer senior di sebuah perusahaan BUMN. Psikolog mempertimbangkan tujuan spesifik asesmen: apakah untuk diagnostik klinis, pemetaan potensi kepemimpinan (assessment center), penempatan kerja, atau evaluasi kesiapan mental promosi.",
+      "contextTags": [
+        "Tujuan Asesmen",
+        "Dasar Asesmen",
+        "Psikologi Industri",
+        "Promosi Jabatan"
+      ]
+    },
+    "question": "Prinsip dasar apakah yang HARUS melandasi penetapan tujuan asesmen psikologis dalam konteks organisasi ini?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Tujuan asesmen ditetapkan secara acak tanpa mempertimbangkan konteks kebutuhan organisasi."
+      },
+      {
+        "id": "B",
+        "text": "Tujuan asesmen dirumuskan secara jelas, spesifik, serta diselaraskan dengan kebutuhan kompetensi jabatan dan pertanyaan evaluasi pengguna layanan."
+      },
+      {
+        "id": "C",
+        "text": "Tujuan asesmen disamakan dengan asesmen kegawatdaruratan psikiatri rumah sakit jiwa."
+      },
+      {
+        "id": "D",
+        "text": "Tujuan asesmen hanya fokus untuk mengukur tingkat hafalan rumus matematika dasar."
+      }
+    ],
+    "key": "B",
+    "explanation": "Dasar dalam menentukan tujuan asesmen adalah kejelasan relevansi antara pertanyaan evaluasi (evaluation question), konteks kebutuhan pengguna layanan (klien/organisasi), dan sasaran ukur psikologis yang ingin dicapai."
+  },
+  {
+    "id": "D5_I1.1_Q5",
+    "domainId": 5,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Tujuan asesmen)",
+    "indicatorId": "1.1",
+    "indicatorFullId": "D5-1.1",
+    "indicatorTitle": "Mengetahui dasar-dasar dalam menentukan tujuan asesmen",
+    "caseStudy": {
+      "title": "Studi Kasus 5: Dasar-Dasar Penetapan Tujuan Asesmen Seleksi Promosi Jabatan (Kasus 5)",
+      "scenario": "Psikolog Organisasi diminta menetapkan tujuan asesmen psikologis untuk 5 calon manajer senior di sebuah perusahaan BUMN. Psikolog mempertimbangkan tujuan spesifik asesmen: apakah untuk diagnostik klinis, pemetaan potensi kepemimpinan (assessment center), penempatan kerja, atau evaluasi kesiapan mental promosi.",
+      "contextTags": [
+        "Tujuan Asesmen",
+        "Dasar Asesmen",
+        "Psikologi Industri",
+        "Promosi Jabatan"
+      ]
+    },
+    "question": "Prinsip dasar apakah yang HARUS melandasi penetapan tujuan asesmen psikologis dalam konteks organisasi ini?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Tujuan asesmen ditetapkan secara acak tanpa mempertimbangkan konteks kebutuhan organisasi."
+      },
+      {
+        "id": "B",
+        "text": "Tujuan asesmen dirumuskan secara jelas, spesifik, serta diselaraskan dengan kebutuhan kompetensi jabatan dan pertanyaan evaluasi pengguna layanan."
+      },
+      {
+        "id": "C",
+        "text": "Tujuan asesmen disamakan dengan asesmen kegawatdaruratan psikiatri rumah sakit jiwa."
+      },
+      {
+        "id": "D",
+        "text": "Tujuan asesmen hanya fokus untuk mengukur tingkat hafalan rumus matematika dasar."
+      }
+    ],
+    "key": "B",
+    "explanation": "Dasar dalam menentukan tujuan asesmen adalah kejelasan relevansi antara pertanyaan evaluasi (evaluation question), konteks kebutuhan pengguna layanan (klien/organisasi), dan sasaran ukur psikologis yang ingin dicapai."
+  },
+  {
+    "id": "D5_I1.1_Q6",
+    "domainId": 5,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Tujuan asesmen)",
+    "indicatorId": "1.1",
+    "indicatorFullId": "D5-1.1",
+    "indicatorTitle": "Mengetahui dasar-dasar dalam menentukan tujuan asesmen",
+    "caseStudy": {
+      "title": "Studi Kasus 6: Dasar-Dasar Penetapan Tujuan Asesmen Seleksi Promosi Jabatan (Kasus 6)",
+      "scenario": "Psikolog Organisasi diminta menetapkan tujuan asesmen psikologis untuk 5 calon manajer senior di sebuah perusahaan BUMN. Psikolog mempertimbangkan tujuan spesifik asesmen: apakah untuk diagnostik klinis, pemetaan potensi kepemimpinan (assessment center), penempatan kerja, atau evaluasi kesiapan mental promosi.",
+      "contextTags": [
+        "Tujuan Asesmen",
+        "Dasar Asesmen",
+        "Psikologi Industri",
+        "Promosi Jabatan"
+      ]
+    },
+    "question": "Prinsip dasar apakah yang HARUS melandasi penetapan tujuan asesmen psikologis dalam konteks organisasi ini?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Tujuan asesmen ditetapkan secara acak tanpa mempertimbangkan konteks kebutuhan organisasi."
+      },
+      {
+        "id": "B",
+        "text": "Tujuan asesmen dirumuskan secara jelas, spesifik, serta diselaraskan dengan kebutuhan kompetensi jabatan dan pertanyaan evaluasi pengguna layanan."
+      },
+      {
+        "id": "C",
+        "text": "Tujuan asesmen disamakan dengan asesmen kegawatdaruratan psikiatri rumah sakit jiwa."
+      },
+      {
+        "id": "D",
+        "text": "Tujuan asesmen hanya fokus untuk mengukur tingkat hafalan rumus matematika dasar."
+      }
+    ],
+    "key": "B",
+    "explanation": "Dasar dalam menentukan tujuan asesmen adalah kejelasan relevansi antara pertanyaan evaluasi (evaluation question), konteks kebutuhan pengguna layanan (klien/organisasi), dan sasaran ukur psikologis yang ingin dicapai."
+  },
+  {
+    "id": "D5_I1.1_Q7",
+    "domainId": 5,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Tujuan asesmen)",
+    "indicatorId": "1.1",
+    "indicatorFullId": "D5-1.1",
+    "indicatorTitle": "Mengetahui dasar-dasar dalam menentukan tujuan asesmen",
+    "caseStudy": {
+      "title": "Studi Kasus 7: Dasar-Dasar Penetapan Tujuan Asesmen Seleksi Promosi Jabatan (Kasus 7)",
+      "scenario": "Psikolog Organisasi diminta menetapkan tujuan asesmen psikologis untuk 5 calon manajer senior di sebuah perusahaan BUMN. Psikolog mempertimbangkan tujuan spesifik asesmen: apakah untuk diagnostik klinis, pemetaan potensi kepemimpinan (assessment center), penempatan kerja, atau evaluasi kesiapan mental promosi.",
+      "contextTags": [
+        "Tujuan Asesmen",
+        "Dasar Asesmen",
+        "Psikologi Industri",
+        "Promosi Jabatan"
+      ]
+    },
+    "question": "Prinsip dasar apakah yang HARUS melandasi penetapan tujuan asesmen psikologis dalam konteks organisasi ini?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Tujuan asesmen ditetapkan secara acak tanpa mempertimbangkan konteks kebutuhan organisasi."
+      },
+      {
+        "id": "B",
+        "text": "Tujuan asesmen dirumuskan secara jelas, spesifik, serta diselaraskan dengan kebutuhan kompetensi jabatan dan pertanyaan evaluasi pengguna layanan."
+      },
+      {
+        "id": "C",
+        "text": "Tujuan asesmen disamakan dengan asesmen kegawatdaruratan psikiatri rumah sakit jiwa."
+      },
+      {
+        "id": "D",
+        "text": "Tujuan asesmen hanya fokus untuk mengukur tingkat hafalan rumus matematika dasar."
+      }
+    ],
+    "key": "B",
+    "explanation": "Dasar dalam menentukan tujuan asesmen adalah kejelasan relevansi antara pertanyaan evaluasi (evaluation question), konteks kebutuhan pengguna layanan (klien/organisasi), dan sasaran ukur psikologis yang ingin dicapai."
+  },
+  {
+    "id": "D5_I1.1_Q8",
+    "domainId": 5,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Tujuan asesmen)",
+    "indicatorId": "1.1",
+    "indicatorFullId": "D5-1.1",
+    "indicatorTitle": "Mengetahui dasar-dasar dalam menentukan tujuan asesmen",
+    "caseStudy": {
+      "title": "Studi Kasus 8: Dasar-Dasar Penetapan Tujuan Asesmen Seleksi Promosi Jabatan (Kasus 8)",
+      "scenario": "Psikolog Organisasi diminta menetapkan tujuan asesmen psikologis untuk 5 calon manajer senior di sebuah perusahaan BUMN. Psikolog mempertimbangkan tujuan spesifik asesmen: apakah untuk diagnostik klinis, pemetaan potensi kepemimpinan (assessment center), penempatan kerja, atau evaluasi kesiapan mental promosi.",
+      "contextTags": [
+        "Tujuan Asesmen",
+        "Dasar Asesmen",
+        "Psikologi Industri",
+        "Promosi Jabatan"
+      ]
+    },
+    "question": "Prinsip dasar apakah yang HARUS melandasi penetapan tujuan asesmen psikologis dalam konteks organisasi ini?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Tujuan asesmen ditetapkan secara acak tanpa mempertimbangkan konteks kebutuhan organisasi."
+      },
+      {
+        "id": "B",
+        "text": "Tujuan asesmen dirumuskan secara jelas, spesifik, serta diselaraskan dengan kebutuhan kompetensi jabatan dan pertanyaan evaluasi pengguna layanan."
+      },
+      {
+        "id": "C",
+        "text": "Tujuan asesmen disamakan dengan asesmen kegawatdaruratan psikiatri rumah sakit jiwa."
+      },
+      {
+        "id": "D",
+        "text": "Tujuan asesmen hanya fokus untuk mengukur tingkat hafalan rumus matematika dasar."
+      }
+    ],
+    "key": "B",
+    "explanation": "Dasar dalam menentukan tujuan asesmen adalah kejelasan relevansi antara pertanyaan evaluasi (evaluation question), konteks kebutuhan pengguna layanan (klien/organisasi), dan sasaran ukur psikologis yang ingin dicapai."
+  },
+  {
+    "id": "D5_I1.1_Q9",
+    "domainId": 5,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Tujuan asesmen)",
+    "indicatorId": "1.1",
+    "indicatorFullId": "D5-1.1",
+    "indicatorTitle": "Mengetahui dasar-dasar dalam menentukan tujuan asesmen",
+    "caseStudy": {
+      "title": "Studi Kasus 9: Dasar-Dasar Penetapan Tujuan Asesmen Seleksi Promosi Jabatan (Kasus 9)",
+      "scenario": "Psikolog Organisasi diminta menetapkan tujuan asesmen psikologis untuk 5 calon manajer senior di sebuah perusahaan BUMN. Psikolog mempertimbangkan tujuan spesifik asesmen: apakah untuk diagnostik klinis, pemetaan potensi kepemimpinan (assessment center), penempatan kerja, atau evaluasi kesiapan mental promosi.",
+      "contextTags": [
+        "Tujuan Asesmen",
+        "Dasar Asesmen",
+        "Psikologi Industri",
+        "Promosi Jabatan"
+      ]
+    },
+    "question": "Prinsip dasar apakah yang HARUS melandasi penetapan tujuan asesmen psikologis dalam konteks organisasi ini?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Tujuan asesmen ditetapkan secara acak tanpa mempertimbangkan konteks kebutuhan organisasi."
+      },
+      {
+        "id": "B",
+        "text": "Tujuan asesmen dirumuskan secara jelas, spesifik, serta diselaraskan dengan kebutuhan kompetensi jabatan dan pertanyaan evaluasi pengguna layanan."
+      },
+      {
+        "id": "C",
+        "text": "Tujuan asesmen disamakan dengan asesmen kegawatdaruratan psikiatri rumah sakit jiwa."
+      },
+      {
+        "id": "D",
+        "text": "Tujuan asesmen hanya fokus untuk mengukur tingkat hafalan rumus matematika dasar."
+      }
+    ],
+    "key": "B",
+    "explanation": "Dasar dalam menentukan tujuan asesmen adalah kejelasan relevansi antara pertanyaan evaluasi (evaluation question), konteks kebutuhan pengguna layanan (klien/organisasi), dan sasaran ukur psikologis yang ingin dicapai."
+  },
+  {
+    "id": "D5_I1.1_Q10",
+    "domainId": 5,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Tujuan asesmen)",
+    "indicatorId": "1.1",
+    "indicatorFullId": "D5-1.1",
+    "indicatorTitle": "Mengetahui dasar-dasar dalam menentukan tujuan asesmen",
+    "caseStudy": {
+      "title": "Studi Kasus 10: Dasar-Dasar Penetapan Tujuan Asesmen Seleksi Promosi Jabatan (Kasus 10)",
+      "scenario": "Psikolog Organisasi diminta menetapkan tujuan asesmen psikologis untuk 5 calon manajer senior di sebuah perusahaan BUMN. Psikolog mempertimbangkan tujuan spesifik asesmen: apakah untuk diagnostik klinis, pemetaan potensi kepemimpinan (assessment center), penempatan kerja, atau evaluasi kesiapan mental promosi.",
+      "contextTags": [
+        "Tujuan Asesmen",
+        "Dasar Asesmen",
+        "Psikologi Industri",
+        "Promosi Jabatan"
+      ]
+    },
+    "question": "Prinsip dasar apakah yang HARUS melandasi penetapan tujuan asesmen psikologis dalam konteks organisasi ini?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Tujuan asesmen ditetapkan secara acak tanpa mempertimbangkan konteks kebutuhan organisasi."
+      },
+      {
+        "id": "B",
+        "text": "Tujuan asesmen dirumuskan secara jelas, spesifik, serta diselaraskan dengan kebutuhan kompetensi jabatan dan pertanyaan evaluasi pengguna layanan."
+      },
+      {
+        "id": "C",
+        "text": "Tujuan asesmen disamakan dengan asesmen kegawatdaruratan psikiatri rumah sakit jiwa."
+      },
+      {
+        "id": "D",
+        "text": "Tujuan asesmen hanya fokus untuk mengukur tingkat hafalan rumus matematika dasar."
+      }
+    ],
+    "key": "B",
+    "explanation": "Dasar dalam menentukan tujuan asesmen adalah kejelasan relevansi antara pertanyaan evaluasi (evaluation question), konteks kebutuhan pengguna layanan (klien/organisasi), dan sasaran ukur psikologis yang ingin dicapai."
+  },
+  {
+    "id": "D5_I1.2_Q1",
+    "domainId": 5,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Tujuan asesmen)",
+    "indicatorId": "1.2",
+    "indicatorFullId": "D5-1.2",
+    "indicatorTitle": "Memformulasikan tujuan asesmen dengan mempertimbangkan keluhan",
+    "caseStudy": {
+      "title": "Studi Kasus 1: Memformulasikan Tujuan Asesmen Berdasarkan Keluhan Klien Anak Kesusahan Belajar (Kasus 1)",
+      "scenario": "Orang tua membawa anak berusia 8 tahun dengan keluhan: \"Anak sangat lambat membaca, sering tertukar huruf 'b' dan 'd', serta menangis setiap kali diminta menulis kalimat pendek.\" Psikolog memformulasikan tujuan asesmen psikologis berdasarkan keluhan spesifik tersebut.",
+      "contextTags": [
+        "Keluhan Klien",
+        "Kesusahan Belajar",
+        "Disleksia",
+        "Formulasi Tujuan"
+      ]
+    },
+    "question": "Formulasi tujuan asesmen manakah yang PALING presisi berdasarkan keluhan orang tua tersebut?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Mengukur profil kecerdasan umum IQ anak untuk dikeluarkan dari sekolah biasa."
+      },
+      {
+        "id": "B",
+        "text": "Menilai potensi disleksia perkembangan, mengidentifikasi spesifikasi hambatan persepsi visual-spasial, serta mengukur kemampuan membaca-menulis untuk merancang intervensi remedial belajar."
+      },
+      {
+        "id": "C",
+        "text": "Mengevaluasi tingkat kebugaran fisik dan bakat keolahragaan anak di lapangan."
+      },
+      {
+        "id": "D",
+        "text": "Mendiagnosis gangguan kepribadian paranoid pada anak usia 8 tahun."
+      }
+    ],
+    "key": "B",
+    "explanation": "Formulasi tujuan asesmen berbasis keluhan mengarahkan pemeriksaan secara spesifik untuk memverifikasi hambatan operasional (seperti menguji indikasi disleksia/persepsi visual) demi merancang intervensi remedial."
+  },
+  {
+    "id": "D5_I1.2_Q2",
+    "domainId": 5,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Tujuan asesmen)",
+    "indicatorId": "1.2",
+    "indicatorFullId": "D5-1.2",
+    "indicatorTitle": "Memformulasikan tujuan asesmen dengan mempertimbangkan keluhan",
+    "caseStudy": {
+      "title": "Studi Kasus 2: Memformulasikan Tujuan Asesmen Berdasarkan Keluhan Klien Anak Kesusahan Belajar (Kasus 2)",
+      "scenario": "Orang tua membawa anak berusia 8 tahun dengan keluhan: \"Anak sangat lambat membaca, sering tertukar huruf 'b' dan 'd', serta menangis setiap kali diminta menulis kalimat pendek.\" Psikolog memformulasikan tujuan asesmen psikologis berdasarkan keluhan spesifik tersebut.",
+      "contextTags": [
+        "Keluhan Klien",
+        "Kesusahan Belajar",
+        "Disleksia",
+        "Formulasi Tujuan"
+      ]
+    },
+    "question": "Formulasi tujuan asesmen manakah yang PALING presisi berdasarkan keluhan orang tua tersebut?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Mengukur profil kecerdasan umum IQ anak untuk dikeluarkan dari sekolah biasa."
+      },
+      {
+        "id": "B",
+        "text": "Menilai potensi disleksia perkembangan, mengidentifikasi spesifikasi hambatan persepsi visual-spasial, serta mengukur kemampuan membaca-menulis untuk merancang intervensi remedial belajar."
+      },
+      {
+        "id": "C",
+        "text": "Mengevaluasi tingkat kebugaran fisik dan bakat keolahragaan anak di lapangan."
+      },
+      {
+        "id": "D",
+        "text": "Mendiagnosis gangguan kepribadian paranoid pada anak usia 8 tahun."
+      }
+    ],
+    "key": "B",
+    "explanation": "Formulasi tujuan asesmen berbasis keluhan mengarahkan pemeriksaan secara spesifik untuk memverifikasi hambatan operasional (seperti menguji indikasi disleksia/persepsi visual) demi merancang intervensi remedial."
+  },
+  {
+    "id": "D5_I1.2_Q3",
+    "domainId": 5,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Tujuan asesmen)",
+    "indicatorId": "1.2",
+    "indicatorFullId": "D5-1.2",
+    "indicatorTitle": "Memformulasikan tujuan asesmen dengan mempertimbangkan keluhan",
+    "caseStudy": {
+      "title": "Studi Kasus 3: Memformulasikan Tujuan Asesmen Berdasarkan Keluhan Klien Anak Kesusahan Belajar (Kasus 3)",
+      "scenario": "Orang tua membawa anak berusia 8 tahun dengan keluhan: \"Anak sangat lambat membaca, sering tertukar huruf 'b' dan 'd', serta menangis setiap kali diminta menulis kalimat pendek.\" Psikolog memformulasikan tujuan asesmen psikologis berdasarkan keluhan spesifik tersebut.",
+      "contextTags": [
+        "Keluhan Klien",
+        "Kesusahan Belajar",
+        "Disleksia",
+        "Formulasi Tujuan"
+      ]
+    },
+    "question": "Formulasi tujuan asesmen manakah yang PALING presisi berdasarkan keluhan orang tua tersebut?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Mengukur profil kecerdasan umum IQ anak untuk dikeluarkan dari sekolah biasa."
+      },
+      {
+        "id": "B",
+        "text": "Menilai potensi disleksia perkembangan, mengidentifikasi spesifikasi hambatan persepsi visual-spasial, serta mengukur kemampuan membaca-menulis untuk merancang intervensi remedial belajar."
+      },
+      {
+        "id": "C",
+        "text": "Mengevaluasi tingkat kebugaran fisik dan bakat keolahragaan anak di lapangan."
+      },
+      {
+        "id": "D",
+        "text": "Mendiagnosis gangguan kepribadian paranoid pada anak usia 8 tahun."
+      }
+    ],
+    "key": "B",
+    "explanation": "Formulasi tujuan asesmen berbasis keluhan mengarahkan pemeriksaan secara spesifik untuk memverifikasi hambatan operasional (seperti menguji indikasi disleksia/persepsi visual) demi merancang intervensi remedial."
+  },
+  {
+    "id": "D5_I1.2_Q4",
+    "domainId": 5,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Tujuan asesmen)",
+    "indicatorId": "1.2",
+    "indicatorFullId": "D5-1.2",
+    "indicatorTitle": "Memformulasikan tujuan asesmen dengan mempertimbangkan keluhan",
+    "caseStudy": {
+      "title": "Studi Kasus 4: Memformulasikan Tujuan Asesmen Berdasarkan Keluhan Klien Anak Kesusahan Belajar (Kasus 4)",
+      "scenario": "Orang tua membawa anak berusia 8 tahun dengan keluhan: \"Anak sangat lambat membaca, sering tertukar huruf 'b' dan 'd', serta menangis setiap kali diminta menulis kalimat pendek.\" Psikolog memformulasikan tujuan asesmen psikologis berdasarkan keluhan spesifik tersebut.",
+      "contextTags": [
+        "Keluhan Klien",
+        "Kesusahan Belajar",
+        "Disleksia",
+        "Formulasi Tujuan"
+      ]
+    },
+    "question": "Formulasi tujuan asesmen manakah yang PALING presisi berdasarkan keluhan orang tua tersebut?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Mengukur profil kecerdasan umum IQ anak untuk dikeluarkan dari sekolah biasa."
+      },
+      {
+        "id": "B",
+        "text": "Menilai potensi disleksia perkembangan, mengidentifikasi spesifikasi hambatan persepsi visual-spasial, serta mengukur kemampuan membaca-menulis untuk merancang intervensi remedial belajar."
+      },
+      {
+        "id": "C",
+        "text": "Mengevaluasi tingkat kebugaran fisik dan bakat keolahragaan anak di lapangan."
+      },
+      {
+        "id": "D",
+        "text": "Mendiagnosis gangguan kepribadian paranoid pada anak usia 8 tahun."
+      }
+    ],
+    "key": "B",
+    "explanation": "Formulasi tujuan asesmen berbasis keluhan mengarahkan pemeriksaan secara spesifik untuk memverifikasi hambatan operasional (seperti menguji indikasi disleksia/persepsi visual) demi merancang intervensi remedial."
+  },
+  {
+    "id": "D5_I1.2_Q5",
+    "domainId": 5,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Tujuan asesmen)",
+    "indicatorId": "1.2",
+    "indicatorFullId": "D5-1.2",
+    "indicatorTitle": "Memformulasikan tujuan asesmen dengan mempertimbangkan keluhan",
+    "caseStudy": {
+      "title": "Studi Kasus 5: Memformulasikan Tujuan Asesmen Berdasarkan Keluhan Klien Anak Kesusahan Belajar (Kasus 5)",
+      "scenario": "Orang tua membawa anak berusia 8 tahun dengan keluhan: \"Anak sangat lambat membaca, sering tertukar huruf 'b' dan 'd', serta menangis setiap kali diminta menulis kalimat pendek.\" Psikolog memformulasikan tujuan asesmen psikologis berdasarkan keluhan spesifik tersebut.",
+      "contextTags": [
+        "Keluhan Klien",
+        "Kesusahan Belajar",
+        "Disleksia",
+        "Formulasi Tujuan"
+      ]
+    },
+    "question": "Formulasi tujuan asesmen manakah yang PALING presisi berdasarkan keluhan orang tua tersebut?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Mengukur profil kecerdasan umum IQ anak untuk dikeluarkan dari sekolah biasa."
+      },
+      {
+        "id": "B",
+        "text": "Menilai potensi disleksia perkembangan, mengidentifikasi spesifikasi hambatan persepsi visual-spasial, serta mengukur kemampuan membaca-menulis untuk merancang intervensi remedial belajar."
+      },
+      {
+        "id": "C",
+        "text": "Mengevaluasi tingkat kebugaran fisik dan bakat keolahragaan anak di lapangan."
+      },
+      {
+        "id": "D",
+        "text": "Mendiagnosis gangguan kepribadian paranoid pada anak usia 8 tahun."
+      }
+    ],
+    "key": "B",
+    "explanation": "Formulasi tujuan asesmen berbasis keluhan mengarahkan pemeriksaan secara spesifik untuk memverifikasi hambatan operasional (seperti menguji indikasi disleksia/persepsi visual) demi merancang intervensi remedial."
+  },
+  {
+    "id": "D5_I1.2_Q6",
+    "domainId": 5,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Tujuan asesmen)",
+    "indicatorId": "1.2",
+    "indicatorFullId": "D5-1.2",
+    "indicatorTitle": "Memformulasikan tujuan asesmen dengan mempertimbangkan keluhan",
+    "caseStudy": {
+      "title": "Studi Kasus 6: Memformulasikan Tujuan Asesmen Berdasarkan Keluhan Klien Anak Kesusahan Belajar (Kasus 6)",
+      "scenario": "Orang tua membawa anak berusia 8 tahun dengan keluhan: \"Anak sangat lambat membaca, sering tertukar huruf 'b' dan 'd', serta menangis setiap kali diminta menulis kalimat pendek.\" Psikolog memformulasikan tujuan asesmen psikologis berdasarkan keluhan spesifik tersebut.",
+      "contextTags": [
+        "Keluhan Klien",
+        "Kesusahan Belajar",
+        "Disleksia",
+        "Formulasi Tujuan"
+      ]
+    },
+    "question": "Formulasi tujuan asesmen manakah yang PALING presisi berdasarkan keluhan orang tua tersebut?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Mengukur profil kecerdasan umum IQ anak untuk dikeluarkan dari sekolah biasa."
+      },
+      {
+        "id": "B",
+        "text": "Menilai potensi disleksia perkembangan, mengidentifikasi spesifikasi hambatan persepsi visual-spasial, serta mengukur kemampuan membaca-menulis untuk merancang intervensi remedial belajar."
+      },
+      {
+        "id": "C",
+        "text": "Mengevaluasi tingkat kebugaran fisik dan bakat keolahragaan anak di lapangan."
+      },
+      {
+        "id": "D",
+        "text": "Mendiagnosis gangguan kepribadian paranoid pada anak usia 8 tahun."
+      }
+    ],
+    "key": "B",
+    "explanation": "Formulasi tujuan asesmen berbasis keluhan mengarahkan pemeriksaan secara spesifik untuk memverifikasi hambatan operasional (seperti menguji indikasi disleksia/persepsi visual) demi merancang intervensi remedial."
+  },
+  {
+    "id": "D5_I1.2_Q7",
+    "domainId": 5,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Tujuan asesmen)",
+    "indicatorId": "1.2",
+    "indicatorFullId": "D5-1.2",
+    "indicatorTitle": "Memformulasikan tujuan asesmen dengan mempertimbangkan keluhan",
+    "caseStudy": {
+      "title": "Studi Kasus 7: Memformulasikan Tujuan Asesmen Berdasarkan Keluhan Klien Anak Kesusahan Belajar (Kasus 7)",
+      "scenario": "Orang tua membawa anak berusia 8 tahun dengan keluhan: \"Anak sangat lambat membaca, sering tertukar huruf 'b' dan 'd', serta menangis setiap kali diminta menulis kalimat pendek.\" Psikolog memformulasikan tujuan asesmen psikologis berdasarkan keluhan spesifik tersebut.",
+      "contextTags": [
+        "Keluhan Klien",
+        "Kesusahan Belajar",
+        "Disleksia",
+        "Formulasi Tujuan"
+      ]
+    },
+    "question": "Formulasi tujuan asesmen manakah yang PALING presisi berdasarkan keluhan orang tua tersebut?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Mengukur profil kecerdasan umum IQ anak untuk dikeluarkan dari sekolah biasa."
+      },
+      {
+        "id": "B",
+        "text": "Menilai potensi disleksia perkembangan, mengidentifikasi spesifikasi hambatan persepsi visual-spasial, serta mengukur kemampuan membaca-menulis untuk merancang intervensi remedial belajar."
+      },
+      {
+        "id": "C",
+        "text": "Mengevaluasi tingkat kebugaran fisik dan bakat keolahragaan anak di lapangan."
+      },
+      {
+        "id": "D",
+        "text": "Mendiagnosis gangguan kepribadian paranoid pada anak usia 8 tahun."
+      }
+    ],
+    "key": "B",
+    "explanation": "Formulasi tujuan asesmen berbasis keluhan mengarahkan pemeriksaan secara spesifik untuk memverifikasi hambatan operasional (seperti menguji indikasi disleksia/persepsi visual) demi merancang intervensi remedial."
+  },
+  {
+    "id": "D5_I1.2_Q8",
+    "domainId": 5,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Tujuan asesmen)",
+    "indicatorId": "1.2",
+    "indicatorFullId": "D5-1.2",
+    "indicatorTitle": "Memformulasikan tujuan asesmen dengan mempertimbangkan keluhan",
+    "caseStudy": {
+      "title": "Studi Kasus 8: Memformulasikan Tujuan Asesmen Berdasarkan Keluhan Klien Anak Kesusahan Belajar (Kasus 8)",
+      "scenario": "Orang tua membawa anak berusia 8 tahun dengan keluhan: \"Anak sangat lambat membaca, sering tertukar huruf 'b' dan 'd', serta menangis setiap kali diminta menulis kalimat pendek.\" Psikolog memformulasikan tujuan asesmen psikologis berdasarkan keluhan spesifik tersebut.",
+      "contextTags": [
+        "Keluhan Klien",
+        "Kesusahan Belajar",
+        "Disleksia",
+        "Formulasi Tujuan"
+      ]
+    },
+    "question": "Formulasi tujuan asesmen manakah yang PALING presisi berdasarkan keluhan orang tua tersebut?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Mengukur profil kecerdasan umum IQ anak untuk dikeluarkan dari sekolah biasa."
+      },
+      {
+        "id": "B",
+        "text": "Menilai potensi disleksia perkembangan, mengidentifikasi spesifikasi hambatan persepsi visual-spasial, serta mengukur kemampuan membaca-menulis untuk merancang intervensi remedial belajar."
+      },
+      {
+        "id": "C",
+        "text": "Mengevaluasi tingkat kebugaran fisik dan bakat keolahragaan anak di lapangan."
+      },
+      {
+        "id": "D",
+        "text": "Mendiagnosis gangguan kepribadian paranoid pada anak usia 8 tahun."
+      }
+    ],
+    "key": "B",
+    "explanation": "Formulasi tujuan asesmen berbasis keluhan mengarahkan pemeriksaan secara spesifik untuk memverifikasi hambatan operasional (seperti menguji indikasi disleksia/persepsi visual) demi merancang intervensi remedial."
+  },
+  {
+    "id": "D5_I1.2_Q9",
+    "domainId": 5,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Tujuan asesmen)",
+    "indicatorId": "1.2",
+    "indicatorFullId": "D5-1.2",
+    "indicatorTitle": "Memformulasikan tujuan asesmen dengan mempertimbangkan keluhan",
+    "caseStudy": {
+      "title": "Studi Kasus 9: Memformulasikan Tujuan Asesmen Berdasarkan Keluhan Klien Anak Kesusahan Belajar (Kasus 9)",
+      "scenario": "Orang tua membawa anak berusia 8 tahun dengan keluhan: \"Anak sangat lambat membaca, sering tertukar huruf 'b' dan 'd', serta menangis setiap kali diminta menulis kalimat pendek.\" Psikolog memformulasikan tujuan asesmen psikologis berdasarkan keluhan spesifik tersebut.",
+      "contextTags": [
+        "Keluhan Klien",
+        "Kesusahan Belajar",
+        "Disleksia",
+        "Formulasi Tujuan"
+      ]
+    },
+    "question": "Formulasi tujuan asesmen manakah yang PALING presisi berdasarkan keluhan orang tua tersebut?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Mengukur profil kecerdasan umum IQ anak untuk dikeluarkan dari sekolah biasa."
+      },
+      {
+        "id": "B",
+        "text": "Menilai potensi disleksia perkembangan, mengidentifikasi spesifikasi hambatan persepsi visual-spasial, serta mengukur kemampuan membaca-menulis untuk merancang intervensi remedial belajar."
+      },
+      {
+        "id": "C",
+        "text": "Mengevaluasi tingkat kebugaran fisik dan bakat keolahragaan anak di lapangan."
+      },
+      {
+        "id": "D",
+        "text": "Mendiagnosis gangguan kepribadian paranoid pada anak usia 8 tahun."
+      }
+    ],
+    "key": "B",
+    "explanation": "Formulasi tujuan asesmen berbasis keluhan mengarahkan pemeriksaan secara spesifik untuk memverifikasi hambatan operasional (seperti menguji indikasi disleksia/persepsi visual) demi merancang intervensi remedial."
+  },
+  {
+    "id": "D5_I1.2_Q10",
+    "domainId": 5,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Tujuan asesmen)",
+    "indicatorId": "1.2",
+    "indicatorFullId": "D5-1.2",
+    "indicatorTitle": "Memformulasikan tujuan asesmen dengan mempertimbangkan keluhan",
+    "caseStudy": {
+      "title": "Studi Kasus 10: Memformulasikan Tujuan Asesmen Berdasarkan Keluhan Klien Anak Kesusahan Belajar (Kasus 10)",
+      "scenario": "Orang tua membawa anak berusia 8 tahun dengan keluhan: \"Anak sangat lambat membaca, sering tertukar huruf 'b' dan 'd', serta menangis setiap kali diminta menulis kalimat pendek.\" Psikolog memformulasikan tujuan asesmen psikologis berdasarkan keluhan spesifik tersebut.",
+      "contextTags": [
+        "Keluhan Klien",
+        "Kesusahan Belajar",
+        "Disleksia",
+        "Formulasi Tujuan"
+      ]
+    },
+    "question": "Formulasi tujuan asesmen manakah yang PALING presisi berdasarkan keluhan orang tua tersebut?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Mengukur profil kecerdasan umum IQ anak untuk dikeluarkan dari sekolah biasa."
+      },
+      {
+        "id": "B",
+        "text": "Menilai potensi disleksia perkembangan, mengidentifikasi spesifikasi hambatan persepsi visual-spasial, serta mengukur kemampuan membaca-menulis untuk merancang intervensi remedial belajar."
+      },
+      {
+        "id": "C",
+        "text": "Mengevaluasi tingkat kebugaran fisik dan bakat keolahragaan anak di lapangan."
+      },
+      {
+        "id": "D",
+        "text": "Mendiagnosis gangguan kepribadian paranoid pada anak usia 8 tahun."
+      }
+    ],
+    "key": "B",
+    "explanation": "Formulasi tujuan asesmen berbasis keluhan mengarahkan pemeriksaan secara spesifik untuk memverifikasi hambatan operasional (seperti menguji indikasi disleksia/persepsi visual) demi merancang intervensi remedial."
+  },
+  {
+    "id": "D5_I1.3_Q1",
+    "domainId": 5,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Tujuan asesmen)",
+    "indicatorId": "1.3",
+    "indicatorFullId": "D5-1.3",
+    "indicatorTitle": "Memformulasikan tujuan asesmen dengan mempertimbangkan dugaan sementara",
+    "caseStudy": {
+      "title": "Studi Kasus 1: Memformulasikan Tujuan Asesmen Berdasarkan Dugaan Sementara (Hipotesis Kerja) Kasus Klinis (Kasus 1)",
+      "scenario": "Seorang klien dewasa muda mengeluhkan kelelahan kronis tanpa penyebab medis fisiologis, disertai kehilangan minat aktivitas sosial pasca-kegagalan usaha. Psikolog menyusun dugaan sementara (hipotesis awal) bahwa klien mengalami Episode Depresi Mayor Reaktif. Psikolog memformulasikan tujuan asesmen untuk menguji dugaan sementara tersebut.",
+      "contextTags": [
+        "Dugaan Sementara",
+        "Hipotesis Kerja",
+        "Depresi Mayor",
+        "Tujuan Asesmen"
+      ]
+    },
+    "question": "Bagaimanakah tujuan asesmen dirumuskan untuk menguji dugaan sementara (hipotesis awal) tersebut?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Menolak dugaan sementara dan langsung menyatakan klien pura-pura sakit (malingering)."
+      },
+      {
+        "id": "B",
+        "text": "Memformulasikan asesmen untuk memverifikasi kriteria simptomatologi depresi mayor (DSM-5), mengukur tingkat keparahan depresi, serta menilai risiko kecenderungan ideasi suicidality."
+      },
+      {
+        "id": "C",
+        "text": "Melakukan tes kemampuan mekanik dan kecerdasan teknik spasial."
+      },
+      {
+        "id": "D",
+        "text": "Menyuruh klien langsung menjalani operasi bedah otak tanpa asesmen."
+      }
+    ],
+    "key": "B",
+    "explanation": "Ketika psikolog memiliki dugaan sementara (hipotesis klinis), tujuan asesmen dirumuskan untuk mengumpulkan bukti empiris instrumen yang secara khusus mengonfirmasi atau menolak kriteria hipotesis tersebut."
+  },
+  {
+    "id": "D5_I1.3_Q2",
+    "domainId": 5,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Tujuan asesmen)",
+    "indicatorId": "1.3",
+    "indicatorFullId": "D5-1.3",
+    "indicatorTitle": "Memformulasikan tujuan asesmen dengan mempertimbangkan dugaan sementara",
+    "caseStudy": {
+      "title": "Studi Kasus 2: Memformulasikan Tujuan Asesmen Berdasarkan Dugaan Sementara (Hipotesis Kerja) Kasus Klinis (Kasus 2)",
+      "scenario": "Seorang klien dewasa muda mengeluhkan kelelahan kronis tanpa penyebab medis fisiologis, disertai kehilangan minat aktivitas sosial pasca-kegagalan usaha. Psikolog menyusun dugaan sementara (hipotesis awal) bahwa klien mengalami Episode Depresi Mayor Reaktif. Psikolog memformulasikan tujuan asesmen untuk menguji dugaan sementara tersebut.",
+      "contextTags": [
+        "Dugaan Sementara",
+        "Hipotesis Kerja",
+        "Depresi Mayor",
+        "Tujuan Asesmen"
+      ]
+    },
+    "question": "Bagaimanakah tujuan asesmen dirumuskan untuk menguji dugaan sementara (hipotesis awal) tersebut?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Menolak dugaan sementara dan langsung menyatakan klien pura-pura sakit (malingering)."
+      },
+      {
+        "id": "B",
+        "text": "Memformulasikan asesmen untuk memverifikasi kriteria simptomatologi depresi mayor (DSM-5), mengukur tingkat keparahan depresi, serta menilai risiko kecenderungan ideasi suicidality."
+      },
+      {
+        "id": "C",
+        "text": "Melakukan tes kemampuan mekanik dan kecerdasan teknik spasial."
+      },
+      {
+        "id": "D",
+        "text": "Menyuruh klien langsung menjalani operasi bedah otak tanpa asesmen."
+      }
+    ],
+    "key": "B",
+    "explanation": "Ketika psikolog memiliki dugaan sementara (hipotesis klinis), tujuan asesmen dirumuskan untuk mengumpulkan bukti empiris instrumen yang secara khusus mengonfirmasi atau menolak kriteria hipotesis tersebut."
+  },
+  {
+    "id": "D5_I1.3_Q3",
+    "domainId": 5,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Tujuan asesmen)",
+    "indicatorId": "1.3",
+    "indicatorFullId": "D5-1.3",
+    "indicatorTitle": "Memformulasikan tujuan asesmen dengan mempertimbangkan dugaan sementara",
+    "caseStudy": {
+      "title": "Studi Kasus 3: Memformulasikan Tujuan Asesmen Berdasarkan Dugaan Sementara (Hipotesis Kerja) Kasus Klinis (Kasus 3)",
+      "scenario": "Seorang klien dewasa muda mengeluhkan kelelahan kronis tanpa penyebab medis fisiologis, disertai kehilangan minat aktivitas sosial pasca-kegagalan usaha. Psikolog menyusun dugaan sementara (hipotesis awal) bahwa klien mengalami Episode Depresi Mayor Reaktif. Psikolog memformulasikan tujuan asesmen untuk menguji dugaan sementara tersebut.",
+      "contextTags": [
+        "Dugaan Sementara",
+        "Hipotesis Kerja",
+        "Depresi Mayor",
+        "Tujuan Asesmen"
+      ]
+    },
+    "question": "Bagaimanakah tujuan asesmen dirumuskan untuk menguji dugaan sementara (hipotesis awal) tersebut?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Menolak dugaan sementara dan langsung menyatakan klien pura-pura sakit (malingering)."
+      },
+      {
+        "id": "B",
+        "text": "Memformulasikan asesmen untuk memverifikasi kriteria simptomatologi depresi mayor (DSM-5), mengukur tingkat keparahan depresi, serta menilai risiko kecenderungan ideasi suicidality."
+      },
+      {
+        "id": "C",
+        "text": "Melakukan tes kemampuan mekanik dan kecerdasan teknik spasial."
+      },
+      {
+        "id": "D",
+        "text": "Menyuruh klien langsung menjalani operasi bedah otak tanpa asesmen."
+      }
+    ],
+    "key": "B",
+    "explanation": "Ketika psikolog memiliki dugaan sementara (hipotesis klinis), tujuan asesmen dirumuskan untuk mengumpulkan bukti empiris instrumen yang secara khusus mengonfirmasi atau menolak kriteria hipotesis tersebut."
+  },
+  {
+    "id": "D5_I1.3_Q4",
+    "domainId": 5,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Tujuan asesmen)",
+    "indicatorId": "1.3",
+    "indicatorFullId": "D5-1.3",
+    "indicatorTitle": "Memformulasikan tujuan asesmen dengan mempertimbangkan dugaan sementara",
+    "caseStudy": {
+      "title": "Studi Kasus 4: Memformulasikan Tujuan Asesmen Berdasarkan Dugaan Sementara (Hipotesis Kerja) Kasus Klinis (Kasus 4)",
+      "scenario": "Seorang klien dewasa muda mengeluhkan kelelahan kronis tanpa penyebab medis fisiologis, disertai kehilangan minat aktivitas sosial pasca-kegagalan usaha. Psikolog menyusun dugaan sementara (hipotesis awal) bahwa klien mengalami Episode Depresi Mayor Reaktif. Psikolog memformulasikan tujuan asesmen untuk menguji dugaan sementara tersebut.",
+      "contextTags": [
+        "Dugaan Sementara",
+        "Hipotesis Kerja",
+        "Depresi Mayor",
+        "Tujuan Asesmen"
+      ]
+    },
+    "question": "Bagaimanakah tujuan asesmen dirumuskan untuk menguji dugaan sementara (hipotesis awal) tersebut?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Menolak dugaan sementara dan langsung menyatakan klien pura-pura sakit (malingering)."
+      },
+      {
+        "id": "B",
+        "text": "Memformulasikan asesmen untuk memverifikasi kriteria simptomatologi depresi mayor (DSM-5), mengukur tingkat keparahan depresi, serta menilai risiko kecenderungan ideasi suicidality."
+      },
+      {
+        "id": "C",
+        "text": "Melakukan tes kemampuan mekanik dan kecerdasan teknik spasial."
+      },
+      {
+        "id": "D",
+        "text": "Menyuruh klien langsung menjalani operasi bedah otak tanpa asesmen."
+      }
+    ],
+    "key": "B",
+    "explanation": "Ketika psikolog memiliki dugaan sementara (hipotesis klinis), tujuan asesmen dirumuskan untuk mengumpulkan bukti empiris instrumen yang secara khusus mengonfirmasi atau menolak kriteria hipotesis tersebut."
+  },
+  {
+    "id": "D5_I1.3_Q5",
+    "domainId": 5,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Tujuan asesmen)",
+    "indicatorId": "1.3",
+    "indicatorFullId": "D5-1.3",
+    "indicatorTitle": "Memformulasikan tujuan asesmen dengan mempertimbangkan dugaan sementara",
+    "caseStudy": {
+      "title": "Studi Kasus 5: Memformulasikan Tujuan Asesmen Berdasarkan Dugaan Sementara (Hipotesis Kerja) Kasus Klinis (Kasus 5)",
+      "scenario": "Seorang klien dewasa muda mengeluhkan kelelahan kronis tanpa penyebab medis fisiologis, disertai kehilangan minat aktivitas sosial pasca-kegagalan usaha. Psikolog menyusun dugaan sementara (hipotesis awal) bahwa klien mengalami Episode Depresi Mayor Reaktif. Psikolog memformulasikan tujuan asesmen untuk menguji dugaan sementara tersebut.",
+      "contextTags": [
+        "Dugaan Sementara",
+        "Hipotesis Kerja",
+        "Depresi Mayor",
+        "Tujuan Asesmen"
+      ]
+    },
+    "question": "Bagaimanakah tujuan asesmen dirumuskan untuk menguji dugaan sementara (hipotesis awal) tersebut?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Menolak dugaan sementara dan langsung menyatakan klien pura-pura sakit (malingering)."
+      },
+      {
+        "id": "B",
+        "text": "Memformulasikan asesmen untuk memverifikasi kriteria simptomatologi depresi mayor (DSM-5), mengukur tingkat keparahan depresi, serta menilai risiko kecenderungan ideasi suicidality."
+      },
+      {
+        "id": "C",
+        "text": "Melakukan tes kemampuan mekanik dan kecerdasan teknik spasial."
+      },
+      {
+        "id": "D",
+        "text": "Menyuruh klien langsung menjalani operasi bedah otak tanpa asesmen."
+      }
+    ],
+    "key": "B",
+    "explanation": "Ketika psikolog memiliki dugaan sementara (hipotesis klinis), tujuan asesmen dirumuskan untuk mengumpulkan bukti empiris instrumen yang secara khusus mengonfirmasi atau menolak kriteria hipotesis tersebut."
+  },
+  {
+    "id": "D5_I1.3_Q6",
+    "domainId": 5,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Tujuan asesmen)",
+    "indicatorId": "1.3",
+    "indicatorFullId": "D5-1.3",
+    "indicatorTitle": "Memformulasikan tujuan asesmen dengan mempertimbangkan dugaan sementara",
+    "caseStudy": {
+      "title": "Studi Kasus 6: Memformulasikan Tujuan Asesmen Berdasarkan Dugaan Sementara (Hipotesis Kerja) Kasus Klinis (Kasus 6)",
+      "scenario": "Seorang klien dewasa muda mengeluhkan kelelahan kronis tanpa penyebab medis fisiologis, disertai kehilangan minat aktivitas sosial pasca-kegagalan usaha. Psikolog menyusun dugaan sementara (hipotesis awal) bahwa klien mengalami Episode Depresi Mayor Reaktif. Psikolog memformulasikan tujuan asesmen untuk menguji dugaan sementara tersebut.",
+      "contextTags": [
+        "Dugaan Sementara",
+        "Hipotesis Kerja",
+        "Depresi Mayor",
+        "Tujuan Asesmen"
+      ]
+    },
+    "question": "Bagaimanakah tujuan asesmen dirumuskan untuk menguji dugaan sementara (hipotesis awal) tersebut?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Menolak dugaan sementara dan langsung menyatakan klien pura-pura sakit (malingering)."
+      },
+      {
+        "id": "B",
+        "text": "Memformulasikan asesmen untuk memverifikasi kriteria simptomatologi depresi mayor (DSM-5), mengukur tingkat keparahan depresi, serta menilai risiko kecenderungan ideasi suicidality."
+      },
+      {
+        "id": "C",
+        "text": "Melakukan tes kemampuan mekanik dan kecerdasan teknik spasial."
+      },
+      {
+        "id": "D",
+        "text": "Menyuruh klien langsung menjalani operasi bedah otak tanpa asesmen."
+      }
+    ],
+    "key": "B",
+    "explanation": "Ketika psikolog memiliki dugaan sementara (hipotesis klinis), tujuan asesmen dirumuskan untuk mengumpulkan bukti empiris instrumen yang secara khusus mengonfirmasi atau menolak kriteria hipotesis tersebut."
+  },
+  {
+    "id": "D5_I1.3_Q7",
+    "domainId": 5,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Tujuan asesmen)",
+    "indicatorId": "1.3",
+    "indicatorFullId": "D5-1.3",
+    "indicatorTitle": "Memformulasikan tujuan asesmen dengan mempertimbangkan dugaan sementara",
+    "caseStudy": {
+      "title": "Studi Kasus 7: Memformulasikan Tujuan Asesmen Berdasarkan Dugaan Sementara (Hipotesis Kerja) Kasus Klinis (Kasus 7)",
+      "scenario": "Seorang klien dewasa muda mengeluhkan kelelahan kronis tanpa penyebab medis fisiologis, disertai kehilangan minat aktivitas sosial pasca-kegagalan usaha. Psikolog menyusun dugaan sementara (hipotesis awal) bahwa klien mengalami Episode Depresi Mayor Reaktif. Psikolog memformulasikan tujuan asesmen untuk menguji dugaan sementara tersebut.",
+      "contextTags": [
+        "Dugaan Sementara",
+        "Hipotesis Kerja",
+        "Depresi Mayor",
+        "Tujuan Asesmen"
+      ]
+    },
+    "question": "Bagaimanakah tujuan asesmen dirumuskan untuk menguji dugaan sementara (hipotesis awal) tersebut?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Menolak dugaan sementara dan langsung menyatakan klien pura-pura sakit (malingering)."
+      },
+      {
+        "id": "B",
+        "text": "Memformulasikan asesmen untuk memverifikasi kriteria simptomatologi depresi mayor (DSM-5), mengukur tingkat keparahan depresi, serta menilai risiko kecenderungan ideasi suicidality."
+      },
+      {
+        "id": "C",
+        "text": "Melakukan tes kemampuan mekanik dan kecerdasan teknik spasial."
+      },
+      {
+        "id": "D",
+        "text": "Menyuruh klien langsung menjalani operasi bedah otak tanpa asesmen."
+      }
+    ],
+    "key": "B",
+    "explanation": "Ketika psikolog memiliki dugaan sementara (hipotesis klinis), tujuan asesmen dirumuskan untuk mengumpulkan bukti empiris instrumen yang secara khusus mengonfirmasi atau menolak kriteria hipotesis tersebut."
+  },
+  {
+    "id": "D5_I1.3_Q8",
+    "domainId": 5,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Tujuan asesmen)",
+    "indicatorId": "1.3",
+    "indicatorFullId": "D5-1.3",
+    "indicatorTitle": "Memformulasikan tujuan asesmen dengan mempertimbangkan dugaan sementara",
+    "caseStudy": {
+      "title": "Studi Kasus 8: Memformulasikan Tujuan Asesmen Berdasarkan Dugaan Sementara (Hipotesis Kerja) Kasus Klinis (Kasus 8)",
+      "scenario": "Seorang klien dewasa muda mengeluhkan kelelahan kronis tanpa penyebab medis fisiologis, disertai kehilangan minat aktivitas sosial pasca-kegagalan usaha. Psikolog menyusun dugaan sementara (hipotesis awal) bahwa klien mengalami Episode Depresi Mayor Reaktif. Psikolog memformulasikan tujuan asesmen untuk menguji dugaan sementara tersebut.",
+      "contextTags": [
+        "Dugaan Sementara",
+        "Hipotesis Kerja",
+        "Depresi Mayor",
+        "Tujuan Asesmen"
+      ]
+    },
+    "question": "Bagaimanakah tujuan asesmen dirumuskan untuk menguji dugaan sementara (hipotesis awal) tersebut?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Menolak dugaan sementara dan langsung menyatakan klien pura-pura sakit (malingering)."
+      },
+      {
+        "id": "B",
+        "text": "Memformulasikan asesmen untuk memverifikasi kriteria simptomatologi depresi mayor (DSM-5), mengukur tingkat keparahan depresi, serta menilai risiko kecenderungan ideasi suicidality."
+      },
+      {
+        "id": "C",
+        "text": "Melakukan tes kemampuan mekanik dan kecerdasan teknik spasial."
+      },
+      {
+        "id": "D",
+        "text": "Menyuruh klien langsung menjalani operasi bedah otak tanpa asesmen."
+      }
+    ],
+    "key": "B",
+    "explanation": "Ketika psikolog memiliki dugaan sementara (hipotesis klinis), tujuan asesmen dirumuskan untuk mengumpulkan bukti empiris instrumen yang secara khusus mengonfirmasi atau menolak kriteria hipotesis tersebut."
+  },
+  {
+    "id": "D5_I1.3_Q9",
+    "domainId": 5,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Tujuan asesmen)",
+    "indicatorId": "1.3",
+    "indicatorFullId": "D5-1.3",
+    "indicatorTitle": "Memformulasikan tujuan asesmen dengan mempertimbangkan dugaan sementara",
+    "caseStudy": {
+      "title": "Studi Kasus 9: Memformulasikan Tujuan Asesmen Berdasarkan Dugaan Sementara (Hipotesis Kerja) Kasus Klinis (Kasus 9)",
+      "scenario": "Seorang klien dewasa muda mengeluhkan kelelahan kronis tanpa penyebab medis fisiologis, disertai kehilangan minat aktivitas sosial pasca-kegagalan usaha. Psikolog menyusun dugaan sementara (hipotesis awal) bahwa klien mengalami Episode Depresi Mayor Reaktif. Psikolog memformulasikan tujuan asesmen untuk menguji dugaan sementara tersebut.",
+      "contextTags": [
+        "Dugaan Sementara",
+        "Hipotesis Kerja",
+        "Depresi Mayor",
+        "Tujuan Asesmen"
+      ]
+    },
+    "question": "Bagaimanakah tujuan asesmen dirumuskan untuk menguji dugaan sementara (hipotesis awal) tersebut?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Menolak dugaan sementara dan langsung menyatakan klien pura-pura sakit (malingering)."
+      },
+      {
+        "id": "B",
+        "text": "Memformulasikan asesmen untuk memverifikasi kriteria simptomatologi depresi mayor (DSM-5), mengukur tingkat keparahan depresi, serta menilai risiko kecenderungan ideasi suicidality."
+      },
+      {
+        "id": "C",
+        "text": "Melakukan tes kemampuan mekanik dan kecerdasan teknik spasial."
+      },
+      {
+        "id": "D",
+        "text": "Menyuruh klien langsung menjalani operasi bedah otak tanpa asesmen."
+      }
+    ],
+    "key": "B",
+    "explanation": "Ketika psikolog memiliki dugaan sementara (hipotesis klinis), tujuan asesmen dirumuskan untuk mengumpulkan bukti empiris instrumen yang secara khusus mengonfirmasi atau menolak kriteria hipotesis tersebut."
+  },
+  {
+    "id": "D5_I1.3_Q10",
+    "domainId": 5,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Tujuan asesmen)",
+    "indicatorId": "1.3",
+    "indicatorFullId": "D5-1.3",
+    "indicatorTitle": "Memformulasikan tujuan asesmen dengan mempertimbangkan dugaan sementara",
+    "caseStudy": {
+      "title": "Studi Kasus 10: Memformulasikan Tujuan Asesmen Berdasarkan Dugaan Sementara (Hipotesis Kerja) Kasus Klinis (Kasus 10)",
+      "scenario": "Seorang klien dewasa muda mengeluhkan kelelahan kronis tanpa penyebab medis fisiologis, disertai kehilangan minat aktivitas sosial pasca-kegagalan usaha. Psikolog menyusun dugaan sementara (hipotesis awal) bahwa klien mengalami Episode Depresi Mayor Reaktif. Psikolog memformulasikan tujuan asesmen untuk menguji dugaan sementara tersebut.",
+      "contextTags": [
+        "Dugaan Sementara",
+        "Hipotesis Kerja",
+        "Depresi Mayor",
+        "Tujuan Asesmen"
+      ]
+    },
+    "question": "Bagaimanakah tujuan asesmen dirumuskan untuk menguji dugaan sementara (hipotesis awal) tersebut?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Menolak dugaan sementara dan langsung menyatakan klien pura-pura sakit (malingering)."
+      },
+      {
+        "id": "B",
+        "text": "Memformulasikan asesmen untuk memverifikasi kriteria simptomatologi depresi mayor (DSM-5), mengukur tingkat keparahan depresi, serta menilai risiko kecenderungan ideasi suicidality."
+      },
+      {
+        "id": "C",
+        "text": "Melakukan tes kemampuan mekanik dan kecerdasan teknik spasial."
+      },
+      {
+        "id": "D",
+        "text": "Menyuruh klien langsung menjalani operasi bedah otak tanpa asesmen."
+      }
+    ],
+    "key": "B",
+    "explanation": "Ketika psikolog memiliki dugaan sementara (hipotesis klinis), tujuan asesmen dirumuskan untuk mengumpulkan bukti empiris instrumen yang secara khusus mengonfirmasi atau menolak kriteria hipotesis tersebut."
+  },
+  {
+    "id": "D5_I1.4_Q1",
+    "domainId": 5,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Tujuan asesmen)",
+    "indicatorId": "1.4",
+    "indicatorFullId": "D5-1.4",
+    "indicatorTitle": "Memformulasikan tujuan asesmen dengan mempertimbangkan keluhan, kebutuhan pengguna layanan, dan/atau dugaan sementara secara komprehensif",
+    "caseStudy": {
+      "title": "Studi Kasus 1: Formulasi Tujuan Asesmen Secara Komprehensif (Keluhan + Kebutuhan + Hipotesis) Kasus Forensik (Kasus 1)",
+      "scenario": "Dalam kasus rujukan pengadilan forensik anak korban kekerasan seksual, Psikolog diminta menyusun asesmen komprehensif. Psikolog mengintegrasikan: (1) Keluhan kecemasan & trauma anak, (2) Kebutuhan penyidik pengadilan atas bukti keabsahan kesaksian dan dampak psikologis, (3) Dugaan sementara adanya PTSD (Post-Traumatic Stress Disorder) dan kecenderungan dissociative reaction.",
+      "contextTags": [
+        "Asesmen Komprehensif",
+        "Asesmen Forensik",
+        "PTSD Anak",
+        "Formulasi Komprehensif"
+      ]
+    },
+    "question": "Formulasi tujuan asesmen komprehensif manakah yang PALING utuh dan tepat?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Hanya mengukur tingkat IQ anak tanpa memedulikan dampak trauma kekerasan seksual."
+      },
+      {
+        "id": "B",
+        "text": "Memformulasikan tujuan asesmen secara menyeluruh untuk: mengevaluasi tingkat trauma PTSD anak, menilai keabsahan kapasitas kesaksian (competency to testify), serta memberikan rekomendasi perlindungan dan pemulihan trauma jangka panjang."
+      },
+      {
+        "id": "C",
+        "text": "Menyusun asesmen hanya untuk kepentingan publikasi artikel jurnal tanpa laporan pengadilan."
+      },
+      {
+        "id": "D",
+        "text": "Menyerahkan formulasi tujuan asesmen kepada jaksa penuntut umum tanpa masukan psikologis."
+      }
+    ],
+    "key": "B",
+    "explanation": "Formulasi tujuan asesmen komprehensif menggabungkan 3 pilar: keluhan nyata individu, kebutuhan obyektif pengguna layanan (pengadilan/penyidik), serta pengujian hipotesis klinis (PTSD/kesaksian) secara rasional."
+  },
+  {
+    "id": "D5_I1.4_Q2",
+    "domainId": 5,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Tujuan asesmen)",
+    "indicatorId": "1.4",
+    "indicatorFullId": "D5-1.4",
+    "indicatorTitle": "Memformulasikan tujuan asesmen dengan mempertimbangkan keluhan, kebutuhan pengguna layanan, dan/atau dugaan sementara secara komprehensif",
+    "caseStudy": {
+      "title": "Studi Kasus 2: Formulasi Tujuan Asesmen Secara Komprehensif (Keluhan + Kebutuhan + Hipotesis) Kasus Forensik (Kasus 2)",
+      "scenario": "Dalam kasus rujukan pengadilan forensik anak korban kekerasan seksual, Psikolog diminta menyusun asesmen komprehensif. Psikolog mengintegrasikan: (1) Keluhan kecemasan & trauma anak, (2) Kebutuhan penyidik pengadilan atas bukti keabsahan kesaksian dan dampak psikologis, (3) Dugaan sementara adanya PTSD (Post-Traumatic Stress Disorder) dan kecenderungan dissociative reaction.",
+      "contextTags": [
+        "Asesmen Komprehensif",
+        "Asesmen Forensik",
+        "PTSD Anak",
+        "Formulasi Komprehensif"
+      ]
+    },
+    "question": "Formulasi tujuan asesmen komprehensif manakah yang PALING utuh dan tepat?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Hanya mengukur tingkat IQ anak tanpa memedulikan dampak trauma kekerasan seksual."
+      },
+      {
+        "id": "B",
+        "text": "Memformulasikan tujuan asesmen secara menyeluruh untuk: mengevaluasi tingkat trauma PTSD anak, menilai keabsahan kapasitas kesaksian (competency to testify), serta memberikan rekomendasi perlindungan dan pemulihan trauma jangka panjang."
+      },
+      {
+        "id": "C",
+        "text": "Menyusun asesmen hanya untuk kepentingan publikasi artikel jurnal tanpa laporan pengadilan."
+      },
+      {
+        "id": "D",
+        "text": "Menyerahkan formulasi tujuan asesmen kepada jaksa penuntut umum tanpa masukan psikologis."
+      }
+    ],
+    "key": "B",
+    "explanation": "Formulasi tujuan asesmen komprehensif menggabungkan 3 pilar: keluhan nyata individu, kebutuhan obyektif pengguna layanan (pengadilan/penyidik), serta pengujian hipotesis klinis (PTSD/kesaksian) secara rasional."
+  },
+  {
+    "id": "D5_I1.4_Q3",
+    "domainId": 5,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Tujuan asesmen)",
+    "indicatorId": "1.4",
+    "indicatorFullId": "D5-1.4",
+    "indicatorTitle": "Memformulasikan tujuan asesmen dengan mempertimbangkan keluhan, kebutuhan pengguna layanan, dan/atau dugaan sementara secara komprehensif",
+    "caseStudy": {
+      "title": "Studi Kasus 3: Formulasi Tujuan Asesmen Secara Komprehensif (Keluhan + Kebutuhan + Hipotesis) Kasus Forensik (Kasus 3)",
+      "scenario": "Dalam kasus rujukan pengadilan forensik anak korban kekerasan seksual, Psikolog diminta menyusun asesmen komprehensif. Psikolog mengintegrasikan: (1) Keluhan kecemasan & trauma anak, (2) Kebutuhan penyidik pengadilan atas bukti keabsahan kesaksian dan dampak psikologis, (3) Dugaan sementara adanya PTSD (Post-Traumatic Stress Disorder) dan kecenderungan dissociative reaction.",
+      "contextTags": [
+        "Asesmen Komprehensif",
+        "Asesmen Forensik",
+        "PTSD Anak",
+        "Formulasi Komprehensif"
+      ]
+    },
+    "question": "Formulasi tujuan asesmen komprehensif manakah yang PALING utuh dan tepat?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Hanya mengukur tingkat IQ anak tanpa memedulikan dampak trauma kekerasan seksual."
+      },
+      {
+        "id": "B",
+        "text": "Memformulasikan tujuan asesmen secara menyeluruh untuk: mengevaluasi tingkat trauma PTSD anak, menilai keabsahan kapasitas kesaksian (competency to testify), serta memberikan rekomendasi perlindungan dan pemulihan trauma jangka panjang."
+      },
+      {
+        "id": "C",
+        "text": "Menyusun asesmen hanya untuk kepentingan publikasi artikel jurnal tanpa laporan pengadilan."
+      },
+      {
+        "id": "D",
+        "text": "Menyerahkan formulasi tujuan asesmen kepada jaksa penuntut umum tanpa masukan psikologis."
+      }
+    ],
+    "key": "B",
+    "explanation": "Formulasi tujuan asesmen komprehensif menggabungkan 3 pilar: keluhan nyata individu, kebutuhan obyektif pengguna layanan (pengadilan/penyidik), serta pengujian hipotesis klinis (PTSD/kesaksian) secara rasional."
+  },
+  {
+    "id": "D5_I1.4_Q4",
+    "domainId": 5,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Tujuan asesmen)",
+    "indicatorId": "1.4",
+    "indicatorFullId": "D5-1.4",
+    "indicatorTitle": "Memformulasikan tujuan asesmen dengan mempertimbangkan keluhan, kebutuhan pengguna layanan, dan/atau dugaan sementara secara komprehensif",
+    "caseStudy": {
+      "title": "Studi Kasus 4: Formulasi Tujuan Asesmen Secara Komprehensif (Keluhan + Kebutuhan + Hipotesis) Kasus Forensik (Kasus 4)",
+      "scenario": "Dalam kasus rujukan pengadilan forensik anak korban kekerasan seksual, Psikolog diminta menyusun asesmen komprehensif. Psikolog mengintegrasikan: (1) Keluhan kecemasan & trauma anak, (2) Kebutuhan penyidik pengadilan atas bukti keabsahan kesaksian dan dampak psikologis, (3) Dugaan sementara adanya PTSD (Post-Traumatic Stress Disorder) dan kecenderungan dissociative reaction.",
+      "contextTags": [
+        "Asesmen Komprehensif",
+        "Asesmen Forensik",
+        "PTSD Anak",
+        "Formulasi Komprehensif"
+      ]
+    },
+    "question": "Formulasi tujuan asesmen komprehensif manakah yang PALING utuh dan tepat?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Hanya mengukur tingkat IQ anak tanpa memedulikan dampak trauma kekerasan seksual."
+      },
+      {
+        "id": "B",
+        "text": "Memformulasikan tujuan asesmen secara menyeluruh untuk: mengevaluasi tingkat trauma PTSD anak, menilai keabsahan kapasitas kesaksian (competency to testify), serta memberikan rekomendasi perlindungan dan pemulihan trauma jangka panjang."
+      },
+      {
+        "id": "C",
+        "text": "Menyusun asesmen hanya untuk kepentingan publikasi artikel jurnal tanpa laporan pengadilan."
+      },
+      {
+        "id": "D",
+        "text": "Menyerahkan formulasi tujuan asesmen kepada jaksa penuntut umum tanpa masukan psikologis."
+      }
+    ],
+    "key": "B",
+    "explanation": "Formulasi tujuan asesmen komprehensif menggabungkan 3 pilar: keluhan nyata individu, kebutuhan obyektif pengguna layanan (pengadilan/penyidik), serta pengujian hipotesis klinis (PTSD/kesaksian) secara rasional."
+  },
+  {
+    "id": "D5_I1.4_Q5",
+    "domainId": 5,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Tujuan asesmen)",
+    "indicatorId": "1.4",
+    "indicatorFullId": "D5-1.4",
+    "indicatorTitle": "Memformulasikan tujuan asesmen dengan mempertimbangkan keluhan, kebutuhan pengguna layanan, dan/atau dugaan sementara secara komprehensif",
+    "caseStudy": {
+      "title": "Studi Kasus 5: Formulasi Tujuan Asesmen Secara Komprehensif (Keluhan + Kebutuhan + Hipotesis) Kasus Forensik (Kasus 5)",
+      "scenario": "Dalam kasus rujukan pengadilan forensik anak korban kekerasan seksual, Psikolog diminta menyusun asesmen komprehensif. Psikolog mengintegrasikan: (1) Keluhan kecemasan & trauma anak, (2) Kebutuhan penyidik pengadilan atas bukti keabsahan kesaksian dan dampak psikologis, (3) Dugaan sementara adanya PTSD (Post-Traumatic Stress Disorder) dan kecenderungan dissociative reaction.",
+      "contextTags": [
+        "Asesmen Komprehensif",
+        "Asesmen Forensik",
+        "PTSD Anak",
+        "Formulasi Komprehensif"
+      ]
+    },
+    "question": "Formulasi tujuan asesmen komprehensif manakah yang PALING utuh dan tepat?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Hanya mengukur tingkat IQ anak tanpa memedulikan dampak trauma kekerasan seksual."
+      },
+      {
+        "id": "B",
+        "text": "Memformulasikan tujuan asesmen secara menyeluruh untuk: mengevaluasi tingkat trauma PTSD anak, menilai keabsahan kapasitas kesaksian (competency to testify), serta memberikan rekomendasi perlindungan dan pemulihan trauma jangka panjang."
+      },
+      {
+        "id": "C",
+        "text": "Menyusun asesmen hanya untuk kepentingan publikasi artikel jurnal tanpa laporan pengadilan."
+      },
+      {
+        "id": "D",
+        "text": "Menyerahkan formulasi tujuan asesmen kepada jaksa penuntut umum tanpa masukan psikologis."
+      }
+    ],
+    "key": "B",
+    "explanation": "Formulasi tujuan asesmen komprehensif menggabungkan 3 pilar: keluhan nyata individu, kebutuhan obyektif pengguna layanan (pengadilan/penyidik), serta pengujian hipotesis klinis (PTSD/kesaksian) secara rasional."
+  },
+  {
+    "id": "D5_I1.4_Q6",
+    "domainId": 5,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Tujuan asesmen)",
+    "indicatorId": "1.4",
+    "indicatorFullId": "D5-1.4",
+    "indicatorTitle": "Memformulasikan tujuan asesmen dengan mempertimbangkan keluhan, kebutuhan pengguna layanan, dan/atau dugaan sementara secara komprehensif",
+    "caseStudy": {
+      "title": "Studi Kasus 6: Formulasi Tujuan Asesmen Secara Komprehensif (Keluhan + Kebutuhan + Hipotesis) Kasus Forensik (Kasus 6)",
+      "scenario": "Dalam kasus rujukan pengadilan forensik anak korban kekerasan seksual, Psikolog diminta menyusun asesmen komprehensif. Psikolog mengintegrasikan: (1) Keluhan kecemasan & trauma anak, (2) Kebutuhan penyidik pengadilan atas bukti keabsahan kesaksian dan dampak psikologis, (3) Dugaan sementara adanya PTSD (Post-Traumatic Stress Disorder) dan kecenderungan dissociative reaction.",
+      "contextTags": [
+        "Asesmen Komprehensif",
+        "Asesmen Forensik",
+        "PTSD Anak",
+        "Formulasi Komprehensif"
+      ]
+    },
+    "question": "Formulasi tujuan asesmen komprehensif manakah yang PALING utuh dan tepat?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Hanya mengukur tingkat IQ anak tanpa memedulikan dampak trauma kekerasan seksual."
+      },
+      {
+        "id": "B",
+        "text": "Memformulasikan tujuan asesmen secara menyeluruh untuk: mengevaluasi tingkat trauma PTSD anak, menilai keabsahan kapasitas kesaksian (competency to testify), serta memberikan rekomendasi perlindungan dan pemulihan trauma jangka panjang."
+      },
+      {
+        "id": "C",
+        "text": "Menyusun asesmen hanya untuk kepentingan publikasi artikel jurnal tanpa laporan pengadilan."
+      },
+      {
+        "id": "D",
+        "text": "Menyerahkan formulasi tujuan asesmen kepada jaksa penuntut umum tanpa masukan psikologis."
+      }
+    ],
+    "key": "B",
+    "explanation": "Formulasi tujuan asesmen komprehensif menggabungkan 3 pilar: keluhan nyata individu, kebutuhan obyektif pengguna layanan (pengadilan/penyidik), serta pengujian hipotesis klinis (PTSD/kesaksian) secara rasional."
+  },
+  {
+    "id": "D5_I1.4_Q7",
+    "domainId": 5,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Tujuan asesmen)",
+    "indicatorId": "1.4",
+    "indicatorFullId": "D5-1.4",
+    "indicatorTitle": "Memformulasikan tujuan asesmen dengan mempertimbangkan keluhan, kebutuhan pengguna layanan, dan/atau dugaan sementara secara komprehensif",
+    "caseStudy": {
+      "title": "Studi Kasus 7: Formulasi Tujuan Asesmen Secara Komprehensif (Keluhan + Kebutuhan + Hipotesis) Kasus Forensik (Kasus 7)",
+      "scenario": "Dalam kasus rujukan pengadilan forensik anak korban kekerasan seksual, Psikolog diminta menyusun asesmen komprehensif. Psikolog mengintegrasikan: (1) Keluhan kecemasan & trauma anak, (2) Kebutuhan penyidik pengadilan atas bukti keabsahan kesaksian dan dampak psikologis, (3) Dugaan sementara adanya PTSD (Post-Traumatic Stress Disorder) dan kecenderungan dissociative reaction.",
+      "contextTags": [
+        "Asesmen Komprehensif",
+        "Asesmen Forensik",
+        "PTSD Anak",
+        "Formulasi Komprehensif"
+      ]
+    },
+    "question": "Formulasi tujuan asesmen komprehensif manakah yang PALING utuh dan tepat?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Hanya mengukur tingkat IQ anak tanpa memedulikan dampak trauma kekerasan seksual."
+      },
+      {
+        "id": "B",
+        "text": "Memformulasikan tujuan asesmen secara menyeluruh untuk: mengevaluasi tingkat trauma PTSD anak, menilai keabsahan kapasitas kesaksian (competency to testify), serta memberikan rekomendasi perlindungan dan pemulihan trauma jangka panjang."
+      },
+      {
+        "id": "C",
+        "text": "Menyusun asesmen hanya untuk kepentingan publikasi artikel jurnal tanpa laporan pengadilan."
+      },
+      {
+        "id": "D",
+        "text": "Menyerahkan formulasi tujuan asesmen kepada jaksa penuntut umum tanpa masukan psikologis."
+      }
+    ],
+    "key": "B",
+    "explanation": "Formulasi tujuan asesmen komprehensif menggabungkan 3 pilar: keluhan nyata individu, kebutuhan obyektif pengguna layanan (pengadilan/penyidik), serta pengujian hipotesis klinis (PTSD/kesaksian) secara rasional."
+  },
+  {
+    "id": "D5_I1.4_Q8",
+    "domainId": 5,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Tujuan asesmen)",
+    "indicatorId": "1.4",
+    "indicatorFullId": "D5-1.4",
+    "indicatorTitle": "Memformulasikan tujuan asesmen dengan mempertimbangkan keluhan, kebutuhan pengguna layanan, dan/atau dugaan sementara secara komprehensif",
+    "caseStudy": {
+      "title": "Studi Kasus 8: Formulasi Tujuan Asesmen Secara Komprehensif (Keluhan + Kebutuhan + Hipotesis) Kasus Forensik (Kasus 8)",
+      "scenario": "Dalam kasus rujukan pengadilan forensik anak korban kekerasan seksual, Psikolog diminta menyusun asesmen komprehensif. Psikolog mengintegrasikan: (1) Keluhan kecemasan & trauma anak, (2) Kebutuhan penyidik pengadilan atas bukti keabsahan kesaksian dan dampak psikologis, (3) Dugaan sementara adanya PTSD (Post-Traumatic Stress Disorder) dan kecenderungan dissociative reaction.",
+      "contextTags": [
+        "Asesmen Komprehensif",
+        "Asesmen Forensik",
+        "PTSD Anak",
+        "Formulasi Komprehensif"
+      ]
+    },
+    "question": "Formulasi tujuan asesmen komprehensif manakah yang PALING utuh dan tepat?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Hanya mengukur tingkat IQ anak tanpa memedulikan dampak trauma kekerasan seksual."
+      },
+      {
+        "id": "B",
+        "text": "Memformulasikan tujuan asesmen secara menyeluruh untuk: mengevaluasi tingkat trauma PTSD anak, menilai keabsahan kapasitas kesaksian (competency to testify), serta memberikan rekomendasi perlindungan dan pemulihan trauma jangka panjang."
+      },
+      {
+        "id": "C",
+        "text": "Menyusun asesmen hanya untuk kepentingan publikasi artikel jurnal tanpa laporan pengadilan."
+      },
+      {
+        "id": "D",
+        "text": "Menyerahkan formulasi tujuan asesmen kepada jaksa penuntut umum tanpa masukan psikologis."
+      }
+    ],
+    "key": "B",
+    "explanation": "Formulasi tujuan asesmen komprehensif menggabungkan 3 pilar: keluhan nyata individu, kebutuhan obyektif pengguna layanan (pengadilan/penyidik), serta pengujian hipotesis klinis (PTSD/kesaksian) secara rasional."
+  },
+  {
+    "id": "D5_I1.4_Q9",
+    "domainId": 5,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Tujuan asesmen)",
+    "indicatorId": "1.4",
+    "indicatorFullId": "D5-1.4",
+    "indicatorTitle": "Memformulasikan tujuan asesmen dengan mempertimbangkan keluhan, kebutuhan pengguna layanan, dan/atau dugaan sementara secara komprehensif",
+    "caseStudy": {
+      "title": "Studi Kasus 9: Formulasi Tujuan Asesmen Secara Komprehensif (Keluhan + Kebutuhan + Hipotesis) Kasus Forensik (Kasus 9)",
+      "scenario": "Dalam kasus rujukan pengadilan forensik anak korban kekerasan seksual, Psikolog diminta menyusun asesmen komprehensif. Psikolog mengintegrasikan: (1) Keluhan kecemasan & trauma anak, (2) Kebutuhan penyidik pengadilan atas bukti keabsahan kesaksian dan dampak psikologis, (3) Dugaan sementara adanya PTSD (Post-Traumatic Stress Disorder) dan kecenderungan dissociative reaction.",
+      "contextTags": [
+        "Asesmen Komprehensif",
+        "Asesmen Forensik",
+        "PTSD Anak",
+        "Formulasi Komprehensif"
+      ]
+    },
+    "question": "Formulasi tujuan asesmen komprehensif manakah yang PALING utuh dan tepat?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Hanya mengukur tingkat IQ anak tanpa memedulikan dampak trauma kekerasan seksual."
+      },
+      {
+        "id": "B",
+        "text": "Memformulasikan tujuan asesmen secara menyeluruh untuk: mengevaluasi tingkat trauma PTSD anak, menilai keabsahan kapasitas kesaksian (competency to testify), serta memberikan rekomendasi perlindungan dan pemulihan trauma jangka panjang."
+      },
+      {
+        "id": "C",
+        "text": "Menyusun asesmen hanya untuk kepentingan publikasi artikel jurnal tanpa laporan pengadilan."
+      },
+      {
+        "id": "D",
+        "text": "Menyerahkan formulasi tujuan asesmen kepada jaksa penuntut umum tanpa masukan psikologis."
+      }
+    ],
+    "key": "B",
+    "explanation": "Formulasi tujuan asesmen komprehensif menggabungkan 3 pilar: keluhan nyata individu, kebutuhan obyektif pengguna layanan (pengadilan/penyidik), serta pengujian hipotesis klinis (PTSD/kesaksian) secara rasional."
+  },
+  {
+    "id": "D5_I1.4_Q10",
+    "domainId": 5,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Tujuan asesmen)",
+    "indicatorId": "1.4",
+    "indicatorFullId": "D5-1.4",
+    "indicatorTitle": "Memformulasikan tujuan asesmen dengan mempertimbangkan keluhan, kebutuhan pengguna layanan, dan/atau dugaan sementara secara komprehensif",
+    "caseStudy": {
+      "title": "Studi Kasus 10: Formulasi Tujuan Asesmen Secara Komprehensif (Keluhan + Kebutuhan + Hipotesis) Kasus Forensik (Kasus 10)",
+      "scenario": "Dalam kasus rujukan pengadilan forensik anak korban kekerasan seksual, Psikolog diminta menyusun asesmen komprehensif. Psikolog mengintegrasikan: (1) Keluhan kecemasan & trauma anak, (2) Kebutuhan penyidik pengadilan atas bukti keabsahan kesaksian dan dampak psikologis, (3) Dugaan sementara adanya PTSD (Post-Traumatic Stress Disorder) dan kecenderungan dissociative reaction.",
+      "contextTags": [
+        "Asesmen Komprehensif",
+        "Asesmen Forensik",
+        "PTSD Anak",
+        "Formulasi Komprehensif"
+      ]
+    },
+    "question": "Formulasi tujuan asesmen komprehensif manakah yang PALING utuh dan tepat?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Hanya mengukur tingkat IQ anak tanpa memedulikan dampak trauma kekerasan seksual."
+      },
+      {
+        "id": "B",
+        "text": "Memformulasikan tujuan asesmen secara menyeluruh untuk: mengevaluasi tingkat trauma PTSD anak, menilai keabsahan kapasitas kesaksian (competency to testify), serta memberikan rekomendasi perlindungan dan pemulihan trauma jangka panjang."
+      },
+      {
+        "id": "C",
+        "text": "Menyusun asesmen hanya untuk kepentingan publikasi artikel jurnal tanpa laporan pengadilan."
+      },
+      {
+        "id": "D",
+        "text": "Menyerahkan formulasi tujuan asesmen kepada jaksa penuntut umum tanpa masukan psikologis."
+      }
+    ],
+    "key": "B",
+    "explanation": "Formulasi tujuan asesmen komprehensif menggabungkan 3 pilar: keluhan nyata individu, kebutuhan obyektif pengguna layanan (pengadilan/penyidik), serta pengujian hipotesis klinis (PTSD/kesaksian) secara rasional."
+  }
+]

@@ -1,0 +1,1562 @@
+[
+  {
+    "id": "D7_I1.1_Q1",
+    "domainId": 7,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Integrasi Data)",
+    "indicatorId": "1.1",
+    "indicatorFullId": "D7-1.1",
+    "indicatorTitle": "Mengetahui prinsip dasar dalam menyusun dinamika psikologis",
+    "caseStudy": {
+      "title": "Studi Kasus 1: Prinsip Dasar Penyusunan Dinamika Psikologis Berbasis Konseptualisasi Kasus (Kasus 1)",
+      "scenario": "Psikolog hendak menyusun bagian Dinamika Psikologis dalam laporan pemeriksaan klinis. Psikolog memahami bahwa prinsip dasar dinamika psikologis adalah menjelaskan hubungan kausal psikologis yang sistematis antara faktor predisposisi (latar masa lalu), faktor pemicu (precipitating), faktor pemelihara (maintaining), serta manifestasi gejala klinis saat ini.",
+      "contextTags": [
+        "Dinamika Psikologis",
+        "Prinsip Dasar",
+        "Konseptualisasi Kasus",
+        "Alur Psikologis"
+      ]
+    },
+    "question": "Prinsip dasar manakah yang HARUS tercermin dalam penyusunan narasi dinamika psikologis yang baik?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Hanya mendaftar skor-skor mentah tes psikologi secara terpisah tanpa ada penjelasan keterkaitan antar-aspek."
+      },
+      {
+        "id": "B",
+        "text": "Menjelaskan secara analitis keterkaitan logis dan kausalitas antara kepribadian, skema kognitif, riwayat perkembangan, serta kondisi lingkungan yang memicu dan memelihara timbulnya masalah."
+      },
+      {
+        "id": "C",
+        "text": "Mengarang cerita fiktif berdasarkan intuisi tanpa menggunakan data hasil pemeriksaan asesmen."
+      },
+      {
+        "id": "D",
+        "text": "Menuliskan kembali definisi istilah-istilah di buku teks tanpa menghubungkan dengan kasus klien."
+      }
+    ],
+    "key": "B",
+    "explanation": "Prinsip dasar dinamika psikologis adalah mensintesis seluruh temuan data asesmen menjadi penjelasan kausalitas ilmiah yang koheren tentang bagaimana kepribadian, kognisi, dan lingkungan berinteraksi memunculkan permasalahan klien."
+  },
+  {
+    "id": "D7_I1.1_Q2",
+    "domainId": 7,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Integrasi Data)",
+    "indicatorId": "1.1",
+    "indicatorFullId": "D7-1.1",
+    "indicatorTitle": "Mengetahui prinsip dasar dalam menyusun dinamika psikologis",
+    "caseStudy": {
+      "title": "Studi Kasus 2: Prinsip Dasar Penyusunan Dinamika Psikologis Berbasis Konseptualisasi Kasus (Kasus 2)",
+      "scenario": "Psikolog hendak menyusun bagian Dinamika Psikologis dalam laporan pemeriksaan klinis. Psikolog memahami bahwa prinsip dasar dinamika psikologis adalah menjelaskan hubungan kausal psikologis yang sistematis antara faktor predisposisi (latar masa lalu), faktor pemicu (precipitating), faktor pemelihara (maintaining), serta manifestasi gejala klinis saat ini.",
+      "contextTags": [
+        "Dinamika Psikologis",
+        "Prinsip Dasar",
+        "Konseptualisasi Kasus",
+        "Alur Psikologis"
+      ]
+    },
+    "question": "Prinsip dasar manakah yang HARUS tercermin dalam penyusunan narasi dinamika psikologis yang baik?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Hanya mendaftar skor-skor mentah tes psikologi secara terpisah tanpa ada penjelasan keterkaitan antar-aspek."
+      },
+      {
+        "id": "B",
+        "text": "Menjelaskan secara analitis keterkaitan logis dan kausalitas antara kepribadian, skema kognitif, riwayat perkembangan, serta kondisi lingkungan yang memicu dan memelihara timbulnya masalah."
+      },
+      {
+        "id": "C",
+        "text": "Mengarang cerita fiktif berdasarkan intuisi tanpa menggunakan data hasil pemeriksaan asesmen."
+      },
+      {
+        "id": "D",
+        "text": "Menuliskan kembali definisi istilah-istilah di buku teks tanpa menghubungkan dengan kasus klien."
+      }
+    ],
+    "key": "B",
+    "explanation": "Prinsip dasar dinamika psikologis adalah mensintesis seluruh temuan data asesmen menjadi penjelasan kausalitas ilmiah yang koheren tentang bagaimana kepribadian, kognisi, dan lingkungan berinteraksi memunculkan permasalahan klien."
+  },
+  {
+    "id": "D7_I1.1_Q3",
+    "domainId": 7,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Integrasi Data)",
+    "indicatorId": "1.1",
+    "indicatorFullId": "D7-1.1",
+    "indicatorTitle": "Mengetahui prinsip dasar dalam menyusun dinamika psikologis",
+    "caseStudy": {
+      "title": "Studi Kasus 3: Prinsip Dasar Penyusunan Dinamika Psikologis Berbasis Konseptualisasi Kasus (Kasus 3)",
+      "scenario": "Psikolog hendak menyusun bagian Dinamika Psikologis dalam laporan pemeriksaan klinis. Psikolog memahami bahwa prinsip dasar dinamika psikologis adalah menjelaskan hubungan kausal psikologis yang sistematis antara faktor predisposisi (latar masa lalu), faktor pemicu (precipitating), faktor pemelihara (maintaining), serta manifestasi gejala klinis saat ini.",
+      "contextTags": [
+        "Dinamika Psikologis",
+        "Prinsip Dasar",
+        "Konseptualisasi Kasus",
+        "Alur Psikologis"
+      ]
+    },
+    "question": "Prinsip dasar manakah yang HARUS tercermin dalam penyusunan narasi dinamika psikologis yang baik?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Hanya mendaftar skor-skor mentah tes psikologi secara terpisah tanpa ada penjelasan keterkaitan antar-aspek."
+      },
+      {
+        "id": "B",
+        "text": "Menjelaskan secara analitis keterkaitan logis dan kausalitas antara kepribadian, skema kognitif, riwayat perkembangan, serta kondisi lingkungan yang memicu dan memelihara timbulnya masalah."
+      },
+      {
+        "id": "C",
+        "text": "Mengarang cerita fiktif berdasarkan intuisi tanpa menggunakan data hasil pemeriksaan asesmen."
+      },
+      {
+        "id": "D",
+        "text": "Menuliskan kembali definisi istilah-istilah di buku teks tanpa menghubungkan dengan kasus klien."
+      }
+    ],
+    "key": "B",
+    "explanation": "Prinsip dasar dinamika psikologis adalah mensintesis seluruh temuan data asesmen menjadi penjelasan kausalitas ilmiah yang koheren tentang bagaimana kepribadian, kognisi, dan lingkungan berinteraksi memunculkan permasalahan klien."
+  },
+  {
+    "id": "D7_I1.1_Q4",
+    "domainId": 7,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Integrasi Data)",
+    "indicatorId": "1.1",
+    "indicatorFullId": "D7-1.1",
+    "indicatorTitle": "Mengetahui prinsip dasar dalam menyusun dinamika psikologis",
+    "caseStudy": {
+      "title": "Studi Kasus 4: Prinsip Dasar Penyusunan Dinamika Psikologis Berbasis Konseptualisasi Kasus (Kasus 4)",
+      "scenario": "Psikolog hendak menyusun bagian Dinamika Psikologis dalam laporan pemeriksaan klinis. Psikolog memahami bahwa prinsip dasar dinamika psikologis adalah menjelaskan hubungan kausal psikologis yang sistematis antara faktor predisposisi (latar masa lalu), faktor pemicu (precipitating), faktor pemelihara (maintaining), serta manifestasi gejala klinis saat ini.",
+      "contextTags": [
+        "Dinamika Psikologis",
+        "Prinsip Dasar",
+        "Konseptualisasi Kasus",
+        "Alur Psikologis"
+      ]
+    },
+    "question": "Prinsip dasar manakah yang HARUS tercermin dalam penyusunan narasi dinamika psikologis yang baik?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Hanya mendaftar skor-skor mentah tes psikologi secara terpisah tanpa ada penjelasan keterkaitan antar-aspek."
+      },
+      {
+        "id": "B",
+        "text": "Menjelaskan secara analitis keterkaitan logis dan kausalitas antara kepribadian, skema kognitif, riwayat perkembangan, serta kondisi lingkungan yang memicu dan memelihara timbulnya masalah."
+      },
+      {
+        "id": "C",
+        "text": "Mengarang cerita fiktif berdasarkan intuisi tanpa menggunakan data hasil pemeriksaan asesmen."
+      },
+      {
+        "id": "D",
+        "text": "Menuliskan kembali definisi istilah-istilah di buku teks tanpa menghubungkan dengan kasus klien."
+      }
+    ],
+    "key": "B",
+    "explanation": "Prinsip dasar dinamika psikologis adalah mensintesis seluruh temuan data asesmen menjadi penjelasan kausalitas ilmiah yang koheren tentang bagaimana kepribadian, kognisi, dan lingkungan berinteraksi memunculkan permasalahan klien."
+  },
+  {
+    "id": "D7_I1.1_Q5",
+    "domainId": 7,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Integrasi Data)",
+    "indicatorId": "1.1",
+    "indicatorFullId": "D7-1.1",
+    "indicatorTitle": "Mengetahui prinsip dasar dalam menyusun dinamika psikologis",
+    "caseStudy": {
+      "title": "Studi Kasus 5: Prinsip Dasar Penyusunan Dinamika Psikologis Berbasis Konseptualisasi Kasus (Kasus 5)",
+      "scenario": "Psikolog hendak menyusun bagian Dinamika Psikologis dalam laporan pemeriksaan klinis. Psikolog memahami bahwa prinsip dasar dinamika psikologis adalah menjelaskan hubungan kausal psikologis yang sistematis antara faktor predisposisi (latar masa lalu), faktor pemicu (precipitating), faktor pemelihara (maintaining), serta manifestasi gejala klinis saat ini.",
+      "contextTags": [
+        "Dinamika Psikologis",
+        "Prinsip Dasar",
+        "Konseptualisasi Kasus",
+        "Alur Psikologis"
+      ]
+    },
+    "question": "Prinsip dasar manakah yang HARUS tercermin dalam penyusunan narasi dinamika psikologis yang baik?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Hanya mendaftar skor-skor mentah tes psikologi secara terpisah tanpa ada penjelasan keterkaitan antar-aspek."
+      },
+      {
+        "id": "B",
+        "text": "Menjelaskan secara analitis keterkaitan logis dan kausalitas antara kepribadian, skema kognitif, riwayat perkembangan, serta kondisi lingkungan yang memicu dan memelihara timbulnya masalah."
+      },
+      {
+        "id": "C",
+        "text": "Mengarang cerita fiktif berdasarkan intuisi tanpa menggunakan data hasil pemeriksaan asesmen."
+      },
+      {
+        "id": "D",
+        "text": "Menuliskan kembali definisi istilah-istilah di buku teks tanpa menghubungkan dengan kasus klien."
+      }
+    ],
+    "key": "B",
+    "explanation": "Prinsip dasar dinamika psikologis adalah mensintesis seluruh temuan data asesmen menjadi penjelasan kausalitas ilmiah yang koheren tentang bagaimana kepribadian, kognisi, dan lingkungan berinteraksi memunculkan permasalahan klien."
+  },
+  {
+    "id": "D7_I1.1_Q6",
+    "domainId": 7,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Integrasi Data)",
+    "indicatorId": "1.1",
+    "indicatorFullId": "D7-1.1",
+    "indicatorTitle": "Mengetahui prinsip dasar dalam menyusun dinamika psikologis",
+    "caseStudy": {
+      "title": "Studi Kasus 6: Prinsip Dasar Penyusunan Dinamika Psikologis Berbasis Konseptualisasi Kasus (Kasus 6)",
+      "scenario": "Psikolog hendak menyusun bagian Dinamika Psikologis dalam laporan pemeriksaan klinis. Psikolog memahami bahwa prinsip dasar dinamika psikologis adalah menjelaskan hubungan kausal psikologis yang sistematis antara faktor predisposisi (latar masa lalu), faktor pemicu (precipitating), faktor pemelihara (maintaining), serta manifestasi gejala klinis saat ini.",
+      "contextTags": [
+        "Dinamika Psikologis",
+        "Prinsip Dasar",
+        "Konseptualisasi Kasus",
+        "Alur Psikologis"
+      ]
+    },
+    "question": "Prinsip dasar manakah yang HARUS tercermin dalam penyusunan narasi dinamika psikologis yang baik?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Hanya mendaftar skor-skor mentah tes psikologi secara terpisah tanpa ada penjelasan keterkaitan antar-aspek."
+      },
+      {
+        "id": "B",
+        "text": "Menjelaskan secara analitis keterkaitan logis dan kausalitas antara kepribadian, skema kognitif, riwayat perkembangan, serta kondisi lingkungan yang memicu dan memelihara timbulnya masalah."
+      },
+      {
+        "id": "C",
+        "text": "Mengarang cerita fiktif berdasarkan intuisi tanpa menggunakan data hasil pemeriksaan asesmen."
+      },
+      {
+        "id": "D",
+        "text": "Menuliskan kembali definisi istilah-istilah di buku teks tanpa menghubungkan dengan kasus klien."
+      }
+    ],
+    "key": "B",
+    "explanation": "Prinsip dasar dinamika psikologis adalah mensintesis seluruh temuan data asesmen menjadi penjelasan kausalitas ilmiah yang koheren tentang bagaimana kepribadian, kognisi, dan lingkungan berinteraksi memunculkan permasalahan klien."
+  },
+  {
+    "id": "D7_I1.1_Q7",
+    "domainId": 7,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Integrasi Data)",
+    "indicatorId": "1.1",
+    "indicatorFullId": "D7-1.1",
+    "indicatorTitle": "Mengetahui prinsip dasar dalam menyusun dinamika psikologis",
+    "caseStudy": {
+      "title": "Studi Kasus 7: Prinsip Dasar Penyusunan Dinamika Psikologis Berbasis Konseptualisasi Kasus (Kasus 7)",
+      "scenario": "Psikolog hendak menyusun bagian Dinamika Psikologis dalam laporan pemeriksaan klinis. Psikolog memahami bahwa prinsip dasar dinamika psikologis adalah menjelaskan hubungan kausal psikologis yang sistematis antara faktor predisposisi (latar masa lalu), faktor pemicu (precipitating), faktor pemelihara (maintaining), serta manifestasi gejala klinis saat ini.",
+      "contextTags": [
+        "Dinamika Psikologis",
+        "Prinsip Dasar",
+        "Konseptualisasi Kasus",
+        "Alur Psikologis"
+      ]
+    },
+    "question": "Prinsip dasar manakah yang HARUS tercermin dalam penyusunan narasi dinamika psikologis yang baik?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Hanya mendaftar skor-skor mentah tes psikologi secara terpisah tanpa ada penjelasan keterkaitan antar-aspek."
+      },
+      {
+        "id": "B",
+        "text": "Menjelaskan secara analitis keterkaitan logis dan kausalitas antara kepribadian, skema kognitif, riwayat perkembangan, serta kondisi lingkungan yang memicu dan memelihara timbulnya masalah."
+      },
+      {
+        "id": "C",
+        "text": "Mengarang cerita fiktif berdasarkan intuisi tanpa menggunakan data hasil pemeriksaan asesmen."
+      },
+      {
+        "id": "D",
+        "text": "Menuliskan kembali definisi istilah-istilah di buku teks tanpa menghubungkan dengan kasus klien."
+      }
+    ],
+    "key": "B",
+    "explanation": "Prinsip dasar dinamika psikologis adalah mensintesis seluruh temuan data asesmen menjadi penjelasan kausalitas ilmiah yang koheren tentang bagaimana kepribadian, kognisi, dan lingkungan berinteraksi memunculkan permasalahan klien."
+  },
+  {
+    "id": "D7_I1.1_Q8",
+    "domainId": 7,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Integrasi Data)",
+    "indicatorId": "1.1",
+    "indicatorFullId": "D7-1.1",
+    "indicatorTitle": "Mengetahui prinsip dasar dalam menyusun dinamika psikologis",
+    "caseStudy": {
+      "title": "Studi Kasus 8: Prinsip Dasar Penyusunan Dinamika Psikologis Berbasis Konseptualisasi Kasus (Kasus 8)",
+      "scenario": "Psikolog hendak menyusun bagian Dinamika Psikologis dalam laporan pemeriksaan klinis. Psikolog memahami bahwa prinsip dasar dinamika psikologis adalah menjelaskan hubungan kausal psikologis yang sistematis antara faktor predisposisi (latar masa lalu), faktor pemicu (precipitating), faktor pemelihara (maintaining), serta manifestasi gejala klinis saat ini.",
+      "contextTags": [
+        "Dinamika Psikologis",
+        "Prinsip Dasar",
+        "Konseptualisasi Kasus",
+        "Alur Psikologis"
+      ]
+    },
+    "question": "Prinsip dasar manakah yang HARUS tercermin dalam penyusunan narasi dinamika psikologis yang baik?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Hanya mendaftar skor-skor mentah tes psikologi secara terpisah tanpa ada penjelasan keterkaitan antar-aspek."
+      },
+      {
+        "id": "B",
+        "text": "Menjelaskan secara analitis keterkaitan logis dan kausalitas antara kepribadian, skema kognitif, riwayat perkembangan, serta kondisi lingkungan yang memicu dan memelihara timbulnya masalah."
+      },
+      {
+        "id": "C",
+        "text": "Mengarang cerita fiktif berdasarkan intuisi tanpa menggunakan data hasil pemeriksaan asesmen."
+      },
+      {
+        "id": "D",
+        "text": "Menuliskan kembali definisi istilah-istilah di buku teks tanpa menghubungkan dengan kasus klien."
+      }
+    ],
+    "key": "B",
+    "explanation": "Prinsip dasar dinamika psikologis adalah mensintesis seluruh temuan data asesmen menjadi penjelasan kausalitas ilmiah yang koheren tentang bagaimana kepribadian, kognisi, dan lingkungan berinteraksi memunculkan permasalahan klien."
+  },
+  {
+    "id": "D7_I1.1_Q9",
+    "domainId": 7,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Integrasi Data)",
+    "indicatorId": "1.1",
+    "indicatorFullId": "D7-1.1",
+    "indicatorTitle": "Mengetahui prinsip dasar dalam menyusun dinamika psikologis",
+    "caseStudy": {
+      "title": "Studi Kasus 9: Prinsip Dasar Penyusunan Dinamika Psikologis Berbasis Konseptualisasi Kasus (Kasus 9)",
+      "scenario": "Psikolog hendak menyusun bagian Dinamika Psikologis dalam laporan pemeriksaan klinis. Psikolog memahami bahwa prinsip dasar dinamika psikologis adalah menjelaskan hubungan kausal psikologis yang sistematis antara faktor predisposisi (latar masa lalu), faktor pemicu (precipitating), faktor pemelihara (maintaining), serta manifestasi gejala klinis saat ini.",
+      "contextTags": [
+        "Dinamika Psikologis",
+        "Prinsip Dasar",
+        "Konseptualisasi Kasus",
+        "Alur Psikologis"
+      ]
+    },
+    "question": "Prinsip dasar manakah yang HARUS tercermin dalam penyusunan narasi dinamika psikologis yang baik?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Hanya mendaftar skor-skor mentah tes psikologi secara terpisah tanpa ada penjelasan keterkaitan antar-aspek."
+      },
+      {
+        "id": "B",
+        "text": "Menjelaskan secara analitis keterkaitan logis dan kausalitas antara kepribadian, skema kognitif, riwayat perkembangan, serta kondisi lingkungan yang memicu dan memelihara timbulnya masalah."
+      },
+      {
+        "id": "C",
+        "text": "Mengarang cerita fiktif berdasarkan intuisi tanpa menggunakan data hasil pemeriksaan asesmen."
+      },
+      {
+        "id": "D",
+        "text": "Menuliskan kembali definisi istilah-istilah di buku teks tanpa menghubungkan dengan kasus klien."
+      }
+    ],
+    "key": "B",
+    "explanation": "Prinsip dasar dinamika psikologis adalah mensintesis seluruh temuan data asesmen menjadi penjelasan kausalitas ilmiah yang koheren tentang bagaimana kepribadian, kognisi, dan lingkungan berinteraksi memunculkan permasalahan klien."
+  },
+  {
+    "id": "D7_I1.1_Q10",
+    "domainId": 7,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Integrasi Data)",
+    "indicatorId": "1.1",
+    "indicatorFullId": "D7-1.1",
+    "indicatorTitle": "Mengetahui prinsip dasar dalam menyusun dinamika psikologis",
+    "caseStudy": {
+      "title": "Studi Kasus 10: Prinsip Dasar Penyusunan Dinamika Psikologis Berbasis Konseptualisasi Kasus (Kasus 10)",
+      "scenario": "Psikolog hendak menyusun bagian Dinamika Psikologis dalam laporan pemeriksaan klinis. Psikolog memahami bahwa prinsip dasar dinamika psikologis adalah menjelaskan hubungan kausal psikologis yang sistematis antara faktor predisposisi (latar masa lalu), faktor pemicu (precipitating), faktor pemelihara (maintaining), serta manifestasi gejala klinis saat ini.",
+      "contextTags": [
+        "Dinamika Psikologis",
+        "Prinsip Dasar",
+        "Konseptualisasi Kasus",
+        "Alur Psikologis"
+      ]
+    },
+    "question": "Prinsip dasar manakah yang HARUS tercermin dalam penyusunan narasi dinamika psikologis yang baik?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Hanya mendaftar skor-skor mentah tes psikologi secara terpisah tanpa ada penjelasan keterkaitan antar-aspek."
+      },
+      {
+        "id": "B",
+        "text": "Menjelaskan secara analitis keterkaitan logis dan kausalitas antara kepribadian, skema kognitif, riwayat perkembangan, serta kondisi lingkungan yang memicu dan memelihara timbulnya masalah."
+      },
+      {
+        "id": "C",
+        "text": "Mengarang cerita fiktif berdasarkan intuisi tanpa menggunakan data hasil pemeriksaan asesmen."
+      },
+      {
+        "id": "D",
+        "text": "Menuliskan kembali definisi istilah-istilah di buku teks tanpa menghubungkan dengan kasus klien."
+      }
+    ],
+    "key": "B",
+    "explanation": "Prinsip dasar dinamika psikologis adalah mensintesis seluruh temuan data asesmen menjadi penjelasan kausalitas ilmiah yang koheren tentang bagaimana kepribadian, kognisi, dan lingkungan berinteraksi memunculkan permasalahan klien."
+  },
+  {
+    "id": "D7_I1.2_Q1",
+    "domainId": 7,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Integrasi Data)",
+    "indicatorId": "1.2",
+    "indicatorFullId": "D7-1.2",
+    "indicatorTitle": "Menginterpretasikan data asesmen untuk menyusun dinamika psikologis",
+    "caseStudy": {
+      "title": "Studi Kasus 1: Menginterpretasikan Data Wawancara, Observasi, dan Psikotes untuk Dinamika Kasus Obsesif Kompulsif (Kasus 1)",
+      "scenario": "Klien Sdr. Hasan (29 tahun) menunjukkan skor tinggi pada inventori kecenderungan Obsesif-Kompulsif (OCD). Data wawancara menunjukkan pola perilaku ritual mencuci tangan berulang 30 kali setiap memegang benda, sementara observasi di ruang konsultasi menunjukkan gestur kecemasan tinggi saat melihat noda di meja. Psikolog menginterpretasikan gabungan data ini untuk menjelaskan dinamika OCD.",
+      "contextTags": [
+        "Interpretasi Data",
+        "OCD",
+        "Skema Kognitif",
+        "Dinamika Psikologis"
+      ]
+    },
+    "question": "Bagaimanakah interpretasi data asesmen yang PALING akurat untuk menyusun dinamika psikologis Sdr. Hasan?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Klien mencuci tangan semata-mata karena hobi kebersihan tanpa ada dorongan kecemasan underlying."
+      },
+      {
+        "id": "B",
+        "text": "Skor OCD yang tinggi terkonfirmasi oleh perilaku ritual mencuci tangan, yang berfungsi sebagai mekanisme pereda kecemasan sementara (negative reinforcement) terhadap pikiran obsesif kontaminasi yang mengancam."
+      },
+      {
+        "id": "C",
+        "text": "Klien mengalami kelumpuhan motorik bawaan pada otot-otot jari tangan."
+      },
+      {
+        "id": "D",
+        "text": "Klien berpura-pura mencuci tangan demi mendapatkan simpati publik."
+      }
+    ],
+    "key": "B",
+    "explanation": "Menginterpretasikan data asesmen mensyaratkan psikolog menghubungkan skor psikometrik, data wawancara, dan observasi nyata: ritual kompulsi berfungsi sebagai negative reinforcement untuk meredakan obsesi kontaminasi."
+  },
+  {
+    "id": "D7_I1.2_Q2",
+    "domainId": 7,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Integrasi Data)",
+    "indicatorId": "1.2",
+    "indicatorFullId": "D7-1.2",
+    "indicatorTitle": "Menginterpretasikan data asesmen untuk menyusun dinamika psikologis",
+    "caseStudy": {
+      "title": "Studi Kasus 2: Menginterpretasikan Data Wawancara, Observasi, dan Psikotes untuk Dinamika Kasus Obsesif Kompulsif (Kasus 2)",
+      "scenario": "Klien Sdr. Hasan (29 tahun) menunjukkan skor tinggi pada inventori kecenderungan Obsesif-Kompulsif (OCD). Data wawancara menunjukkan pola perilaku ritual mencuci tangan berulang 30 kali setiap memegang benda, sementara observasi di ruang konsultasi menunjukkan gestur kecemasan tinggi saat melihat noda di meja. Psikolog menginterpretasikan gabungan data ini untuk menjelaskan dinamika OCD.",
+      "contextTags": [
+        "Interpretasi Data",
+        "OCD",
+        "Skema Kognitif",
+        "Dinamika Psikologis"
+      ]
+    },
+    "question": "Bagaimanakah interpretasi data asesmen yang PALING akurat untuk menyusun dinamika psikologis Sdr. Hasan?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Klien mencuci tangan semata-mata karena hobi kebersihan tanpa ada dorongan kecemasan underlying."
+      },
+      {
+        "id": "B",
+        "text": "Skor OCD yang tinggi terkonfirmasi oleh perilaku ritual mencuci tangan, yang berfungsi sebagai mekanisme pereda kecemasan sementara (negative reinforcement) terhadap pikiran obsesif kontaminasi yang mengancam."
+      },
+      {
+        "id": "C",
+        "text": "Klien mengalami kelumpuhan motorik bawaan pada otot-otot jari tangan."
+      },
+      {
+        "id": "D",
+        "text": "Klien berpura-pura mencuci tangan demi mendapatkan simpati publik."
+      }
+    ],
+    "key": "B",
+    "explanation": "Menginterpretasikan data asesmen mensyaratkan psikolog menghubungkan skor psikometrik, data wawancara, dan observasi nyata: ritual kompulsi berfungsi sebagai negative reinforcement untuk meredakan obsesi kontaminasi."
+  },
+  {
+    "id": "D7_I1.2_Q3",
+    "domainId": 7,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Integrasi Data)",
+    "indicatorId": "1.2",
+    "indicatorFullId": "D7-1.2",
+    "indicatorTitle": "Menginterpretasikan data asesmen untuk menyusun dinamika psikologis",
+    "caseStudy": {
+      "title": "Studi Kasus 3: Menginterpretasikan Data Wawancara, Observasi, dan Psikotes untuk Dinamika Kasus Obsesif Kompulsif (Kasus 3)",
+      "scenario": "Klien Sdr. Hasan (29 tahun) menunjukkan skor tinggi pada inventori kecenderungan Obsesif-Kompulsif (OCD). Data wawancara menunjukkan pola perilaku ritual mencuci tangan berulang 30 kali setiap memegang benda, sementara observasi di ruang konsultasi menunjukkan gestur kecemasan tinggi saat melihat noda di meja. Psikolog menginterpretasikan gabungan data ini untuk menjelaskan dinamika OCD.",
+      "contextTags": [
+        "Interpretasi Data",
+        "OCD",
+        "Skema Kognitif",
+        "Dinamika Psikologis"
+      ]
+    },
+    "question": "Bagaimanakah interpretasi data asesmen yang PALING akurat untuk menyusun dinamika psikologis Sdr. Hasan?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Klien mencuci tangan semata-mata karena hobi kebersihan tanpa ada dorongan kecemasan underlying."
+      },
+      {
+        "id": "B",
+        "text": "Skor OCD yang tinggi terkonfirmasi oleh perilaku ritual mencuci tangan, yang berfungsi sebagai mekanisme pereda kecemasan sementara (negative reinforcement) terhadap pikiran obsesif kontaminasi yang mengancam."
+      },
+      {
+        "id": "C",
+        "text": "Klien mengalami kelumpuhan motorik bawaan pada otot-otot jari tangan."
+      },
+      {
+        "id": "D",
+        "text": "Klien berpura-pura mencuci tangan demi mendapatkan simpati publik."
+      }
+    ],
+    "key": "B",
+    "explanation": "Menginterpretasikan data asesmen mensyaratkan psikolog menghubungkan skor psikometrik, data wawancara, dan observasi nyata: ritual kompulsi berfungsi sebagai negative reinforcement untuk meredakan obsesi kontaminasi."
+  },
+  {
+    "id": "D7_I1.2_Q4",
+    "domainId": 7,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Integrasi Data)",
+    "indicatorId": "1.2",
+    "indicatorFullId": "D7-1.2",
+    "indicatorTitle": "Menginterpretasikan data asesmen untuk menyusun dinamika psikologis",
+    "caseStudy": {
+      "title": "Studi Kasus 4: Menginterpretasikan Data Wawancara, Observasi, dan Psikotes untuk Dinamika Kasus Obsesif Kompulsif (Kasus 4)",
+      "scenario": "Klien Sdr. Hasan (29 tahun) menunjukkan skor tinggi pada inventori kecenderungan Obsesif-Kompulsif (OCD). Data wawancara menunjukkan pola perilaku ritual mencuci tangan berulang 30 kali setiap memegang benda, sementara observasi di ruang konsultasi menunjukkan gestur kecemasan tinggi saat melihat noda di meja. Psikolog menginterpretasikan gabungan data ini untuk menjelaskan dinamika OCD.",
+      "contextTags": [
+        "Interpretasi Data",
+        "OCD",
+        "Skema Kognitif",
+        "Dinamika Psikologis"
+      ]
+    },
+    "question": "Bagaimanakah interpretasi data asesmen yang PALING akurat untuk menyusun dinamika psikologis Sdr. Hasan?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Klien mencuci tangan semata-mata karena hobi kebersihan tanpa ada dorongan kecemasan underlying."
+      },
+      {
+        "id": "B",
+        "text": "Skor OCD yang tinggi terkonfirmasi oleh perilaku ritual mencuci tangan, yang berfungsi sebagai mekanisme pereda kecemasan sementara (negative reinforcement) terhadap pikiran obsesif kontaminasi yang mengancam."
+      },
+      {
+        "id": "C",
+        "text": "Klien mengalami kelumpuhan motorik bawaan pada otot-otot jari tangan."
+      },
+      {
+        "id": "D",
+        "text": "Klien berpura-pura mencuci tangan demi mendapatkan simpati publik."
+      }
+    ],
+    "key": "B",
+    "explanation": "Menginterpretasikan data asesmen mensyaratkan psikolog menghubungkan skor psikometrik, data wawancara, dan observasi nyata: ritual kompulsi berfungsi sebagai negative reinforcement untuk meredakan obsesi kontaminasi."
+  },
+  {
+    "id": "D7_I1.2_Q5",
+    "domainId": 7,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Integrasi Data)",
+    "indicatorId": "1.2",
+    "indicatorFullId": "D7-1.2",
+    "indicatorTitle": "Menginterpretasikan data asesmen untuk menyusun dinamika psikologis",
+    "caseStudy": {
+      "title": "Studi Kasus 5: Menginterpretasikan Data Wawancara, Observasi, dan Psikotes untuk Dinamika Kasus Obsesif Kompulsif (Kasus 5)",
+      "scenario": "Klien Sdr. Hasan (29 tahun) menunjukkan skor tinggi pada inventori kecenderungan Obsesif-Kompulsif (OCD). Data wawancara menunjukkan pola perilaku ritual mencuci tangan berulang 30 kali setiap memegang benda, sementara observasi di ruang konsultasi menunjukkan gestur kecemasan tinggi saat melihat noda di meja. Psikolog menginterpretasikan gabungan data ini untuk menjelaskan dinamika OCD.",
+      "contextTags": [
+        "Interpretasi Data",
+        "OCD",
+        "Skema Kognitif",
+        "Dinamika Psikologis"
+      ]
+    },
+    "question": "Bagaimanakah interpretasi data asesmen yang PALING akurat untuk menyusun dinamika psikologis Sdr. Hasan?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Klien mencuci tangan semata-mata karena hobi kebersihan tanpa ada dorongan kecemasan underlying."
+      },
+      {
+        "id": "B",
+        "text": "Skor OCD yang tinggi terkonfirmasi oleh perilaku ritual mencuci tangan, yang berfungsi sebagai mekanisme pereda kecemasan sementara (negative reinforcement) terhadap pikiran obsesif kontaminasi yang mengancam."
+      },
+      {
+        "id": "C",
+        "text": "Klien mengalami kelumpuhan motorik bawaan pada otot-otot jari tangan."
+      },
+      {
+        "id": "D",
+        "text": "Klien berpura-pura mencuci tangan demi mendapatkan simpati publik."
+      }
+    ],
+    "key": "B",
+    "explanation": "Menginterpretasikan data asesmen mensyaratkan psikolog menghubungkan skor psikometrik, data wawancara, dan observasi nyata: ritual kompulsi berfungsi sebagai negative reinforcement untuk meredakan obsesi kontaminasi."
+  },
+  {
+    "id": "D7_I1.2_Q6",
+    "domainId": 7,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Integrasi Data)",
+    "indicatorId": "1.2",
+    "indicatorFullId": "D7-1.2",
+    "indicatorTitle": "Menginterpretasikan data asesmen untuk menyusun dinamika psikologis",
+    "caseStudy": {
+      "title": "Studi Kasus 6: Menginterpretasikan Data Wawancara, Observasi, dan Psikotes untuk Dinamika Kasus Obsesif Kompulsif (Kasus 6)",
+      "scenario": "Klien Sdr. Hasan (29 tahun) menunjukkan skor tinggi pada inventori kecenderungan Obsesif-Kompulsif (OCD). Data wawancara menunjukkan pola perilaku ritual mencuci tangan berulang 30 kali setiap memegang benda, sementara observasi di ruang konsultasi menunjukkan gestur kecemasan tinggi saat melihat noda di meja. Psikolog menginterpretasikan gabungan data ini untuk menjelaskan dinamika OCD.",
+      "contextTags": [
+        "Interpretasi Data",
+        "OCD",
+        "Skema Kognitif",
+        "Dinamika Psikologis"
+      ]
+    },
+    "question": "Bagaimanakah interpretasi data asesmen yang PALING akurat untuk menyusun dinamika psikologis Sdr. Hasan?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Klien mencuci tangan semata-mata karena hobi kebersihan tanpa ada dorongan kecemasan underlying."
+      },
+      {
+        "id": "B",
+        "text": "Skor OCD yang tinggi terkonfirmasi oleh perilaku ritual mencuci tangan, yang berfungsi sebagai mekanisme pereda kecemasan sementara (negative reinforcement) terhadap pikiran obsesif kontaminasi yang mengancam."
+      },
+      {
+        "id": "C",
+        "text": "Klien mengalami kelumpuhan motorik bawaan pada otot-otot jari tangan."
+      },
+      {
+        "id": "D",
+        "text": "Klien berpura-pura mencuci tangan demi mendapatkan simpati publik."
+      }
+    ],
+    "key": "B",
+    "explanation": "Menginterpretasikan data asesmen mensyaratkan psikolog menghubungkan skor psikometrik, data wawancara, dan observasi nyata: ritual kompulsi berfungsi sebagai negative reinforcement untuk meredakan obsesi kontaminasi."
+  },
+  {
+    "id": "D7_I1.2_Q7",
+    "domainId": 7,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Integrasi Data)",
+    "indicatorId": "1.2",
+    "indicatorFullId": "D7-1.2",
+    "indicatorTitle": "Menginterpretasikan data asesmen untuk menyusun dinamika psikologis",
+    "caseStudy": {
+      "title": "Studi Kasus 7: Menginterpretasikan Data Wawancara, Observasi, dan Psikotes untuk Dinamika Kasus Obsesif Kompulsif (Kasus 7)",
+      "scenario": "Klien Sdr. Hasan (29 tahun) menunjukkan skor tinggi pada inventori kecenderungan Obsesif-Kompulsif (OCD). Data wawancara menunjukkan pola perilaku ritual mencuci tangan berulang 30 kali setiap memegang benda, sementara observasi di ruang konsultasi menunjukkan gestur kecemasan tinggi saat melihat noda di meja. Psikolog menginterpretasikan gabungan data ini untuk menjelaskan dinamika OCD.",
+      "contextTags": [
+        "Interpretasi Data",
+        "OCD",
+        "Skema Kognitif",
+        "Dinamika Psikologis"
+      ]
+    },
+    "question": "Bagaimanakah interpretasi data asesmen yang PALING akurat untuk menyusun dinamika psikologis Sdr. Hasan?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Klien mencuci tangan semata-mata karena hobi kebersihan tanpa ada dorongan kecemasan underlying."
+      },
+      {
+        "id": "B",
+        "text": "Skor OCD yang tinggi terkonfirmasi oleh perilaku ritual mencuci tangan, yang berfungsi sebagai mekanisme pereda kecemasan sementara (negative reinforcement) terhadap pikiran obsesif kontaminasi yang mengancam."
+      },
+      {
+        "id": "C",
+        "text": "Klien mengalami kelumpuhan motorik bawaan pada otot-otot jari tangan."
+      },
+      {
+        "id": "D",
+        "text": "Klien berpura-pura mencuci tangan demi mendapatkan simpati publik."
+      }
+    ],
+    "key": "B",
+    "explanation": "Menginterpretasikan data asesmen mensyaratkan psikolog menghubungkan skor psikometrik, data wawancara, dan observasi nyata: ritual kompulsi berfungsi sebagai negative reinforcement untuk meredakan obsesi kontaminasi."
+  },
+  {
+    "id": "D7_I1.2_Q8",
+    "domainId": 7,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Integrasi Data)",
+    "indicatorId": "1.2",
+    "indicatorFullId": "D7-1.2",
+    "indicatorTitle": "Menginterpretasikan data asesmen untuk menyusun dinamika psikologis",
+    "caseStudy": {
+      "title": "Studi Kasus 8: Menginterpretasikan Data Wawancara, Observasi, dan Psikotes untuk Dinamika Kasus Obsesif Kompulsif (Kasus 8)",
+      "scenario": "Klien Sdr. Hasan (29 tahun) menunjukkan skor tinggi pada inventori kecenderungan Obsesif-Kompulsif (OCD). Data wawancara menunjukkan pola perilaku ritual mencuci tangan berulang 30 kali setiap memegang benda, sementara observasi di ruang konsultasi menunjukkan gestur kecemasan tinggi saat melihat noda di meja. Psikolog menginterpretasikan gabungan data ini untuk menjelaskan dinamika OCD.",
+      "contextTags": [
+        "Interpretasi Data",
+        "OCD",
+        "Skema Kognitif",
+        "Dinamika Psikologis"
+      ]
+    },
+    "question": "Bagaimanakah interpretasi data asesmen yang PALING akurat untuk menyusun dinamika psikologis Sdr. Hasan?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Klien mencuci tangan semata-mata karena hobi kebersihan tanpa ada dorongan kecemasan underlying."
+      },
+      {
+        "id": "B",
+        "text": "Skor OCD yang tinggi terkonfirmasi oleh perilaku ritual mencuci tangan, yang berfungsi sebagai mekanisme pereda kecemasan sementara (negative reinforcement) terhadap pikiran obsesif kontaminasi yang mengancam."
+      },
+      {
+        "id": "C",
+        "text": "Klien mengalami kelumpuhan motorik bawaan pada otot-otot jari tangan."
+      },
+      {
+        "id": "D",
+        "text": "Klien berpura-pura mencuci tangan demi mendapatkan simpati publik."
+      }
+    ],
+    "key": "B",
+    "explanation": "Menginterpretasikan data asesmen mensyaratkan psikolog menghubungkan skor psikometrik, data wawancara, dan observasi nyata: ritual kompulsi berfungsi sebagai negative reinforcement untuk meredakan obsesi kontaminasi."
+  },
+  {
+    "id": "D7_I1.2_Q9",
+    "domainId": 7,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Integrasi Data)",
+    "indicatorId": "1.2",
+    "indicatorFullId": "D7-1.2",
+    "indicatorTitle": "Menginterpretasikan data asesmen untuk menyusun dinamika psikologis",
+    "caseStudy": {
+      "title": "Studi Kasus 9: Menginterpretasikan Data Wawancara, Observasi, dan Psikotes untuk Dinamika Kasus Obsesif Kompulsif (Kasus 9)",
+      "scenario": "Klien Sdr. Hasan (29 tahun) menunjukkan skor tinggi pada inventori kecenderungan Obsesif-Kompulsif (OCD). Data wawancara menunjukkan pola perilaku ritual mencuci tangan berulang 30 kali setiap memegang benda, sementara observasi di ruang konsultasi menunjukkan gestur kecemasan tinggi saat melihat noda di meja. Psikolog menginterpretasikan gabungan data ini untuk menjelaskan dinamika OCD.",
+      "contextTags": [
+        "Interpretasi Data",
+        "OCD",
+        "Skema Kognitif",
+        "Dinamika Psikologis"
+      ]
+    },
+    "question": "Bagaimanakah interpretasi data asesmen yang PALING akurat untuk menyusun dinamika psikologis Sdr. Hasan?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Klien mencuci tangan semata-mata karena hobi kebersihan tanpa ada dorongan kecemasan underlying."
+      },
+      {
+        "id": "B",
+        "text": "Skor OCD yang tinggi terkonfirmasi oleh perilaku ritual mencuci tangan, yang berfungsi sebagai mekanisme pereda kecemasan sementara (negative reinforcement) terhadap pikiran obsesif kontaminasi yang mengancam."
+      },
+      {
+        "id": "C",
+        "text": "Klien mengalami kelumpuhan motorik bawaan pada otot-otot jari tangan."
+      },
+      {
+        "id": "D",
+        "text": "Klien berpura-pura mencuci tangan demi mendapatkan simpati publik."
+      }
+    ],
+    "key": "B",
+    "explanation": "Menginterpretasikan data asesmen mensyaratkan psikolog menghubungkan skor psikometrik, data wawancara, dan observasi nyata: ritual kompulsi berfungsi sebagai negative reinforcement untuk meredakan obsesi kontaminasi."
+  },
+  {
+    "id": "D7_I1.2_Q10",
+    "domainId": 7,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Integrasi Data)",
+    "indicatorId": "1.2",
+    "indicatorFullId": "D7-1.2",
+    "indicatorTitle": "Menginterpretasikan data asesmen untuk menyusun dinamika psikologis",
+    "caseStudy": {
+      "title": "Studi Kasus 10: Menginterpretasikan Data Wawancara, Observasi, dan Psikotes untuk Dinamika Kasus Obsesif Kompulsif (Kasus 10)",
+      "scenario": "Klien Sdr. Hasan (29 tahun) menunjukkan skor tinggi pada inventori kecenderungan Obsesif-Kompulsif (OCD). Data wawancara menunjukkan pola perilaku ritual mencuci tangan berulang 30 kali setiap memegang benda, sementara observasi di ruang konsultasi menunjukkan gestur kecemasan tinggi saat melihat noda di meja. Psikolog menginterpretasikan gabungan data ini untuk menjelaskan dinamika OCD.",
+      "contextTags": [
+        "Interpretasi Data",
+        "OCD",
+        "Skema Kognitif",
+        "Dinamika Psikologis"
+      ]
+    },
+    "question": "Bagaimanakah interpretasi data asesmen yang PALING akurat untuk menyusun dinamika psikologis Sdr. Hasan?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Klien mencuci tangan semata-mata karena hobi kebersihan tanpa ada dorongan kecemasan underlying."
+      },
+      {
+        "id": "B",
+        "text": "Skor OCD yang tinggi terkonfirmasi oleh perilaku ritual mencuci tangan, yang berfungsi sebagai mekanisme pereda kecemasan sementara (negative reinforcement) terhadap pikiran obsesif kontaminasi yang mengancam."
+      },
+      {
+        "id": "C",
+        "text": "Klien mengalami kelumpuhan motorik bawaan pada otot-otot jari tangan."
+      },
+      {
+        "id": "D",
+        "text": "Klien berpura-pura mencuci tangan demi mendapatkan simpati publik."
+      }
+    ],
+    "key": "B",
+    "explanation": "Menginterpretasikan data asesmen mensyaratkan psikolog menghubungkan skor psikometrik, data wawancara, dan observasi nyata: ritual kompulsi berfungsi sebagai negative reinforcement untuk meredakan obsesi kontaminasi."
+  },
+  {
+    "id": "D7_I1.3_Q1",
+    "domainId": 7,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Integrasi Data)",
+    "indicatorId": "1.3",
+    "indicatorFullId": "D7-1.3",
+    "indicatorTitle": "Mengidentifikasi data asesmen yang tepat untuk menyusun dinamika psikologis",
+    "caseStudy": {
+      "title": "Studi Kasus 1: Mengidentifikasi Data Asesmen yang Tepat untuk Menjelaskan Konflik Hubungan Interpersonal (Kasus 1)",
+      "scenario": "Dalam menyusun dinamika psikologis kasus konflik interpersonal dan kemarahan tak terkontrol pada Sdr. Irwan di tempat kerja, Psikolog memilih data yang paling relevan. Tersedia data: (1) Hasil tes inteligensi kognitif (WAIS), (2) Rekam hasil wawancara riwayat pengasuhan otoriter ayah, (3) Observasi dinamika komunikasi, (4) Tes inventori pola regulasi emosi dan gaya kelekatan (attachment style).",
+      "contextTags": [
+        "Identifikasi Data",
+        "Dinamika Interpersonal",
+        "Attachment Style",
+        "Relevansi Data"
+      ]
+    },
+    "question": "Kombinasi data asesmen manakah yang PALING TEPAT diidentifikasi untuk menyusun dinamika konflik interpersonal Sdr. Irwan?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Hanya menggunakan data hasil tes kecerdasan matematika kognitif (WAIS) dan mengabaikan data lain."
+      },
+      {
+        "id": "B",
+        "text": "Mengintegrasikan riwayat pengasuhan, profil gaya kelekatan insecure, serta data inventori regulasi emosi yang secara langsung menjelaskan akar kecenderungan konflik interpersonal."
+      },
+      {
+        "id": "C",
+        "text": "Hanya menggunakan tes ketangkasan fisik dan koordinasi mata-tangan."
+      },
+      {
+        "id": "D",
+        "text": "Menggunakan data absensi kehadiran kuliah masa sekolah dasar."
+      }
+    ],
+    "key": "B",
+    "explanation": "Untuk menyusun dinamika psikologis yang relevan, psikolog harus mampu memilih/mengidentifikasi data yang berhubungan langsung dengan problem spesifik (gaya kelekatan, pengasuhan, regulasi emosi untuk masalah interpersonal)."
+  },
+  {
+    "id": "D7_I1.3_Q2",
+    "domainId": 7,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Integrasi Data)",
+    "indicatorId": "1.3",
+    "indicatorFullId": "D7-1.3",
+    "indicatorTitle": "Mengidentifikasi data asesmen yang tepat untuk menyusun dinamika psikologis",
+    "caseStudy": {
+      "title": "Studi Kasus 2: Mengidentifikasi Data Asesmen yang Tepat untuk Menjelaskan Konflik Hubungan Interpersonal (Kasus 2)",
+      "scenario": "Dalam menyusun dinamika psikologis kasus konflik interpersonal dan kemarahan tak terkontrol pada Sdr. Irwan di tempat kerja, Psikolog memilih data yang paling relevan. Tersedia data: (1) Hasil tes inteligensi kognitif (WAIS), (2) Rekam hasil wawancara riwayat pengasuhan otoriter ayah, (3) Observasi dinamika komunikasi, (4) Tes inventori pola regulasi emosi dan gaya kelekatan (attachment style).",
+      "contextTags": [
+        "Identifikasi Data",
+        "Dinamika Interpersonal",
+        "Attachment Style",
+        "Relevansi Data"
+      ]
+    },
+    "question": "Kombinasi data asesmen manakah yang PALING TEPAT diidentifikasi untuk menyusun dinamika konflik interpersonal Sdr. Irwan?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Hanya menggunakan data hasil tes kecerdasan matematika kognitif (WAIS) dan mengabaikan data lain."
+      },
+      {
+        "id": "B",
+        "text": "Mengintegrasikan riwayat pengasuhan, profil gaya kelekatan insecure, serta data inventori regulasi emosi yang secara langsung menjelaskan akar kecenderungan konflik interpersonal."
+      },
+      {
+        "id": "C",
+        "text": "Hanya menggunakan tes ketangkasan fisik dan koordinasi mata-tangan."
+      },
+      {
+        "id": "D",
+        "text": "Menggunakan data absensi kehadiran kuliah masa sekolah dasar."
+      }
+    ],
+    "key": "B",
+    "explanation": "Untuk menyusun dinamika psikologis yang relevan, psikolog harus mampu memilih/mengidentifikasi data yang berhubungan langsung dengan problem spesifik (gaya kelekatan, pengasuhan, regulasi emosi untuk masalah interpersonal)."
+  },
+  {
+    "id": "D7_I1.3_Q3",
+    "domainId": 7,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Integrasi Data)",
+    "indicatorId": "1.3",
+    "indicatorFullId": "D7-1.3",
+    "indicatorTitle": "Mengidentifikasi data asesmen yang tepat untuk menyusun dinamika psikologis",
+    "caseStudy": {
+      "title": "Studi Kasus 3: Mengidentifikasi Data Asesmen yang Tepat untuk Menjelaskan Konflik Hubungan Interpersonal (Kasus 3)",
+      "scenario": "Dalam menyusun dinamika psikologis kasus konflik interpersonal dan kemarahan tak terkontrol pada Sdr. Irwan di tempat kerja, Psikolog memilih data yang paling relevan. Tersedia data: (1) Hasil tes inteligensi kognitif (WAIS), (2) Rekam hasil wawancara riwayat pengasuhan otoriter ayah, (3) Observasi dinamika komunikasi, (4) Tes inventori pola regulasi emosi dan gaya kelekatan (attachment style).",
+      "contextTags": [
+        "Identifikasi Data",
+        "Dinamika Interpersonal",
+        "Attachment Style",
+        "Relevansi Data"
+      ]
+    },
+    "question": "Kombinasi data asesmen manakah yang PALING TEPAT diidentifikasi untuk menyusun dinamika konflik interpersonal Sdr. Irwan?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Hanya menggunakan data hasil tes kecerdasan matematika kognitif (WAIS) dan mengabaikan data lain."
+      },
+      {
+        "id": "B",
+        "text": "Mengintegrasikan riwayat pengasuhan, profil gaya kelekatan insecure, serta data inventori regulasi emosi yang secara langsung menjelaskan akar kecenderungan konflik interpersonal."
+      },
+      {
+        "id": "C",
+        "text": "Hanya menggunakan tes ketangkasan fisik dan koordinasi mata-tangan."
+      },
+      {
+        "id": "D",
+        "text": "Menggunakan data absensi kehadiran kuliah masa sekolah dasar."
+      }
+    ],
+    "key": "B",
+    "explanation": "Untuk menyusun dinamika psikologis yang relevan, psikolog harus mampu memilih/mengidentifikasi data yang berhubungan langsung dengan problem spesifik (gaya kelekatan, pengasuhan, regulasi emosi untuk masalah interpersonal)."
+  },
+  {
+    "id": "D7_I1.3_Q4",
+    "domainId": 7,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Integrasi Data)",
+    "indicatorId": "1.3",
+    "indicatorFullId": "D7-1.3",
+    "indicatorTitle": "Mengidentifikasi data asesmen yang tepat untuk menyusun dinamika psikologis",
+    "caseStudy": {
+      "title": "Studi Kasus 4: Mengidentifikasi Data Asesmen yang Tepat untuk Menjelaskan Konflik Hubungan Interpersonal (Kasus 4)",
+      "scenario": "Dalam menyusun dinamika psikologis kasus konflik interpersonal dan kemarahan tak terkontrol pada Sdr. Irwan di tempat kerja, Psikolog memilih data yang paling relevan. Tersedia data: (1) Hasil tes inteligensi kognitif (WAIS), (2) Rekam hasil wawancara riwayat pengasuhan otoriter ayah, (3) Observasi dinamika komunikasi, (4) Tes inventori pola regulasi emosi dan gaya kelekatan (attachment style).",
+      "contextTags": [
+        "Identifikasi Data",
+        "Dinamika Interpersonal",
+        "Attachment Style",
+        "Relevansi Data"
+      ]
+    },
+    "question": "Kombinasi data asesmen manakah yang PALING TEPAT diidentifikasi untuk menyusun dinamika konflik interpersonal Sdr. Irwan?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Hanya menggunakan data hasil tes kecerdasan matematika kognitif (WAIS) dan mengabaikan data lain."
+      },
+      {
+        "id": "B",
+        "text": "Mengintegrasikan riwayat pengasuhan, profil gaya kelekatan insecure, serta data inventori regulasi emosi yang secara langsung menjelaskan akar kecenderungan konflik interpersonal."
+      },
+      {
+        "id": "C",
+        "text": "Hanya menggunakan tes ketangkasan fisik dan koordinasi mata-tangan."
+      },
+      {
+        "id": "D",
+        "text": "Menggunakan data absensi kehadiran kuliah masa sekolah dasar."
+      }
+    ],
+    "key": "B",
+    "explanation": "Untuk menyusun dinamika psikologis yang relevan, psikolog harus mampu memilih/mengidentifikasi data yang berhubungan langsung dengan problem spesifik (gaya kelekatan, pengasuhan, regulasi emosi untuk masalah interpersonal)."
+  },
+  {
+    "id": "D7_I1.3_Q5",
+    "domainId": 7,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Integrasi Data)",
+    "indicatorId": "1.3",
+    "indicatorFullId": "D7-1.3",
+    "indicatorTitle": "Mengidentifikasi data asesmen yang tepat untuk menyusun dinamika psikologis",
+    "caseStudy": {
+      "title": "Studi Kasus 5: Mengidentifikasi Data Asesmen yang Tepat untuk Menjelaskan Konflik Hubungan Interpersonal (Kasus 5)",
+      "scenario": "Dalam menyusun dinamika psikologis kasus konflik interpersonal dan kemarahan tak terkontrol pada Sdr. Irwan di tempat kerja, Psikolog memilih data yang paling relevan. Tersedia data: (1) Hasil tes inteligensi kognitif (WAIS), (2) Rekam hasil wawancara riwayat pengasuhan otoriter ayah, (3) Observasi dinamika komunikasi, (4) Tes inventori pola regulasi emosi dan gaya kelekatan (attachment style).",
+      "contextTags": [
+        "Identifikasi Data",
+        "Dinamika Interpersonal",
+        "Attachment Style",
+        "Relevansi Data"
+      ]
+    },
+    "question": "Kombinasi data asesmen manakah yang PALING TEPAT diidentifikasi untuk menyusun dinamika konflik interpersonal Sdr. Irwan?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Hanya menggunakan data hasil tes kecerdasan matematika kognitif (WAIS) dan mengabaikan data lain."
+      },
+      {
+        "id": "B",
+        "text": "Mengintegrasikan riwayat pengasuhan, profil gaya kelekatan insecure, serta data inventori regulasi emosi yang secara langsung menjelaskan akar kecenderungan konflik interpersonal."
+      },
+      {
+        "id": "C",
+        "text": "Hanya menggunakan tes ketangkasan fisik dan koordinasi mata-tangan."
+      },
+      {
+        "id": "D",
+        "text": "Menggunakan data absensi kehadiran kuliah masa sekolah dasar."
+      }
+    ],
+    "key": "B",
+    "explanation": "Untuk menyusun dinamika psikologis yang relevan, psikolog harus mampu memilih/mengidentifikasi data yang berhubungan langsung dengan problem spesifik (gaya kelekatan, pengasuhan, regulasi emosi untuk masalah interpersonal)."
+  },
+  {
+    "id": "D7_I1.3_Q6",
+    "domainId": 7,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Integrasi Data)",
+    "indicatorId": "1.3",
+    "indicatorFullId": "D7-1.3",
+    "indicatorTitle": "Mengidentifikasi data asesmen yang tepat untuk menyusun dinamika psikologis",
+    "caseStudy": {
+      "title": "Studi Kasus 6: Mengidentifikasi Data Asesmen yang Tepat untuk Menjelaskan Konflik Hubungan Interpersonal (Kasus 6)",
+      "scenario": "Dalam menyusun dinamika psikologis kasus konflik interpersonal dan kemarahan tak terkontrol pada Sdr. Irwan di tempat kerja, Psikolog memilih data yang paling relevan. Tersedia data: (1) Hasil tes inteligensi kognitif (WAIS), (2) Rekam hasil wawancara riwayat pengasuhan otoriter ayah, (3) Observasi dinamika komunikasi, (4) Tes inventori pola regulasi emosi dan gaya kelekatan (attachment style).",
+      "contextTags": [
+        "Identifikasi Data",
+        "Dinamika Interpersonal",
+        "Attachment Style",
+        "Relevansi Data"
+      ]
+    },
+    "question": "Kombinasi data asesmen manakah yang PALING TEPAT diidentifikasi untuk menyusun dinamika konflik interpersonal Sdr. Irwan?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Hanya menggunakan data hasil tes kecerdasan matematika kognitif (WAIS) dan mengabaikan data lain."
+      },
+      {
+        "id": "B",
+        "text": "Mengintegrasikan riwayat pengasuhan, profil gaya kelekatan insecure, serta data inventori regulasi emosi yang secara langsung menjelaskan akar kecenderungan konflik interpersonal."
+      },
+      {
+        "id": "C",
+        "text": "Hanya menggunakan tes ketangkasan fisik dan koordinasi mata-tangan."
+      },
+      {
+        "id": "D",
+        "text": "Menggunakan data absensi kehadiran kuliah masa sekolah dasar."
+      }
+    ],
+    "key": "B",
+    "explanation": "Untuk menyusun dinamika psikologis yang relevan, psikolog harus mampu memilih/mengidentifikasi data yang berhubungan langsung dengan problem spesifik (gaya kelekatan, pengasuhan, regulasi emosi untuk masalah interpersonal)."
+  },
+  {
+    "id": "D7_I1.3_Q7",
+    "domainId": 7,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Integrasi Data)",
+    "indicatorId": "1.3",
+    "indicatorFullId": "D7-1.3",
+    "indicatorTitle": "Mengidentifikasi data asesmen yang tepat untuk menyusun dinamika psikologis",
+    "caseStudy": {
+      "title": "Studi Kasus 7: Mengidentifikasi Data Asesmen yang Tepat untuk Menjelaskan Konflik Hubungan Interpersonal (Kasus 7)",
+      "scenario": "Dalam menyusun dinamika psikologis kasus konflik interpersonal dan kemarahan tak terkontrol pada Sdr. Irwan di tempat kerja, Psikolog memilih data yang paling relevan. Tersedia data: (1) Hasil tes inteligensi kognitif (WAIS), (2) Rekam hasil wawancara riwayat pengasuhan otoriter ayah, (3) Observasi dinamika komunikasi, (4) Tes inventori pola regulasi emosi dan gaya kelekatan (attachment style).",
+      "contextTags": [
+        "Identifikasi Data",
+        "Dinamika Interpersonal",
+        "Attachment Style",
+        "Relevansi Data"
+      ]
+    },
+    "question": "Kombinasi data asesmen manakah yang PALING TEPAT diidentifikasi untuk menyusun dinamika konflik interpersonal Sdr. Irwan?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Hanya menggunakan data hasil tes kecerdasan matematika kognitif (WAIS) dan mengabaikan data lain."
+      },
+      {
+        "id": "B",
+        "text": "Mengintegrasikan riwayat pengasuhan, profil gaya kelekatan insecure, serta data inventori regulasi emosi yang secara langsung menjelaskan akar kecenderungan konflik interpersonal."
+      },
+      {
+        "id": "C",
+        "text": "Hanya menggunakan tes ketangkasan fisik dan koordinasi mata-tangan."
+      },
+      {
+        "id": "D",
+        "text": "Menggunakan data absensi kehadiran kuliah masa sekolah dasar."
+      }
+    ],
+    "key": "B",
+    "explanation": "Untuk menyusun dinamika psikologis yang relevan, psikolog harus mampu memilih/mengidentifikasi data yang berhubungan langsung dengan problem spesifik (gaya kelekatan, pengasuhan, regulasi emosi untuk masalah interpersonal)."
+  },
+  {
+    "id": "D7_I1.3_Q8",
+    "domainId": 7,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Integrasi Data)",
+    "indicatorId": "1.3",
+    "indicatorFullId": "D7-1.3",
+    "indicatorTitle": "Mengidentifikasi data asesmen yang tepat untuk menyusun dinamika psikologis",
+    "caseStudy": {
+      "title": "Studi Kasus 8: Mengidentifikasi Data Asesmen yang Tepat untuk Menjelaskan Konflik Hubungan Interpersonal (Kasus 8)",
+      "scenario": "Dalam menyusun dinamika psikologis kasus konflik interpersonal dan kemarahan tak terkontrol pada Sdr. Irwan di tempat kerja, Psikolog memilih data yang paling relevan. Tersedia data: (1) Hasil tes inteligensi kognitif (WAIS), (2) Rekam hasil wawancara riwayat pengasuhan otoriter ayah, (3) Observasi dinamika komunikasi, (4) Tes inventori pola regulasi emosi dan gaya kelekatan (attachment style).",
+      "contextTags": [
+        "Identifikasi Data",
+        "Dinamika Interpersonal",
+        "Attachment Style",
+        "Relevansi Data"
+      ]
+    },
+    "question": "Kombinasi data asesmen manakah yang PALING TEPAT diidentifikasi untuk menyusun dinamika konflik interpersonal Sdr. Irwan?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Hanya menggunakan data hasil tes kecerdasan matematika kognitif (WAIS) dan mengabaikan data lain."
+      },
+      {
+        "id": "B",
+        "text": "Mengintegrasikan riwayat pengasuhan, profil gaya kelekatan insecure, serta data inventori regulasi emosi yang secara langsung menjelaskan akar kecenderungan konflik interpersonal."
+      },
+      {
+        "id": "C",
+        "text": "Hanya menggunakan tes ketangkasan fisik dan koordinasi mata-tangan."
+      },
+      {
+        "id": "D",
+        "text": "Menggunakan data absensi kehadiran kuliah masa sekolah dasar."
+      }
+    ],
+    "key": "B",
+    "explanation": "Untuk menyusun dinamika psikologis yang relevan, psikolog harus mampu memilih/mengidentifikasi data yang berhubungan langsung dengan problem spesifik (gaya kelekatan, pengasuhan, regulasi emosi untuk masalah interpersonal)."
+  },
+  {
+    "id": "D7_I1.3_Q9",
+    "domainId": 7,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Integrasi Data)",
+    "indicatorId": "1.3",
+    "indicatorFullId": "D7-1.3",
+    "indicatorTitle": "Mengidentifikasi data asesmen yang tepat untuk menyusun dinamika psikologis",
+    "caseStudy": {
+      "title": "Studi Kasus 9: Mengidentifikasi Data Asesmen yang Tepat untuk Menjelaskan Konflik Hubungan Interpersonal (Kasus 9)",
+      "scenario": "Dalam menyusun dinamika psikologis kasus konflik interpersonal dan kemarahan tak terkontrol pada Sdr. Irwan di tempat kerja, Psikolog memilih data yang paling relevan. Tersedia data: (1) Hasil tes inteligensi kognitif (WAIS), (2) Rekam hasil wawancara riwayat pengasuhan otoriter ayah, (3) Observasi dinamika komunikasi, (4) Tes inventori pola regulasi emosi dan gaya kelekatan (attachment style).",
+      "contextTags": [
+        "Identifikasi Data",
+        "Dinamika Interpersonal",
+        "Attachment Style",
+        "Relevansi Data"
+      ]
+    },
+    "question": "Kombinasi data asesmen manakah yang PALING TEPAT diidentifikasi untuk menyusun dinamika konflik interpersonal Sdr. Irwan?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Hanya menggunakan data hasil tes kecerdasan matematika kognitif (WAIS) dan mengabaikan data lain."
+      },
+      {
+        "id": "B",
+        "text": "Mengintegrasikan riwayat pengasuhan, profil gaya kelekatan insecure, serta data inventori regulasi emosi yang secara langsung menjelaskan akar kecenderungan konflik interpersonal."
+      },
+      {
+        "id": "C",
+        "text": "Hanya menggunakan tes ketangkasan fisik dan koordinasi mata-tangan."
+      },
+      {
+        "id": "D",
+        "text": "Menggunakan data absensi kehadiran kuliah masa sekolah dasar."
+      }
+    ],
+    "key": "B",
+    "explanation": "Untuk menyusun dinamika psikologis yang relevan, psikolog harus mampu memilih/mengidentifikasi data yang berhubungan langsung dengan problem spesifik (gaya kelekatan, pengasuhan, regulasi emosi untuk masalah interpersonal)."
+  },
+  {
+    "id": "D7_I1.3_Q10",
+    "domainId": 7,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Integrasi Data)",
+    "indicatorId": "1.3",
+    "indicatorFullId": "D7-1.3",
+    "indicatorTitle": "Mengidentifikasi data asesmen yang tepat untuk menyusun dinamika psikologis",
+    "caseStudy": {
+      "title": "Studi Kasus 10: Mengidentifikasi Data Asesmen yang Tepat untuk Menjelaskan Konflik Hubungan Interpersonal (Kasus 10)",
+      "scenario": "Dalam menyusun dinamika psikologis kasus konflik interpersonal dan kemarahan tak terkontrol pada Sdr. Irwan di tempat kerja, Psikolog memilih data yang paling relevan. Tersedia data: (1) Hasil tes inteligensi kognitif (WAIS), (2) Rekam hasil wawancara riwayat pengasuhan otoriter ayah, (3) Observasi dinamika komunikasi, (4) Tes inventori pola regulasi emosi dan gaya kelekatan (attachment style).",
+      "contextTags": [
+        "Identifikasi Data",
+        "Dinamika Interpersonal",
+        "Attachment Style",
+        "Relevansi Data"
+      ]
+    },
+    "question": "Kombinasi data asesmen manakah yang PALING TEPAT diidentifikasi untuk menyusun dinamika konflik interpersonal Sdr. Irwan?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Hanya menggunakan data hasil tes kecerdasan matematika kognitif (WAIS) dan mengabaikan data lain."
+      },
+      {
+        "id": "B",
+        "text": "Mengintegrasikan riwayat pengasuhan, profil gaya kelekatan insecure, serta data inventori regulasi emosi yang secara langsung menjelaskan akar kecenderungan konflik interpersonal."
+      },
+      {
+        "id": "C",
+        "text": "Hanya menggunakan tes ketangkasan fisik dan koordinasi mata-tangan."
+      },
+      {
+        "id": "D",
+        "text": "Menggunakan data absensi kehadiran kuliah masa sekolah dasar."
+      }
+    ],
+    "key": "B",
+    "explanation": "Untuk menyusun dinamika psikologis yang relevan, psikolog harus mampu memilih/mengidentifikasi data yang berhubungan langsung dengan problem spesifik (gaya kelekatan, pengasuhan, regulasi emosi untuk masalah interpersonal)."
+  },
+  {
+    "id": "D7_I1.4_Q1",
+    "domainId": 7,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Integrasi Data)",
+    "indicatorId": "1.4",
+    "indicatorFullId": "D7-1.4",
+    "indicatorTitle": "Mengintegrasikan data asesmen untuk menyusun dinamika psikologis",
+    "caseStudy": {
+      "title": "Studi Kasus 1: Mengintegrasikan Data Triangulasi Asesmen Multimetode pada Kasus Depresi dan Penolakan Sekolah (Kasus 1)",
+      "scenario": "Psikolog menyusun dinamika psikologis untuk remaja Sdri. Julia yang menolak sekolah. Psikolog mengintegrasikan (triangulasi) 4 sumber data: (1) Laporan observasi ketakutan di kelas, (2) Wawancara allo-anamnesis orang tua mengenai tekanan akademik berlebih, (3) Hasil tes kecerdasan kognitif yang menunjukkan kapasitas rata-rata atas, (4) Hasil inventori kecemasan sosial dan skema kognitif perfeksionisme maladaptif.",
+      "contextTags": [
+        "Triangulasi Data",
+        "Integrasi Asesmen",
+        "Penolakan Sekolah",
+        "Dinamika Sintesis"
+      ]
+    },
+    "question": "Bagaimanakah naskah integrasi data asesmen yang PALING utuh dalam dinamika psikologis Sdri. Julia?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Julia menolak sekolah karena kapasitas inteligensinya sangat rendah di bawah rata-rata."
+      },
+      {
+        "id": "B",
+        "text": "Meskipun memiliki potensi kognitif yang baik (rata-rata atas), integrasi data menunjukkan adanya perfeksionisme maladaptif yang dipicu oleh tekanan tinggi orang tua, sehingga menimbulkan kecemasan sosial berat dan perilaku menghindar (penolakan sekolah) sebagai bentuk coping tidak efektif."
+      },
+      {
+        "id": "C",
+        "text": "Julia sengaja menolak sekolah untuk mempermalukan orang tuanya di hadapan tetangga."
+      },
+      {
+        "id": "D",
+        "text": "Seluruh data asesmen saling bertentangan dan tidak bisa dibuat sintesis dinamika psikologisnya."
+      }
+    ],
+    "key": "B",
+    "explanation": "Integrasi data (triangulasi) memadukan data potensial kognitif, temuan emosional, observasi lingkungan, dan pola kognitif menjadi satu alur dinamika komprehensif yang menerangkan timbulnya masalah."
+  },
+  {
+    "id": "D7_I1.4_Q2",
+    "domainId": 7,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Integrasi Data)",
+    "indicatorId": "1.4",
+    "indicatorFullId": "D7-1.4",
+    "indicatorTitle": "Mengintegrasikan data asesmen untuk menyusun dinamika psikologis",
+    "caseStudy": {
+      "title": "Studi Kasus 2: Mengintegrasikan Data Triangulasi Asesmen Multimetode pada Kasus Depresi dan Penolakan Sekolah (Kasus 2)",
+      "scenario": "Psikolog menyusun dinamika psikologis untuk remaja Sdri. Julia yang menolak sekolah. Psikolog mengintegrasikan (triangulasi) 4 sumber data: (1) Laporan observasi ketakutan di kelas, (2) Wawancara allo-anamnesis orang tua mengenai tekanan akademik berlebih, (3) Hasil tes kecerdasan kognitif yang menunjukkan kapasitas rata-rata atas, (4) Hasil inventori kecemasan sosial dan skema kognitif perfeksionisme maladaptif.",
+      "contextTags": [
+        "Triangulasi Data",
+        "Integrasi Asesmen",
+        "Penolakan Sekolah",
+        "Dinamika Sintesis"
+      ]
+    },
+    "question": "Bagaimanakah naskah integrasi data asesmen yang PALING utuh dalam dinamika psikologis Sdri. Julia?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Julia menolak sekolah karena kapasitas inteligensinya sangat rendah di bawah rata-rata."
+      },
+      {
+        "id": "B",
+        "text": "Meskipun memiliki potensi kognitif yang baik (rata-rata atas), integrasi data menunjukkan adanya perfeksionisme maladaptif yang dipicu oleh tekanan tinggi orang tua, sehingga menimbulkan kecemasan sosial berat dan perilaku menghindar (penolakan sekolah) sebagai bentuk coping tidak efektif."
+      },
+      {
+        "id": "C",
+        "text": "Julia sengaja menolak sekolah untuk mempermalukan orang tuanya di hadapan tetangga."
+      },
+      {
+        "id": "D",
+        "text": "Seluruh data asesmen saling bertentangan dan tidak bisa dibuat sintesis dinamika psikologisnya."
+      }
+    ],
+    "key": "B",
+    "explanation": "Integrasi data (triangulasi) memadukan data potensial kognitif, temuan emosional, observasi lingkungan, dan pola kognitif menjadi satu alur dinamika komprehensif yang menerangkan timbulnya masalah."
+  },
+  {
+    "id": "D7_I1.4_Q3",
+    "domainId": 7,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Integrasi Data)",
+    "indicatorId": "1.4",
+    "indicatorFullId": "D7-1.4",
+    "indicatorTitle": "Mengintegrasikan data asesmen untuk menyusun dinamika psikologis",
+    "caseStudy": {
+      "title": "Studi Kasus 3: Mengintegrasikan Data Triangulasi Asesmen Multimetode pada Kasus Depresi dan Penolakan Sekolah (Kasus 3)",
+      "scenario": "Psikolog menyusun dinamika psikologis untuk remaja Sdri. Julia yang menolak sekolah. Psikolog mengintegrasikan (triangulasi) 4 sumber data: (1) Laporan observasi ketakutan di kelas, (2) Wawancara allo-anamnesis orang tua mengenai tekanan akademik berlebih, (3) Hasil tes kecerdasan kognitif yang menunjukkan kapasitas rata-rata atas, (4) Hasil inventori kecemasan sosial dan skema kognitif perfeksionisme maladaptif.",
+      "contextTags": [
+        "Triangulasi Data",
+        "Integrasi Asesmen",
+        "Penolakan Sekolah",
+        "Dinamika Sintesis"
+      ]
+    },
+    "question": "Bagaimanakah naskah integrasi data asesmen yang PALING utuh dalam dinamika psikologis Sdri. Julia?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Julia menolak sekolah karena kapasitas inteligensinya sangat rendah di bawah rata-rata."
+      },
+      {
+        "id": "B",
+        "text": "Meskipun memiliki potensi kognitif yang baik (rata-rata atas), integrasi data menunjukkan adanya perfeksionisme maladaptif yang dipicu oleh tekanan tinggi orang tua, sehingga menimbulkan kecemasan sosial berat dan perilaku menghindar (penolakan sekolah) sebagai bentuk coping tidak efektif."
+      },
+      {
+        "id": "C",
+        "text": "Julia sengaja menolak sekolah untuk mempermalukan orang tuanya di hadapan tetangga."
+      },
+      {
+        "id": "D",
+        "text": "Seluruh data asesmen saling bertentangan dan tidak bisa dibuat sintesis dinamika psikologisnya."
+      }
+    ],
+    "key": "B",
+    "explanation": "Integrasi data (triangulasi) memadukan data potensial kognitif, temuan emosional, observasi lingkungan, dan pola kognitif menjadi satu alur dinamika komprehensif yang menerangkan timbulnya masalah."
+  },
+  {
+    "id": "D7_I1.4_Q4",
+    "domainId": 7,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Integrasi Data)",
+    "indicatorId": "1.4",
+    "indicatorFullId": "D7-1.4",
+    "indicatorTitle": "Mengintegrasikan data asesmen untuk menyusun dinamika psikologis",
+    "caseStudy": {
+      "title": "Studi Kasus 4: Mengintegrasikan Data Triangulasi Asesmen Multimetode pada Kasus Depresi dan Penolakan Sekolah (Kasus 4)",
+      "scenario": "Psikolog menyusun dinamika psikologis untuk remaja Sdri. Julia yang menolak sekolah. Psikolog mengintegrasikan (triangulasi) 4 sumber data: (1) Laporan observasi ketakutan di kelas, (2) Wawancara allo-anamnesis orang tua mengenai tekanan akademik berlebih, (3) Hasil tes kecerdasan kognitif yang menunjukkan kapasitas rata-rata atas, (4) Hasil inventori kecemasan sosial dan skema kognitif perfeksionisme maladaptif.",
+      "contextTags": [
+        "Triangulasi Data",
+        "Integrasi Asesmen",
+        "Penolakan Sekolah",
+        "Dinamika Sintesis"
+      ]
+    },
+    "question": "Bagaimanakah naskah integrasi data asesmen yang PALING utuh dalam dinamika psikologis Sdri. Julia?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Julia menolak sekolah karena kapasitas inteligensinya sangat rendah di bawah rata-rata."
+      },
+      {
+        "id": "B",
+        "text": "Meskipun memiliki potensi kognitif yang baik (rata-rata atas), integrasi data menunjukkan adanya perfeksionisme maladaptif yang dipicu oleh tekanan tinggi orang tua, sehingga menimbulkan kecemasan sosial berat dan perilaku menghindar (penolakan sekolah) sebagai bentuk coping tidak efektif."
+      },
+      {
+        "id": "C",
+        "text": "Julia sengaja menolak sekolah untuk mempermalukan orang tuanya di hadapan tetangga."
+      },
+      {
+        "id": "D",
+        "text": "Seluruh data asesmen saling bertentangan dan tidak bisa dibuat sintesis dinamika psikologisnya."
+      }
+    ],
+    "key": "B",
+    "explanation": "Integrasi data (triangulasi) memadukan data potensial kognitif, temuan emosional, observasi lingkungan, dan pola kognitif menjadi satu alur dinamika komprehensif yang menerangkan timbulnya masalah."
+  },
+  {
+    "id": "D7_I1.4_Q5",
+    "domainId": 7,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Integrasi Data)",
+    "indicatorId": "1.4",
+    "indicatorFullId": "D7-1.4",
+    "indicatorTitle": "Mengintegrasikan data asesmen untuk menyusun dinamika psikologis",
+    "caseStudy": {
+      "title": "Studi Kasus 5: Mengintegrasikan Data Triangulasi Asesmen Multimetode pada Kasus Depresi dan Penolakan Sekolah (Kasus 5)",
+      "scenario": "Psikolog menyusun dinamika psikologis untuk remaja Sdri. Julia yang menolak sekolah. Psikolog mengintegrasikan (triangulasi) 4 sumber data: (1) Laporan observasi ketakutan di kelas, (2) Wawancara allo-anamnesis orang tua mengenai tekanan akademik berlebih, (3) Hasil tes kecerdasan kognitif yang menunjukkan kapasitas rata-rata atas, (4) Hasil inventori kecemasan sosial dan skema kognitif perfeksionisme maladaptif.",
+      "contextTags": [
+        "Triangulasi Data",
+        "Integrasi Asesmen",
+        "Penolakan Sekolah",
+        "Dinamika Sintesis"
+      ]
+    },
+    "question": "Bagaimanakah naskah integrasi data asesmen yang PALING utuh dalam dinamika psikologis Sdri. Julia?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Julia menolak sekolah karena kapasitas inteligensinya sangat rendah di bawah rata-rata."
+      },
+      {
+        "id": "B",
+        "text": "Meskipun memiliki potensi kognitif yang baik (rata-rata atas), integrasi data menunjukkan adanya perfeksionisme maladaptif yang dipicu oleh tekanan tinggi orang tua, sehingga menimbulkan kecemasan sosial berat dan perilaku menghindar (penolakan sekolah) sebagai bentuk coping tidak efektif."
+      },
+      {
+        "id": "C",
+        "text": "Julia sengaja menolak sekolah untuk mempermalukan orang tuanya di hadapan tetangga."
+      },
+      {
+        "id": "D",
+        "text": "Seluruh data asesmen saling bertentangan dan tidak bisa dibuat sintesis dinamika psikologisnya."
+      }
+    ],
+    "key": "B",
+    "explanation": "Integrasi data (triangulasi) memadukan data potensial kognitif, temuan emosional, observasi lingkungan, dan pola kognitif menjadi satu alur dinamika komprehensif yang menerangkan timbulnya masalah."
+  },
+  {
+    "id": "D7_I1.4_Q6",
+    "domainId": 7,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Integrasi Data)",
+    "indicatorId": "1.4",
+    "indicatorFullId": "D7-1.4",
+    "indicatorTitle": "Mengintegrasikan data asesmen untuk menyusun dinamika psikologis",
+    "caseStudy": {
+      "title": "Studi Kasus 6: Mengintegrasikan Data Triangulasi Asesmen Multimetode pada Kasus Depresi dan Penolakan Sekolah (Kasus 6)",
+      "scenario": "Psikolog menyusun dinamika psikologis untuk remaja Sdri. Julia yang menolak sekolah. Psikolog mengintegrasikan (triangulasi) 4 sumber data: (1) Laporan observasi ketakutan di kelas, (2) Wawancara allo-anamnesis orang tua mengenai tekanan akademik berlebih, (3) Hasil tes kecerdasan kognitif yang menunjukkan kapasitas rata-rata atas, (4) Hasil inventori kecemasan sosial dan skema kognitif perfeksionisme maladaptif.",
+      "contextTags": [
+        "Triangulasi Data",
+        "Integrasi Asesmen",
+        "Penolakan Sekolah",
+        "Dinamika Sintesis"
+      ]
+    },
+    "question": "Bagaimanakah naskah integrasi data asesmen yang PALING utuh dalam dinamika psikologis Sdri. Julia?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Julia menolak sekolah karena kapasitas inteligensinya sangat rendah di bawah rata-rata."
+      },
+      {
+        "id": "B",
+        "text": "Meskipun memiliki potensi kognitif yang baik (rata-rata atas), integrasi data menunjukkan adanya perfeksionisme maladaptif yang dipicu oleh tekanan tinggi orang tua, sehingga menimbulkan kecemasan sosial berat dan perilaku menghindar (penolakan sekolah) sebagai bentuk coping tidak efektif."
+      },
+      {
+        "id": "C",
+        "text": "Julia sengaja menolak sekolah untuk mempermalukan orang tuanya di hadapan tetangga."
+      },
+      {
+        "id": "D",
+        "text": "Seluruh data asesmen saling bertentangan dan tidak bisa dibuat sintesis dinamika psikologisnya."
+      }
+    ],
+    "key": "B",
+    "explanation": "Integrasi data (triangulasi) memadukan data potensial kognitif, temuan emosional, observasi lingkungan, dan pola kognitif menjadi satu alur dinamika komprehensif yang menerangkan timbulnya masalah."
+  },
+  {
+    "id": "D7_I1.4_Q7",
+    "domainId": 7,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Integrasi Data)",
+    "indicatorId": "1.4",
+    "indicatorFullId": "D7-1.4",
+    "indicatorTitle": "Mengintegrasikan data asesmen untuk menyusun dinamika psikologis",
+    "caseStudy": {
+      "title": "Studi Kasus 7: Mengintegrasikan Data Triangulasi Asesmen Multimetode pada Kasus Depresi dan Penolakan Sekolah (Kasus 7)",
+      "scenario": "Psikolog menyusun dinamika psikologis untuk remaja Sdri. Julia yang menolak sekolah. Psikolog mengintegrasikan (triangulasi) 4 sumber data: (1) Laporan observasi ketakutan di kelas, (2) Wawancara allo-anamnesis orang tua mengenai tekanan akademik berlebih, (3) Hasil tes kecerdasan kognitif yang menunjukkan kapasitas rata-rata atas, (4) Hasil inventori kecemasan sosial dan skema kognitif perfeksionisme maladaptif.",
+      "contextTags": [
+        "Triangulasi Data",
+        "Integrasi Asesmen",
+        "Penolakan Sekolah",
+        "Dinamika Sintesis"
+      ]
+    },
+    "question": "Bagaimanakah naskah integrasi data asesmen yang PALING utuh dalam dinamika psikologis Sdri. Julia?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Julia menolak sekolah karena kapasitas inteligensinya sangat rendah di bawah rata-rata."
+      },
+      {
+        "id": "B",
+        "text": "Meskipun memiliki potensi kognitif yang baik (rata-rata atas), integrasi data menunjukkan adanya perfeksionisme maladaptif yang dipicu oleh tekanan tinggi orang tua, sehingga menimbulkan kecemasan sosial berat dan perilaku menghindar (penolakan sekolah) sebagai bentuk coping tidak efektif."
+      },
+      {
+        "id": "C",
+        "text": "Julia sengaja menolak sekolah untuk mempermalukan orang tuanya di hadapan tetangga."
+      },
+      {
+        "id": "D",
+        "text": "Seluruh data asesmen saling bertentangan dan tidak bisa dibuat sintesis dinamika psikologisnya."
+      }
+    ],
+    "key": "B",
+    "explanation": "Integrasi data (triangulasi) memadukan data potensial kognitif, temuan emosional, observasi lingkungan, dan pola kognitif menjadi satu alur dinamika komprehensif yang menerangkan timbulnya masalah."
+  },
+  {
+    "id": "D7_I1.4_Q8",
+    "domainId": 7,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Integrasi Data)",
+    "indicatorId": "1.4",
+    "indicatorFullId": "D7-1.4",
+    "indicatorTitle": "Mengintegrasikan data asesmen untuk menyusun dinamika psikologis",
+    "caseStudy": {
+      "title": "Studi Kasus 8: Mengintegrasikan Data Triangulasi Asesmen Multimetode pada Kasus Depresi dan Penolakan Sekolah (Kasus 8)",
+      "scenario": "Psikolog menyusun dinamika psikologis untuk remaja Sdri. Julia yang menolak sekolah. Psikolog mengintegrasikan (triangulasi) 4 sumber data: (1) Laporan observasi ketakutan di kelas, (2) Wawancara allo-anamnesis orang tua mengenai tekanan akademik berlebih, (3) Hasil tes kecerdasan kognitif yang menunjukkan kapasitas rata-rata atas, (4) Hasil inventori kecemasan sosial dan skema kognitif perfeksionisme maladaptif.",
+      "contextTags": [
+        "Triangulasi Data",
+        "Integrasi Asesmen",
+        "Penolakan Sekolah",
+        "Dinamika Sintesis"
+      ]
+    },
+    "question": "Bagaimanakah naskah integrasi data asesmen yang PALING utuh dalam dinamika psikologis Sdri. Julia?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Julia menolak sekolah karena kapasitas inteligensinya sangat rendah di bawah rata-rata."
+      },
+      {
+        "id": "B",
+        "text": "Meskipun memiliki potensi kognitif yang baik (rata-rata atas), integrasi data menunjukkan adanya perfeksionisme maladaptif yang dipicu oleh tekanan tinggi orang tua, sehingga menimbulkan kecemasan sosial berat dan perilaku menghindar (penolakan sekolah) sebagai bentuk coping tidak efektif."
+      },
+      {
+        "id": "C",
+        "text": "Julia sengaja menolak sekolah untuk mempermalukan orang tuanya di hadapan tetangga."
+      },
+      {
+        "id": "D",
+        "text": "Seluruh data asesmen saling bertentangan dan tidak bisa dibuat sintesis dinamika psikologisnya."
+      }
+    ],
+    "key": "B",
+    "explanation": "Integrasi data (triangulasi) memadukan data potensial kognitif, temuan emosional, observasi lingkungan, dan pola kognitif menjadi satu alur dinamika komprehensif yang menerangkan timbulnya masalah."
+  },
+  {
+    "id": "D7_I1.4_Q9",
+    "domainId": 7,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Integrasi Data)",
+    "indicatorId": "1.4",
+    "indicatorFullId": "D7-1.4",
+    "indicatorTitle": "Mengintegrasikan data asesmen untuk menyusun dinamika psikologis",
+    "caseStudy": {
+      "title": "Studi Kasus 9: Mengintegrasikan Data Triangulasi Asesmen Multimetode pada Kasus Depresi dan Penolakan Sekolah (Kasus 9)",
+      "scenario": "Psikolog menyusun dinamika psikologis untuk remaja Sdri. Julia yang menolak sekolah. Psikolog mengintegrasikan (triangulasi) 4 sumber data: (1) Laporan observasi ketakutan di kelas, (2) Wawancara allo-anamnesis orang tua mengenai tekanan akademik berlebih, (3) Hasil tes kecerdasan kognitif yang menunjukkan kapasitas rata-rata atas, (4) Hasil inventori kecemasan sosial dan skema kognitif perfeksionisme maladaptif.",
+      "contextTags": [
+        "Triangulasi Data",
+        "Integrasi Asesmen",
+        "Penolakan Sekolah",
+        "Dinamika Sintesis"
+      ]
+    },
+    "question": "Bagaimanakah naskah integrasi data asesmen yang PALING utuh dalam dinamika psikologis Sdri. Julia?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Julia menolak sekolah karena kapasitas inteligensinya sangat rendah di bawah rata-rata."
+      },
+      {
+        "id": "B",
+        "text": "Meskipun memiliki potensi kognitif yang baik (rata-rata atas), integrasi data menunjukkan adanya perfeksionisme maladaptif yang dipicu oleh tekanan tinggi orang tua, sehingga menimbulkan kecemasan sosial berat dan perilaku menghindar (penolakan sekolah) sebagai bentuk coping tidak efektif."
+      },
+      {
+        "id": "C",
+        "text": "Julia sengaja menolak sekolah untuk mempermalukan orang tuanya di hadapan tetangga."
+      },
+      {
+        "id": "D",
+        "text": "Seluruh data asesmen saling bertentangan dan tidak bisa dibuat sintesis dinamika psikologisnya."
+      }
+    ],
+    "key": "B",
+    "explanation": "Integrasi data (triangulasi) memadukan data potensial kognitif, temuan emosional, observasi lingkungan, dan pola kognitif menjadi satu alur dinamika komprehensif yang menerangkan timbulnya masalah."
+  },
+  {
+    "id": "D7_I1.4_Q10",
+    "domainId": 7,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Integrasi Data)",
+    "indicatorId": "1.4",
+    "indicatorFullId": "D7-1.4",
+    "indicatorTitle": "Mengintegrasikan data asesmen untuk menyusun dinamika psikologis",
+    "caseStudy": {
+      "title": "Studi Kasus 10: Mengintegrasikan Data Triangulasi Asesmen Multimetode pada Kasus Depresi dan Penolakan Sekolah (Kasus 10)",
+      "scenario": "Psikolog menyusun dinamika psikologis untuk remaja Sdri. Julia yang menolak sekolah. Psikolog mengintegrasikan (triangulasi) 4 sumber data: (1) Laporan observasi ketakutan di kelas, (2) Wawancara allo-anamnesis orang tua mengenai tekanan akademik berlebih, (3) Hasil tes kecerdasan kognitif yang menunjukkan kapasitas rata-rata atas, (4) Hasil inventori kecemasan sosial dan skema kognitif perfeksionisme maladaptif.",
+      "contextTags": [
+        "Triangulasi Data",
+        "Integrasi Asesmen",
+        "Penolakan Sekolah",
+        "Dinamika Sintesis"
+      ]
+    },
+    "question": "Bagaimanakah naskah integrasi data asesmen yang PALING utuh dalam dinamika psikologis Sdri. Julia?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Julia menolak sekolah karena kapasitas inteligensinya sangat rendah di bawah rata-rata."
+      },
+      {
+        "id": "B",
+        "text": "Meskipun memiliki potensi kognitif yang baik (rata-rata atas), integrasi data menunjukkan adanya perfeksionisme maladaptif yang dipicu oleh tekanan tinggi orang tua, sehingga menimbulkan kecemasan sosial berat dan perilaku menghindar (penolakan sekolah) sebagai bentuk coping tidak efektif."
+      },
+      {
+        "id": "C",
+        "text": "Julia sengaja menolak sekolah untuk mempermalukan orang tuanya di hadapan tetangga."
+      },
+      {
+        "id": "D",
+        "text": "Seluruh data asesmen saling bertentangan dan tidak bisa dibuat sintesis dinamika psikologisnya."
+      }
+    ],
+    "key": "B",
+    "explanation": "Integrasi data (triangulasi) memadukan data potensial kognitif, temuan emosional, observasi lingkungan, dan pola kognitif menjadi satu alur dinamika komprehensif yang menerangkan timbulnya masalah."
+  }
+]

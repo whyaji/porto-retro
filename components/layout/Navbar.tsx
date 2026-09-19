@@ -14,6 +14,12 @@ export const Navbar: React.FC = () => {
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
   const [scrolled, setScrolled] = useState(false);
 
+  if (pathname.startsWith("/utbk-ukppu") || pathname.startsWith("/app/utbk-ukppu")) {
+    return null;
+  }
+
+
+  // eslint-disable-next-line react-hooks/rules-of-hooks
   useEffect(() => {
     const handleScroll = () => {
       setScrolled(window.scrollY > 20);

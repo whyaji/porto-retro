@@ -2,6 +2,7 @@
 
 import React from "react";
 import Link from "next/link";
+import { usePathname } from "next/navigation";
 import { useI18n } from "@/context/i18n-context";
 import { getResume, getWhatsAppUrl } from "@/lib/data/resume";
 import {
@@ -15,8 +16,15 @@ import {
 import { FaWhatsapp } from "react-icons/fa";
 
 export const Footer: React.FC = () => {
+  const pathname = usePathname();
   const { t, locale } = useI18n();
+
+  if (pathname.startsWith("/utbk-ukppu") || pathname.startsWith("/app/utbk-ukppu")) {
+    return null;
+  }
+
   const resume = getResume(locale);
+
 
   const scrollToTop = () => {
     window.scrollTo({ top: 0, behavior: "smooth" });

@@ -1,0 +1,1172 @@
+[
+  {
+    "id": "D3_I1.1_Q1",
+    "domainId": 3,
+    "domainTitle": "Penguasaan Pengetahuan/Keilmuan (Konsep dan Teori Psikologi - Fungsi dan perubahan perilaku manusia sepanjang hayat)",
+    "indicatorId": "1.1",
+    "indicatorFullId": "D3-1.1",
+    "indicatorTitle": "Membedakan tiga pendekatan utama (pendekatan humanistik, pendekatan kognitif perilakuan, pendekatan perilakuan) dalam memahami perilaku manusia",
+    "caseStudy": {
+      "title": "Studi Kasus 1: Komparasi Pendekatan Humanistik, Perilakuan (Behavioral), dan Kognitif Perilakuan (CBT) pada Kasus Fobia/Kecemasan (Kasus 1)",
+      "scenario": "Seorang klien, Sdr. Danu (28 tahun), mengalami ketakutan luar biasa berbicara di depan umum. Klien mengeluhkan: (1) Perilaku menghindar dan gemetar hebat setiap kali mendekati panggung, (2) Pikiran otomatis negatif: \"Semua orang akan tertawa dan mempermalukan saya\", (3) Perasaan kehilangan makna diri dan terhambatnya dorongan aktualisasi diri potensi kepemimpinannya. Psikolog membandingkan interpretasi teoretis antara Pendekatan Humanistik (Carl Rogers), Pendekatan Perilakuan/Behavioral (Skinner/Pavlov), dan Pendekatan Kognitif Perilakuan/CBT (Beck/Ellis).",
+      "contextTags": [
+        "Humanistik",
+        "Behavioral",
+        "CBT",
+        "Pendekatan Teoretis"
+      ]
+    },
+    "question": "Pernyataan manakah yang PALING tepat dalam membedakan penekanan fokus analisis antara ketiga pendekatan tersebut bagi kasus Sdr. Danu?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Humanistik memfokuskan pada pengondisian operan reward/punishment, Behavioral memfokuskan pada distorsi kognitif, CBT memfokuskan pada aktualisasi diri."
+      },
+      {
+        "id": "B",
+        "text": "Behavioral menelaah respons kondisikan menghindar (classical/operant conditioning), CBT menelaah restrukturisasi pola pikir otomatis irasional, Humanistik menelaah hambatan aktualisasi diri dan inkongruensi diri (self-incongruence)."
+      },
+      {
+        "id": "C",
+        "text": "Ketiga pendekatan tersebut memiliki konsep dan pandangan filosofis yang 100% identik tanpa perbedaan apapun."
+      },
+      {
+        "id": "D",
+        "text": "CBT memfokuskan pada ketidaksadaran Oedipus complex, Behavioral memfokuskan pada transmutasi jiwa spiritual, Humanistik memfokuskan pada obat-obatan medis."
+      }
+    ],
+    "key": "B",
+    "explanation": "Perbedaan mendasar 3 pendekatan utama: (1) Behavioral berfokus pada perilaku teramati dan pengondisian stimulus-respons, (2) CBT berfokus pada keterkaitan antara pikiran otomatis/skema kognitif dan perilaku, (3) Humanistik berfokus pada otonomi, aktualisasi diri, fenomena subjektif, dan inkongruensi diri."
+  },
+  {
+    "id": "D3_I1.1_Q2",
+    "domainId": 3,
+    "domainTitle": "Penguasaan Pengetahuan/Keilmuan (Konsep dan Teori Psikologi - Fungsi dan perubahan perilaku manusia sepanjang hayat)",
+    "indicatorId": "1.1",
+    "indicatorFullId": "D3-1.1",
+    "indicatorTitle": "Membedakan tiga pendekatan utama (pendekatan humanistik, pendekatan kognitif perilakuan, pendekatan perilakuan) dalam memahami perilaku manusia",
+    "caseStudy": {
+      "title": "Studi Kasus 2: Komparasi Pendekatan Humanistik, Perilakuan (Behavioral), dan Kognitif Perilakuan (CBT) pada Kasus Fobia/Kecemasan (Kasus 2)",
+      "scenario": "Seorang klien, Sdr. Danu (28 tahun), mengalami ketakutan luar biasa berbicara di depan umum. Klien mengeluhkan: (1) Perilaku menghindar dan gemetar hebat setiap kali mendekati panggung, (2) Pikiran otomatis negatif: \"Semua orang akan tertawa dan mempermalukan saya\", (3) Perasaan kehilangan makna diri dan terhambatnya dorongan aktualisasi diri potensi kepemimpinannya. Psikolog membandingkan interpretasi teoretis antara Pendekatan Humanistik (Carl Rogers), Pendekatan Perilakuan/Behavioral (Skinner/Pavlov), dan Pendekatan Kognitif Perilakuan/CBT (Beck/Ellis).",
+      "contextTags": [
+        "Humanistik",
+        "Behavioral",
+        "CBT",
+        "Pendekatan Teoretis"
+      ]
+    },
+    "question": "Pernyataan manakah yang PALING tepat dalam membedakan penekanan fokus analisis antara ketiga pendekatan tersebut bagi kasus Sdr. Danu?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Humanistik memfokuskan pada pengondisian operan reward/punishment, Behavioral memfokuskan pada distorsi kognitif, CBT memfokuskan pada aktualisasi diri."
+      },
+      {
+        "id": "B",
+        "text": "Behavioral menelaah respons kondisikan menghindar (classical/operant conditioning), CBT menelaah restrukturisasi pola pikir otomatis irasional, Humanistik menelaah hambatan aktualisasi diri dan inkongruensi diri (self-incongruence)."
+      },
+      {
+        "id": "C",
+        "text": "Ketiga pendekatan tersebut memiliki konsep dan pandangan filosofis yang 100% identik tanpa perbedaan apapun."
+      },
+      {
+        "id": "D",
+        "text": "CBT memfokuskan pada ketidaksadaran Oedipus complex, Behavioral memfokuskan pada transmutasi jiwa spiritual, Humanistik memfokuskan pada obat-obatan medis."
+      }
+    ],
+    "key": "B",
+    "explanation": "Perbedaan mendasar 3 pendekatan utama: (1) Behavioral berfokus pada perilaku teramati dan pengondisian stimulus-respons, (2) CBT berfokus pada keterkaitan antara pikiran otomatis/skema kognitif dan perilaku, (3) Humanistik berfokus pada otonomi, aktualisasi diri, fenomena subjektif, dan inkongruensi diri."
+  },
+  {
+    "id": "D3_I1.1_Q3",
+    "domainId": 3,
+    "domainTitle": "Penguasaan Pengetahuan/Keilmuan (Konsep dan Teori Psikologi - Fungsi dan perubahan perilaku manusia sepanjang hayat)",
+    "indicatorId": "1.1",
+    "indicatorFullId": "D3-1.1",
+    "indicatorTitle": "Membedakan tiga pendekatan utama (pendekatan humanistik, pendekatan kognitif perilakuan, pendekatan perilakuan) dalam memahami perilaku manusia",
+    "caseStudy": {
+      "title": "Studi Kasus 3: Komparasi Pendekatan Humanistik, Perilakuan (Behavioral), dan Kognitif Perilakuan (CBT) pada Kasus Fobia/Kecemasan (Kasus 3)",
+      "scenario": "Seorang klien, Sdr. Danu (28 tahun), mengalami ketakutan luar biasa berbicara di depan umum. Klien mengeluhkan: (1) Perilaku menghindar dan gemetar hebat setiap kali mendekati panggung, (2) Pikiran otomatis negatif: \"Semua orang akan tertawa dan mempermalukan saya\", (3) Perasaan kehilangan makna diri dan terhambatnya dorongan aktualisasi diri potensi kepemimpinannya. Psikolog membandingkan interpretasi teoretis antara Pendekatan Humanistik (Carl Rogers), Pendekatan Perilakuan/Behavioral (Skinner/Pavlov), dan Pendekatan Kognitif Perilakuan/CBT (Beck/Ellis).",
+      "contextTags": [
+        "Humanistik",
+        "Behavioral",
+        "CBT",
+        "Pendekatan Teoretis"
+      ]
+    },
+    "question": "Pernyataan manakah yang PALING tepat dalam membedakan penekanan fokus analisis antara ketiga pendekatan tersebut bagi kasus Sdr. Danu?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Humanistik memfokuskan pada pengondisian operan reward/punishment, Behavioral memfokuskan pada distorsi kognitif, CBT memfokuskan pada aktualisasi diri."
+      },
+      {
+        "id": "B",
+        "text": "Behavioral menelaah respons kondisikan menghindar (classical/operant conditioning), CBT menelaah restrukturisasi pola pikir otomatis irasional, Humanistik menelaah hambatan aktualisasi diri dan inkongruensi diri (self-incongruence)."
+      },
+      {
+        "id": "C",
+        "text": "Ketiga pendekatan tersebut memiliki konsep dan pandangan filosofis yang 100% identik tanpa perbedaan apapun."
+      },
+      {
+        "id": "D",
+        "text": "CBT memfokuskan pada ketidaksadaran Oedipus complex, Behavioral memfokuskan pada transmutasi jiwa spiritual, Humanistik memfokuskan pada obat-obatan medis."
+      }
+    ],
+    "key": "B",
+    "explanation": "Perbedaan mendasar 3 pendekatan utama: (1) Behavioral berfokus pada perilaku teramati dan pengondisian stimulus-respons, (2) CBT berfokus pada keterkaitan antara pikiran otomatis/skema kognitif dan perilaku, (3) Humanistik berfokus pada otonomi, aktualisasi diri, fenomena subjektif, dan inkongruensi diri."
+  },
+  {
+    "id": "D3_I1.1_Q4",
+    "domainId": 3,
+    "domainTitle": "Penguasaan Pengetahuan/Keilmuan (Konsep dan Teori Psikologi - Fungsi dan perubahan perilaku manusia sepanjang hayat)",
+    "indicatorId": "1.1",
+    "indicatorFullId": "D3-1.1",
+    "indicatorTitle": "Membedakan tiga pendekatan utama (pendekatan humanistik, pendekatan kognitif perilakuan, pendekatan perilakuan) dalam memahami perilaku manusia",
+    "caseStudy": {
+      "title": "Studi Kasus 4: Komparasi Pendekatan Humanistik, Perilakuan (Behavioral), dan Kognitif Perilakuan (CBT) pada Kasus Fobia/Kecemasan (Kasus 4)",
+      "scenario": "Seorang klien, Sdr. Danu (28 tahun), mengalami ketakutan luar biasa berbicara di depan umum. Klien mengeluhkan: (1) Perilaku menghindar dan gemetar hebat setiap kali mendekati panggung, (2) Pikiran otomatis negatif: \"Semua orang akan tertawa dan mempermalukan saya\", (3) Perasaan kehilangan makna diri dan terhambatnya dorongan aktualisasi diri potensi kepemimpinannya. Psikolog membandingkan interpretasi teoretis antara Pendekatan Humanistik (Carl Rogers), Pendekatan Perilakuan/Behavioral (Skinner/Pavlov), dan Pendekatan Kognitif Perilakuan/CBT (Beck/Ellis).",
+      "contextTags": [
+        "Humanistik",
+        "Behavioral",
+        "CBT",
+        "Pendekatan Teoretis"
+      ]
+    },
+    "question": "Pernyataan manakah yang PALING tepat dalam membedakan penekanan fokus analisis antara ketiga pendekatan tersebut bagi kasus Sdr. Danu?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Humanistik memfokuskan pada pengondisian operan reward/punishment, Behavioral memfokuskan pada distorsi kognitif, CBT memfokuskan pada aktualisasi diri."
+      },
+      {
+        "id": "B",
+        "text": "Behavioral menelaah respons kondisikan menghindar (classical/operant conditioning), CBT menelaah restrukturisasi pola pikir otomatis irasional, Humanistik menelaah hambatan aktualisasi diri dan inkongruensi diri (self-incongruence)."
+      },
+      {
+        "id": "C",
+        "text": "Ketiga pendekatan tersebut memiliki konsep dan pandangan filosofis yang 100% identik tanpa perbedaan apapun."
+      },
+      {
+        "id": "D",
+        "text": "CBT memfokuskan pada ketidaksadaran Oedipus complex, Behavioral memfokuskan pada transmutasi jiwa spiritual, Humanistik memfokuskan pada obat-obatan medis."
+      }
+    ],
+    "key": "B",
+    "explanation": "Perbedaan mendasar 3 pendekatan utama: (1) Behavioral berfokus pada perilaku teramati dan pengondisian stimulus-respons, (2) CBT berfokus pada keterkaitan antara pikiran otomatis/skema kognitif dan perilaku, (3) Humanistik berfokus pada otonomi, aktualisasi diri, fenomena subjektif, dan inkongruensi diri."
+  },
+  {
+    "id": "D3_I1.1_Q5",
+    "domainId": 3,
+    "domainTitle": "Penguasaan Pengetahuan/Keilmuan (Konsep dan Teori Psikologi - Fungsi dan perubahan perilaku manusia sepanjang hayat)",
+    "indicatorId": "1.1",
+    "indicatorFullId": "D3-1.1",
+    "indicatorTitle": "Membedakan tiga pendekatan utama (pendekatan humanistik, pendekatan kognitif perilakuan, pendekatan perilakuan) dalam memahami perilaku manusia",
+    "caseStudy": {
+      "title": "Studi Kasus 5: Komparasi Pendekatan Humanistik, Perilakuan (Behavioral), dan Kognitif Perilakuan (CBT) pada Kasus Fobia/Kecemasan (Kasus 5)",
+      "scenario": "Seorang klien, Sdr. Danu (28 tahun), mengalami ketakutan luar biasa berbicara di depan umum. Klien mengeluhkan: (1) Perilaku menghindar dan gemetar hebat setiap kali mendekati panggung, (2) Pikiran otomatis negatif: \"Semua orang akan tertawa dan mempermalukan saya\", (3) Perasaan kehilangan makna diri dan terhambatnya dorongan aktualisasi diri potensi kepemimpinannya. Psikolog membandingkan interpretasi teoretis antara Pendekatan Humanistik (Carl Rogers), Pendekatan Perilakuan/Behavioral (Skinner/Pavlov), dan Pendekatan Kognitif Perilakuan/CBT (Beck/Ellis).",
+      "contextTags": [
+        "Humanistik",
+        "Behavioral",
+        "CBT",
+        "Pendekatan Teoretis"
+      ]
+    },
+    "question": "Pernyataan manakah yang PALING tepat dalam membedakan penekanan fokus analisis antara ketiga pendekatan tersebut bagi kasus Sdr. Danu?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Humanistik memfokuskan pada pengondisian operan reward/punishment, Behavioral memfokuskan pada distorsi kognitif, CBT memfokuskan pada aktualisasi diri."
+      },
+      {
+        "id": "B",
+        "text": "Behavioral menelaah respons kondisikan menghindar (classical/operant conditioning), CBT menelaah restrukturisasi pola pikir otomatis irasional, Humanistik menelaah hambatan aktualisasi diri dan inkongruensi diri (self-incongruence)."
+      },
+      {
+        "id": "C",
+        "text": "Ketiga pendekatan tersebut memiliki konsep dan pandangan filosofis yang 100% identik tanpa perbedaan apapun."
+      },
+      {
+        "id": "D",
+        "text": "CBT memfokuskan pada ketidaksadaran Oedipus complex, Behavioral memfokuskan pada transmutasi jiwa spiritual, Humanistik memfokuskan pada obat-obatan medis."
+      }
+    ],
+    "key": "B",
+    "explanation": "Perbedaan mendasar 3 pendekatan utama: (1) Behavioral berfokus pada perilaku teramati dan pengondisian stimulus-respons, (2) CBT berfokus pada keterkaitan antara pikiran otomatis/skema kognitif dan perilaku, (3) Humanistik berfokus pada otonomi, aktualisasi diri, fenomena subjektif, dan inkongruensi diri."
+  },
+  {
+    "id": "D3_I1.1_Q6",
+    "domainId": 3,
+    "domainTitle": "Penguasaan Pengetahuan/Keilmuan (Konsep dan Teori Psikologi - Fungsi dan perubahan perilaku manusia sepanjang hayat)",
+    "indicatorId": "1.1",
+    "indicatorFullId": "D3-1.1",
+    "indicatorTitle": "Membedakan tiga pendekatan utama (pendekatan humanistik, pendekatan kognitif perilakuan, pendekatan perilakuan) dalam memahami perilaku manusia",
+    "caseStudy": {
+      "title": "Studi Kasus 6: Komparasi Pendekatan Humanistik, Perilakuan (Behavioral), dan Kognitif Perilakuan (CBT) pada Kasus Fobia/Kecemasan (Kasus 6)",
+      "scenario": "Seorang klien, Sdr. Danu (28 tahun), mengalami ketakutan luar biasa berbicara di depan umum. Klien mengeluhkan: (1) Perilaku menghindar dan gemetar hebat setiap kali mendekati panggung, (2) Pikiran otomatis negatif: \"Semua orang akan tertawa dan mempermalukan saya\", (3) Perasaan kehilangan makna diri dan terhambatnya dorongan aktualisasi diri potensi kepemimpinannya. Psikolog membandingkan interpretasi teoretis antara Pendekatan Humanistik (Carl Rogers), Pendekatan Perilakuan/Behavioral (Skinner/Pavlov), dan Pendekatan Kognitif Perilakuan/CBT (Beck/Ellis).",
+      "contextTags": [
+        "Humanistik",
+        "Behavioral",
+        "CBT",
+        "Pendekatan Teoretis"
+      ]
+    },
+    "question": "Pernyataan manakah yang PALING tepat dalam membedakan penekanan fokus analisis antara ketiga pendekatan tersebut bagi kasus Sdr. Danu?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Humanistik memfokuskan pada pengondisian operan reward/punishment, Behavioral memfokuskan pada distorsi kognitif, CBT memfokuskan pada aktualisasi diri."
+      },
+      {
+        "id": "B",
+        "text": "Behavioral menelaah respons kondisikan menghindar (classical/operant conditioning), CBT menelaah restrukturisasi pola pikir otomatis irasional, Humanistik menelaah hambatan aktualisasi diri dan inkongruensi diri (self-incongruence)."
+      },
+      {
+        "id": "C",
+        "text": "Ketiga pendekatan tersebut memiliki konsep dan pandangan filosofis yang 100% identik tanpa perbedaan apapun."
+      },
+      {
+        "id": "D",
+        "text": "CBT memfokuskan pada ketidaksadaran Oedipus complex, Behavioral memfokuskan pada transmutasi jiwa spiritual, Humanistik memfokuskan pada obat-obatan medis."
+      }
+    ],
+    "key": "B",
+    "explanation": "Perbedaan mendasar 3 pendekatan utama: (1) Behavioral berfokus pada perilaku teramati dan pengondisian stimulus-respons, (2) CBT berfokus pada keterkaitan antara pikiran otomatis/skema kognitif dan perilaku, (3) Humanistik berfokus pada otonomi, aktualisasi diri, fenomena subjektif, dan inkongruensi diri."
+  },
+  {
+    "id": "D3_I1.1_Q7",
+    "domainId": 3,
+    "domainTitle": "Penguasaan Pengetahuan/Keilmuan (Konsep dan Teori Psikologi - Fungsi dan perubahan perilaku manusia sepanjang hayat)",
+    "indicatorId": "1.1",
+    "indicatorFullId": "D3-1.1",
+    "indicatorTitle": "Membedakan tiga pendekatan utama (pendekatan humanistik, pendekatan kognitif perilakuan, pendekatan perilakuan) dalam memahami perilaku manusia",
+    "caseStudy": {
+      "title": "Studi Kasus 7: Komparasi Pendekatan Humanistik, Perilakuan (Behavioral), dan Kognitif Perilakuan (CBT) pada Kasus Fobia/Kecemasan (Kasus 7)",
+      "scenario": "Seorang klien, Sdr. Danu (28 tahun), mengalami ketakutan luar biasa berbicara di depan umum. Klien mengeluhkan: (1) Perilaku menghindar dan gemetar hebat setiap kali mendekati panggung, (2) Pikiran otomatis negatif: \"Semua orang akan tertawa dan mempermalukan saya\", (3) Perasaan kehilangan makna diri dan terhambatnya dorongan aktualisasi diri potensi kepemimpinannya. Psikolog membandingkan interpretasi teoretis antara Pendekatan Humanistik (Carl Rogers), Pendekatan Perilakuan/Behavioral (Skinner/Pavlov), dan Pendekatan Kognitif Perilakuan/CBT (Beck/Ellis).",
+      "contextTags": [
+        "Humanistik",
+        "Behavioral",
+        "CBT",
+        "Pendekatan Teoretis"
+      ]
+    },
+    "question": "Pernyataan manakah yang PALING tepat dalam membedakan penekanan fokus analisis antara ketiga pendekatan tersebut bagi kasus Sdr. Danu?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Humanistik memfokuskan pada pengondisian operan reward/punishment, Behavioral memfokuskan pada distorsi kognitif, CBT memfokuskan pada aktualisasi diri."
+      },
+      {
+        "id": "B",
+        "text": "Behavioral menelaah respons kondisikan menghindar (classical/operant conditioning), CBT menelaah restrukturisasi pola pikir otomatis irasional, Humanistik menelaah hambatan aktualisasi diri dan inkongruensi diri (self-incongruence)."
+      },
+      {
+        "id": "C",
+        "text": "Ketiga pendekatan tersebut memiliki konsep dan pandangan filosofis yang 100% identik tanpa perbedaan apapun."
+      },
+      {
+        "id": "D",
+        "text": "CBT memfokuskan pada ketidaksadaran Oedipus complex, Behavioral memfokuskan pada transmutasi jiwa spiritual, Humanistik memfokuskan pada obat-obatan medis."
+      }
+    ],
+    "key": "B",
+    "explanation": "Perbedaan mendasar 3 pendekatan utama: (1) Behavioral berfokus pada perilaku teramati dan pengondisian stimulus-respons, (2) CBT berfokus pada keterkaitan antara pikiran otomatis/skema kognitif dan perilaku, (3) Humanistik berfokus pada otonomi, aktualisasi diri, fenomena subjektif, dan inkongruensi diri."
+  },
+  {
+    "id": "D3_I1.1_Q8",
+    "domainId": 3,
+    "domainTitle": "Penguasaan Pengetahuan/Keilmuan (Konsep dan Teori Psikologi - Fungsi dan perubahan perilaku manusia sepanjang hayat)",
+    "indicatorId": "1.1",
+    "indicatorFullId": "D3-1.1",
+    "indicatorTitle": "Membedakan tiga pendekatan utama (pendekatan humanistik, pendekatan kognitif perilakuan, pendekatan perilakuan) dalam memahami perilaku manusia",
+    "caseStudy": {
+      "title": "Studi Kasus 8: Komparasi Pendekatan Humanistik, Perilakuan (Behavioral), dan Kognitif Perilakuan (CBT) pada Kasus Fobia/Kecemasan (Kasus 8)",
+      "scenario": "Seorang klien, Sdr. Danu (28 tahun), mengalami ketakutan luar biasa berbicara di depan umum. Klien mengeluhkan: (1) Perilaku menghindar dan gemetar hebat setiap kali mendekati panggung, (2) Pikiran otomatis negatif: \"Semua orang akan tertawa dan mempermalukan saya\", (3) Perasaan kehilangan makna diri dan terhambatnya dorongan aktualisasi diri potensi kepemimpinannya. Psikolog membandingkan interpretasi teoretis antara Pendekatan Humanistik (Carl Rogers), Pendekatan Perilakuan/Behavioral (Skinner/Pavlov), dan Pendekatan Kognitif Perilakuan/CBT (Beck/Ellis).",
+      "contextTags": [
+        "Humanistik",
+        "Behavioral",
+        "CBT",
+        "Pendekatan Teoretis"
+      ]
+    },
+    "question": "Pernyataan manakah yang PALING tepat dalam membedakan penekanan fokus analisis antara ketiga pendekatan tersebut bagi kasus Sdr. Danu?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Humanistik memfokuskan pada pengondisian operan reward/punishment, Behavioral memfokuskan pada distorsi kognitif, CBT memfokuskan pada aktualisasi diri."
+      },
+      {
+        "id": "B",
+        "text": "Behavioral menelaah respons kondisikan menghindar (classical/operant conditioning), CBT menelaah restrukturisasi pola pikir otomatis irasional, Humanistik menelaah hambatan aktualisasi diri dan inkongruensi diri (self-incongruence)."
+      },
+      {
+        "id": "C",
+        "text": "Ketiga pendekatan tersebut memiliki konsep dan pandangan filosofis yang 100% identik tanpa perbedaan apapun."
+      },
+      {
+        "id": "D",
+        "text": "CBT memfokuskan pada ketidaksadaran Oedipus complex, Behavioral memfokuskan pada transmutasi jiwa spiritual, Humanistik memfokuskan pada obat-obatan medis."
+      }
+    ],
+    "key": "B",
+    "explanation": "Perbedaan mendasar 3 pendekatan utama: (1) Behavioral berfokus pada perilaku teramati dan pengondisian stimulus-respons, (2) CBT berfokus pada keterkaitan antara pikiran otomatis/skema kognitif dan perilaku, (3) Humanistik berfokus pada otonomi, aktualisasi diri, fenomena subjektif, dan inkongruensi diri."
+  },
+  {
+    "id": "D3_I1.1_Q9",
+    "domainId": 3,
+    "domainTitle": "Penguasaan Pengetahuan/Keilmuan (Konsep dan Teori Psikologi - Fungsi dan perubahan perilaku manusia sepanjang hayat)",
+    "indicatorId": "1.1",
+    "indicatorFullId": "D3-1.1",
+    "indicatorTitle": "Membedakan tiga pendekatan utama (pendekatan humanistik, pendekatan kognitif perilakuan, pendekatan perilakuan) dalam memahami perilaku manusia",
+    "caseStudy": {
+      "title": "Studi Kasus 9: Komparasi Pendekatan Humanistik, Perilakuan (Behavioral), dan Kognitif Perilakuan (CBT) pada Kasus Fobia/Kecemasan (Kasus 9)",
+      "scenario": "Seorang klien, Sdr. Danu (28 tahun), mengalami ketakutan luar biasa berbicara di depan umum. Klien mengeluhkan: (1) Perilaku menghindar dan gemetar hebat setiap kali mendekati panggung, (2) Pikiran otomatis negatif: \"Semua orang akan tertawa dan mempermalukan saya\", (3) Perasaan kehilangan makna diri dan terhambatnya dorongan aktualisasi diri potensi kepemimpinannya. Psikolog membandingkan interpretasi teoretis antara Pendekatan Humanistik (Carl Rogers), Pendekatan Perilakuan/Behavioral (Skinner/Pavlov), dan Pendekatan Kognitif Perilakuan/CBT (Beck/Ellis).",
+      "contextTags": [
+        "Humanistik",
+        "Behavioral",
+        "CBT",
+        "Pendekatan Teoretis"
+      ]
+    },
+    "question": "Pernyataan manakah yang PALING tepat dalam membedakan penekanan fokus analisis antara ketiga pendekatan tersebut bagi kasus Sdr. Danu?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Humanistik memfokuskan pada pengondisian operan reward/punishment, Behavioral memfokuskan pada distorsi kognitif, CBT memfokuskan pada aktualisasi diri."
+      },
+      {
+        "id": "B",
+        "text": "Behavioral menelaah respons kondisikan menghindar (classical/operant conditioning), CBT menelaah restrukturisasi pola pikir otomatis irasional, Humanistik menelaah hambatan aktualisasi diri dan inkongruensi diri (self-incongruence)."
+      },
+      {
+        "id": "C",
+        "text": "Ketiga pendekatan tersebut memiliki konsep dan pandangan filosofis yang 100% identik tanpa perbedaan apapun."
+      },
+      {
+        "id": "D",
+        "text": "CBT memfokuskan pada ketidaksadaran Oedipus complex, Behavioral memfokuskan pada transmutasi jiwa spiritual, Humanistik memfokuskan pada obat-obatan medis."
+      }
+    ],
+    "key": "B",
+    "explanation": "Perbedaan mendasar 3 pendekatan utama: (1) Behavioral berfokus pada perilaku teramati dan pengondisian stimulus-respons, (2) CBT berfokus pada keterkaitan antara pikiran otomatis/skema kognitif dan perilaku, (3) Humanistik berfokus pada otonomi, aktualisasi diri, fenomena subjektif, dan inkongruensi diri."
+  },
+  {
+    "id": "D3_I1.1_Q10",
+    "domainId": 3,
+    "domainTitle": "Penguasaan Pengetahuan/Keilmuan (Konsep dan Teori Psikologi - Fungsi dan perubahan perilaku manusia sepanjang hayat)",
+    "indicatorId": "1.1",
+    "indicatorFullId": "D3-1.1",
+    "indicatorTitle": "Membedakan tiga pendekatan utama (pendekatan humanistik, pendekatan kognitif perilakuan, pendekatan perilakuan) dalam memahami perilaku manusia",
+    "caseStudy": {
+      "title": "Studi Kasus 10: Komparasi Pendekatan Humanistik, Perilakuan (Behavioral), dan Kognitif Perilakuan (CBT) pada Kasus Fobia/Kecemasan (Kasus 10)",
+      "scenario": "Seorang klien, Sdr. Danu (28 tahun), mengalami ketakutan luar biasa berbicara di depan umum. Klien mengeluhkan: (1) Perilaku menghindar dan gemetar hebat setiap kali mendekati panggung, (2) Pikiran otomatis negatif: \"Semua orang akan tertawa dan mempermalukan saya\", (3) Perasaan kehilangan makna diri dan terhambatnya dorongan aktualisasi diri potensi kepemimpinannya. Psikolog membandingkan interpretasi teoretis antara Pendekatan Humanistik (Carl Rogers), Pendekatan Perilakuan/Behavioral (Skinner/Pavlov), dan Pendekatan Kognitif Perilakuan/CBT (Beck/Ellis).",
+      "contextTags": [
+        "Humanistik",
+        "Behavioral",
+        "CBT",
+        "Pendekatan Teoretis"
+      ]
+    },
+    "question": "Pernyataan manakah yang PALING tepat dalam membedakan penekanan fokus analisis antara ketiga pendekatan tersebut bagi kasus Sdr. Danu?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Humanistik memfokuskan pada pengondisian operan reward/punishment, Behavioral memfokuskan pada distorsi kognitif, CBT memfokuskan pada aktualisasi diri."
+      },
+      {
+        "id": "B",
+        "text": "Behavioral menelaah respons kondisikan menghindar (classical/operant conditioning), CBT menelaah restrukturisasi pola pikir otomatis irasional, Humanistik menelaah hambatan aktualisasi diri dan inkongruensi diri (self-incongruence)."
+      },
+      {
+        "id": "C",
+        "text": "Ketiga pendekatan tersebut memiliki konsep dan pandangan filosofis yang 100% identik tanpa perbedaan apapun."
+      },
+      {
+        "id": "D",
+        "text": "CBT memfokuskan pada ketidaksadaran Oedipus complex, Behavioral memfokuskan pada transmutasi jiwa spiritual, Humanistik memfokuskan pada obat-obatan medis."
+      }
+    ],
+    "key": "B",
+    "explanation": "Perbedaan mendasar 3 pendekatan utama: (1) Behavioral berfokus pada perilaku teramati dan pengondisian stimulus-respons, (2) CBT berfokus pada keterkaitan antara pikiran otomatis/skema kognitif dan perilaku, (3) Humanistik berfokus pada otonomi, aktualisasi diri, fenomena subjektif, dan inkongruensi diri."
+  },
+  {
+    "id": "D3_I2.1_Q1",
+    "domainId": 3,
+    "domainTitle": "Penguasaan Pengetahuan/Keilmuan (Konsep dan Teori Psikologi - Fungsi dan perubahan perilaku manusia sepanjang hayat)",
+    "indicatorId": "2.1",
+    "indicatorFullId": "D3-2.1",
+    "indicatorTitle": "Merinci fungsi dan perubahan perilaku manusia berdasarkan aspek perkembangan fisik, kognitif, sosial, emosi, moral, spiritual",
+    "caseStudy": {
+      "title": "Studi Kasus 1: Perubahan Fungsi Perilaku Lansia dalam Aspek Kognitif, Emosi, dan Spiritual (Kasus 1)",
+      "scenario": "Bapak Subroto (68 tahun) baru saja memasuki masa pensiun dari jabatan eksekutif. Beliau mengeluhkan penurunan kecepatan pemrosesan kognitif (fluid intelligence), perasaan tidak berguna (stagnation vs integrity dalam teori Erikson), namun menunjukkan peningkatan kedewasaan spiritual dan penalaran moral pasca-konvensional. Psikolog merinci dinamika perubahan perkembangan sepanjang hayat (lifespan development).",
+      "contextTags": [
+        "Lifespan Development",
+        "Erikson Integrity",
+        "Kognitif Lansia",
+        "Spiritualitas"
+      ]
+    },
+    "question": "Berdasarkan teori perkembangan sepanjang hayat, perubahan manakah yang mencerminkan tugas perkembangan emosional lansia yang berhasil menurut Erikson?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Mengembangkan kecemasan kematian dan rasa putus asa (despair) akibat penurunan fungsi fisik."
+      },
+      {
+        "id": "B",
+        "text": "Mencapai Ego Integrity (integritas diri) di mana individu menerima perjalanan hidupnya secara bermakna dan bijaksana tanpa penyesalan mendalam."
+      },
+      {
+        "id": "C",
+        "text": "Mengalami regresi perilaku kognitif kembali ke tahap egosentrisme anak pra-operasional Piaget."
+      },
+      {
+        "id": "D",
+        "text": "Memaksa diri kembali bekerja 18 jam sehari untuk membuktikan fisik muda."
+      }
+    ],
+    "key": "B",
+    "explanation": "Dalam teori Erik Erikson, tahap perkembangan dewasa akhir/lansia adalah Ego Integrity vs Despair. Integritas ego dicapai ketika lansia mampu menerima perjalanan hidupnya dengan makna penuh dan kebijaksanaan."
+  },
+  {
+    "id": "D3_I2.1_Q2",
+    "domainId": 3,
+    "domainTitle": "Penguasaan Pengetahuan/Keilmuan (Konsep dan Teori Psikologi - Fungsi dan perubahan perilaku manusia sepanjang hayat)",
+    "indicatorId": "2.1",
+    "indicatorFullId": "D3-2.1",
+    "indicatorTitle": "Merinci fungsi dan perubahan perilaku manusia berdasarkan aspek perkembangan fisik, kognitif, sosial, emosi, moral, spiritual",
+    "caseStudy": {
+      "title": "Studi Kasus 2: Perubahan Fungsi Perilaku Lansia dalam Aspek Kognitif, Emosi, dan Spiritual (Kasus 2)",
+      "scenario": "Bapak Subroto (68 tahun) baru saja memasuki masa pensiun dari jabatan eksekutif. Beliau mengeluhkan penurunan kecepatan pemrosesan kognitif (fluid intelligence), perasaan tidak berguna (stagnation vs integrity dalam teori Erikson), namun menunjukkan peningkatan kedewasaan spiritual dan penalaran moral pasca-konvensional. Psikolog merinci dinamika perubahan perkembangan sepanjang hayat (lifespan development).",
+      "contextTags": [
+        "Lifespan Development",
+        "Erikson Integrity",
+        "Kognitif Lansia",
+        "Spiritualitas"
+      ]
+    },
+    "question": "Berdasarkan teori perkembangan sepanjang hayat, perubahan manakah yang mencerminkan tugas perkembangan emosional lansia yang berhasil menurut Erikson?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Mengembangkan kecemasan kematian dan rasa putus asa (despair) akibat penurunan fungsi fisik."
+      },
+      {
+        "id": "B",
+        "text": "Mencapai Ego Integrity (integritas diri) di mana individu menerima perjalanan hidupnya secara bermakna dan bijaksana tanpa penyesalan mendalam."
+      },
+      {
+        "id": "C",
+        "text": "Mengalami regresi perilaku kognitif kembali ke tahap egosentrisme anak pra-operasional Piaget."
+      },
+      {
+        "id": "D",
+        "text": "Memaksa diri kembali bekerja 18 jam sehari untuk membuktikan fisik muda."
+      }
+    ],
+    "key": "B",
+    "explanation": "Dalam teori Erik Erikson, tahap perkembangan dewasa akhir/lansia adalah Ego Integrity vs Despair. Integritas ego dicapai ketika lansia mampu menerima perjalanan hidupnya dengan makna penuh dan kebijaksanaan."
+  },
+  {
+    "id": "D3_I2.1_Q3",
+    "domainId": 3,
+    "domainTitle": "Penguasaan Pengetahuan/Keilmuan (Konsep dan Teori Psikologi - Fungsi dan perubahan perilaku manusia sepanjang hayat)",
+    "indicatorId": "2.1",
+    "indicatorFullId": "D3-2.1",
+    "indicatorTitle": "Merinci fungsi dan perubahan perilaku manusia berdasarkan aspek perkembangan fisik, kognitif, sosial, emosi, moral, spiritual",
+    "caseStudy": {
+      "title": "Studi Kasus 3: Perubahan Fungsi Perilaku Lansia dalam Aspek Kognitif, Emosi, dan Spiritual (Kasus 3)",
+      "scenario": "Bapak Subroto (68 tahun) baru saja memasuki masa pensiun dari jabatan eksekutif. Beliau mengeluhkan penurunan kecepatan pemrosesan kognitif (fluid intelligence), perasaan tidak berguna (stagnation vs integrity dalam teori Erikson), namun menunjukkan peningkatan kedewasaan spiritual dan penalaran moral pasca-konvensional. Psikolog merinci dinamika perubahan perkembangan sepanjang hayat (lifespan development).",
+      "contextTags": [
+        "Lifespan Development",
+        "Erikson Integrity",
+        "Kognitif Lansia",
+        "Spiritualitas"
+      ]
+    },
+    "question": "Berdasarkan teori perkembangan sepanjang hayat, perubahan manakah yang mencerminkan tugas perkembangan emosional lansia yang berhasil menurut Erikson?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Mengembangkan kecemasan kematian dan rasa putus asa (despair) akibat penurunan fungsi fisik."
+      },
+      {
+        "id": "B",
+        "text": "Mencapai Ego Integrity (integritas diri) di mana individu menerima perjalanan hidupnya secara bermakna dan bijaksana tanpa penyesalan mendalam."
+      },
+      {
+        "id": "C",
+        "text": "Mengalami regresi perilaku kognitif kembali ke tahap egosentrisme anak pra-operasional Piaget."
+      },
+      {
+        "id": "D",
+        "text": "Memaksa diri kembali bekerja 18 jam sehari untuk membuktikan fisik muda."
+      }
+    ],
+    "key": "B",
+    "explanation": "Dalam teori Erik Erikson, tahap perkembangan dewasa akhir/lansia adalah Ego Integrity vs Despair. Integritas ego dicapai ketika lansia mampu menerima perjalanan hidupnya dengan makna penuh dan kebijaksanaan."
+  },
+  {
+    "id": "D3_I2.1_Q4",
+    "domainId": 3,
+    "domainTitle": "Penguasaan Pengetahuan/Keilmuan (Konsep dan Teori Psikologi - Fungsi dan perubahan perilaku manusia sepanjang hayat)",
+    "indicatorId": "2.1",
+    "indicatorFullId": "D3-2.1",
+    "indicatorTitle": "Merinci fungsi dan perubahan perilaku manusia berdasarkan aspek perkembangan fisik, kognitif, sosial, emosi, moral, spiritual",
+    "caseStudy": {
+      "title": "Studi Kasus 4: Perubahan Fungsi Perilaku Lansia dalam Aspek Kognitif, Emosi, dan Spiritual (Kasus 4)",
+      "scenario": "Bapak Subroto (68 tahun) baru saja memasuki masa pensiun dari jabatan eksekutif. Beliau mengeluhkan penurunan kecepatan pemrosesan kognitif (fluid intelligence), perasaan tidak berguna (stagnation vs integrity dalam teori Erikson), namun menunjukkan peningkatan kedewasaan spiritual dan penalaran moral pasca-konvensional. Psikolog merinci dinamika perubahan perkembangan sepanjang hayat (lifespan development).",
+      "contextTags": [
+        "Lifespan Development",
+        "Erikson Integrity",
+        "Kognitif Lansia",
+        "Spiritualitas"
+      ]
+    },
+    "question": "Berdasarkan teori perkembangan sepanjang hayat, perubahan manakah yang mencerminkan tugas perkembangan emosional lansia yang berhasil menurut Erikson?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Mengembangkan kecemasan kematian dan rasa putus asa (despair) akibat penurunan fungsi fisik."
+      },
+      {
+        "id": "B",
+        "text": "Mencapai Ego Integrity (integritas diri) di mana individu menerima perjalanan hidupnya secara bermakna dan bijaksana tanpa penyesalan mendalam."
+      },
+      {
+        "id": "C",
+        "text": "Mengalami regresi perilaku kognitif kembali ke tahap egosentrisme anak pra-operasional Piaget."
+      },
+      {
+        "id": "D",
+        "text": "Memaksa diri kembali bekerja 18 jam sehari untuk membuktikan fisik muda."
+      }
+    ],
+    "key": "B",
+    "explanation": "Dalam teori Erik Erikson, tahap perkembangan dewasa akhir/lansia adalah Ego Integrity vs Despair. Integritas ego dicapai ketika lansia mampu menerima perjalanan hidupnya dengan makna penuh dan kebijaksanaan."
+  },
+  {
+    "id": "D3_I2.1_Q5",
+    "domainId": 3,
+    "domainTitle": "Penguasaan Pengetahuan/Keilmuan (Konsep dan Teori Psikologi - Fungsi dan perubahan perilaku manusia sepanjang hayat)",
+    "indicatorId": "2.1",
+    "indicatorFullId": "D3-2.1",
+    "indicatorTitle": "Merinci fungsi dan perubahan perilaku manusia berdasarkan aspek perkembangan fisik, kognitif, sosial, emosi, moral, spiritual",
+    "caseStudy": {
+      "title": "Studi Kasus 5: Perubahan Fungsi Perilaku Lansia dalam Aspek Kognitif, Emosi, dan Spiritual (Kasus 5)",
+      "scenario": "Bapak Subroto (68 tahun) baru saja memasuki masa pensiun dari jabatan eksekutif. Beliau mengeluhkan penurunan kecepatan pemrosesan kognitif (fluid intelligence), perasaan tidak berguna (stagnation vs integrity dalam teori Erikson), namun menunjukkan peningkatan kedewasaan spiritual dan penalaran moral pasca-konvensional. Psikolog merinci dinamika perubahan perkembangan sepanjang hayat (lifespan development).",
+      "contextTags": [
+        "Lifespan Development",
+        "Erikson Integrity",
+        "Kognitif Lansia",
+        "Spiritualitas"
+      ]
+    },
+    "question": "Berdasarkan teori perkembangan sepanjang hayat, perubahan manakah yang mencerminkan tugas perkembangan emosional lansia yang berhasil menurut Erikson?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Mengembangkan kecemasan kematian dan rasa putus asa (despair) akibat penurunan fungsi fisik."
+      },
+      {
+        "id": "B",
+        "text": "Mencapai Ego Integrity (integritas diri) di mana individu menerima perjalanan hidupnya secara bermakna dan bijaksana tanpa penyesalan mendalam."
+      },
+      {
+        "id": "C",
+        "text": "Mengalami regresi perilaku kognitif kembali ke tahap egosentrisme anak pra-operasional Piaget."
+      },
+      {
+        "id": "D",
+        "text": "Memaksa diri kembali bekerja 18 jam sehari untuk membuktikan fisik muda."
+      }
+    ],
+    "key": "B",
+    "explanation": "Dalam teori Erik Erikson, tahap perkembangan dewasa akhir/lansia adalah Ego Integrity vs Despair. Integritas ego dicapai ketika lansia mampu menerima perjalanan hidupnya dengan makna penuh dan kebijaksanaan."
+  },
+  {
+    "id": "D3_I2.1_Q6",
+    "domainId": 3,
+    "domainTitle": "Penguasaan Pengetahuan/Keilmuan (Konsep dan Teori Psikologi - Fungsi dan perubahan perilaku manusia sepanjang hayat)",
+    "indicatorId": "2.1",
+    "indicatorFullId": "D3-2.1",
+    "indicatorTitle": "Merinci fungsi dan perubahan perilaku manusia berdasarkan aspek perkembangan fisik, kognitif, sosial, emosi, moral, spiritual",
+    "caseStudy": {
+      "title": "Studi Kasus 6: Perubahan Fungsi Perilaku Lansia dalam Aspek Kognitif, Emosi, dan Spiritual (Kasus 6)",
+      "scenario": "Bapak Subroto (68 tahun) baru saja memasuki masa pensiun dari jabatan eksekutif. Beliau mengeluhkan penurunan kecepatan pemrosesan kognitif (fluid intelligence), perasaan tidak berguna (stagnation vs integrity dalam teori Erikson), namun menunjukkan peningkatan kedewasaan spiritual dan penalaran moral pasca-konvensional. Psikolog merinci dinamika perubahan perkembangan sepanjang hayat (lifespan development).",
+      "contextTags": [
+        "Lifespan Development",
+        "Erikson Integrity",
+        "Kognitif Lansia",
+        "Spiritualitas"
+      ]
+    },
+    "question": "Berdasarkan teori perkembangan sepanjang hayat, perubahan manakah yang mencerminkan tugas perkembangan emosional lansia yang berhasil menurut Erikson?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Mengembangkan kecemasan kematian dan rasa putus asa (despair) akibat penurunan fungsi fisik."
+      },
+      {
+        "id": "B",
+        "text": "Mencapai Ego Integrity (integritas diri) di mana individu menerima perjalanan hidupnya secara bermakna dan bijaksana tanpa penyesalan mendalam."
+      },
+      {
+        "id": "C",
+        "text": "Mengalami regresi perilaku kognitif kembali ke tahap egosentrisme anak pra-operasional Piaget."
+      },
+      {
+        "id": "D",
+        "text": "Memaksa diri kembali bekerja 18 jam sehari untuk membuktikan fisik muda."
+      }
+    ],
+    "key": "B",
+    "explanation": "Dalam teori Erik Erikson, tahap perkembangan dewasa akhir/lansia adalah Ego Integrity vs Despair. Integritas ego dicapai ketika lansia mampu menerima perjalanan hidupnya dengan makna penuh dan kebijaksanaan."
+  },
+  {
+    "id": "D3_I2.1_Q7",
+    "domainId": 3,
+    "domainTitle": "Penguasaan Pengetahuan/Keilmuan (Konsep dan Teori Psikologi - Fungsi dan perubahan perilaku manusia sepanjang hayat)",
+    "indicatorId": "2.1",
+    "indicatorFullId": "D3-2.1",
+    "indicatorTitle": "Merinci fungsi dan perubahan perilaku manusia berdasarkan aspek perkembangan fisik, kognitif, sosial, emosi, moral, spiritual",
+    "caseStudy": {
+      "title": "Studi Kasus 7: Perubahan Fungsi Perilaku Lansia dalam Aspek Kognitif, Emosi, dan Spiritual (Kasus 7)",
+      "scenario": "Bapak Subroto (68 tahun) baru saja memasuki masa pensiun dari jabatan eksekutif. Beliau mengeluhkan penurunan kecepatan pemrosesan kognitif (fluid intelligence), perasaan tidak berguna (stagnation vs integrity dalam teori Erikson), namun menunjukkan peningkatan kedewasaan spiritual dan penalaran moral pasca-konvensional. Psikolog merinci dinamika perubahan perkembangan sepanjang hayat (lifespan development).",
+      "contextTags": [
+        "Lifespan Development",
+        "Erikson Integrity",
+        "Kognitif Lansia",
+        "Spiritualitas"
+      ]
+    },
+    "question": "Berdasarkan teori perkembangan sepanjang hayat, perubahan manakah yang mencerminkan tugas perkembangan emosional lansia yang berhasil menurut Erikson?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Mengembangkan kecemasan kematian dan rasa putus asa (despair) akibat penurunan fungsi fisik."
+      },
+      {
+        "id": "B",
+        "text": "Mencapai Ego Integrity (integritas diri) di mana individu menerima perjalanan hidupnya secara bermakna dan bijaksana tanpa penyesalan mendalam."
+      },
+      {
+        "id": "C",
+        "text": "Mengalami regresi perilaku kognitif kembali ke tahap egosentrisme anak pra-operasional Piaget."
+      },
+      {
+        "id": "D",
+        "text": "Memaksa diri kembali bekerja 18 jam sehari untuk membuktikan fisik muda."
+      }
+    ],
+    "key": "B",
+    "explanation": "Dalam teori Erik Erikson, tahap perkembangan dewasa akhir/lansia adalah Ego Integrity vs Despair. Integritas ego dicapai ketika lansia mampu menerima perjalanan hidupnya dengan makna penuh dan kebijaksanaan."
+  },
+  {
+    "id": "D3_I2.1_Q8",
+    "domainId": 3,
+    "domainTitle": "Penguasaan Pengetahuan/Keilmuan (Konsep dan Teori Psikologi - Fungsi dan perubahan perilaku manusia sepanjang hayat)",
+    "indicatorId": "2.1",
+    "indicatorFullId": "D3-2.1",
+    "indicatorTitle": "Merinci fungsi dan perubahan perilaku manusia berdasarkan aspek perkembangan fisik, kognitif, sosial, emosi, moral, spiritual",
+    "caseStudy": {
+      "title": "Studi Kasus 8: Perubahan Fungsi Perilaku Lansia dalam Aspek Kognitif, Emosi, dan Spiritual (Kasus 8)",
+      "scenario": "Bapak Subroto (68 tahun) baru saja memasuki masa pensiun dari jabatan eksekutif. Beliau mengeluhkan penurunan kecepatan pemrosesan kognitif (fluid intelligence), perasaan tidak berguna (stagnation vs integrity dalam teori Erikson), namun menunjukkan peningkatan kedewasaan spiritual dan penalaran moral pasca-konvensional. Psikolog merinci dinamika perubahan perkembangan sepanjang hayat (lifespan development).",
+      "contextTags": [
+        "Lifespan Development",
+        "Erikson Integrity",
+        "Kognitif Lansia",
+        "Spiritualitas"
+      ]
+    },
+    "question": "Berdasarkan teori perkembangan sepanjang hayat, perubahan manakah yang mencerminkan tugas perkembangan emosional lansia yang berhasil menurut Erikson?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Mengembangkan kecemasan kematian dan rasa putus asa (despair) akibat penurunan fungsi fisik."
+      },
+      {
+        "id": "B",
+        "text": "Mencapai Ego Integrity (integritas diri) di mana individu menerima perjalanan hidupnya secara bermakna dan bijaksana tanpa penyesalan mendalam."
+      },
+      {
+        "id": "C",
+        "text": "Mengalami regresi perilaku kognitif kembali ke tahap egosentrisme anak pra-operasional Piaget."
+      },
+      {
+        "id": "D",
+        "text": "Memaksa diri kembali bekerja 18 jam sehari untuk membuktikan fisik muda."
+      }
+    ],
+    "key": "B",
+    "explanation": "Dalam teori Erik Erikson, tahap perkembangan dewasa akhir/lansia adalah Ego Integrity vs Despair. Integritas ego dicapai ketika lansia mampu menerima perjalanan hidupnya dengan makna penuh dan kebijaksanaan."
+  },
+  {
+    "id": "D3_I2.1_Q9",
+    "domainId": 3,
+    "domainTitle": "Penguasaan Pengetahuan/Keilmuan (Konsep dan Teori Psikologi - Fungsi dan perubahan perilaku manusia sepanjang hayat)",
+    "indicatorId": "2.1",
+    "indicatorFullId": "D3-2.1",
+    "indicatorTitle": "Merinci fungsi dan perubahan perilaku manusia berdasarkan aspek perkembangan fisik, kognitif, sosial, emosi, moral, spiritual",
+    "caseStudy": {
+      "title": "Studi Kasus 9: Perubahan Fungsi Perilaku Lansia dalam Aspek Kognitif, Emosi, dan Spiritual (Kasus 9)",
+      "scenario": "Bapak Subroto (68 tahun) baru saja memasuki masa pensiun dari jabatan eksekutif. Beliau mengeluhkan penurunan kecepatan pemrosesan kognitif (fluid intelligence), perasaan tidak berguna (stagnation vs integrity dalam teori Erikson), namun menunjukkan peningkatan kedewasaan spiritual dan penalaran moral pasca-konvensional. Psikolog merinci dinamika perubahan perkembangan sepanjang hayat (lifespan development).",
+      "contextTags": [
+        "Lifespan Development",
+        "Erikson Integrity",
+        "Kognitif Lansia",
+        "Spiritualitas"
+      ]
+    },
+    "question": "Berdasarkan teori perkembangan sepanjang hayat, perubahan manakah yang mencerminkan tugas perkembangan emosional lansia yang berhasil menurut Erikson?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Mengembangkan kecemasan kematian dan rasa putus asa (despair) akibat penurunan fungsi fisik."
+      },
+      {
+        "id": "B",
+        "text": "Mencapai Ego Integrity (integritas diri) di mana individu menerima perjalanan hidupnya secara bermakna dan bijaksana tanpa penyesalan mendalam."
+      },
+      {
+        "id": "C",
+        "text": "Mengalami regresi perilaku kognitif kembali ke tahap egosentrisme anak pra-operasional Piaget."
+      },
+      {
+        "id": "D",
+        "text": "Memaksa diri kembali bekerja 18 jam sehari untuk membuktikan fisik muda."
+      }
+    ],
+    "key": "B",
+    "explanation": "Dalam teori Erik Erikson, tahap perkembangan dewasa akhir/lansia adalah Ego Integrity vs Despair. Integritas ego dicapai ketika lansia mampu menerima perjalanan hidupnya dengan makna penuh dan kebijaksanaan."
+  },
+  {
+    "id": "D3_I2.1_Q10",
+    "domainId": 3,
+    "domainTitle": "Penguasaan Pengetahuan/Keilmuan (Konsep dan Teori Psikologi - Fungsi dan perubahan perilaku manusia sepanjang hayat)",
+    "indicatorId": "2.1",
+    "indicatorFullId": "D3-2.1",
+    "indicatorTitle": "Merinci fungsi dan perubahan perilaku manusia berdasarkan aspek perkembangan fisik, kognitif, sosial, emosi, moral, spiritual",
+    "caseStudy": {
+      "title": "Studi Kasus 10: Perubahan Fungsi Perilaku Lansia dalam Aspek Kognitif, Emosi, dan Spiritual (Kasus 10)",
+      "scenario": "Bapak Subroto (68 tahun) baru saja memasuki masa pensiun dari jabatan eksekutif. Beliau mengeluhkan penurunan kecepatan pemrosesan kognitif (fluid intelligence), perasaan tidak berguna (stagnation vs integrity dalam teori Erikson), namun menunjukkan peningkatan kedewasaan spiritual dan penalaran moral pasca-konvensional. Psikolog merinci dinamika perubahan perkembangan sepanjang hayat (lifespan development).",
+      "contextTags": [
+        "Lifespan Development",
+        "Erikson Integrity",
+        "Kognitif Lansia",
+        "Spiritualitas"
+      ]
+    },
+    "question": "Berdasarkan teori perkembangan sepanjang hayat, perubahan manakah yang mencerminkan tugas perkembangan emosional lansia yang berhasil menurut Erikson?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Mengembangkan kecemasan kematian dan rasa putus asa (despair) akibat penurunan fungsi fisik."
+      },
+      {
+        "id": "B",
+        "text": "Mencapai Ego Integrity (integritas diri) di mana individu menerima perjalanan hidupnya secara bermakna dan bijaksana tanpa penyesalan mendalam."
+      },
+      {
+        "id": "C",
+        "text": "Mengalami regresi perilaku kognitif kembali ke tahap egosentrisme anak pra-operasional Piaget."
+      },
+      {
+        "id": "D",
+        "text": "Memaksa diri kembali bekerja 18 jam sehari untuk membuktikan fisik muda."
+      }
+    ],
+    "key": "B",
+    "explanation": "Dalam teori Erik Erikson, tahap perkembangan dewasa akhir/lansia adalah Ego Integrity vs Despair. Integritas ego dicapai ketika lansia mampu menerima perjalanan hidupnya dengan makna penuh dan kebijaksanaan."
+  },
+  {
+    "id": "D3_I3.1_Q1",
+    "domainId": 3,
+    "domainTitle": "Penguasaan Pengetahuan/Keilmuan (Konsep dan Teori Psikologi - Fungsi dan perubahan perilaku manusia sepanjang hayat)",
+    "indicatorId": "3.1",
+    "indicatorFullId": "D3-3.1",
+    "indicatorTitle": "Menelaah potensi dan karakteristik bawaan individu dari perspektif teori perkembangan manusia",
+    "caseStudy": {
+      "title": "Studi Kasus 1: Menelaah Potensi Temperamen Bawaan (Nature) dan Lingkungan Pengasuhan (Nurture) pada Anak (Kasus 1)",
+      "scenario": "Anak balita bernama Maya (4 tahun) sejak bayi memiliki karakter temperamen 'difficult child' (sensitif, mudah menangis, reaksi tinggi terhadap stimulus baru). Orang tuanya memberikan pengasuhan 'goodness-of-fit' yang hangat, sabar, dan terstruktur. Psikolog menelaah interaksi antara potensi bawaan temperamen biologis (nature) dan intervensi lingkungan pola asuh (nurture) terhadap perkembangan regulasi emosi Maya.",
+      "contextTags": [
+        "Nature vs Nurture",
+        "Temperamen",
+        "Goodness of Fit",
+        "Perkembangan Anak"
+      ]
+    },
+    "question": "Bagaimanakah penelaahan teoretis yang PALING tepat mengenai potensi bawaan dan pengasuhan dalam kasus Maya?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Temperamen bawaan biologis bersifat 100% kaku dan tidak bisa dipengaruhi sama sekali oleh kualitas pola asuh orang tua."
+      },
+      {
+        "id": "B",
+        "text": "Karakteristik temperamen bawaan anak berinteraksi secara dinamis dengan pengasuhan 'goodness-of-fit', di mana lingkungan yang responsif mampu membentuk regulasi emosi adaptif tanpa mengubah ketahanan saraf dasar anak."
+      },
+      {
+        "id": "C",
+        "text": "Pola asuh orang tua adalah 100% penentu tunggal kepribadian anak, sedangkan faktor biologis bawaan tidak memiliki pengaruh apapun."
+      },
+      {
+        "id": "D",
+        "text": "Temperamen anak disebabkan oleh gangguan sihir medis yang harus disembuhkan dengan ramuan tradisional."
+      }
+    ],
+    "key": "B",
+    "explanation": "Perspektif psikologi perkembangan modern menekankan interaksi nature-nurture. Potensi/temperamen bawaan biologis anak dibentuk dan disesuaikan melalui pengasuhan yang sesuai (goodness-of-fit) untuk mencapai regulasi emosi adaptif."
+  },
+  {
+    "id": "D3_I3.1_Q2",
+    "domainId": 3,
+    "domainTitle": "Penguasaan Pengetahuan/Keilmuan (Konsep dan Teori Psikologi - Fungsi dan perubahan perilaku manusia sepanjang hayat)",
+    "indicatorId": "3.1",
+    "indicatorFullId": "D3-3.1",
+    "indicatorTitle": "Menelaah potensi dan karakteristik bawaan individu dari perspektif teori perkembangan manusia",
+    "caseStudy": {
+      "title": "Studi Kasus 2: Menelaah Potensi Temperamen Bawaan (Nature) dan Lingkungan Pengasuhan (Nurture) pada Anak (Kasus 2)",
+      "scenario": "Anak balita bernama Maya (4 tahun) sejak bayi memiliki karakter temperamen 'difficult child' (sensitif, mudah menangis, reaksi tinggi terhadap stimulus baru). Orang tuanya memberikan pengasuhan 'goodness-of-fit' yang hangat, sabar, dan terstruktur. Psikolog menelaah interaksi antara potensi bawaan temperamen biologis (nature) dan intervensi lingkungan pola asuh (nurture) terhadap perkembangan regulasi emosi Maya.",
+      "contextTags": [
+        "Nature vs Nurture",
+        "Temperamen",
+        "Goodness of Fit",
+        "Perkembangan Anak"
+      ]
+    },
+    "question": "Bagaimanakah penelaahan teoretis yang PALING tepat mengenai potensi bawaan dan pengasuhan dalam kasus Maya?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Temperamen bawaan biologis bersifat 100% kaku dan tidak bisa dipengaruhi sama sekali oleh kualitas pola asuh orang tua."
+      },
+      {
+        "id": "B",
+        "text": "Karakteristik temperamen bawaan anak berinteraksi secara dinamis dengan pengasuhan 'goodness-of-fit', di mana lingkungan yang responsif mampu membentuk regulasi emosi adaptif tanpa mengubah ketahanan saraf dasar anak."
+      },
+      {
+        "id": "C",
+        "text": "Pola asuh orang tua adalah 100% penentu tunggal kepribadian anak, sedangkan faktor biologis bawaan tidak memiliki pengaruh apapun."
+      },
+      {
+        "id": "D",
+        "text": "Temperamen anak disebabkan oleh gangguan sihir medis yang harus disembuhkan dengan ramuan tradisional."
+      }
+    ],
+    "key": "B",
+    "explanation": "Perspektif psikologi perkembangan modern menekankan interaksi nature-nurture. Potensi/temperamen bawaan biologis anak dibentuk dan disesuaikan melalui pengasuhan yang sesuai (goodness-of-fit) untuk mencapai regulasi emosi adaptif."
+  },
+  {
+    "id": "D3_I3.1_Q3",
+    "domainId": 3,
+    "domainTitle": "Penguasaan Pengetahuan/Keilmuan (Konsep dan Teori Psikologi - Fungsi dan perubahan perilaku manusia sepanjang hayat)",
+    "indicatorId": "3.1",
+    "indicatorFullId": "D3-3.1",
+    "indicatorTitle": "Menelaah potensi dan karakteristik bawaan individu dari perspektif teori perkembangan manusia",
+    "caseStudy": {
+      "title": "Studi Kasus 3: Menelaah Potensi Temperamen Bawaan (Nature) dan Lingkungan Pengasuhan (Nurture) pada Anak (Kasus 3)",
+      "scenario": "Anak balita bernama Maya (4 tahun) sejak bayi memiliki karakter temperamen 'difficult child' (sensitif, mudah menangis, reaksi tinggi terhadap stimulus baru). Orang tuanya memberikan pengasuhan 'goodness-of-fit' yang hangat, sabar, dan terstruktur. Psikolog menelaah interaksi antara potensi bawaan temperamen biologis (nature) dan intervensi lingkungan pola asuh (nurture) terhadap perkembangan regulasi emosi Maya.",
+      "contextTags": [
+        "Nature vs Nurture",
+        "Temperamen",
+        "Goodness of Fit",
+        "Perkembangan Anak"
+      ]
+    },
+    "question": "Bagaimanakah penelaahan teoretis yang PALING tepat mengenai potensi bawaan dan pengasuhan dalam kasus Maya?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Temperamen bawaan biologis bersifat 100% kaku dan tidak bisa dipengaruhi sama sekali oleh kualitas pola asuh orang tua."
+      },
+      {
+        "id": "B",
+        "text": "Karakteristik temperamen bawaan anak berinteraksi secara dinamis dengan pengasuhan 'goodness-of-fit', di mana lingkungan yang responsif mampu membentuk regulasi emosi adaptif tanpa mengubah ketahanan saraf dasar anak."
+      },
+      {
+        "id": "C",
+        "text": "Pola asuh orang tua adalah 100% penentu tunggal kepribadian anak, sedangkan faktor biologis bawaan tidak memiliki pengaruh apapun."
+      },
+      {
+        "id": "D",
+        "text": "Temperamen anak disebabkan oleh gangguan sihir medis yang harus disembuhkan dengan ramuan tradisional."
+      }
+    ],
+    "key": "B",
+    "explanation": "Perspektif psikologi perkembangan modern menekankan interaksi nature-nurture. Potensi/temperamen bawaan biologis anak dibentuk dan disesuaikan melalui pengasuhan yang sesuai (goodness-of-fit) untuk mencapai regulasi emosi adaptif."
+  },
+  {
+    "id": "D3_I3.1_Q4",
+    "domainId": 3,
+    "domainTitle": "Penguasaan Pengetahuan/Keilmuan (Konsep dan Teori Psikologi - Fungsi dan perubahan perilaku manusia sepanjang hayat)",
+    "indicatorId": "3.1",
+    "indicatorFullId": "D3-3.1",
+    "indicatorTitle": "Menelaah potensi dan karakteristik bawaan individu dari perspektif teori perkembangan manusia",
+    "caseStudy": {
+      "title": "Studi Kasus 4: Menelaah Potensi Temperamen Bawaan (Nature) dan Lingkungan Pengasuhan (Nurture) pada Anak (Kasus 4)",
+      "scenario": "Anak balita bernama Maya (4 tahun) sejak bayi memiliki karakter temperamen 'difficult child' (sensitif, mudah menangis, reaksi tinggi terhadap stimulus baru). Orang tuanya memberikan pengasuhan 'goodness-of-fit' yang hangat, sabar, dan terstruktur. Psikolog menelaah interaksi antara potensi bawaan temperamen biologis (nature) dan intervensi lingkungan pola asuh (nurture) terhadap perkembangan regulasi emosi Maya.",
+      "contextTags": [
+        "Nature vs Nurture",
+        "Temperamen",
+        "Goodness of Fit",
+        "Perkembangan Anak"
+      ]
+    },
+    "question": "Bagaimanakah penelaahan teoretis yang PALING tepat mengenai potensi bawaan dan pengasuhan dalam kasus Maya?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Temperamen bawaan biologis bersifat 100% kaku dan tidak bisa dipengaruhi sama sekali oleh kualitas pola asuh orang tua."
+      },
+      {
+        "id": "B",
+        "text": "Karakteristik temperamen bawaan anak berinteraksi secara dinamis dengan pengasuhan 'goodness-of-fit', di mana lingkungan yang responsif mampu membentuk regulasi emosi adaptif tanpa mengubah ketahanan saraf dasar anak."
+      },
+      {
+        "id": "C",
+        "text": "Pola asuh orang tua adalah 100% penentu tunggal kepribadian anak, sedangkan faktor biologis bawaan tidak memiliki pengaruh apapun."
+      },
+      {
+        "id": "D",
+        "text": "Temperamen anak disebabkan oleh gangguan sihir medis yang harus disembuhkan dengan ramuan tradisional."
+      }
+    ],
+    "key": "B",
+    "explanation": "Perspektif psikologi perkembangan modern menekankan interaksi nature-nurture. Potensi/temperamen bawaan biologis anak dibentuk dan disesuaikan melalui pengasuhan yang sesuai (goodness-of-fit) untuk mencapai regulasi emosi adaptif."
+  },
+  {
+    "id": "D3_I3.1_Q5",
+    "domainId": 3,
+    "domainTitle": "Penguasaan Pengetahuan/Keilmuan (Konsep dan Teori Psikologi - Fungsi dan perubahan perilaku manusia sepanjang hayat)",
+    "indicatorId": "3.1",
+    "indicatorFullId": "D3-3.1",
+    "indicatorTitle": "Menelaah potensi dan karakteristik bawaan individu dari perspektif teori perkembangan manusia",
+    "caseStudy": {
+      "title": "Studi Kasus 5: Menelaah Potensi Temperamen Bawaan (Nature) dan Lingkungan Pengasuhan (Nurture) pada Anak (Kasus 5)",
+      "scenario": "Anak balita bernama Maya (4 tahun) sejak bayi memiliki karakter temperamen 'difficult child' (sensitif, mudah menangis, reaksi tinggi terhadap stimulus baru). Orang tuanya memberikan pengasuhan 'goodness-of-fit' yang hangat, sabar, dan terstruktur. Psikolog menelaah interaksi antara potensi bawaan temperamen biologis (nature) dan intervensi lingkungan pola asuh (nurture) terhadap perkembangan regulasi emosi Maya.",
+      "contextTags": [
+        "Nature vs Nurture",
+        "Temperamen",
+        "Goodness of Fit",
+        "Perkembangan Anak"
+      ]
+    },
+    "question": "Bagaimanakah penelaahan teoretis yang PALING tepat mengenai potensi bawaan dan pengasuhan dalam kasus Maya?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Temperamen bawaan biologis bersifat 100% kaku dan tidak bisa dipengaruhi sama sekali oleh kualitas pola asuh orang tua."
+      },
+      {
+        "id": "B",
+        "text": "Karakteristik temperamen bawaan anak berinteraksi secara dinamis dengan pengasuhan 'goodness-of-fit', di mana lingkungan yang responsif mampu membentuk regulasi emosi adaptif tanpa mengubah ketahanan saraf dasar anak."
+      },
+      {
+        "id": "C",
+        "text": "Pola asuh orang tua adalah 100% penentu tunggal kepribadian anak, sedangkan faktor biologis bawaan tidak memiliki pengaruh apapun."
+      },
+      {
+        "id": "D",
+        "text": "Temperamen anak disebabkan oleh gangguan sihir medis yang harus disembuhkan dengan ramuan tradisional."
+      }
+    ],
+    "key": "B",
+    "explanation": "Perspektif psikologi perkembangan modern menekankan interaksi nature-nurture. Potensi/temperamen bawaan biologis anak dibentuk dan disesuaikan melalui pengasuhan yang sesuai (goodness-of-fit) untuk mencapai regulasi emosi adaptif."
+  },
+  {
+    "id": "D3_I3.1_Q6",
+    "domainId": 3,
+    "domainTitle": "Penguasaan Pengetahuan/Keilmuan (Konsep dan Teori Psikologi - Fungsi dan perubahan perilaku manusia sepanjang hayat)",
+    "indicatorId": "3.1",
+    "indicatorFullId": "D3-3.1",
+    "indicatorTitle": "Menelaah potensi dan karakteristik bawaan individu dari perspektif teori perkembangan manusia",
+    "caseStudy": {
+      "title": "Studi Kasus 6: Menelaah Potensi Temperamen Bawaan (Nature) dan Lingkungan Pengasuhan (Nurture) pada Anak (Kasus 6)",
+      "scenario": "Anak balita bernama Maya (4 tahun) sejak bayi memiliki karakter temperamen 'difficult child' (sensitif, mudah menangis, reaksi tinggi terhadap stimulus baru). Orang tuanya memberikan pengasuhan 'goodness-of-fit' yang hangat, sabar, dan terstruktur. Psikolog menelaah interaksi antara potensi bawaan temperamen biologis (nature) dan intervensi lingkungan pola asuh (nurture) terhadap perkembangan regulasi emosi Maya.",
+      "contextTags": [
+        "Nature vs Nurture",
+        "Temperamen",
+        "Goodness of Fit",
+        "Perkembangan Anak"
+      ]
+    },
+    "question": "Bagaimanakah penelaahan teoretis yang PALING tepat mengenai potensi bawaan dan pengasuhan dalam kasus Maya?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Temperamen bawaan biologis bersifat 100% kaku dan tidak bisa dipengaruhi sama sekali oleh kualitas pola asuh orang tua."
+      },
+      {
+        "id": "B",
+        "text": "Karakteristik temperamen bawaan anak berinteraksi secara dinamis dengan pengasuhan 'goodness-of-fit', di mana lingkungan yang responsif mampu membentuk regulasi emosi adaptif tanpa mengubah ketahanan saraf dasar anak."
+      },
+      {
+        "id": "C",
+        "text": "Pola asuh orang tua adalah 100% penentu tunggal kepribadian anak, sedangkan faktor biologis bawaan tidak memiliki pengaruh apapun."
+      },
+      {
+        "id": "D",
+        "text": "Temperamen anak disebabkan oleh gangguan sihir medis yang harus disembuhkan dengan ramuan tradisional."
+      }
+    ],
+    "key": "B",
+    "explanation": "Perspektif psikologi perkembangan modern menekankan interaksi nature-nurture. Potensi/temperamen bawaan biologis anak dibentuk dan disesuaikan melalui pengasuhan yang sesuai (goodness-of-fit) untuk mencapai regulasi emosi adaptif."
+  },
+  {
+    "id": "D3_I3.1_Q7",
+    "domainId": 3,
+    "domainTitle": "Penguasaan Pengetahuan/Keilmuan (Konsep dan Teori Psikologi - Fungsi dan perubahan perilaku manusia sepanjang hayat)",
+    "indicatorId": "3.1",
+    "indicatorFullId": "D3-3.1",
+    "indicatorTitle": "Menelaah potensi dan karakteristik bawaan individu dari perspektif teori perkembangan manusia",
+    "caseStudy": {
+      "title": "Studi Kasus 7: Menelaah Potensi Temperamen Bawaan (Nature) dan Lingkungan Pengasuhan (Nurture) pada Anak (Kasus 7)",
+      "scenario": "Anak balita bernama Maya (4 tahun) sejak bayi memiliki karakter temperamen 'difficult child' (sensitif, mudah menangis, reaksi tinggi terhadap stimulus baru). Orang tuanya memberikan pengasuhan 'goodness-of-fit' yang hangat, sabar, dan terstruktur. Psikolog menelaah interaksi antara potensi bawaan temperamen biologis (nature) dan intervensi lingkungan pola asuh (nurture) terhadap perkembangan regulasi emosi Maya.",
+      "contextTags": [
+        "Nature vs Nurture",
+        "Temperamen",
+        "Goodness of Fit",
+        "Perkembangan Anak"
+      ]
+    },
+    "question": "Bagaimanakah penelaahan teoretis yang PALING tepat mengenai potensi bawaan dan pengasuhan dalam kasus Maya?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Temperamen bawaan biologis bersifat 100% kaku dan tidak bisa dipengaruhi sama sekali oleh kualitas pola asuh orang tua."
+      },
+      {
+        "id": "B",
+        "text": "Karakteristik temperamen bawaan anak berinteraksi secara dinamis dengan pengasuhan 'goodness-of-fit', di mana lingkungan yang responsif mampu membentuk regulasi emosi adaptif tanpa mengubah ketahanan saraf dasar anak."
+      },
+      {
+        "id": "C",
+        "text": "Pola asuh orang tua adalah 100% penentu tunggal kepribadian anak, sedangkan faktor biologis bawaan tidak memiliki pengaruh apapun."
+      },
+      {
+        "id": "D",
+        "text": "Temperamen anak disebabkan oleh gangguan sihir medis yang harus disembuhkan dengan ramuan tradisional."
+      }
+    ],
+    "key": "B",
+    "explanation": "Perspektif psikologi perkembangan modern menekankan interaksi nature-nurture. Potensi/temperamen bawaan biologis anak dibentuk dan disesuaikan melalui pengasuhan yang sesuai (goodness-of-fit) untuk mencapai regulasi emosi adaptif."
+  },
+  {
+    "id": "D3_I3.1_Q8",
+    "domainId": 3,
+    "domainTitle": "Penguasaan Pengetahuan/Keilmuan (Konsep dan Teori Psikologi - Fungsi dan perubahan perilaku manusia sepanjang hayat)",
+    "indicatorId": "3.1",
+    "indicatorFullId": "D3-3.1",
+    "indicatorTitle": "Menelaah potensi dan karakteristik bawaan individu dari perspektif teori perkembangan manusia",
+    "caseStudy": {
+      "title": "Studi Kasus 8: Menelaah Potensi Temperamen Bawaan (Nature) dan Lingkungan Pengasuhan (Nurture) pada Anak (Kasus 8)",
+      "scenario": "Anak balita bernama Maya (4 tahun) sejak bayi memiliki karakter temperamen 'difficult child' (sensitif, mudah menangis, reaksi tinggi terhadap stimulus baru). Orang tuanya memberikan pengasuhan 'goodness-of-fit' yang hangat, sabar, dan terstruktur. Psikolog menelaah interaksi antara potensi bawaan temperamen biologis (nature) dan intervensi lingkungan pola asuh (nurture) terhadap perkembangan regulasi emosi Maya.",
+      "contextTags": [
+        "Nature vs Nurture",
+        "Temperamen",
+        "Goodness of Fit",
+        "Perkembangan Anak"
+      ]
+    },
+    "question": "Bagaimanakah penelaahan teoretis yang PALING tepat mengenai potensi bawaan dan pengasuhan dalam kasus Maya?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Temperamen bawaan biologis bersifat 100% kaku dan tidak bisa dipengaruhi sama sekali oleh kualitas pola asuh orang tua."
+      },
+      {
+        "id": "B",
+        "text": "Karakteristik temperamen bawaan anak berinteraksi secara dinamis dengan pengasuhan 'goodness-of-fit', di mana lingkungan yang responsif mampu membentuk regulasi emosi adaptif tanpa mengubah ketahanan saraf dasar anak."
+      },
+      {
+        "id": "C",
+        "text": "Pola asuh orang tua adalah 100% penentu tunggal kepribadian anak, sedangkan faktor biologis bawaan tidak memiliki pengaruh apapun."
+      },
+      {
+        "id": "D",
+        "text": "Temperamen anak disebabkan oleh gangguan sihir medis yang harus disembuhkan dengan ramuan tradisional."
+      }
+    ],
+    "key": "B",
+    "explanation": "Perspektif psikologi perkembangan modern menekankan interaksi nature-nurture. Potensi/temperamen bawaan biologis anak dibentuk dan disesuaikan melalui pengasuhan yang sesuai (goodness-of-fit) untuk mencapai regulasi emosi adaptif."
+  },
+  {
+    "id": "D3_I3.1_Q9",
+    "domainId": 3,
+    "domainTitle": "Penguasaan Pengetahuan/Keilmuan (Konsep dan Teori Psikologi - Fungsi dan perubahan perilaku manusia sepanjang hayat)",
+    "indicatorId": "3.1",
+    "indicatorFullId": "D3-3.1",
+    "indicatorTitle": "Menelaah potensi dan karakteristik bawaan individu dari perspektif teori perkembangan manusia",
+    "caseStudy": {
+      "title": "Studi Kasus 9: Menelaah Potensi Temperamen Bawaan (Nature) dan Lingkungan Pengasuhan (Nurture) pada Anak (Kasus 9)",
+      "scenario": "Anak balita bernama Maya (4 tahun) sejak bayi memiliki karakter temperamen 'difficult child' (sensitif, mudah menangis, reaksi tinggi terhadap stimulus baru). Orang tuanya memberikan pengasuhan 'goodness-of-fit' yang hangat, sabar, dan terstruktur. Psikolog menelaah interaksi antara potensi bawaan temperamen biologis (nature) dan intervensi lingkungan pola asuh (nurture) terhadap perkembangan regulasi emosi Maya.",
+      "contextTags": [
+        "Nature vs Nurture",
+        "Temperamen",
+        "Goodness of Fit",
+        "Perkembangan Anak"
+      ]
+    },
+    "question": "Bagaimanakah penelaahan teoretis yang PALING tepat mengenai potensi bawaan dan pengasuhan dalam kasus Maya?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Temperamen bawaan biologis bersifat 100% kaku dan tidak bisa dipengaruhi sama sekali oleh kualitas pola asuh orang tua."
+      },
+      {
+        "id": "B",
+        "text": "Karakteristik temperamen bawaan anak berinteraksi secara dinamis dengan pengasuhan 'goodness-of-fit', di mana lingkungan yang responsif mampu membentuk regulasi emosi adaptif tanpa mengubah ketahanan saraf dasar anak."
+      },
+      {
+        "id": "C",
+        "text": "Pola asuh orang tua adalah 100% penentu tunggal kepribadian anak, sedangkan faktor biologis bawaan tidak memiliki pengaruh apapun."
+      },
+      {
+        "id": "D",
+        "text": "Temperamen anak disebabkan oleh gangguan sihir medis yang harus disembuhkan dengan ramuan tradisional."
+      }
+    ],
+    "key": "B",
+    "explanation": "Perspektif psikologi perkembangan modern menekankan interaksi nature-nurture. Potensi/temperamen bawaan biologis anak dibentuk dan disesuaikan melalui pengasuhan yang sesuai (goodness-of-fit) untuk mencapai regulasi emosi adaptif."
+  },
+  {
+    "id": "D3_I3.1_Q10",
+    "domainId": 3,
+    "domainTitle": "Penguasaan Pengetahuan/Keilmuan (Konsep dan Teori Psikologi - Fungsi dan perubahan perilaku manusia sepanjang hayat)",
+    "indicatorId": "3.1",
+    "indicatorFullId": "D3-3.1",
+    "indicatorTitle": "Menelaah potensi dan karakteristik bawaan individu dari perspektif teori perkembangan manusia",
+    "caseStudy": {
+      "title": "Studi Kasus 10: Menelaah Potensi Temperamen Bawaan (Nature) dan Lingkungan Pengasuhan (Nurture) pada Anak (Kasus 10)",
+      "scenario": "Anak balita bernama Maya (4 tahun) sejak bayi memiliki karakter temperamen 'difficult child' (sensitif, mudah menangis, reaksi tinggi terhadap stimulus baru). Orang tuanya memberikan pengasuhan 'goodness-of-fit' yang hangat, sabar, dan terstruktur. Psikolog menelaah interaksi antara potensi bawaan temperamen biologis (nature) dan intervensi lingkungan pola asuh (nurture) terhadap perkembangan regulasi emosi Maya.",
+      "contextTags": [
+        "Nature vs Nurture",
+        "Temperamen",
+        "Goodness of Fit",
+        "Perkembangan Anak"
+      ]
+    },
+    "question": "Bagaimanakah penelaahan teoretis yang PALING tepat mengenai potensi bawaan dan pengasuhan dalam kasus Maya?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Temperamen bawaan biologis bersifat 100% kaku dan tidak bisa dipengaruhi sama sekali oleh kualitas pola asuh orang tua."
+      },
+      {
+        "id": "B",
+        "text": "Karakteristik temperamen bawaan anak berinteraksi secara dinamis dengan pengasuhan 'goodness-of-fit', di mana lingkungan yang responsif mampu membentuk regulasi emosi adaptif tanpa mengubah ketahanan saraf dasar anak."
+      },
+      {
+        "id": "C",
+        "text": "Pola asuh orang tua adalah 100% penentu tunggal kepribadian anak, sedangkan faktor biologis bawaan tidak memiliki pengaruh apapun."
+      },
+      {
+        "id": "D",
+        "text": "Temperamen anak disebabkan oleh gangguan sihir medis yang harus disembuhkan dengan ramuan tradisional."
+      }
+    ],
+    "key": "B",
+    "explanation": "Perspektif psikologi perkembangan modern menekankan interaksi nature-nurture. Potensi/temperamen bawaan biologis anak dibentuk dan disesuaikan melalui pengasuhan yang sesuai (goodness-of-fit) untuk mencapai regulasi emosi adaptif."
+  }
+]

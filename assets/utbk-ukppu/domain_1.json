@@ -1,0 +1,1952 @@
+[
+  {
+    "id": "D1_I1.1_Q1",
+    "domainId": 1,
+    "domainTitle": "Sikap (Etika, Moral, Pluralitas, dan Empati) & Kegiatan Profesional Psikologi",
+    "indicatorId": "1.1",
+    "indicatorFullId": "D1-1.1",
+    "indicatorTitle": "Kemampuan melakukan asesmen beretika",
+    "caseStudy": {
+      "title": "Studi Kasus 1: Asesmen Psikologis pada Komunitas Adat dengan Keterbatasan Bahasa",
+      "scenario": "Psikolog Aris ditugaskan oleh konsorsium LSM internasional untuk melakukan asesmen psikologis komprehensif terhadap anggota masyarakat adat di daerah pedalaman Indonesia Timur pasca-bencana alam. Saat memulai prosedur, Psikolog Aris menyadari bahwa mayoritas warga desa hanya menguasai bahasa daerah setempat dan tidak paham bahasa resmi surat persetujuan (Informed Consent) standar yang ia bawa. Tokoh adat setempat menawarkan diri untuk menandatangani seluruh lembar persetujuan atas nama seluruh warga tanpa perlu memberikan penjelasan detail kepada masing-masing individu, dengan alasan kepraktisan dan budaya patronasi lokal. Selain itu, tes kecemasan yang dibawanya menggunakan normasi perkotaan Barat.",
+      "contextTags": [
+        "Informed Consent",
+        "Keberagaman Budaya",
+        "Adaptasi Alat Ukur",
+        "Kode Etik HIMPSI"
+      ]
+    },
+    "question": "Berdasarkan Kode Etik Psikologi Indonesia (HIMPSI), tindakan manakah yang PALING tepat dan etis dilakukan oleh Psikolog Aris?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Menerima tanda tangan tokoh adat sebagai perwakilan sah komunitas demi kelancaran proses asesmen tanpa menunda program bantuan darurat pasca-bencana."
+      },
+      {
+        "id": "B",
+        "text": "Menjelaskan maksud dan tujuan asesmen kepada warga menggunakan bantuan penerjemah lokal netral serta memverifikasi pemahaman individual warga sebelum Informed Consent."
+      },
+      {
+        "id": "C",
+        "text": "Tetap menggunakan alat tes standar urban yang dibawa untuk menjaga objektivitas dan standar reliabilitas instrumen secara universal tanpa modifikasi."
+      },
+      {
+        "id": "D",
+        "text": "Menghentikan seluruh kegiatan asesmen secara sepihak dan langsung kembali ke Jakarta karena komunitas dinilai belum siap secara administratif."
+      }
+    ],
+    "key": "B",
+    "explanation": "Sesuai Kode Etik Psikologi Indonesia Pasal 20 & 64 mengenai Informed Consent dan Asesmen Beretika, persetujuan harus diberikan oleh individu secara sukarela setelah paham. Budaya lokal dihormati (Pasal 2), namun tidak menghilangkan hak individual atas informasi. Penerjemah lokal netral memastikan proses valid, dan alat tes perlu mempertimbangkan kesesuaian norma kultural."
+  },
+  {
+    "id": "D1_I1.1_Q2",
+    "domainId": 1,
+    "domainTitle": "Sikap (Etika, Moral, Pluralitas, dan Empati) & Kegiatan Profesional Psikologi",
+    "indicatorId": "1.1",
+    "indicatorFullId": "D1-1.1",
+    "indicatorTitle": "Kemampuan melakukan asesmen beretika",
+    "caseStudy": {
+      "title": "Studi Kasus 2: Tekanan Perusahaan Klien untuk Pengungkapan Data Mentah (Raw Test Material)",
+      "scenario": "Psikolog Berliana diminta oleh sebuah perusahaan manufaktur multinasional untuk melakukan seleksi dan asesmen promosi jabatan posisi General Manager. Kandidat eksternal, Sdr. Reza, menunjukkan potensi kepemimpinan tinggi namun skor kecerdasan emosional dan stabilitas emosinya berada pada kategori berisiko. Manajemen puncak perusahaan (Direktur HRD) mendesak Psikolog Berliana menyerahkan seluruh lembar jawaban asli (raw test data), grafik psikogram rincian tes, serta jawaban tes proyektif Sdr. Reza dengan alasan perusahaan telah membayar penuh biaya asesmen dan berhak memiliki seluruh dokumen evaluasi.",
+      "contextTags": [
+        "Kerahasiaan Data",
+        "Raw Data",
+        "Kode Etik Asesmen",
+        "Hak Pengguna Layanan"
+      ]
+    },
+    "question": "Bagaimanakah sikap profesional dan etis yang HARUS diambil oleh Psikolog Berliana menghadapi permintaan Direktur HRD tersebut?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Memberikan seluruh lembar jawaban dan data mentah tes karena perusahaan merupakan pihak sponsor yang membiayai seluruh rangkaian asesmen."
+      },
+      {
+        "id": "B",
+        "text": "Menolak memberikan data mentah (raw data) tes psikologi dan hanya menyerahkan Laporan Hasil Asesmen psikologis yang berisi kesimpulan profesional serta rekomendasi relevan."
+      },
+      {
+        "id": "C",
+        "text": "Mengubah skor tes stabilitas emosi Sdr. Reza agar terlihat bagus dan memuaskan ekspektasi Direktur HRD perusahaan demi menjaga kontinuitas kontrak kerja."
+      },
+      {
+        "id": "D",
+        "text": "Menyerahkan data mentah tes psikologi secara rahasia kepada Sdr. Reza agar ia dapat mengklarifikasi hasilnya sendiri kepada Direktur HRD."
+      }
+    ],
+    "key": "B",
+    "explanation": "Berdasarkan Kode Etik Psikologi Indonesia Pasal 67 (Kerahasiaan dan Kerahasiaan Rekam Data Psikologi) serta Pasal 65 (Interpretasi Hasil Asesmen), Psikolog tidak diperkenankan menyerahkan data mentah (raw data) instrumen tes kepada pihak non-psikolog/klien. Yang berhak diserahkan kepada pengguna layanan adalah Laporan Hasil Asesmen Psikologi (psikogram terinterpretasi dan narasi rekomendasi) yang relevan."
+  },
+  {
+    "id": "D1_I1.1_Q3",
+    "domainId": 1,
+    "domainTitle": "Sikap (Etika, Moral, Pluralitas, dan Empati) & Kegiatan Profesional Psikologi",
+    "indicatorId": "1.1",
+    "indicatorFullId": "D1-1.1",
+    "indicatorTitle": "Kemampuan melakukan asesmen beretika",
+    "caseStudy": {
+      "title": "Studi Kasus 3: Dilema Hubungan Majemuk dan Konflik Kepentingan dalam Asesmen Sekolah",
+      "scenario": "Psikolog Candra bekerja sebagai kepala unit konsultasi psikologi di sebuah lembaga independen. Kerabat dekatnya (keponakan dari pihak istri) mendaftar untuk mengikuti asesmen kecerdasan dan kesiapan masuk sekolah unggulan yang diselenggarakan oleh lembaga tempat Psikolog Candra bekerja. Orang tua anak tersebut meminta secara pribadi kepada Psikolog Candra agar memberikan perhatian 'khusus' saat administrasi tes serta meminta diringankan hasil interpretasinya agar sang anak bisa lolos seleksi sekolah tersebut. Di sisi lain, lembaga sekolah meminta laporan obyektif tanpa intervensi personal.",
+      "contextTags": [
+        "Hubungan Majemuk",
+        "Objektivitas Asesmen",
+        "Independensi Profesi",
+        "Kode Etik HIMPSI"
+      ]
+    },
+    "question": "Langkah manakah yang paling mencerminkan penerapan prinsip asesmen beretika dan independensi profesi bagi Psikolog Candra?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Tetap menguji keponakannya sendiri dan berjanji akan bersikap seobjektif mungkin tanpa memberitahukan hubungan kekerabatan tersebut kepada sekolah."
+      },
+      {
+        "id": "B",
+        "text": "Mengalihkan (merujuk) proses pemeriksaan dan asesmen keponakannya kepada psikolog sejawat lain yang netral serta mendeklarasikan potensi konflik kepentingan."
+      },
+      {
+        "id": "C",
+        "text": "Menuruti permintaan orang tua anak untuk mengubah skor kecerdasan demi menjaga hubungan kekeluargaan yang harmonis dan menghindari perselisihan keluarga."
+      },
+      {
+        "id": "D",
+        "text": "Menolak pendaftaran anak tersebut secara kasar dan memutuskan hubungan kekeluargaan dengan orang tuanya tanpa memberikan penjelasan profesional."
+      }
+    ],
+    "key": "B",
+    "explanation": "Berdasarkan Kode Etik Psikologi Indonesia Pasal 16 (Hubungan Majemuk / Multiple Relationships) dan Pasal 17 (Konflik Kepentingan), Psikolog harus menghindari hubungan majemuk yang berpotensi merusak objektivitas, kompetensi, atau efektivitas dalam menjalankan fungsi profesi. Mengalihkan pemeriksaan keponakan kepada rekan sejawat psikolog yang netral adalah tindakan paling beretika."
+  },
+  {
+    "id": "D1_I1.1_Q4",
+    "domainId": 1,
+    "domainTitle": "Sikap (Etika, Moral, Pluralitas, dan Empati) & Kegiatan Profesional Psikologi",
+    "indicatorId": "1.1",
+    "indicatorFullId": "D1-1.1",
+    "indicatorTitle": "Kemampuan melakukan asesmen beretika",
+    "caseStudy": {
+      "title": "Studi Kasus 4: Keberlakuan dan Kebaruan Normasi Instrumen Tes Psikologi dalam Latar Forensik",
+      "scenario": "Psikolog Dion dipanggil oleh rumah sakit jiwa daerah untuk melakukan pemeriksaan asesmen kapasitas kognitif dan kepribadian pada seorang pasien dewasa yang diduga mengalami gangguan neurokognitif untuk keperluan persidangan hukum. Psikolog Dion menemukan bahwa satu-satunya instrumen tes inteligensi yang tersedia di RS tersebut adalah alat tes edisi lama keluaran tahun 1980-an yang normanya belum pernah diperbarui selama lebih dari 40 tahun. Direktur Rumah Sakit meminta asesmen diselesaikan dalam waktu 2 jam untuk laporan forensik.",
+      "contextTags": [
+        "Kadaluwarsa Alat Tes",
+        "Normasi Asesmen",
+        "Keabsahan Hasil Tes",
+        "Kode Etik Asesmen"
+      ]
+    },
+    "question": "Bagaimanakah kewajiban etis Psikolog Dion terhadap penggunaan instrumen tes dan penyusunan laporan asesmen tersebut?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Menggunakan tes edisi lama tersebut dan menyajikannya dalam laporan resmi seolah-olah menggunakan norma instrumen mutakhir tanpa penjelasan tambahan."
+      },
+      {
+        "id": "B",
+        "text": "Jika terpaksa menggunakan instrumen edisi lama karena keterbatasan darurat, wajib mencantumkan secara eksplisit keterbatasan norma edisi lama tersebut dalam laporan serta berhati-hati dalam interpretasi."
+      },
+      {
+        "id": "C",
+        "text": "Mengganti skor hasil tes dengan mengira-ngira sendiri nilai penyesuaian norma tanpa menyebutkan instrumen yang digunakan dalam laporan resmi."
+      },
+      {
+        "id": "D",
+        "text": "Memalsukan tahun terbit instrumen pada lembar laporan asesmen agar tidak ditegur oleh pihak pengadilan atau institusi rumah sakit."
+      }
+    ],
+    "key": "B",
+    "explanation": "Berdasarkan Kode Etik Psikologi Indonesia Pasal 63 (Penggunaan Asesmen) & Pasal 66 (Penyampaian Hasil Asesmen), Psikolog harus menggunakan instrumen asesmen yang valid, reliabel, dan menggunakan norma yang sesuai dengan populasi target. Bila ada keterbatasan instrumen (seperti norma usang), psikolog wajib memberikan catatan keterbatasan secara eksplisit pada laporan."
+  },
+  {
+    "id": "D1_I1.1_Q5",
+    "domainId": 1,
+    "domainTitle": "Sikap (Etika, Moral, Pluralitas, dan Empati) & Kegiatan Profesional Psikologi",
+    "indicatorId": "1.1",
+    "indicatorFullId": "D1-1.1",
+    "indicatorTitle": "Kemampuan melakukan asesmen beretika",
+    "caseStudy": {
+      "title": "Studi Kasus 5: Umpan Balik (Feedback) Hasil Asesmen kepada Klien Mandiri",
+      "scenario": "Psikolog Erna telah menyelesaikan rangkaian asesmen klinis komprehensif terhadap Sdr. Maya (24 tahun) yang datang sendiri secara sukarela karena mengeluhkan penurunan konsentrasi kerja dan kekhawatiran berlebih. Hasil asesmen menunjukkan adanya indikasi depresi ringan hingga sedang serta kecenderungan perfeksionisme maladaptif. Setelah laporan selesai disusun, Psikolog Erna menyimpannya di lemari arsip dan menyuruh sekretaris menyerahkan kuitansi pembayaran tanpa menyediakan sesi umpan balik (feedback) maupun penjelasan hasil evaluasi psikologis.",
+      "contextTags": [
+        "Umpan Balik Asesmen",
+        "Hak Klien",
+        "Penjelasan Hasil Tes",
+        "Kode Etik HIMPSI"
+      ]
+    },
+    "question": "Apakah tindakan Psikolog Erna tersebut dapat dibenarkan dari sudut pandang etika asesmen psikologi?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Dapat dibenarkan, karena laporan psikologi adalah hak milik pribadi psikolog dan klien tidak berhak tahu rincian interpretasinya."
+      },
+      {
+        "id": "B",
+        "text": "Dapat dibenarkan, demi mencegah klien mengalami stres tambahan akibat membaca diagnosis psikologisnya sendiri tanpa pengawasan penuh."
+      },
+      {
+        "id": "C",
+        "text": "Tidak dapat dibenarkan, karena klien yang menjalani asesmen sukarela berhak menerima penjelasan umpan balik (feedback) hasil asesmen dalam bahasa yang mudah dipahami."
+      },
+      {
+        "id": "D",
+        "text": "Tidak dapat dibenarkan, seharusnya Psikolog Erna mengunggah laporan tersebut ke media sosial pribadi klien agar keluarga dapat membaca."
+      }
+    ],
+    "key": "C",
+    "explanation": "Berdasarkan Kode Etik Psikologi Indonesia Pasal 66 Ayat 1 (Penyampaian Hasil Asesmen), Psikolog wajib menyampaikan hasil asesmen psikologi kepada pengguna layanan (klien) dalam bahasa yang mudah dipahami, kecuali jika ada ketentuan hukum lain yang membatasi (seperti asesmen forensik tertentu). Menolak memberikan umpan balik kepada klien individu sukarela adalah pelanggaran etika."
+  },
+  {
+    "id": "D1_I1.1_Q6",
+    "domainId": 1,
+    "domainTitle": "Sikap (Etika, Moral, Pluralitas, dan Empati) & Kegiatan Profesional Psikologi",
+    "indicatorId": "1.1",
+    "indicatorFullId": "D1-1.1",
+    "indicatorTitle": "Kemampuan melakukan asesmen beretika",
+    "caseStudy": {
+      "title": "Studi Kasus 6: Penggunaan Hasil Tes Psikologi Seleksi Kerja untuk Kepentingan Mutasi Internal",
+      "scenario": "Psikolog Farhan menyelenggarakan asesmen seleksi rekrutmen karyawan baru untuk posisi Staf Administrasi di PT Sentosa 2 tahun lalu. Baru-baru ini, Manajer SDM PT Sentosa menghubungi Psikolog Farhan dan meminta dokumen hasil tes kecerdasan dan kepribadian milik seluruh staf administrasi tersebut untuk digunakan langsung sebagai dasar pertimbangan pemutusan hubungan kerja (PHK) massal tanpa melakukan re-asesmen atau penyesuaian evaluasi kinerja terkini.",
+      "contextTags": [
+        "Relevansi Data Asesmen",
+        "Daluwarsa Data",
+        "Penggunaan Laporan Asesmen",
+        "Kode Etik Asesmen"
+      ]
+    },
+    "question": "Bagaimanakah tanggapan etis yang HARUS diberikan Psikolog Farhan atas permintaan Manajer SDM tersebut?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Menyerahkan seluruh berkas lama tanpa perubahan karena data tersebut masih disimpan di arsip perusahaan dan merupakan dokumen resmi."
+      },
+      {
+        "id": "B",
+        "text": "Menjelaskan bahwa hasil asesmen 2 tahun lalu tidak lagi sepenuhnya valid untuk keputusan PHK saat ini dan menyarankan asesmen ulang yang sesuai konteks kinerja terkini."
+      },
+      {
+        "id": "C",
+        "text": "Mengubah hasil rekomendasi lama agar sesuai dengan daftar nama karyawan yang memang sudah diincar oleh Manajer SDM untuk di-PHK."
+      },
+      {
+        "id": "D",
+        "text": "Mengizinkan penggunaan data lama dengan syarat perusahaan menambah biaya royalti penggunaan laporan kepada Psikolog Farhan."
+      }
+    ],
+    "key": "B",
+    "explanation": "Berdasarkan Kode Etik Psikologi Indonesia Pasal 63 & 65, hasil asesmen memiliki masa berlaku dan kegunaan yang spesifik sesuai tujuan awal. Penggunaan data asesmen seleksi rekrutmen masa lalu yang sudah berumur 2 tahun untuk keputusan PHK massal tanpa memperhitungkan perkembangan dan kinerja aktual adalah tidak valid dan melanggar prinsip kepatutan asesmen."
+  },
+  {
+    "id": "D1_I1.1_Q7",
+    "domainId": 1,
+    "domainTitle": "Sikap (Etika, Moral, Pluralitas, dan Empati) & Kegiatan Profesional Psikologi",
+    "indicatorId": "1.1",
+    "indicatorFullId": "D1-1.1",
+    "indicatorTitle": "Kemampuan melakukan asesmen beretika",
+    "caseStudy": {
+      "title": "Studi Kasus 7: Keamanan Materi Tes dan Asesmen Daring (Online Testing)",
+      "scenario": "Psikolog Gita memimpin proyek pemeriksaan psikologis calon pegawai negeri sipil secara dalam jaringan (online). Karena keterbatasan anggaran platform profesional, Psikolog Gita mengunggah lembar soal tes inventori kepribadian terkunci dan tes inteligensi dalam bentuk file PDF yang dapat diunduh bebas oleh peserta ujian. Hal ini menyebabkan lembar tes tersebut tersebar luas di forum-forum diskusi media sosial sebelum seluruh sesi tes selesai dilaksanakan.",
+      "contextTags": [
+        "Keamanan Alat Tes",
+        "Kerahasiaan Instrumen",
+        "Asesmen Daring",
+        "Kode Etik HIMPSI"
+      ]
+    },
+    "question": "Penilaian manakah yang PALING tepat mengenai tindakan Psikolog Gita dari kacamata etika profesi?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Tindakan Psikolog Gita dapat dimaklumi karena keterbatasan anggaran pemerintah dalam menyediakan server ujian yang aman."
+      },
+      {
+        "id": "B",
+        "text": "Tindakan Psikolog Gita merupakan pelanggaran berat etika kerahasiaan dan perlindungan instrumen tes psikologi (Pasal 67)."
+      },
+      {
+        "id": "C",
+        "text": "Tindakan Psikolog Gita sudah tepat karena keterbukaan publik (transparansi) merupakan prinsip utama dalam seleksi pegawai negeri."
+      },
+      {
+        "id": "D",
+        "text": "Tindakan Psikolog Gita adalah inovasi digital yang harus didukung untuk mempermudah akses seluruh calon peserta ujian."
+      }
+    ],
+    "key": "B",
+    "explanation": "Berdasarkan Kode Etik Psikologi Indonesia Pasal 67 (Kerahasiaan dan Kerahasiaan Rekam Data Psikologi) serta perlindungan integritas alat tes, psikolog wajib menjaga kerahasiaan dan keamanan materi tes psikologi (soal, kunci, norma). Mengunggah instrumen tes psikologi berhak cipta secara terbuka di internet hingga dapat diunduh publik membatalkan keabsahan alat tes dan melanggar kode etik profesi."
+  },
+  {
+    "id": "D1_I1.1_Q8",
+    "domainId": 1,
+    "domainTitle": "Sikap (Etika, Moral, Pluralitas, dan Empati) & Kegiatan Profesional Psikologi",
+    "indicatorId": "1.1",
+    "indicatorFullId": "D1-1.1",
+    "indicatorTitle": "Kemampuan melakukan asesmen beretika",
+    "caseStudy": {
+      "title": "Studi Kasus 8: Asesmen Anak Tanpa Persetujuan Orang Tua/Wali Sah",
+      "scenario": "Psikolog Hery diminta oleh seorang guru wali kelas 5 SD untuk melakukan pemeriksaan kecerdasan dan diagnosis kesusahan belajar pada anak didik bernama Doni (10 tahun). Guru wali kelas menyatakan orang tua Doni sangat sibuk dan enggan dihubungi. Psikolog Hery langsung mengadministrasikan instrumen tes inteligensi WISC dan tes psikodiagnostik kepada Doni di ruang Bimbingan Konseling sekolah tanpa memberi tahu maupun meminta persetujuan (Informed Consent) dari orang tua Doni.",
+      "contextTags": [
+        "Informed Consent Anak",
+        "Wewenang Orang Tua",
+        "Asesmen Sekolah",
+        "Kode Etik HIMPSI"
+      ]
+    },
+    "question": "Apakah tindakan Psikolog Hery melakukan asesmen pada Doni sesuai dengan kaidah etika?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Sesuai, karena sekolah memiliki wewenang mutlak atas anak selama jam sekolah berlangsung tanpa perlu ijin orang tua."
+      },
+      {
+        "id": "B",
+        "text": "Sesuai, demi kebaikan perkembangan akademik anak agar masalah belajarnya segera tertangani tanpa menunda waktu."
+      },
+      {
+        "id": "C",
+        "text": "Tidak sesuai, karena asesmen pada individu anak minor wajib mendapatkan Informed Consent tertulis/lisan dari orang tua atau wali hukum yang sah."
+      },
+      {
+        "id": "D",
+        "text": "Tidak sesuai, seharusnya Psikolog Hery menyuruh guru wali kelas yang menguji tes inteligensi Doni."
+      }
+    ],
+    "key": "C",
+    "explanation": "Berdasarkan Kode Etik Psikologi Indonesia Pasal 20 (Informed Consent dalam Asesmen), untuk subjek yang secara hukum tidak mampu memberikan persetujuan (seperti anak di bawah umur), persetujuan (informed consent) wajib diperoleh dari orang tua atau wali yang sah sebelum asesmen dilaksanakan."
+  },
+  {
+    "id": "D1_I1.1_Q9",
+    "domainId": 1,
+    "domainTitle": "Sikap (Etika, Moral, Pluralitas, dan Empati) & Kegiatan Profesional Psikologi",
+    "indicatorId": "1.1",
+    "indicatorFullId": "D1-1.1",
+    "indicatorTitle": "Kemampuan melakukan asesmen beretika",
+    "caseStudy": {
+      "title": "Studi Kasus 9: Penyesuaian Asesmen pada Individu dengan Disabilitas Fisik (Sensori)",
+      "scenario": "Psikolog Irma kedatangan klien rujukan dari panti rehabilitasi, Sdr. Bagus, seorang penyandang disabilitas netra (tunanetra total sejak lahir), untuk asesmen potensi kerja. Psikolog Irma tetap memaksakan pemberian tes proyektif berbasis visual (seperti Tes Rorschach dan Tes Wartegg) serta Tes Grafis dengan alasan ingin mendapatkan potret kepribadian secara utuh tanpa modifikasi prosedur administrasi tes.",
+      "contextTags": [
+        "Disabilitas Sensori",
+        "Modifikasi Asesmen",
+        "Aksesibilitas",
+        "Kode Etik HIMPSI"
+      ]
+    },
+    "question": "Bagaimanakah evaluasi etis terhadap keputusan instrumen yang dipilih oleh Psikolog Irma?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Tindakan Psikolog Irma tepat untuk menjaga standardisasi administrasi tes secara seragam kepada semua klien."
+      },
+      {
+        "id": "B",
+        "text": "Tindakan Psikolog Irma melanggar etika asesmen karena menggunakan instrumen berbasis visual yang tidak valid dan diskriminatif bagi tunanetra."
+      },
+      {
+        "id": "C",
+        "text": "Tindakan Psikolog Irma sangat inovatif untuk menguji sejauh mana imajinasi visual seorang penyandang disabilitas netra."
+      },
+      {
+        "id": "D",
+        "text": "Tindakan Psikolog Irma dibenarkan selama panti rehabilitasi menyetujui penggunaan lembar tes visual tersebut."
+      }
+    ],
+    "key": "B",
+    "explanation": "Kode Etik Psikologi Indonesia Pasal 63 menekankan bahwa psikolog harus mempertimbangkan kemampuan dan karakteristik khusus klien (termasuk keterbatasan fisik/sensori). Menggunakan tes visual pada individu tunanetra total tanpa penyesuaian instrumen terstandardisasi (seperti alat ukur taktil/auditori yang valid) menghasilkan data tidak valid dan melanggar prinsip perlakuan etis."
+  },
+  {
+    "id": "D1_I1.1_Q10",
+    "domainId": 1,
+    "domainTitle": "Sikap (Etika, Moral, Pluralitas, dan Empati) & Kegiatan Profesional Psikologi",
+    "indicatorId": "1.1",
+    "indicatorFullId": "D1-1.1",
+    "indicatorTitle": "Kemampuan melakukan asesmen beretika",
+    "caseStudy": {
+      "title": "Studi Kasus 10: Penggunaan Asesmen Psikologis untuk Kepentingan Komersial / Content Creation",
+      "scenario": "Psikolog Johan membuat konten media sosial streaming dan mengundang seorang pembicara tamu. Di tengah acara live yang disaksikan puluhan ribu penonton, Psikolog Johan memberikan tes kepribadian proyektif singkat serta menganalisis kepribadian pembicara tamu secara mendalam dan menyimpulkan kecenderungan gangguan psikologisnya di depan publik tanpa persetujuan tertulis maupun batasan kerahasiaan.",
+      "contextTags": [
+        "Etika Publikasi",
+        "Asesmen Publik",
+        "Kerahasiaan",
+        "Kode Etik HIMPSI"
+      ]
+    },
+    "question": "Bagaimanakah penilaian Kode Etik HIMPSI terhadap perbuatan Psikolog Johan tersebut?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Tindakan Psikolog Johan kreatif dan bermanfaat sebagai sarana edukasi psikologi populer bagi masyarakat luas."
+      },
+      {
+        "id": "B",
+        "text": "Tindakan Psikolog Johan melanggar Kode Etik HIMPSI Pasal 64 & 66 terkait kerahasiaan dan pemberian pernyataan profesional di publik."
+      },
+      {
+        "id": "C",
+        "text": "Tindakan Psikolog Johan diizinkan selama pembicara tamu tidak menghentikan siaran streaming secara langsung."
+      },
+      {
+        "id": "D",
+        "text": "Tindakan Psikolog Johan sah karena tes psikologi proyektif singkat di media sosial tidak dianggap sebagai tindakan asesmen medis."
+      }
+    ],
+    "key": "B",
+    "explanation": "Berdasarkan Kode Etik Psikologi Indonesia Pasal 64, 66, dan pasal mengenai Pernyataan Publik, evaluasi/asesmen psikologis hanya boleh dilakukan dalam konteks hubungan profesional formal. Menyampaikan diagnosis atau analisis kepribadian mendalam individu tertentu di media publik/layar siaran tanpa kerahasiaan dan informed consent etis melanggar etika profesi."
+  },
+  {
+    "id": "D1_I1.2_Q1",
+    "domainId": 1,
+    "domainTitle": "Sikap (Etika, Moral, Pluralitas, dan Empati) & Kegiatan Profesional Psikologi",
+    "indicatorId": "1.2",
+    "indicatorFullId": "D1-1.2",
+    "indicatorTitle": "Kemampuan melakukan intervensi secara beretika",
+    "caseStudy": {
+      "title": "Studi Kasus 1: Penerapan Metode Intervensi yang Belum Teruji (Evidence-Based Practice)",
+      "scenario": "Psikolog Firman kedatangan seorang klien yang mengalami gangguan kecemasan menyeluruh (GAD). Psikolog Firman baru saja menghadiri lokakarya tidak resmi mengenai teknik terapi energi mistis yang diklaim mampu menyembuhkan kecemasan dalam 10 menit tanpa perlu evaluasi psikologis mendalam. Psikolog Firman memutuskan untuk menerapkan teknik energi tersebut sepenuhnya pada klien tanpa menjelaskan bahwa metode ini belum memiliki bukti ilmiah teruji (evidence-based practice), belum diakui dalam standar praktik HIMPSI, dan tanpa meminta persetujuan khusus (Informed Consent) dari klien.",
+      "contextTags": [
+        "Intervensi Beretika",
+        "Evidence-Based Practice",
+        "Informed Consent",
+        "Kode Etik HIMPSI"
+      ]
+    },
+    "question": "Berdasarkan Kode Etik Psikologi Indonesia, bagaimanakah penilaian etis terhadap tindakan Psikolog Firman dalam memberikan intervensi tersebut?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Dapat dibenarkan selama klien merasa lebih tenang setelah sesi terapi energi mistis berakhir."
+      },
+      {
+        "id": "B",
+        "text": "Pelanggaran etika profesi karena menggunakan metode yang belum berbasis bukti ilmiah (evidence-based) dan tanpa Informed Consent transparan."
+      },
+      {
+        "id": "C",
+        "text": "Dapat dimaklumi sebagai bentuk kebebasan otonomi teknik terapi individual yang dimiliki oleh psikolog praktisi."
+      },
+      {
+        "id": "D",
+        "text": "Tindakan yang wajar karena seorang psikolog berhak menguji coba metode baru apapun langsung kepada klien yang membutuhkan."
+      }
+    ],
+    "key": "B",
+    "explanation": "Berdasarkan Kode Etik Psikologi Indonesia Pasal 71 & 73, psikolog wajib menggunakan intervensi yang berbasis bukti ilmiah teruji (evidence-based practice) dan diakui oleh ilmu psikologi. Jika menggunakan teknik eksperimental, psikolog wajib menginformasikan sifat eksperimental metode tersebut, potensi risiko, serta memperoleh Informed Consent tertulis dari klien."
+  },
+  {
+    "id": "D1_I1.2_Q2",
+    "domainId": 1,
+    "domainTitle": "Sikap (Etika, Moral, Pluralitas, dan Empati) & Kegiatan Profesional Psikologi",
+    "indicatorId": "1.2",
+    "indicatorFullId": "D1-1.2",
+    "indicatorTitle": "Kemampuan melakukan intervensi secara beretika",
+    "caseStudy": {
+      "title": "Studi Kasus 2: Penghentian Intervensi (Terminasi Terapi) Secara Sepihak Tanpa Alasan Jelas",
+      "scenario": "Psikolog Gina telah menjalankan 4 sesi psikoterapi kognitif perilakuan (CBT) dengan klien Sdr. Kevin yang mengalami depresi mayor. Di tengah proses intervensi yang sedang berjalan dan membutuhkan pendampingan intensif, Psikolog Gina secara mendadak membatalkan seluruh sesi berikutnya via pesan singkat tanpa memberikan penjelasan memadai, tanpa evaluasi kemajuan, dan tanpa memberikan rujukan (referral) ke psikolog lain, hanya karena ingin berfokus pada proyek bisnis pribadinya.",
+      "contextTags": [
+        "Terminasi Terapi",
+        "Kesejahteraan Klien",
+        "Rujukan",
+        "Kode Etik HIMPSI"
+      ]
+    },
+    "question": "Bagaimanakah evaluasi etis atas tindakan terminasi layanan yang dilakukan Psikolog Gina?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Tindakan Psikolog Gina sah karena psikolog memiliki hak penuh menghentikan layanan kapan saja sesuai kenyamanan pribadi."
+      },
+      {
+        "id": "B",
+        "text": "Tindakan Psikolog Gina melanggar Kode Etik HIMPSI (Pasal 73) mengenai terminasi layanan psikologi yang tidak boleh menelantarkan klien."
+      },
+      {
+        "id": "C",
+        "text": "Tindakan Psikolog Gina sudah tepat agar klien belajar mandiri mengatasi depresinya tanpa bergantung pada psikolog."
+      },
+      {
+        "id": "D",
+        "text": "Tindakan Psikolog Gina dapat diterima asal biaya konsultasi 4 sesi sebelumnya telah dikembalikan penuh kepada klien."
+      }
+    ],
+    "key": "B",
+    "explanation": "Berdasarkan Kode Etik Psikologi Indonesia Pasal 73 (Penghentian Layanan Psikologi), Psikolog wajib mengakhiri hubungan profesional apabila klien tidak lagi membutuhkan layanan, tidak lagi memperoleh manfaat, atau terganggu oleh hubungan tersebut. Sebelum penghentian, psikolog wajib memberikan konseling pra-terminasi dan memberikan rujukan yang tepat agar klien tidak ditelantarkan."
+  },
+  {
+    "id": "D1_I1.2_Q3",
+    "domainId": 1,
+    "domainTitle": "Sikap (Etika, Moral, Pluralitas, dan Empati) & Kegiatan Profesional Psikologi",
+    "indicatorId": "1.2",
+    "indicatorFullId": "D1-1.2",
+    "indicatorTitle": "Kemampuan melakukan intervensi secara beretika",
+    "caseStudy": {
+      "title": "Studi Kasus 3: Keterlibatan Emosional dan Keuangan Eksploitatif dalam Hubungan Terapi",
+      "scenario": "Psikolog Hendra memberikan intervensi konseling kepada Sdr. Linda yang sedang mengalami krisis trauma perceraian. Mengetahui bahwa Sdr. Linda memiliki bisnis kuliner yang sukses namun sedang tidak stabil emosinya, Psikolog Hendra meminta Sdr. Linda menanamkan modal besar pada usaha waralaba milik keluarga Psikolog Hendra dengan janji bahwa investasi bisnis akan mempercepat proses penyembuhan trauma psikologis Sdr. Linda.",
+      "contextTags": [
+        "Eksploitasi Klien",
+        "Hubungan Majemuk",
+        "Etika Intervensi",
+        "Kode Etik HIMPSI"
+      ]
+    },
+    "question": "Prinsip etika manakah yang telah dilanggar secara serius oleh Psikolog Hendra?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Prinsip kerahasiaan data dan hak cipta instrumen asesmen."
+      },
+      {
+        "id": "B",
+        "text": "Prinsip larangan eksploitasi dan larangan hubungan majemuk finansial dengan klien (Pasal 13 & 16)."
+      },
+      {
+        "id": "C",
+        "text": "Prinsip keharusan menggunakan instrumen tes inteligensi terstandardisasi."
+      },
+      {
+        "id": "D",
+        "text": "Prinsip kewajiban melaporkan klien kepada pihak kepolisian setempat."
+      }
+    ],
+    "key": "B",
+    "explanation": "Kode Etik Psikologi Indonesia Pasal 13 (Sikap Profesional dan Perlakuan Eksploitatif) dan Pasal 16 (Hubungan Majemuk) melarang keras psikolog memanfaatkan posisi dependen klien untuk keuntungan finansial, pribadi, maupun bisnis. Menjual saham/modal usaha pribadi kepada klien konseling merupakan eksploitasi berat dan pelanggaran etika."
+  },
+  {
+    "id": "D1_I1.2_Q4",
+    "domainId": 1,
+    "domainTitle": "Sikap (Etika, Moral, Pluralitas, dan Empati) & Kegiatan Profesional Psikologi",
+    "indicatorId": "1.2",
+    "indicatorFullId": "D1-1.2",
+    "indicatorTitle": "Kemampuan melakukan intervensi secara beretika",
+    "caseStudy": {
+      "title": "Studi Kasus 4: Pelaksanaan Intervensi Kelompok (Group Therapy) Tanpa Batasan Kerahasiaan Antar Peserta",
+      "scenario": "Psikolog Indah menyelenggarakan intervensi kelompok (terapi kelompok) untuk 10 remaja korban perundungan (bullying). Pada sesi pertama, Psikolog Indah langsung memulai sesi curhat tanpa membuat aturan kelompok (group rules), tanpa menjelaskan batas kerahasiaan antar anggota kelompok, dan tidak meminta kesepakatan tertulis agar para peserta menjaga rahasia cerita teman kelompoknya. Akibatnya, salah satu peserta menyebarkan cerita trauma rekannya ke media sekolah.",
+      "contextTags": [
+        "Terapi Kelompok",
+        "Kerahasiaan Kelompok",
+        "Informed Consent Kelompok",
+        "Kode Etik HIMPSI"
+      ]
+    },
+    "question": "Bagaimanakah tanggung jawab etis Psikolog Indah dalam memfasilitasi intervensi kelompok tersebut?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Psikolog Indah tidak bersalah karena kebocoran informasi dilakukan oleh peserta, bukan oleh psikolog sendiri."
+      },
+      {
+        "id": "B",
+        "text": "Psikolog Indah lalai secara etis karena wajib menjelaskan peran, batas kerahasiaan, dan kesepakatan etika kelompok sejak awal sesi (Pasal 72)."
+      },
+      {
+        "id": "C",
+        "text": "Psikolog Indah sudah bertindak benar karena terapi kelompok tidak memerlukan aturan kerahasiaan sebagaimana terapi individual."
+      },
+      {
+        "id": "D",
+        "text": "Psikolog Indah seharusnya melaporkan remaja yang membocorkan cerita ke kantor polisi atas dugaan pencemaran nama baik."
+      }
+    ],
+    "key": "B",
+    "explanation": "Berdasarkan Kode Etik Psikologi Indonesia Pasal 72 (Konseling Kelompok dan Terapi Kelompok), ketika psikolog memberikan layanan kepada beberapa individu dalam kelompok, psikolog wajib menjelaskan sejak awal peran dan tanggung jawab masing-masing pihak serta batas-batas kerahasiaan yang disepakati bersama."
+  },
+  {
+    "id": "D1_I1.2_Q5",
+    "domainId": 1,
+    "domainTitle": "Sikap (Etika, Moral, Pluralitas, dan Empati) & Kegiatan Profesional Psikologi",
+    "indicatorId": "1.2",
+    "indicatorFullId": "D1-1.2",
+    "indicatorTitle": "Kemampuan melakukan intervensi secara beretika",
+    "caseStudy": {
+      "title": "Studi Kasus 5: Penggunaan Alat/Peralatan Terapi yang Berpotensi Membahayakan Fisik Klien",
+      "scenario": "Psikolog Joko memberikan intervensi desensitisasi sistematis pada klien phobia ketinggian. Demi mempercepat proses modifikasi perilaku, Psikolog Joko mengunci klien di dalam ruangan terbuka pada lantai 15 tanpa persetujuan, tanpa pendampingan langsung, dan membiarkan klien berada dalam kondisi panic attack hebat selama 2 jam berturut-turut hingga klien pingsan.",
+      "contextTags": [
+        "Do No Harm",
+        "Prinsip Keselamatan",
+        "Modifikasi Perilaku",
+        "Kode Etik HIMPSI"
+      ]
+    },
+    "question": "Prinsip utama Kode Etik Psikologi apakah yang dilanggar oleh Psikolog Joko?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Prinsip kompetensi penyusunan norma tes psikologi."
+      },
+      {
+        "id": "B",
+        "text": "Prinsip utama integritas profesi dan kewajiban menghindari bahaya (Do No Harm / Non-maleficence - Pasal 2)."
+      },
+      {
+        "id": "C",
+        "text": "Prinsip transparansi biaya tarif konsultasi per jam."
+      },
+      {
+        "id": "D",
+        "text": "Prinsip keharusan menyertakan penerjemah bahasa daerah."
+      }
+    ],
+    "key": "B",
+    "explanation": "Prinsip Umum Kode Etik Psikologi Indonesia (Prinsip B: Inovasi dan Keselamatan / Do No Harm) menegaskan psikolog wajib melindungi keselamatan fisik dan mental klien. Tindakan pemaksaan ekstrem yang membahayakan kondisi fisik/jiwa klien (flooding tanpa kendali etis dan pendampingan) melanggar asas keselamatan."
+  },
+  {
+    "id": "D1_I1.2_Q6",
+    "domainId": 1,
+    "domainTitle": "Sikap (Etika, Moral, Pluralitas, dan Empati) & Kegiatan Profesional Psikologi",
+    "indicatorId": "1.2",
+    "indicatorFullId": "D1-1.2",
+    "indicatorTitle": "Kemampuan melakukan intervensi secara beretika",
+    "caseStudy": {
+      "title": "Studi Kasus 6: Pemberian Layanan Intervensi Pasangan / Keluarga (Couple Therapy) Saat Konflik Kepentingan",
+      "scenario": "Psikolog Kartika memfasilitasi konseling pernikahan pasangan Suami-Istri (Sdr. Anton dan Sdri. Bela). Di tengah sesi, Psikolog Kartika secara rahasia melakukan sesi konseling pribadi terpisah dengan Sdr. Anton tanpa sepengetahuan Sdri. Bela, lalu menggunakan rahasia pribadi Sdri. Bela yang didapat dari sesi bersama untuk memojokkan Sdri. Bela dalam sesi pleno agar Sdr. Anton memenangkan hak asuh anak.",
+      "contextTags": [
+        "Terapi Pasangan",
+        "Netralitas Intervensi",
+        "Kerahasian Pasangan",
+        "Kode Etik HIMPSI"
+      ]
+    },
+    "question": "Bagaimanakah penilaian etis atas independensi dan perlakuan Psikolog Kartika?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Tindakan Psikolog Kartika sudah tepat untuk membantu suami memenangkan hak asuh demi kebaikan anak."
+      },
+      {
+        "id": "B",
+        "text": "Psikolog Kartika melanggar etika netralitas dan perlakuan adil dalam konseling pasangan/keluarga (Pasal 72)."
+      },
+      {
+        "id": "C",
+        "text": "Tindakan Psikolog Kartika efisien karena psikolog bebas berpihak pada siapapun yang membayar biaya konsultasi lebih besar."
+      },
+      {
+        "id": "D",
+        "text": "Tindakan Psikolog Kartika dibenarkan selama rahasia Sdr. Anton tidak dibocorkan ke media massa."
+      }
+    ],
+    "key": "B",
+    "explanation": "Berdasarkan Kode Etik Psikologi Indonesia Pasal 72 (Konseling Keluarga/Pasangan), ketika psikolog diminta memberikan intervensi kepada individu yang memiliki hubungan keluarga, psikolog harus menjelaskan dengan jelas siapa yang menjadi klien dan menjaga perlakuan yang adil serta tidak memihak (impartial)."
+  },
+  {
+    "id": "D1_I1.2_Q7",
+    "domainId": 1,
+    "domainTitle": "Sikap (Etika, Moral, Pluralitas, dan Empati) & Kegiatan Profesional Psikologi",
+    "indicatorId": "1.2",
+    "indicatorFullId": "D1-1.2",
+    "indicatorTitle": "Kemampuan melakukan intervensi secara beretika",
+    "caseStudy": {
+      "title": "Studi Kasus 7: Pemberian Intervensi Psikologis Secara Jarak Jauh (Telekonseling) Tanpa Evaluasi Kelayakan",
+      "scenario": "Psikolog Lilis memberikan intervensi psikoedukasi dan konseling via pesan singkat chat teks kepada seorang klien yang baru dikenal online dan mengekspresikan niat bunuh diri aktif (acute suicidal ideation). Psikolog Lilis tidak meminta alamat fisik klien, tidak mencari nomor kontak darurat keluarga, dan tidak merujuk ke penanganan krisis darurat rumah sakit terdekat.",
+      "contextTags": [
+        "Telekonseling",
+        "Krisis Suisidal",
+        "Manajemen Risiko",
+        "Kode Etik HIMPSI"
+      ]
+    },
+    "question": "Langkah etis darurat apakah yang seharusnya diambil oleh Psikolog Lilis?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Meneruskan konseling via chat teks hingga klien tertidur tanpa perlu menanyakan lokasi fisik klien."
+      },
+      {
+        "id": "B",
+        "text": "Mengidentifikasi lokasi fisik dan kontak darurat klien serta mengkoordinasikan penanganan krisis darurat (referral) segera untuk keselamatan jiwa klien."
+      },
+      {
+        "id": "C",
+        "text": "Mematikan ponsel agar tidak terlibat dalam masalah hukum apabila klien benar-benar melakukan tindakan bunuh diri."
+      },
+      {
+        "id": "D",
+        "text": "Menyuruh klien membuat surat pernyataan bahwa psikolog tidak bertanggung jawab atas tindakan bunuh diri tersebut."
+      }
+    ],
+    "key": "B",
+    "explanation": "Berdasarkan etika layanan telekonseling dan penanganan krisis suicidality (Pasal 2: Keselamatan Jiwa Klien), psikolog yang menangani kondisi krisis wajib memiliki protokol darurat meliputi data lokasi fisik, kontak darurat, dan koordinasi rujukan medis/krisis darurat segera."
+  },
+  {
+    "id": "D1_I1.2_Q8",
+    "domainId": 1,
+    "domainTitle": "Sikap (Etika, Moral, Pluralitas, dan Empati) & Kegiatan Profesional Psikologi",
+    "indicatorId": "1.2",
+    "indicatorFullId": "D1-1.2",
+    "indicatorTitle": "Kemampuan melakukan intervensi secara beretika",
+    "caseStudy": {
+      "title": "Studi Kasus 8: Penggunaan Rekaman Video Sesi Terapi Tanpa Izin Istri/Klien untuk Bahan Seminar",
+      "scenario": "Psikolog Mita merekam seluruh sesi terapi trauma (EMDR) dari sorang klien tanpa meminta izin atau signing consent pemutaran rekaman. Dua bulan kemudian, Psikolog Mita memutar video rekaman wajah dan tangisan histeris klien tersebut secara utuh dalam seminar nasional yang dihadiri ratusan praktisi dan mahasiswa tanpa mengaburkan (blur) wajah atau mengidentifikasi data pribadi klien.",
+      "contextTags": [
+        "Kerahasiaan Video",
+        "Informed Consent Rekaman",
+        "Hak Privasi Klien",
+        "Kode Etik HIMPSI"
+      ]
+    },
+    "question": "Apakah tindakan pemutaran video oleh Psikolog Mita melanggar Kode Etik HIMPSI?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Tidak melanggar, karena pemutaran video bertujuan mulia untuk mengedukasi peserta seminar profesi."
+      },
+      {
+        "id": "B",
+        "text": "Melanggar berat Pasal 24 & 25 Kode Etik HIMPSI mengenai kerahasiaan dan kewajiban menyamarkan identitas serta izin tertulis pemutaran rekaman."
+      },
+      {
+        "id": "C",
+        "text": "Tidak melanggar, asal Psikolog Mita tidak menyebutkan nomor KTP klien pada slide presentasi."
+      },
+      {
+        "id": "D",
+        "text": "Melanggar hanya jika klien secara pribadi hadir menonton seminar tersebut dan mengajukan protes."
+      }
+    ],
+    "key": "B",
+    "explanation": "Kode Etik Psikologi Indonesia Pasal 24 (Kerahasiaan Rekam Data) & Pasal 25 (Penggunaan Data Kerahasiaan untuk Tujuan Pengajaran/Publikasi) melarang keras memublikasikan atau menampilkan identitas/rekaman visual klien tanpa izin tertulis khusus (informed consent for recording/publication) dan tanpa penyamaran identitas yang memadai."
+  },
+  {
+    "id": "D1_I1.2_Q9",
+    "domainId": 1,
+    "domainTitle": "Sikap (Etika, Moral, Pluralitas, dan Empati) & Kegiatan Profesional Psikologi",
+    "indicatorId": "1.2",
+    "indicatorFullId": "D1-1.2",
+    "indicatorTitle": "Kemampuan melakukan intervensi secara beretika",
+    "caseStudy": {
+      "title": "Studi Kasus 9: Menjanjikan Hasil Intervensi (Guarantee of Outcome) yang Tidak Realistis",
+      "scenario": "Psikolog Nanda memasang iklan di media cetak dan papan reklame kota dengan klaim: 'Dijamin Sembuh 100% dari Autism Spectrum Disorder dan Depresi Berat Hanya Dalam 3 Sesi Konseling Bersama Psikolog Nanda, Garansi Uang Kembali!'.",
+      "contextTags": [
+        "Pernyataan Publik",
+        "Garansi Intervensi",
+        "Iklan Layanan",
+        "Kode Etik HIMPSI"
+      ]
+    },
+    "question": "Bagaimanakah ketentuan Kode Etik HIMPSI terhadap klaim garansi kesembuhan tersebut?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Diperbolehkan sebagai strategi pemasaran bisnis perorangan agar menarik minat pengguna layanan psikologi."
+      },
+      {
+        "id": "B",
+        "text": "Melanggar Kode Etik HIMPSI (Pasal 28 & 29) tentang Pernyataan Publik yang melarang memberikan klaim garansi kesembuhan atau pernyataan menyesatkan."
+      },
+      {
+        "id": "C",
+        "text": "Diperbolehkan asal Psikolog Nanda benar-benar mengembalikan uang jika klien tidak sembuh dalam 3 sesi."
+      },
+      {
+        "id": "D",
+        "text": "Dapat dimaklumi selama iklan tersebut disetujui oleh dinas perdagangan lokal."
+      }
+    ],
+    "key": "B",
+    "explanation": "Berdasarkan Kode Etik Psikologi Indonesia Pasal 28 & 29 (Pernyataan Publik dan Iklan Layanan Profesi), Psikolog dilarang membuat pernyataan publik yang palsu, menyesatkan, atau menjanjikan garansi kesembuhan mutlak terhadap hasil intervensi psikologis."
+  },
+  {
+    "id": "D1_I1.2_Q10",
+    "domainId": 1,
+    "domainTitle": "Sikap (Etika, Moral, Pluralitas, dan Empati) & Kegiatan Profesional Psikologi",
+    "indicatorId": "1.2",
+    "indicatorFullId": "D1-1.2",
+    "indicatorTitle": "Kemampuan melakukan intervensi secara beretika",
+    "caseStudy": {
+      "title": "Studi Kasus 10: Pemaksaan Intervensi Agama/Kepercayaan Tertentu pada Klien yang Berbeda Keyakinan",
+      "scenario": "Psikolog Oki mendampingi klien Sdr. Paul yang menganut keyakinan minoritas dan sedang mengalami kecemasan eksistensial. Psikolog Oki secara paksa menolak menggunakan pendekatan psikologis dan mewajibkan Sdr. Paul menjalani ritual keagamaan mayoritas yang dianut oleh Psikolog Oki sendiri, serta mengancam akan menghentikan konseling jika Sdr. Paul menolak ritual tersebut.",
+      "contextTags": [
+        "Penghormatan Pluralitas",
+        "Hak Klien",
+        "Diskriminasi Keyakinan",
+        "Kode Etik HIMPSI"
+      ]
+    },
+    "question": "Sikap Psikolog Oki melanggar prinsip etika dasar profesi psikologi dalam hal:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Prinsip independensi administrasi alat tes inteligensi."
+      },
+      {
+        "id": "B",
+        "text": "Prinsip Penghormatan terhadap Hak Asasi, Harkat, dan Martabat Manusia serta Keberagaman Keyakinan Klien (Pasal 2 & 71)."
+      },
+      {
+        "id": "C",
+        "text": "Prinsip keharusan menyusun laporan intervensi dalam format 5 bab."
+      },
+      {
+        "id": "D",
+        "text": "Prinsip pembagian komisi rujukan antarfasilitas kesehatan."
+      }
+    ],
+    "key": "B",
+    "explanation": "Kode Etik Psikologi Indonesia (Prinsip A: Penghormatan pada Harkat dan Martabat Manusia) memandatkan psikolog untuk menghormati perbedaan individual, agama, dan keyakinan klien. Memaksakan doktrin/ritual keagamaan pribadi psikolog kepada klien berbeda keyakinan melanggar asas pluralitas dan otonomi klien."
+  },
+  {
+    "id": "D1_I1.3_Q1",
+    "domainId": 1,
+    "domainTitle": "Sikap (Etika, Moral, Pluralitas, dan Empati) & Kegiatan Profesional Psikologi",
+    "indicatorId": "1.3",
+    "indicatorFullId": "D1-1.3",
+    "indicatorTitle": "Kemampuan melakukan rujukan",
+    "caseStudy": {
+      "title": "Studi Kasus 1: Batas Kompetensi Klinis dan Kewajiban Rujukan (Referral) pada Kasus Psikotik",
+      "scenario": "Psikolog Perkasa adalah psikolog umum yang baru lulus dan belum berpengalaman menangani kasus gangguan spektrum skizofrenia akut. Seorang klien dibawa keluarga dengan kebingungan hebat, halusinasi auditori mendominasi, dan delusi waham kejar yang kuat. Psikolog Perkasa menyadari bahwa kasus ini membutuhkan penanganan medikasi psikiatri darurat dan intervensi spesialis klinis rumah sakit jiwa. Namun, Psikolog Perkasa memutuskan tetap menangani sendiri klien tersebut hanya dengan latihan relaksasi penapasan tanpa merujuk ke psikiater/spesialis.",
+      "contextTags": [
+        "Kewajiban Rujukan",
+        "Batas Kompetensi",
+        "Psikotik Akut",
+        "Kode Etik HIMPSI"
+      ]
+    },
+    "question": "Bagaimanakah tindakan yang SEHARUSNYA dilakukan oleh Psikolog Perkasa berdasarkan etika rujukan profesi?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Tetap mencoba memberikan relaksasi hingga 10 sesi sebelum mempertimbangkan konsultasi medis."
+      },
+      {
+        "id": "B",
+        "text": "Segera melakukan rujukan (referral) kepada Dokter Spesialis Kedokteran Jiwa (Psikiater) / RSJ untuk penanganan medikasi medis serta koordinasi intervensi terpadu."
+      },
+      {
+        "id": "C",
+        "text": "Menolak klien dan menyuruh keluarga membawa pulang tanpa memberikan informasi rujukan ke fasilitas kesehatan manapun."
+      },
+      {
+        "id": "D",
+        "text": "Mengubah diagnosis klien menjadi gangguan kecemasan ringan agar sesuai dengan batas kompetensi yang dimilikinya."
+      }
+    ],
+    "key": "B",
+    "explanation": "Berdasarkan Kode Etik Psikologi Indonesia Pasal 19 (Batasan Kompetensi) & Pasal 73, apabila permasalahan klien berada di luar batas kompetensi psikolog (seperti indikasi psikosis akut yang memerlukan medikasi farmakologis psikiatri), psikolog wajib melakukan rujukan (referral) kepada ahli yang berkompeten demi keselamatan klien."
+  },
+  {
+    "id": "D1_I1.3_Q2",
+    "domainId": 1,
+    "domainTitle": "Sikap (Etika, Moral, Pluralitas, dan Empati) & Kegiatan Profesional Psikologi",
+    "indicatorId": "1.3",
+    "indicatorFullId": "D1-1.3",
+    "indicatorTitle": "Kemampuan melakukan rujukan",
+    "caseStudy": {
+      "title": "Studi Kasus 2: Penerimaan Imbalan Finansial (Fee Splitting / Kickback) dari Pihak Rujukan",
+      "scenario": "Psikolog Qori merujuk beberapa klien yang mengalami depresi berat kepada sebuah Klinik Swasta Medis tertentu. Ternyata, Psikolog Qori menerima uang komisi rahasia sebesar 20% (kickback) dari setiap biaya pengobatan medis yang dikeluarkan klien di klinik tersebut berdasarkan perjanjian sepihak antara Psikolog Qori dan pemilik klinik.",
+      "contextTags": [
+        "Kickback",
+        "Fee Splitting",
+        "Etika Rujukan",
+        "Kode Etik HIMPSI"
+      ]
+    },
+    "question": "Bagaimanakah penilaian etis terhadap penerimaan komisi rujukan oleh Psikolog Qori?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Dapat dibenarkan sebagai bentuk bonus kerja sama bisnis wajar antarfasilitas kesehatan swasta."
+      },
+      {
+        "id": "B",
+        "text": "Pelanggaran etika berat (Pasal 18: Imbalan Moneter / Fee Splitting) karena menerima imbalan finansial atas rujukan klien."
+      },
+      {
+        "id": "C",
+        "text": "Dapat diterima asal jumlah komisi tidak melebihi 50% dari total tarif konsultasi klien."
+      },
+      {
+        "id": "D",
+        "text": "Dapat dimaklumi selama klien merasa puas dengan pelayanan di klinik swasta rujukan tersebut."
+      }
+    ],
+    "key": "B",
+    "explanation": "Berdasarkan Kode Etik Psikologi Indonesia Pasal 18 (Pengaturan Finansial dan Imbalan Moneter), Psikolog dilarang menerima imbalan (kickback/commission) atau membagi biaya (fee splitting) dari rujukan klien kepada profesional/fasilitas lain."
+  },
+  {
+    "id": "D1_I1.3_Q3",
+    "domainId": 1,
+    "domainTitle": "Sikap (Etika, Moral, Pluralitas, dan Empati) & Kegiatan Profesional Psikologi",
+    "indicatorId": "1.3",
+    "indicatorFullId": "D1-1.3",
+    "indicatorTitle": "Kemampuan melakukan rujukan",
+    "caseStudy": {
+      "title": "Studi Kasus 3: Penyiapan Berkas Summary & Informasi Rujukan (Referral Summary Report)",
+      "scenario": "Psikolog Rini hendak merujuk klien Sdr. Taufik yang mengalami indikasi gangguan somatisasi dan depresi berat kepada Psikiater Dr. Waluyo. Psikolog Rini mengirimkan seluruh berkas laporan psikologis beserta lampiran surat rujukan profesional yang merincikan alasan rujukan, ringkasan asesmen, serta intervensi yang telah dilakukan, setelah terlebih dahulu meminta persetujuan tertulis dari Sdr. Taufik untuk alih informasi medis.",
+      "contextTags": [
+        "Referral Summary",
+        "Inform Consent Rujukan",
+        "Kolaborasi Medis",
+        "Kode Etik HIMPSI"
+      ]
+    },
+    "question": "Apakah prosedur rujukan yang dilakukan Psikolog Rini sudah sesuai dengan Kode Etik?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Sesuai dan sangat etis, karena menyertakan persetujuan klien serta ringkasan informasi rujukan (referral summary) yang relevan bagi profesional penerima rujukan."
+      },
+      {
+        "id": "B",
+        "text": "Tidak sesuai, seharusnya Psikolog Rini tidak perlu membuat surat ringkasan rujukan agar psikiater bingung menganalisis dari awal."
+      },
+      {
+        "id": "C",
+        "text": "Tidak sesuai, karena alih informasi antarprofesi tidak memerlukan persetujuan dari klien."
+      },
+      {
+        "id": "D",
+        "text": "Sesuai hanya jika Psikiater Dr. Waluyo membayar biaya administrasi surat rujukan kepada Psikolog Rini."
+      }
+    ],
+    "key": "A",
+    "explanation": "Prosedur rujukan yang etis mensyaratkan: (1) Persetujuan klien (informed consent) untuk berbagi data relevan, (2) Penyusunan ringkasan kasus (referral summary) yang profesional demi kontinuitas perawatan klien."
+  },
+  {
+    "id": "D1_I1.3_Q4",
+    "domainId": 1,
+    "domainTitle": "Sikap (Etika, Moral, Pluralitas, dan Empati) & Kegiatan Profesional Psikologi",
+    "indicatorId": "1.3",
+    "indicatorFullId": "D1-1.3",
+    "indicatorTitle": "Kemampuan melakukan rujukan",
+    "caseStudy": {
+      "title": "Studi Kasus 4: Penolakan Rujukan oleh Klien (Client Refusal of Referral)",
+      "scenario": "Psikolog Siska menganalisis bahwa klien Sdri. Ulfa memerlukan rujukan penanganan medis psikiatri karena mengalami kecenderungan bipolar manic episode yang tak terkontrol. Namun, Sdri. Ulfa menolak tegas untuk dirujuk ke psikiater karena stigma obat-obatan. Psikolog Siska mendokumentasikan penolakan tersebut, memberikan psikoedukasi ulang mengenai risiko medis, dan mengupayakan langkah penanganan krisis alternatif yang aman.",
+      "contextTags": [
+        "Penolakan Rujukan",
+        "Dokumentasi Risiko",
+        "Otonomi Klien",
+        "Kode Etik HIMPSI"
+      ]
+    },
+    "question": "Langkah profesional apakah yang PALING tepat dilakukan Psikolog Siska saat rujukan ditolak klien?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Memaksa dan menyeret Sdri. Ulfa secara fisik masuk ke dalam mobil ambulans psikiatri."
+      },
+      {
+        "id": "B",
+        "text": "Mendokumentasikan edukasi risiko, alasan penolakan klien, mengkaji batas keselamatan, dan tetap memberikan dukungan psikologis yang aman sesuai kapasitas."
+      },
+      {
+        "id": "C",
+        "text": "Langsung mengusir Sdri. Ulfa dari ruang konseling dan menghapus semua catatan rekam medis klien."
+      },
+      {
+        "id": "D",
+        "text": "Melaporkan Sdri. Ulfa ke pihak kepolisian atas tuduhan pembangkangan instruksi tenaga kesehatan."
+      }
+    ],
+    "key": "B",
+    "explanation": "Jika klien menolak rujukan, psikolog harus menghormati otonomi klien sambil menjelaskan secara objektif risiko penolakan, mendokumentasikan proses diskusinya, dan menjaga batas keselamatan tindakan."
+  },
+  {
+    "id": "D1_I1.3_Q5",
+    "domainId": 1,
+    "domainTitle": "Sikap (Etika, Moral, Pluralitas, dan Empati) & Kegiatan Profesional Psikologi",
+    "indicatorId": "1.3",
+    "indicatorFullId": "D1-1.3",
+    "indicatorTitle": "Kemampuan melakukan rujukan",
+    "caseStudy": {
+      "title": "Studi Kasus 5: Rujukan Silang Antar-Psikolog karena Keterbatasan Bahasa Daerah / Budaya",
+      "scenario": "Psikolog Teguh menerima klien lansia yang hanya bisa berkomunikasi menggunakan Bahasa Madura halus dan memiliki latar budaya kesukuan yang sangat spesifik. Psikolog Teguh merasa tidak mampu memahami nuansa emosi dan budaya klien secara akurat. Psikolog Teguh kemudian mendiskusikan opsi rujukan kepada rekan sejawat psikolog klinis yang fasih Bahasa Madura dan berasal dari latar belakang budaya senada.",
+      "contextTags": [
+        "Kultural Rujukan",
+        "Kompetensi Budaya",
+        "Mitra Sejawat",
+        "Kode Etik HIMPSI"
+      ]
+    },
+    "question": "Penilaian manakah yang PALING tepat atas keputusan rujukan Psikolog Teguh?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Tindakan Psikolog Teguh menunjukkan kelemahan dan ketidakprofesionalan sebagai psikolog senior."
+      },
+      {
+        "id": "B",
+        "text": "Tindakan Psikolog Teguh sangat etis dan bertanggung jawab karena menyadari keterbatasan kompetensi budaya/bahasa demi kepentingan terbaik klien."
+      },
+      {
+        "id": "C",
+        "text": "Tindakan Psikolog Teguh melanggar etika karena membeda-bedakan klien berdasarkan bahasa daerah."
+      },
+      {
+        "id": "D",
+        "text": "Tindakan Psikolog Teguh tidak perlu dilakukan, cukup gunakan bahasa isyarat seadanya tanpa perlu rujukan."
+      }
+    ],
+    "key": "B",
+    "explanation": "Kesadaran akan keterbatasan kompetensi bahasa dan kultural (cultural competence) serta merujuk klien kepada rekan sejawat yang lebih kompeten merupakan cerminan etika keutamaan (beneficence) dan integritas profesi."
+  },
+  {
+    "id": "D1_I1.3_Q6",
+    "domainId": 1,
+    "domainTitle": "Sikap (Etika, Moral, Pluralitas, dan Empati) & Kegiatan Profesional Psikologi",
+    "indicatorId": "1.3",
+    "indicatorFullId": "D1-1.3",
+    "indicatorTitle": "Kemampuan melakukan rujukan",
+    "caseStudy": {
+      "title": "Studi Kasus 6: Rujukan Kasus Kekerasan Dalam Rumah Tangga (KDRT) ke Lembaga Bantuan Hukum (LBH)",
+      "scenario": "Psikolog Umar mendampingi korban KDRT yang membutuhkan perlindungan fisik darurat dan pendampingan hukum pidana. Selain memberikan konseling pemulihan trauma, Psikolog Umar memfasilitasi rujukan interdisiplin ke Lembaga Bantuan Hukum (LBH) Pengayoman Perempuan dan Dinas Sosial setempat atas persetujuan korban.",
+      "contextTags": [
+        "Rujukan Multidisiplin",
+        "Perlindungan KDRT",
+        "LBH",
+        "Kode Etik HIMPSI"
+      ]
+    },
+    "question": "Bagaimanakah keabsahan tindakan rujukan interdisiplin Psikolog Umar tersebut?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Tidak sah, karena psikolog hanya boleh merujuk klien ke sesama psikolog atau psikiater saja."
+      },
+      {
+        "id": "B",
+        "text": "Sangat tepat dan komprehensif, karena penanganan kasus KDRT memerlukan penanganan hukum dan sosial terpadu sesuai kebutuhan perlindungan korban."
+      },
+      {
+        "id": "C",
+        "text": "Tidak tepat, karena merujuk ke LBH dapat merusak kerahasiaan data psikologis korban di pengadilan."
+      },
+      {
+        "id": "D",
+        "text": "Sah hanya jika pihak Lembaga Bantuan Hukum (LBH) memberikan imbalan uang administrasi kepada Psikolog Umar."
+      }
+    ],
+    "key": "B",
+    "explanation": "Rujukan psikologis tidak terbatas pada profesi medis/psikologi saja. Kasus dengan dimensi hukum/sosial kompleks (seperti KDRT/trauma kejahatan) membutuhkan rujukan lintas sektor (LBH, Dinsos, UPTD PPA) untuk perlindungan holistik korban."
+  },
+  {
+    "id": "D1_I1.3_Q7",
+    "domainId": 1,
+    "domainTitle": "Sikap (Etika, Moral, Pluralitas, dan Empati) & Kegiatan Profesional Psikologi",
+    "indicatorId": "1.3",
+    "indicatorFullId": "D1-1.3",
+    "indicatorTitle": "Kemampuan melakukan rujukan",
+    "caseStudy": {
+      "title": "Studi Kasus 7: Rujukan Kembali (Reverse Referral) dari Spesialis ke Psikolog Umum",
+      "scenario": "Seorang psikiater merujuk kembali klien yang telah stabil dari pengobatan medis depresi kepada Psikolog Vina untuk menjalani terapi suportif dan psikoedukasi pemulihan relaps. Psikolog Vina menerima rujukan tersebut, mempelajari catatan perkembangan dari psikiater, dan mengonfirmasi kesiapan penanganan.",
+      "contextTags": [
+        "Reverse Referral",
+        "Kontinuitas Layanan",
+        "Kolaborasi",
+        "Kode Etik HIMPSI"
+      ]
+    },
+    "question": "Apakah alur penanganan kasus oleh Psikolog Vina dalam menerima rujukan balik tersebut efisien dan etis?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Ya, alur rujukan balik (reverse referral) memelihara kontinuitas layanan psikososial bagi klien yang telah stabil medis."
+      },
+      {
+        "id": "B",
+        "text": "Tidak, psikolog umum tidak boleh menerima rujukan balik dari dokter spesialis psikiatri."
+      },
+      {
+        "id": "C",
+        "text": "Ya, asal Psikolog Vina menghentikan semua obat psikiatri klien tanpa berkonsultasi psikiater."
+      },
+      {
+        "id": "D",
+        "text": "Tidak, seharusnya klien dirawat inap selamanya di rumah sakit psikiatri."
+      }
+    ],
+    "key": "A",
+    "explanation": "Alur rujukan balik (back-referral/reverse referral) adalah praktik lazim dan etis dalam sistem pelayanan kesehatan terpadu untuk memastikan keberlanjutan perawatan psikoedukatif."
+  },
+  {
+    "id": "D1_I1.3_Q8",
+    "domainId": 1,
+    "domainTitle": "Sikap (Etika, Moral, Pluralitas, dan Empati) & Kegiatan Profesional Psikologi",
+    "indicatorId": "1.3",
+    "indicatorFullId": "D1-1.3",
+    "indicatorTitle": "Kemampuan melakukan rujukan",
+    "caseStudy": {
+      "title": "Studi Kasus 8: Merujuk Klien Hanya Karena Perbedaan Pandangan Politik Personal",
+      "scenario": "Psikolog Wahyu menolak memberikan konseling kecemasan dan merujuk secara mendadak seorang klien Sdr. Zaenal, semata-mata karena Psikolog Wahyu melihat di media sosial bahwa Sdr. Zaenal mendukung partai politik yang berseberangan dengan partai pilihan Psikolog Wahyu.",
+      "contextTags": [
+        "Bias Personal",
+        "Diskriminasi Politik",
+        "Penolakan Layanan",
+        "Kode Etik HIMPSI"
+      ]
+    },
+    "question": "Bagaimanakah analisis etis terhadap alasan rujukan yang dilakukan Psikolog Wahyu?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Sangat etis, karena psikolog tidak boleh menangani orang yang berbeda pilihan politik."
+      },
+      {
+        "id": "B",
+        "text": "Melanggar etika diskriminasi (Pasal 2 & 13), karena rujukan didasari oleh bias dan prasangka pribadi yang tidak relevan dengan kebutuhan klinis klien."
+      },
+      {
+        "id": "C",
+        "text": "Dapat dimaklumi demi menjaga netralitas pemilu di dalam ruang konseling."
+      },
+      {
+        "id": "D",
+        "text": "Sesuai standar profesi karena psikolog memiliki hak imunitas politik penuh."
+      }
+    ],
+    "key": "B",
+    "explanation": "Merujuk klien semata-mata karena bias personal (seperti pilihan politik/pandangan pribadi) tanpa indikasi klinis atau konflik kepentingan objektif merupakan bentuk penolakan layanan yang diskriminatif dan bertentangan dengan Kode Etik."
+  },
+  {
+    "id": "D1_I1.3_Q9",
+    "domainId": 1,
+    "domainTitle": "Sikap (Etika, Moral, Pluralitas, dan Empati) & Kegiatan Profesional Psikologi",
+    "indicatorId": "1.3",
+    "indicatorFullId": "D1-1.3",
+    "indicatorTitle": "Kemampuan melakukan rujukan",
+    "caseStudy": {
+      "title": "Studi Kasus 9: Rujukan Kasus Ketergantungan Zat Napza ke Pusat Rehabilitasi Medis terakreditasi",
+      "scenario": "Psikolog Yansen menerima klien remaja dengan adiksi berat terhadap zat metamfetamin (sabu) yang mengalami gejala putus zat (withdrawal) fisik yang parah. Psikolog Yansen merujuk klien ke Pusat Rehabilitasi Medis BNN terakreditasi untuk menjalani detoksifikasi medis terlebih dahulu sebelum menjalani intervensi adiksi psikologis.",
+      "contextTags": [
+        "Adiksi Napza",
+        "Detoksifikasi Medis",
+        "Rujukan Rehabilitasi",
+        "Kode Etik HIMPSI"
+      ]
+    },
+    "question": "Apakah langkah rujukan Psikolog Yansen sudah tepat?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Tepat, karena gejala putus zat berat membutuhkan detoksifikasi medis terpengawas sebelum intervensi psikologis dapat berjalan efektif."
+      },
+      {
+        "id": "B",
+        "text": "Tidak tepat, seharusnya Psikolog Yansen langsung memberikan terapi hipnosis untuk menghentikan adiksi dalam 1 jam."
+      },
+      {
+        "id": "C",
+        "text": "Tidak tepat, karena merujuk ke BNN akan membuat klien ditangkap oleh pihak kepolisian."
+      },
+      {
+        "id": "D",
+        "text": "Tepat hanya jika keluarga klien membayar deposit rujukan kepada Psikolog Yansen."
+      }
+    ],
+    "key": "A",
+    "explanation": "Penanganan adiksi zat dengan withdrawal fisik berat memerlukan penanganan medis darurat (detoksifikasi) di fasilitas rehabilitasi terakreditasi sebelum psikoterapi adiksi dapat dilaksanakan secara efektif."
+  },
+  {
+    "id": "D1_I1.3_Q10",
+    "domainId": 1,
+    "domainTitle": "Sikap (Etika, Moral, Pluralitas, dan Empati) & Kegiatan Profesional Psikologi",
+    "indicatorId": "1.3",
+    "indicatorFullId": "D1-1.3",
+    "indicatorTitle": "Kemampuan melakukan rujukan",
+    "caseStudy": {
+      "title": "Studi Kasus 10: Ketidaktersediaan Fasilitas Rujukan di Daerah Terpencil (Rural Area)",
+      "scenario": "Psikolog Zulfikar bertugas di puskesmas daerah sangat terpencil (daerah 3T). Klien anak mengalami indikasi Autisme berat yang membutuhkan penanganan Dokter Spesialis Tumbuh Tumbuh Anak dan Terapis Okupasi. Namun, fasilitas rujukan terdekat berjarak 14 jam perjalanan laut. Psikolog Zulfikar memberikan dukungan awal, psikoedukasi orang tua, dan memfasilitasi tele-konsultasi rujukan dengan spesialis di kota provinsi.",
+      "contextTags": [
+        "Daerah Terpencil",
+        "Tele-Rujukan",
+        "Keterbatasan Akses",
+        "Kode Etik HIMPSI"
+      ]
+    },
+    "question": "Sikap profesional Psikolog Zulfikar dalam menghadapi keterbatasan fasilitas rujukan adalah:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Melanggar etika karena tidak memaksa orang tua pindah rumah ke kota besar hari itu juga."
+      },
+      {
+        "id": "B",
+        "text": "Sangat responsif dan etis dengan memanfaatkan teknologi tele-konsultasi rujukan untuk menjembatani keterbatasan akses geografis."
+      },
+      {
+        "id": "C",
+        "text": "Salah, seharusnya Psikolog Zulfikar membiarkan anak tersebut tanpa tindakan apapun."
+      },
+      {
+        "id": "D",
+        "text": "Melanggar hukum karena tele-konsultasi dilarang dalam standar pelayanan daerah."
+      }
+    ],
+    "key": "B",
+    "explanation": "Dalam kondisi keterbatasan fasilitas geografis (daerah 3T), memanfaatkan jejaring tele-rujukan dan memberikan pertolongan awal yang aman merupakan bentuk komitmen etis pelayan masyarakat yang sangat baik."
+  },
+  {
+    "id": "D1_I1.4_Q1",
+    "domainId": 1,
+    "domainTitle": "Sikap (Etika, Moral, Pluralitas, dan Empati) & Kegiatan Profesional Psikologi",
+    "indicatorId": "1.4",
+    "indicatorFullId": "D1-1.4",
+    "indicatorTitle": "Kemampuan melakukan kegiatan bersama profesi lain",
+    "caseStudy": {
+      "title": "Studi Kasus 1: Kolaborasi Interprofesional dalam Tim Medis Rumah Sakit (Puskesmas/RS)",
+      "scenario": "Psikolog Amanda bergabung dalam tim interprofesional penanganan pasien kanker stadium lanjut yang terdiri dari Dokter Spesialis Onkologi, Perawat Utama, Pekerja Sosial, dan Ahli Gizi. Dalam rapat kasus (case conference), Dokter Onkologi bersikap dominan dan meremehkan temuan asesmen kecemasan dan depresi yang disampaikan Psikolog Amanda, dengan menganggap kesehatan mental pasien tidak penting dibanding terapi kemoterapi medis. Psikolog Amanda tetap tenang, secara profesional memaparkan bukti ilmiah (evidence-based) mengenai pengaruh tingkat kecemasan terhadap kepatuhan pengobatan kemoterapi dan kualitas hidup pasien.",
+      "contextTags": [
+        "Kolaborasi Interprofesional",
+        "Tim Multidisiplin",
+        "Komunikasi Profesi",
+        "Kode Etik HIMPSI"
+      ]
+    },
+    "question": "Sikap manakah yang PALING mencerminkan kompetensi kegiatan bersama profesi lain pada diri Psikolog Amanda?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Pergi meninggalkan ruang rapat kasus sambil memaki Dokter Onkologi karena merasa profesinya dilecehkan."
+      },
+      {
+        "id": "B",
+        "text": "Menyampaikan temuan psikologis secara tegas, berbasis bukti ilmiah, dan menjelaskan kontribusi aspek kesehatan mental terhadap keberhasilan pengobatan medis pasien."
+      },
+      {
+        "id": "C",
+        "text": "Mengalah sepenuhnya dan menarik kembali seluruh catatan asesmen psikologis dari rekam medis pasien."
+      },
+      {
+        "id": "D",
+        "text": "Melaporkan Dokter Onkologi ke pihak kepolisian atas tuduhan penghinaan profesi psikolog."
+      }
+    ],
+    "key": "B",
+    "explanation": "Kompetensi bekerja bersama profesi lain (interprofessional collaboration) menuntut psikolog untuk mampu mengomunikasikan peran dan kontribusi psikologi secara jelas, berbasis bukti ilmiah, menghormati profesi lain, serta berfokus pada kesejahteraan pasien tanpa bersikap konfrontatif non-profesional."
+  },
+  {
+    "id": "D1_I1.4_Q2",
+    "domainId": 1,
+    "domainTitle": "Sikap (Etika, Moral, Pluralitas, dan Empati) & Kegiatan Profesional Psikologi",
+    "indicatorId": "1.4",
+    "indicatorFullId": "D1-1.4",
+    "indicatorTitle": "Kemampuan melakukan kegiatan bersama profesi lain",
+    "caseStudy": {
+      "title": "Studi Kasus 2: Batas Kewenangan dan Penggunaan Bahasa Profesi dalam Tim Forensik Hukum",
+      "scenario": "Psikolog Bambang diminta menjadi saksi ahli psikologi dalam persidangan tindak pidana bersama dengan Ahli Forensik Kedokteran dan Ahli Kriminologi. Saat menyusun laporan tim bersama, Ahli Kriminologi meminta Psikolog Bambang menyimpulkan bahwa terdakwa secara hukum 'pasti bersalah dan jahat'. Psikolog Bambang menolak dan menjelaskan batas kewenangan psikolog yang hanya berwewenang menilai profil dinamika psikologis, kapasitas kognitif, dan kondisi mental terdakwa, bukan menetapkan vonis hukum bersalah/tidaknya seseorang.",
+      "contextTags": [
+        "Saksi Ahli Forensik",
+        "Batas Kewenangan",
+        "Tim Hukum",
+        "Kode Etik HIMPSI"
+      ]
+    },
+    "question": "Apakah tindakan Psikolog Bambang menjaga batas kewenangan profesinya sudah tepat?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Sangat tepat, karena penetapan vonis bersalah atau tidaknya terdakwa adalah wewenang majelis hakim, bukan psikolog."
+      },
+      {
+        "id": "B",
+        "text": "Tidak tepat, seharusnya psikolog menuruti semua keinginan ahli kriminologi sebagai ketua tim."
+      },
+      {
+        "id": "C",
+        "text": "Tidak tepat, psikolog berhak menghukum terdakwa jika terbukti mengalami gangguan jiwa."
+      },
+      {
+        "id": "D",
+        "text": "Tepat hanya jika hakim membayar honorarium tambahan kepada Psikolog Bambang."
+      }
+    ],
+    "key": "A",
+    "explanation": "Berdasarkan Kode Etik Psikologi Indonesia (Pasal 2 & bab Forensik), Psikolog harus memahami batas kewenangan profesi dalam tim multidisiplin. Psikolog memberikan gambaran ilmiah kondisi psikologis, bukan mengambil alih wewenang yudisial hakim untuk memutus vonis hukum."
+  },
+  {
+    "id": "D1_I1.4_Q3",
+    "domainId": 1,
+    "domainTitle": "Sikap (Etika, Moral, Pluralitas, dan Empati) & Kegiatan Profesional Psikologi",
+    "indicatorId": "1.4",
+    "indicatorFullId": "D1-1.4",
+    "indicatorTitle": "Kemampuan melakukan kegiatan bersama profesi lain",
+    "caseStudy": {
+      "title": "Studi Kasus 3: Sharing Data Rekam Medis / Psikologis dalam Tim Rumah Sakit",
+      "scenario": "Psikolog Cindy bertugas di Instalasi Rehabilitasi Medik. Seorang terapis fisik (physiotherapist) meminta dokumen lengkap hasil wawancara trauma masa kecil pasien Sdr. Denis untuk bahan obrolan santai di kantin. Psikolog Cindy menolak memberikan rincian cerita trauma tersebut dan hanya membagikan informasi batasan fungsi psikomotorik serta rekomendasi psikologis yang relevan dengan program latihan fisik Sdr. Denis.",
+      "contextTags": [
+        "Kerahasiaan Data Tim",
+        "Need to Know Basis",
+        "Rekam Medis Terpadu",
+        "Kode Etik HIMPSI"
+      ]
+    },
+    "question": "Bagaimanakah analisis etis terhadap pembatasan informasi yang dilakukan Psikolog Cindy?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Tindakan Psikolog Cindy salah karena sesama anggota tim medis berhak mengetahui seluruh rahasia trauma pribadi pasien."
+      },
+      {
+        "id": "B",
+        "text": "Tindakan Psikolog Cindy sangat tepat sesuai prinsip 'Need-to-Know Basis' dan kerahasiaan rekam psikologis (Pasal 24)."
+      },
+      {
+        "id": "C",
+        "text": "Tindakan Psikolog Cindy melanggar etika kekeluargaan antar-tenaga kesehatan di rumah sakit."
+      },
+      {
+        "id": "D",
+        "text": "Tindakan Psikolog Cindy dibenarkan hanya jika terapis fisik tersebut belum lulus pendidikan profesi."
+      }
+    ],
+    "key": "B",
+    "explanation": "Bahkan dalam tim multidisiplin rumah sakit, pembagian informasi (sharing confidential info) tetap dibatasi pada prinsip 'need-to-know basis'—hanya informasi relevan untuk penanganan klinis yang boleh dibagikan, bukan data trauma pribadi yang sensitif."
+  },
+  {
+    "id": "D1_I1.4_Q4",
+    "domainId": 1,
+    "domainTitle": "Sikap (Etika, Moral, Pluralitas, dan Empati) & Kegiatan Profesional Psikologi",
+    "indicatorId": "1.4",
+    "indicatorFullId": "D1-1.4",
+    "indicatorTitle": "Kemampuan melakukan kegiatan bersama profesi lain",
+    "caseStudy": {
+      "title": "Studi Kasus 4: Kolaborasi Psikolog Sekolah dengan Guru dan Konselor BK",
+      "scenario": "Psikolog Dede bekerjasama dengan Guru BK dan Guru Wali Kelas dalam merancang program pencegahan perundungan (anti-bullying) di sekolah. Saat diskusi, Guru BK mengusulkan metode hukuman fisik di depan umum bagi pelaku perundungan. Psikolog Dede dengan sopan menolak usulan hukuman fisik tersebut dan memaparkan pendekatan modifikasi perilaku positif berbasis psikoedukasi dan pemulihan restitusi.",
+      "contextTags": [
+        "Psikologi Sekolah",
+        "Kolaborasi BK",
+        "Modifikasi Perilaku",
+        "Kode Etik HIMPSI"
+      ]
+    },
+    "question": "Bagaimanakah penilaian atas kepemimpinan profesional Psikolog Dede dalam tim sekolah?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Psikolog Dede menunjukkan kepemimpinan etis dengan mengarahkan tim menuju metode intervensi berbasis kaidah psikologi yang aman dan non-kekerasan."
+      },
+      {
+        "id": "B",
+        "text": "Psikolog Dede merusak hubungan kerja karena bertentangan dengan tradisi senioritas Guru BK."
+      },
+      {
+        "id": "C",
+        "text": "Psikolog Dede seharusnya menyetujui hukuman fisik demi kepraktisan disiplin sekolah."
+      },
+      {
+        "id": "D",
+        "text": "Psikolog Dede melanggar Kode Etik karena tidak melapor ke kepala dinas pendidikan."
+      }
+    ],
+    "key": "A",
+    "explanation": "Dalam kolaborasi dengan pendidik/guru BK, psikolog wajib mengedukasi dan memastikan program sekolah menggunakan prinsip-prinsip psikologis yang etis, aman, dan konstruktif bagi tumbuh kembang anak."
+  },
+  {
+    "id": "D1_I1.4_Q5",
+    "domainId": 1,
+    "domainTitle": "Sikap (Etika, Moral, Pluralitas, dan Empati) & Kegiatan Profesional Psikologi",
+    "indicatorId": "1.4",
+    "indicatorFullId": "D1-1.4",
+    "indicatorTitle": "Kemampuan melakukan kegiatan bersama profesi lain",
+    "caseStudy": {
+      "title": "Studi Kasus 5: Penanganan Bencana Alam Bersama Tim SAR dan Relawan Multidisiplin",
+      "scenario": "Di posko penanggulangan bencana gempa bumi, Psikolog Elly berkoordinasi dengan Tim SAR, Dokter Umum, dan Relawan Logistik. Relawan Logistik meminta Psikolog Elly memaksa para korban yang sedang histeris untuk berbaris rapi menerima sembako. Psikolog Elly menjelaskan bahwa fokus utama penanganan krisis awal adalah Psychological First Aid (PFA) dan penstabilan emosi (grounding), bukan pemaksaan barisan.",
+      "contextTags": [
+        "PFA Bencana",
+        "Tim SAR",
+        "Manajemen Krisis",
+        "Kode Etik HIMPSI"
+      ]
+    },
+    "question": "Kontribusi profesional apakah yang diperlihatkan Psikolog Elly dalam tim penanggulangan bencana?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Mengutamakan prinsip PFA (Pertolongan Pertama Psikologis) dan pemahaman kondisi emosional penyintas bencana bagi anggota tim lintas sektor."
+      },
+      {
+        "id": "B",
+        "text": "Menolak membantu relawan dan memilih berdiam diri di dalam tenda utama."
+      },
+      {
+        "id": "C",
+        "text": "Mengambil alih kepemimpinan Tim SAR untuk melakukan evakuasi reruntuhan bangunan."
+      },
+      {
+        "id": "D",
+        "text": "Menyarankan pembagian sembako dibatalkan sepenuhnya hingga semua korban bebas dari stres."
+      }
+    ],
+    "key": "A",
+    "explanation": "Dalam situasi krisis bencana, peran psikolog dalam tim lintas sektor mencakup penerapan Psychological First Aid (PFA) dan mengedukasi relawan lain agar memperlakukan penyintas secara empatik dan bermartabat."
+  },
+  {
+    "id": "D1_I1.4_Q6",
+    "domainId": 1,
+    "domainTitle": "Sikap (Etika, Moral, Pluralitas, dan Empati) & Kegiatan Profesional Psikologi",
+    "indicatorId": "1.4",
+    "indicatorFullId": "D1-1.4",
+    "indicatorTitle": "Kemampuan melakukan kegiatan bersama profesi lain",
+    "caseStudy": {
+      "title": "Studi Kasus 6: Kolaborasi dengan Pekerja Sosial (Peksos) dalam Penanganan Anak Berhadapan dengan Hukum (ABH)",
+      "scenario": "Psikolog Fajar menyusun laporan evaluasi bersama Pekerja Sosial (Peksos) dari Kemsos untuk persidangan anak ABH. Peksos memberikan data laporan penelitian kemasyarakatan (Litmas) lingkungan anak, sementara Psikolog Fajar memberikan analisis dinamika kognitif emosi anak. Keduanya saling melengkapi dan menyetujui rekomendasi diverifikasi berbasis kepentingan terbaik bagi anak (best interest of the child).",
+      "contextTags": [
+        "Anak ABH",
+        "Peksos",
+        "Diverifikasi Anak",
+        "Kode Etik HIMPSI"
+      ]
+    },
+    "question": "Bagaimanakah kualitas kerjasama interprofesional antara Psikolog Fajar dan Pekerja Sosial tersebut?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Sangat baik dan sinergis, saling memperkaya perspektif profesional demi kepentingan terbaik anak (best interest of the child)."
+      },
+      {
+        "id": "B",
+        "text": "Buruk, karena psikolog seharusnya tidak perlu mendengarkan masukan dari pekerja sosial."
+      },
+      {
+        "id": "C",
+        "text": "Melanggar etika karena melibatkan profesi non-medis dalam pembuatan laporan."
+      },
+      {
+        "id": "D",
+        "text": "Sesuai hanya jika anak diwajibkan masuk penjara dewasa."
+      }
+    ],
+    "key": "A",
+    "explanation": "Kerjasama antara psikolog dan pekerja sosial dalam kasus ABH yang berpatokan pada prinsip 'best interest of the child' merupakan contoh nyata interprofessional collaboration yang ideal."
+  },
+  {
+    "id": "D1_I1.4_Q7",
+    "domainId": 1,
+    "domainTitle": "Sikap (Etika, Moral, Pluralitas, dan Empati) & Kegiatan Profesional Psikologi",
+    "indicatorId": "1.4",
+    "indicatorFullId": "D1-1.4",
+    "indicatorTitle": "Kemampuan melakukan kegiatan bersama profesi lain",
+    "caseStudy": {
+      "title": "Studi Kasus 7: Konflik Etik Penentuan Kapasitas Mental Kerja bersama Dokter Okupasi (Okupasi Kesehatan)",
+      "scenario": "Psikolog Gilang dan Dokter Spesialis Kedokteran Okupasi (Sp.Ok) mengevaluasi kelayakan kerja (fitness for duty) sorang pilot maskapai penerbangan pasca-trauma kecelakaan. Dokter Sp.Ok menyatakan fisik pilot sudah 100% sembuh. Namun Psikolog Gilang menemukan pilot masih mengalami PTSD parah dan kilas balik (flashback) saat memegang kendali penerbangan. Psikolog Gilang mempertahankan temuan psikologisnya dalam rapat bersama.",
+      "contextTags": [
+        "Fitness for Duty",
+        "PTSD Pilot",
+        "Dokter Okupasi",
+        "Kode Etik HIMPSI"
+      ]
+    },
+    "question": "Langkah profesional apakah yang HARUS dipertahankan oleh Psikolog Gilang?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Menyerah pada pendapat Dokter Sp.Ok dan meloloskan pilot demi menghindari perdebatan."
+      },
+      {
+        "id": "B",
+        "text": "Mempertahankan hasil evaluasi PTSD demi keselamatan penerbangan publik dan merekomendasikan terapi pemulihan sebelum pilot menerbangkan pesawat kembali."
+      },
+      {
+        "id": "C",
+        "text": "Memalsukan laporan psikologis agar sesuai dengan laporan fisik dokter."
+      },
+      {
+        "id": "D",
+        "text": "Membocorkan nama pilot ke media massa agar calon penumpang tidak naik pesawat tersebut."
+      }
+    ],
+    "key": "B",
+    "explanation": "Dalam penilaian kelayakan kerja berisiko tinggi (seperti pilot/operator mesin berat), integritas temuan psikologis (seperti gejala PTSD) harus dipertahankan demi keselamatan publik walau ada tekanan dari anggota tim medis lain."
+  },
+  {
+    "id": "D1_I1.4_Q8",
+    "domainId": 1,
+    "domainTitle": "Sikap (Etika, Moral, Pluralitas, dan Empati) & Kegiatan Profesional Psikologi",
+    "indicatorId": "1.4",
+    "indicatorFullId": "D1-1.4",
+    "indicatorTitle": "Kemampuan melakukan kegiatan bersama profesi lain",
+    "caseStudy": {
+      "title": "Studi Kasus 8: Kolaborasi Tim Riset Multidisiplin dengan Ahli Data / AI (Data Scientist)",
+      "scenario": "Psikolog Hani bekerja dalam tim pengembangan aplikasi kesehatan mental berbasis Artificial Intelligence (AI) bersama Software Engineer dan Data Scientist. Data Scientist meminta izin memasukkan seluruh percakapan anonim klien tanpa restriksi enkripsi untuk melatih model AI. Psikolog Hani mewajibkan standar privasi tinggi, enkripsi end-to-end, dan persetujuan khusus etika riset (Ethical Clearance).",
+      "contextTags": [
+        "Etika AI",
+        "Data Privacy",
+        "Riset Multidisiplin",
+        "Kode Etik HIMPSI"
+      ]
+    },
+    "question": "Penilaian manakah yang PALING mencerminkan tindakan etis Psikolog Hani dalam riset teknologi?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Psikolog Hani bertindak sangat etis dengan mengawal perlindungan privasi dan kerahasiaan subjek dalam riset interdisiplin teknologi."
+      },
+      {
+        "id": "B",
+        "text": "Psikolog Hani menghambat kemajuan teknologi AI karena terlalu kaku dengan aturan etika."
+      },
+      {
+        "id": "C",
+        "text": "Psikolog Hani seharusnya menjual data percakapan klien untuk keuntungan finansial pribadi."
+      },
+      {
+        "id": "D",
+        "text": "Psikolog Hani melanggar hukum karena mencampuri urusan pemrograman software."
+      }
+    ],
+    "key": "A",
+    "explanation": "Dalam kolaborasi teknologi/AI kesehatan mental, psikolog bertanggung jawab memastikan perlindungan data sensitif klien (privacy & data protection) dan standar etika penelitian dilindungi."
+  },
+  {
+    "id": "D1_I1.4_Q9",
+    "domainId": 1,
+    "domainTitle": "Sikap (Etika, Moral, Pluralitas, dan Empati) & Kegiatan Profesional Psikologi",
+    "indicatorId": "1.4",
+    "indicatorFullId": "D1-1.4",
+    "indicatorTitle": "Kemampuan melakukan kegiatan bersama profesi lain",
+    "caseStudy": {
+      "title": "Studi Kasus 9: Kolaborasi dengan Terapi Okupasi dan Terapi Wicara pada Anak Anak ABK",
+      "scenario": "Psikolog Indri bersama Terapis Wicara dan Terapis Okupasi menyusun program intervensi terpadu untuk anak dengan Cerebral Palsy. Psikolog Indri memfasilitasi sesi penyelarasan target bulanan agar program regulasi emosi di rumah sejalan dengan latihan fisik di klinik.",
+      "contextTags": [
+        "ABK Terpadu",
+        "Terapi Wicara",
+        "Terapi Okupasi",
+        "Kode Etik HIMPSI"
+      ]
+    },
+    "question": "Prinsip interprofesional apakah yang diterapkan oleh Psikolog Indri?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Koordinasi dan penyelarasan tujuan intervensi (goal alignment) secara berkala demi perkembangan holistik anak."
+      },
+      {
+        "id": "B",
+        "text": "Persaingan tarif konsultasi antar-terapis di klinik."
+      },
+      {
+        "id": "C",
+        "text": "Pengambilalihan seluruh tugas terapi wicara oleh psikolog."
+      },
+      {
+        "id": "D",
+        "text": "Penghentian keterlibatan orang tua dalam sesi terapi."
+      }
+    ],
+    "key": "A",
+    "explanation": "Penyelarasan tujuan (goal alignment) antar-profesi terapis merupakan fondasi utama intervensi anak berkebutuhan khusus (ABK) yang efektif."
+  },
+  {
+    "id": "D1_I1.4_Q10",
+    "domainId": 1,
+    "domainTitle": "Sikap (Etika, Moral, Pluralitas, dan Empati) & Kegiatan Profesional Psikologi",
+    "indicatorId": "1.4",
+    "indicatorFullId": "D1-1.4",
+    "indicatorTitle": "Kemampuan melakukan kegiatan bersama profesi lain",
+    "caseStudy": {
+      "title": "Studi Kasus 10: Rapat Kasus (Case Conference) Perusahaan bersama Manajer K3 (Kesehatan & Keselamatan Kerja)",
+      "scenario": "Psikolog Johan mendampingi tim K3 (Keselamatan & Kesehatan Kerja) perusahaan tambang dalam menurunkan angka kecelakaan kerja akibat kelelahan mental (burnout). Psikolog Johan menyajikan analisis faktor psikososial dan desain jadwal kerja ergonomis tanpa membocorkan nama-nama individu karyawan yang berkonsultasi.",
+      "contextTags": [
+        "K3 Industri",
+        "Burnout Tambang",
+        "Psikososial Kerja",
+        "Kode Etik HIMPSI"
+      ]
+    },
+    "question": "Sikap profesional apakah yang diperlihatkan Psikolog Johan?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Mampu berkontribusi pada kebijakan sistem K3 perusahaan sambil menjaga penuh etika kerahasiaan identitas individual karyawan."
+      },
+      {
+        "id": "B",
+        "text": "Melanggar etika karena tidak membocorkan nama karyawan yang burnout kepada manajemen untuk dipecat."
+      },
+      {
+        "id": "C",
+        "text": "Tidak profesional karena masalah kelelahan mental bukan urusan keselamatan kerja."
+      },
+      {
+        "id": "D",
+        "text": "Salah karena psikolog tidak boleh berbicara di depan manajer pabrik."
+      }
+    ],
+    "key": "A",
+    "explanation": "Dalam interaksi organisasi/K3, psikolog berkontribusi pada perbaikan sistem psikososial kerja secara agregat tanpa membocorkan identitas individual (confidentiality maintained)."
+  },
+  {
+    "id": "D1_I1.5_Q1",
+    "domainId": 1,
+    "domainTitle": "Sikap (Etika, Moral, Pluralitas, dan Empati) & Kegiatan Profesional Psikologi",
+    "indicatorId": "1.5",
+    "indicatorFullId": "D1-1.5",
+    "indicatorTitle": "Kemampuan dalam hubungan profesional",
+    "caseStudy": {
+      "title": "Studi Kasus 1: Batas-Batas Profesional (Professional Boundaries) dan Penanganan Hubungan Intim",
+      "scenario": "Psikolog Kiki memberikan psikoterapi individual kepada Sdr. Lukman selama 6 bulan. Di akhir masa terapi, Sdr. Lukman menyatakan perasaan cinta dan mengajak Psikolog Kiki untuk menjalin hubungan romantis/seksual. Psikolog Kiki merasa menyukai Sdr. Lukman dan memutuskan menghentikan terapi hari itu juga agar malam harinya mereka bisa mulai berpacaran secara resmi.",
+      "contextTags": [
+        "Batasan Profesional",
+        "Hubungan Romantis",
+        "Dual Relationship",
+        "Kode Etik HIMPSI"
+      ]
+    },
+    "question": "Bagaimanakah penilaian Kode Etik HIMPSI terhadap keputusan Psikolog Kiki?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Dapat dibenarkan karena sesi terapi sudah dihentikan secara resmi di hari yang sama sebelum mereka berpacaran."
+      },
+      {
+        "id": "B",
+        "text": "Pelanggaran berat etika profesi (Pasal 14: Hubungan Seksual) yang melarang hubungan romantis/seksual dengan mantan klien dalam jeda waktu yang disyaratkan kode etik."
+      },
+      {
+        "id": "C",
+        "text": "Dapat dimaklumi karena perasaan cinta merupakan hak asasi manusia yang tidak boleh dihalangi oleh aturan profesi."
+      },
+      {
+        "id": "D",
+        "text": "Sangat dianjurkan demi membuktikan keberhasilan hubungan empati dalam psikoterapi."
+      }
+    ],
+    "key": "B",
+    "explanation": "Berdasarkan Kode Etik Psikologi Indonesia Pasal 14 (Hubungan Seksual), Psikolog dilarang terlibat dalam hubungan seksual/romantis dengan klien yang sedang ditangani maupun mantan klien (minimal jeda 2 tahun dengan evaluasi eksploitasi yang sangat ketat)."
+  },
+  {
+    "id": "D1_I1.5_Q2",
+    "domainId": 1,
+    "domainTitle": "Sikap (Etika, Moral, Pluralitas, dan Empati) & Kegiatan Profesional Psikologi",
+    "indicatorId": "1.5",
+    "indicatorFullId": "D1-1.5",
+    "indicatorTitle": "Kemampuan dalam hubungan profesional",
+    "caseStudy": {
+      "title": "Studi Kasus 2: Menghargai Mitra Sejawat dan Larangan Pencemaran Nama Baik Profesi (Disparagement)",
+      "scenario": "Psikolog Lestari merasa kesal karena seorang klien berpindah konsultasi dari Psikolog Mulyadi ke dirinya. Di depan klien tersebut, Psikolog Lestari secara terbuka mengejek diagnosis Psikolog Mulyadi sebagai 'bodoh, tidak kompeten, dan lulusan kampus tidak jelas', serta menghimbau klien untuk menyebarkan keburukan Psikolog Mulyadi di media sosial.",
+      "contextTags": [
+        "Mitra Sejawat",
+        "Pencemaran Nama Baik",
+        "Etika Profesi",
+        "Kode Etik HIMPSI"
+      ]
+    },
+    "question": "Apakah tindakan Psikolog Lestari mencerminkan etika hubungan profesional sejawat?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Mencerminkan sikap jujur dan berani membela kebenaran di depan klien."
+      },
+      {
+        "id": "B",
+        "text": "Melanggar Kode Etik HIMPSI (Pasal 19 & 5) mengenai kewajiban menghormati dan menjaga hubungan baik dengan rekan sejawat serta larangan mendiskreditkan sesama psikolog."
+      },
+      {
+        "id": "C",
+        "text": "Sesuai standar pelayanan agar klien tahu mana psikolog yang berkualitas."
+      },
+      {
+        "id": "D",
+        "text": "Dapat dibenarkan selama Psikolog Mulyadi tidak mendengar langsung ejekan tersebut."
+      }
+    ],
+    "key": "B",
+    "explanation": "Berdasarkan Kode Etik Psikologi Indonesia (Pasal 19 & Hubungan dengan Sejawat), Psikolog wajib memperlakukan rekan sejawat dengan penghormatan, keadilan, dan sopan santun. Mendiskreditkan atau mencemarkan nama baik rekan sejawat di depan klien/publik adalah pelanggaran etika."
+  },
+  {
+    "id": "D1_I1.5_Q3",
+    "domainId": 1,
+    "domainTitle": "Sikap (Etika, Moral, Pluralitas, dan Empati) & Kegiatan Profesional Psikologi",
+    "indicatorId": "1.5",
+    "indicatorFullId": "D1-1.5",
+    "indicatorTitle": "Kemampuan dalam hubungan profesional",
+    "caseStudy": {
+      "title": "Studi Kasus 3: Penerimaan Hadiah (Gratifikasi/Gifts) dari Klien dan Potensi Bias Imparsialitas",
+      "scenario": "Psikolog Nia berhasil membantu seorang pengusaha kaya pulih dari kecemasan. Sebagai rasa terima kasih, pengusaha tersebut memberikan hadiah kunci mobil mewah bernilai miliaran rupiah kepada Psikolog Nia di akhir sesi. Psikolog Nia langsung menerima mobil tersebut dan menggunakannya untuk keperluan pribadi.",
+      "contextTags": [
+        "Penerimaan Hadiah",
+        "Gratifikasi Klien",
+        "Batasan Profesi",
+        "Kode Etik HIMPSI"
+      ]
+    },
+    "question": "Bagaimanakah pertimbangan etis mengenai penerimaan hadiah bernilai sangat besar oleh Psikolog Nia?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Sangat etis karena hadiah diberikan secara sukarela tanpa paksaan pasca-selesainya terapi."
+      },
+      {
+        "id": "B",
+        "text": "Berpotensi merusak batasan hubungan profesional dan objektivitas profesi (Pasal 18), penerimaan hadiah bernilai fantastis melanggar batas kewajaran etika."
+      },
+      {
+        "id": "C",
+        "text": "Tidak etis hanya jika mobil tersebut belum dibayar pajak tahunannya."
+      },
+      {
+        "id": "D",
+        "text": "Etis karena seorang psikolog berhak kaya dari hasil karya profesionalnya."
+      }
+    ],
+    "key": "B",
+    "explanation": "Meskipun penerimaan hadiah kecil tanda terima kasih bernilai nominal sangat wajar kadang diperbolehkan jika tidak memengaruhi hubungan klinis, menerima hadiah bernilai fantastis (mobil mewah) merusak batasan profesional (professional boundaries) dan melanggar prinsip kehati-hatian etika."
+  },
+  {
+    "id": "D1_I1.5_Q4",
+    "domainId": 1,
+    "domainTitle": "Sikap (Etika, Moral, Pluralitas, dan Empati) & Kegiatan Profesional Psikologi",
+    "indicatorId": "1.5",
+    "indicatorFullId": "D1-1.5",
+    "indicatorTitle": "Kemampuan dalam hubungan profesional",
+    "caseStudy": {
+      "title": "Studi Kasus 4: Penggunaan Posisi Profesi untuk Kepentingan Politik / Kampanye",
+      "scenario": "Psikolog Oding maju sebagai calon anggota legislatif dalam Pemilu. Dalam baliho kampanye politiknya, Psikolog Oding mencantumkan foto klien-kliennya yang pernah sembuh beserta logo asosiasi profesi HIMPSI tanpa izin resmi asosiasi, dan mengklaim seluruh klien psikolog wajib memilih dirinya.",
+      "contextTags": [
+        "Atribut Profesi",
+        "Politik Praktis",
+        "Penggunaan Logo HIMPSI",
+        "Kode Etik HIMPSI"
+      ]
+    },
+    "question": "Pelanggaran etika manakah yang dilakukan Psikolog Oding?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Penggunaan identitas profesi dan atribut organisasi HIMPSI serta pemanfaatan klien untuk kepentingan politik pribadi (Pasal 28)."
+      },
+      {
+        "id": "B",
+        "text": "Kegagalan melakukan re-standardisasi alat tes inteligensi."
+      },
+      {
+        "id": "C",
+        "text": "Pemberian rujukan medis tanpa persetujuan psikiater."
+      },
+      {
+        "id": "D",
+        "text": "Penggunaan bahasa daerah saat berkampanye di desa."
+      }
+    ],
+    "key": "A",
+    "explanation": "Kode Etik Psikologi Indonesia melarang tegas penggunaan nama, atribut, atau logo asosiasi profesi (HIMPSI) serta pemanfaatan hubungan profesional dengan klien untuk kepentingan politik praktis atau keuntungan perorangan."
+  },
+  {
+    "id": "D1_I1.5_Q5",
+    "domainId": 1,
+    "domainTitle": "Sikap (Etika, Moral, Pluralitas, dan Empati) & Kegiatan Profesional Psikologi",
+    "indicatorId": "1.5",
+    "indicatorFullId": "D1-1.5",
+    "indicatorTitle": "Kemampuan dalam hubungan profesional",
+    "caseStudy": {
+      "title": "Studi Kasus 5: Penanganan Kasus Malpraktik atau Pelanggaran Etika Rekan Sejawat",
+      "scenario": "Psikolog Putu mengetahui secara pasti bukti-bukti bahwa rekan sejawatnya, Psikolog Qomar, sering melakukan pelecehan seksual terhadap klien-klien wanita di ruang konseling. Psikolog Putu terlebih dahulu menegur dan mengonfirmasi secara kekeluargaan, namun karena tidak ada perubahan, Psikolog Putu melaporkan bukti tersebut ke Majelis Etika HIMPSI setempat.",
+      "contextTags": [
+        "Pelaporan Majelis Etika",
+        "Malpraktik Sejawat",
+        "Tanggung Jawab Profesi",
+        "Kode Etik HIMPSI"
+      ]
+    },
+    "question": "Bagaimanakah penilaian atas langkah pelaporan yang diambil Psikolog Putu?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Tindakan Psikolog Putu adalah bentuk penghianatan terhadap sesama psikolog yang harus dimusuhi."
+      },
+      {
+        "id": "B",
+        "text": "Tindakan Psikolog Putu sangat etis dan bertanggung jawab (Pasal 4: Penyelesaian Masalah Etika) demi melindungi publik dan menjaga keluhuran profesi."
+      },
+      {
+        "id": "C",
+        "text": "Tindakan Psikolog Putu melanggar hukum karena mencampuri urusan pribadi orang lain."
+      },
+      {
+        "id": "D",
+        "text": "Tindakan Psikolog Putu salah, seharusnya dilaporkan ke media massa sosial media dahulu."
+      }
+    ],
+    "key": "B",
+    "explanation": "Berdasarkan Kode Etik Psikologi Indonesia Pasal 4 (Penyelesaian Masalah Etika), jika terjadi pelanggaran etika berat oleh rekan sejawat yang membahayakan pengguna layanan, psikolog wajib mengambil langkah penyelesaian etis formal melalui pelaporan ke Majelis Etika HIMPSI."
+  },
+  {
+    "id": "D1_I1.5_Q6",
+    "domainId": 1,
+    "domainTitle": "Sikap (Etika, Moral, Pluralitas, dan Empati) & Kegiatan Profesional Psikologi",
+    "indicatorId": "1.5",
+    "indicatorFullId": "D1-1.5",
+    "indicatorTitle": "Kemampuan dalam hubungan profesional",
+    "caseStudy": {
+      "title": "Studi Kasus 6: Pemeliharaan Kesehatan Mental Profesi Diri Sendiri (Self-Care & Impairment)",
+      "scenario": "Psikolog Rian mengalami burnout parah, depresi klinis, dan ketergantungan alkohol akibat krisis perceraian pribadinya. Dalam kondisi emosi yang sangat tidak stabil dan ingatan yang terganggu, Psikolog Rian tetap memaksakan diri membuka praktik konseling 10 klien sehari. Akibatnya, ia sering tertidur dan marah-marah saat klien bercerita.",
+      "contextTags": [
+        "Personal Impairment",
+        "Self-Care Psikolog",
+        "Kompetensi Diri",
+        "Kode Etik HIMPSI"
+      ]
+    },
+    "question": "Bagaimanakah evaluasi etis atas keputusan Psikolog Rian yang tetap mempraktikkan layanan?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Tetap terpuji karena Psikolog Rian menunjukkan dedikasi kerja yang sangat tinggi tanpa memedulikan penyakitnya."
+      },
+      {
+        "id": "B",
+        "text": "Melanggar Kode Etik HIMPSI (Pasal 11: Masalah dan Konflik Personal) yang memadatkan psikolog menunda/menghentikan praktik jika kondisi pribadinya mengganggu efektivitas profesional."
+      },
+      {
+        "id": "C",
+        "text": "Sesuai standar profesi karena psikolog tidak bisa mengalami gangguan kesehatan mental."
+      },
+      {
+        "id": "D",
+        "text": "Dapat dimaklumi selama klien tidak meminta pengembalian uang konsultasi."
+      }
+    ],
+    "key": "B",
+    "explanation": "Berdasarkan Kode Etik Psikologi Indonesia Pasal 11 (Masalah dan Konflik Personal), Psikolog wajib menyadari bila masalah pribadi/kesehatan mentalnya mengganggu kompetensi profesionalnya (impairment), dan wajib membatasi, menunda, atau menghentikan aktivitas praktiknya."
+  },
+  {
+    "id": "D1_I1.5_Q7",
+    "domainId": 1,
+    "domainTitle": "Sikap (Etika, Moral, Pluralitas, dan Empati) & Kegiatan Profesional Psikologi",
+    "indicatorId": "1.5",
+    "indicatorFullId": "D1-1.5",
+    "indicatorTitle": "Kemampuan dalam hubungan profesional",
+    "caseStudy": {
+      "title": "Studi Kasus 7: Hubungan Supervisi Profesional antara Supervisor dan Supervisi (Mahasiswa/Praktikan)",
+      "scenario": "Psikolog Santi menjadi supervisor praktik klinis untuk mahasiswa magang Sdri. Tina. Psikolog Santi memaksa Sdri. Tina mengerjakan seluruh tugas-tugas rumah pribadi Psikolog Santi (seperti mencuci mobil dan memasak) dengan ancaman jika menolak, nilai magang klinisnya akan digugurkan.",
+      "contextTags": [
+        "Supervisi Psikologi",
+        "Eksploitasi Mahasiswa",
+        "Harrasment",
+        "Kode Etik HIMPSI"
+      ]
+    },
+    "question": "Tindakan Psikolog Santi melanggar etika profesional dalam hal:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Penyalahgunaan wewenang supervisi dan penyalahgunaan posisi / eksploitasi terhadap mahasiswi bimbingan (Pasal 13)."
+      },
+      {
+        "id": "B",
+        "text": "Penggunaan instrumen tes kepribadian yang sudah kadaluwarsa."
+      },
+      {
+        "id": "C",
+        "text": "Penyusunan laporan dinamika psikologis tanpa konsisten."
+      },
+      {
+        "id": "D",
+        "text": "Ketiadaan izin operasional klinik dari kementerian kesehatan."
+      }
+    ],
+    "key": "A",
+    "explanation": "Kode Etik Psikologi Indonesia melarang keras psikolog menyalahgunakan wewenang pendidik/supervisor untuk mengeksploitasi mahasiswa, praktikan, atau bawahan secara personal maupun finansial."
+  },
+  {
+    "id": "D1_I1.5_Q8",
+    "domainId": 1,
+    "domainTitle": "Sikap (Etika, Moral, Pluralitas, dan Empati) & Kegiatan Profesional Psikologi",
+    "indicatorId": "1.5",
+    "indicatorFullId": "D1-1.5",
+    "indicatorTitle": "Kemampuan dalam hubungan profesional",
+    "caseStudy": {
+      "title": "Studi Kasus 8: Batas Hubungan Pertemanan Media Sosial (Social Media Connections) dengan Klien",
+      "scenario": "Psikolog Tita yang sedang menangani klien konseling kecemasan Sdri. Uli, secara aktif mengirimkan permintaan pertemanan (add friend) di semua akun media sosial pribadi Sdri. Uli, lalu memberikan komentar-komentar personal pada foto-foto liburan Sdri. Uli setiap malam.",
+      "contextTags": [
+        "Media Sosial Klien",
+        "Batasan Maya",
+        "Privacy Boundaries",
+        "Kode Etik HIMPSI"
+      ]
+    },
+    "question": "Mengapa tindakan Psikolog Tita berisiko melanggar etika hubungan profesional?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Karena mengaburkan batasan profesional (boundary crossing) dan merusak objektivitas ruang aman terapi di luar sesi resmi."
+      },
+      {
+        "id": "B",
+        "text": "Karena media sosial memerlukan pembayaran biaya langganan bulanan."
+      },
+      {
+        "id": "C",
+        "text": "Karena Sdri. Uli tidak memiliki smartphone yang canggih."
+      },
+      {
+        "id": "D",
+        "text": "Sama sekali tidak berisiko, media sosial diciptakan untuk mempererat persahabatan terapi."
+      }
+    ],
+    "key": "A",
+    "explanation": "Mengagresi akun media sosial pribadi klien secara aktif oleh psikolog dapat membingungkan batasan hubungan profesional (boundary crossing/blurring), mengganggu privasi klien, dan mengancam objektivitas terapeutik."
+  },
+  {
+    "id": "D1_I1.5_Q9",
+    "domainId": 1,
+    "domainTitle": "Sikap (Etika, Moral, Pluralitas, dan Empati) & Kegiatan Profesional Psikologi",
+    "indicatorId": "1.5",
+    "indicatorFullId": "D1-1.5",
+    "indicatorTitle": "Kemampuan dalam hubungan profesional",
+    "caseStudy": {
+      "title": "Studi Kasus 9: Penggunaan Gelar Profesional dan Spesialisasi yang Tidak Sesuai",
+      "scenario": "Sdr. Vicky baru saja lulus Sarjana Psikologi (S.Psi) dan belum mengikuti pendidikan Profesi Psikolog (Magister Psikologi Profesi / PKPP). Namun di papan nama rumahnya, ia memasang sebutan: 'Dr. Vicky, M.Psi., Psikolog Spesialis Psikoanalisis & Bedah Otak Psikologis'.",
+      "contextTags": [
+        "Gelar Profesi",
+        "Gelar Palsu",
+        "Penipuan Publik",
+        "Kode Etik HIMPSI"
+      ]
+    },
+    "question": "Bagaimanakah kualifikasi tindakan Sdr. Vicky dari kacamata etika dan hukum?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Merupakan bentuk penipuan gelar profesi dan pembohongan publik yang melanggar Kode Etik HIMPSI serta UU Layanan Psikologi."
+      },
+      {
+        "id": "B",
+        "text": "Inovasi pemasaran yang bagus untuk menarik calon klien."
+      },
+      {
+        "id": "C",
+        "text": "Dapat dimaklumi selama ia pernah membaca buku psikoanalisis Freud."
+      },
+      {
+        "id": "D",
+        "text": "Sah-sah saja karena gelar adalah hak bebas setiap warga negara."
+      }
+    ],
+    "key": "A",
+    "explanation": "Menggunakan gelar profesi psikolog atau spesialisasi palsu tanpa kualifikasi pendidikan profesi yang sah merupakan pelanggaran hukum berat (UU No. 23 Tahun 2022 tentang PLP) dan pelanggaran Kode Etik HIMPSI (Pasal 28)."
+  },
+  {
+    "id": "D1_I1.5_Q10",
+    "domainId": 1,
+    "domainTitle": "Sikap (Etika, Moral, Pluralitas, dan Empati) & Kegiatan Profesional Psikologi",
+    "indicatorId": "1.5",
+    "indicatorFullId": "D1-1.5",
+    "indicatorTitle": "Kemampuan dalam hubungan profesional",
+    "caseStudy": {
+      "title": "Studi Kasus 10: Penghentian Layanan Praktik Mandiri secara Etis saat Psikolog Pindah Kota",
+      "scenario": "Psikolog Wiwik yang memiliki praktik mandiri memutuskan pindah kota secara permanen. Tiga bulan sebelum kepindahannya, Psikolog Wiwik memberitahukan seluruh klien aktifnya, menyelesaikan rencana intervensi yang berjalan, memberikan opsi rujukan ke rekan psikolog sejawat lokal, dan menyerahkan salinan rekam psikologis yang diperlukan.",
+      "contextTags": [
+        "Penutupan Praktik",
+        "Rencana Kepindahan",
+        "Kontinuitas Layanan",
+        "Kode Etik HIMPSI"
+      ]
+    },
+    "question": "Apakah langkah-langkah yang dilakukan Psikolog Wiwik sudah mencerminkan hubungan profesional yang bertanggung jawab?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Sangat mencerminkan hubungan profesional yang bertanggung jawab dan etis karena memperhatikan kontinuitas kesejahteraan klien."
+      },
+      {
+        "id": "B",
+        "text": "Tidak etis, seharusnya Psikolog Wiwik pindah secara diam-diam tanpa memberitahu siapapun."
+      },
+      {
+        "id": "C",
+        "text": "Salah, Psikolog Wiwik wajib membawa seluruh klien pindah ke kota baru bersama-sama."
+      },
+      {
+        "id": "D",
+        "text": "Etis hanya jika Psikolog Wiwik memberikan uang pesangon kepada setiap klien."
+      }
+    ],
+    "key": "A",
+    "explanation": "Penutupan praktik atau kepindahan profesional yang etis mensyaratkan pemberitahuan awal yang cukup (advance notice), persiapan rujukan, serta perlindungan kerahasiaan rekam data medis klien."
+  }
+]

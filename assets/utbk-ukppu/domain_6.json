@@ -1,0 +1,2732 @@
+[
+  {
+    "id": "D6_I1.1_Q1",
+    "domainId": 6,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Menentukan metode asesmen)",
+    "indicatorId": "1.1",
+    "indicatorFullId": "D6-1.1",
+    "indicatorTitle": "Mengetahui metode asesmen dan kelebihan serta keterbatasannya",
+    "caseStudy": {
+      "title": "Studi Kasus 1: Kelebihan dan Keterbatasan Metode Observasi vs Wawancara vs Tes Psikologi (Kasus 1)",
+      "scenario": "Psikolog merencanakan baterai asesmen untuk menilai kecenderungan impulsivitas dan hiperaktivitas pada anak usia sekolah. Psikolog menganalisis kelebihan dan keterbatasan dari masing-masing metode: Observasi Perilaku Alami (naturalistic observation), Wawancara Klinis dengan Orang Tua, dan Tes Inventori Laporan Diri (self-report).",
+      "contextTags": [
+        "Metode Asesmen",
+        "Observasi",
+        "Wawancara",
+        "Inventori"
+      ]
+    },
+    "question": "Analisis manakah yang PALING tepat mengenai kelebihan dan keterbatasan metode observasi langsung pada kasus kecenderungan hiperaktivitas anak?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Observasi langsung berkelebihan mengungkap perilaku aktual dalam konteks alami, namun memiliki keterbatasan seperti pengaruh efek observer bias dan membutuhkan waktu lama."
+      },
+      {
+        "id": "B",
+        "text": "Observasi langsung memiliki kelebihan tidak membutuhkan waktu dan pasti 100% bebas dari bias pengamat."
+      },
+      {
+        "id": "C",
+        "text": "Wawancara orang tua selalu lebih obyektif dibanding observasi perilaku nyata di kelas."
+      },
+      {
+        "id": "D",
+        "text": "Tes self-report tulisan paling cocok diberikan kepada anak balita usia 2 tahun."
+      }
+    ],
+    "key": "A",
+    "explanation": "Setiap metode asesmen memiliki karakteristik: Observasi langsung menangkap perilaku aktual (high ecological validity) namun berisiko observer effect & memakan waktu; Wawancara memberikan persepsi historis; Self-report tergantung introspeksi & usia."
+  },
+  {
+    "id": "D6_I1.1_Q2",
+    "domainId": 6,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Menentukan metode asesmen)",
+    "indicatorId": "1.1",
+    "indicatorFullId": "D6-1.1",
+    "indicatorTitle": "Mengetahui metode asesmen dan kelebihan serta keterbatasannya",
+    "caseStudy": {
+      "title": "Studi Kasus 2: Kelebihan dan Keterbatasan Metode Observasi vs Wawancara vs Tes Psikologi (Kasus 2)",
+      "scenario": "Psikolog merencanakan baterai asesmen untuk menilai kecenderungan impulsivitas dan hiperaktivitas pada anak usia sekolah. Psikolog menganalisis kelebihan dan keterbatasan dari masing-masing metode: Observasi Perilaku Alami (naturalistic observation), Wawancara Klinis dengan Orang Tua, dan Tes Inventori Laporan Diri (self-report).",
+      "contextTags": [
+        "Metode Asesmen",
+        "Observasi",
+        "Wawancara",
+        "Inventori"
+      ]
+    },
+    "question": "Analisis manakah yang PALING tepat mengenai kelebihan dan keterbatasan metode observasi langsung pada kasus kecenderungan hiperaktivitas anak?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Observasi langsung berkelebihan mengungkap perilaku aktual dalam konteks alami, namun memiliki keterbatasan seperti pengaruh efek observer bias dan membutuhkan waktu lama."
+      },
+      {
+        "id": "B",
+        "text": "Observasi langsung memiliki kelebihan tidak membutuhkan waktu dan pasti 100% bebas dari bias pengamat."
+      },
+      {
+        "id": "C",
+        "text": "Wawancara orang tua selalu lebih obyektif dibanding observasi perilaku nyata di kelas."
+      },
+      {
+        "id": "D",
+        "text": "Tes self-report tulisan paling cocok diberikan kepada anak balita usia 2 tahun."
+      }
+    ],
+    "key": "A",
+    "explanation": "Setiap metode asesmen memiliki karakteristik: Observasi langsung menangkap perilaku aktual (high ecological validity) namun berisiko observer effect & memakan waktu; Wawancara memberikan persepsi historis; Self-report tergantung introspeksi & usia."
+  },
+  {
+    "id": "D6_I1.1_Q3",
+    "domainId": 6,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Menentukan metode asesmen)",
+    "indicatorId": "1.1",
+    "indicatorFullId": "D6-1.1",
+    "indicatorTitle": "Mengetahui metode asesmen dan kelebihan serta keterbatasannya",
+    "caseStudy": {
+      "title": "Studi Kasus 3: Kelebihan dan Keterbatasan Metode Observasi vs Wawancara vs Tes Psikologi (Kasus 3)",
+      "scenario": "Psikolog merencanakan baterai asesmen untuk menilai kecenderungan impulsivitas dan hiperaktivitas pada anak usia sekolah. Psikolog menganalisis kelebihan dan keterbatasan dari masing-masing metode: Observasi Perilaku Alami (naturalistic observation), Wawancara Klinis dengan Orang Tua, dan Tes Inventori Laporan Diri (self-report).",
+      "contextTags": [
+        "Metode Asesmen",
+        "Observasi",
+        "Wawancara",
+        "Inventori"
+      ]
+    },
+    "question": "Analisis manakah yang PALING tepat mengenai kelebihan dan keterbatasan metode observasi langsung pada kasus kecenderungan hiperaktivitas anak?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Observasi langsung berkelebihan mengungkap perilaku aktual dalam konteks alami, namun memiliki keterbatasan seperti pengaruh efek observer bias dan membutuhkan waktu lama."
+      },
+      {
+        "id": "B",
+        "text": "Observasi langsung memiliki kelebihan tidak membutuhkan waktu dan pasti 100% bebas dari bias pengamat."
+      },
+      {
+        "id": "C",
+        "text": "Wawancara orang tua selalu lebih obyektif dibanding observasi perilaku nyata di kelas."
+      },
+      {
+        "id": "D",
+        "text": "Tes self-report tulisan paling cocok diberikan kepada anak balita usia 2 tahun."
+      }
+    ],
+    "key": "A",
+    "explanation": "Setiap metode asesmen memiliki karakteristik: Observasi langsung menangkap perilaku aktual (high ecological validity) namun berisiko observer effect & memakan waktu; Wawancara memberikan persepsi historis; Self-report tergantung introspeksi & usia."
+  },
+  {
+    "id": "D6_I1.1_Q4",
+    "domainId": 6,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Menentukan metode asesmen)",
+    "indicatorId": "1.1",
+    "indicatorFullId": "D6-1.1",
+    "indicatorTitle": "Mengetahui metode asesmen dan kelebihan serta keterbatasannya",
+    "caseStudy": {
+      "title": "Studi Kasus 4: Kelebihan dan Keterbatasan Metode Observasi vs Wawancara vs Tes Psikologi (Kasus 4)",
+      "scenario": "Psikolog merencanakan baterai asesmen untuk menilai kecenderungan impulsivitas dan hiperaktivitas pada anak usia sekolah. Psikolog menganalisis kelebihan dan keterbatasan dari masing-masing metode: Observasi Perilaku Alami (naturalistic observation), Wawancara Klinis dengan Orang Tua, dan Tes Inventori Laporan Diri (self-report).",
+      "contextTags": [
+        "Metode Asesmen",
+        "Observasi",
+        "Wawancara",
+        "Inventori"
+      ]
+    },
+    "question": "Analisis manakah yang PALING tepat mengenai kelebihan dan keterbatasan metode observasi langsung pada kasus kecenderungan hiperaktivitas anak?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Observasi langsung berkelebihan mengungkap perilaku aktual dalam konteks alami, namun memiliki keterbatasan seperti pengaruh efek observer bias dan membutuhkan waktu lama."
+      },
+      {
+        "id": "B",
+        "text": "Observasi langsung memiliki kelebihan tidak membutuhkan waktu dan pasti 100% bebas dari bias pengamat."
+      },
+      {
+        "id": "C",
+        "text": "Wawancara orang tua selalu lebih obyektif dibanding observasi perilaku nyata di kelas."
+      },
+      {
+        "id": "D",
+        "text": "Tes self-report tulisan paling cocok diberikan kepada anak balita usia 2 tahun."
+      }
+    ],
+    "key": "A",
+    "explanation": "Setiap metode asesmen memiliki karakteristik: Observasi langsung menangkap perilaku aktual (high ecological validity) namun berisiko observer effect & memakan waktu; Wawancara memberikan persepsi historis; Self-report tergantung introspeksi & usia."
+  },
+  {
+    "id": "D6_I1.1_Q5",
+    "domainId": 6,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Menentukan metode asesmen)",
+    "indicatorId": "1.1",
+    "indicatorFullId": "D6-1.1",
+    "indicatorTitle": "Mengetahui metode asesmen dan kelebihan serta keterbatasannya",
+    "caseStudy": {
+      "title": "Studi Kasus 5: Kelebihan dan Keterbatasan Metode Observasi vs Wawancara vs Tes Psikologi (Kasus 5)",
+      "scenario": "Psikolog merencanakan baterai asesmen untuk menilai kecenderungan impulsivitas dan hiperaktivitas pada anak usia sekolah. Psikolog menganalisis kelebihan dan keterbatasan dari masing-masing metode: Observasi Perilaku Alami (naturalistic observation), Wawancara Klinis dengan Orang Tua, dan Tes Inventori Laporan Diri (self-report).",
+      "contextTags": [
+        "Metode Asesmen",
+        "Observasi",
+        "Wawancara",
+        "Inventori"
+      ]
+    },
+    "question": "Analisis manakah yang PALING tepat mengenai kelebihan dan keterbatasan metode observasi langsung pada kasus kecenderungan hiperaktivitas anak?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Observasi langsung berkelebihan mengungkap perilaku aktual dalam konteks alami, namun memiliki keterbatasan seperti pengaruh efek observer bias dan membutuhkan waktu lama."
+      },
+      {
+        "id": "B",
+        "text": "Observasi langsung memiliki kelebihan tidak membutuhkan waktu dan pasti 100% bebas dari bias pengamat."
+      },
+      {
+        "id": "C",
+        "text": "Wawancara orang tua selalu lebih obyektif dibanding observasi perilaku nyata di kelas."
+      },
+      {
+        "id": "D",
+        "text": "Tes self-report tulisan paling cocok diberikan kepada anak balita usia 2 tahun."
+      }
+    ],
+    "key": "A",
+    "explanation": "Setiap metode asesmen memiliki karakteristik: Observasi langsung menangkap perilaku aktual (high ecological validity) namun berisiko observer effect & memakan waktu; Wawancara memberikan persepsi historis; Self-report tergantung introspeksi & usia."
+  },
+  {
+    "id": "D6_I1.1_Q6",
+    "domainId": 6,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Menentukan metode asesmen)",
+    "indicatorId": "1.1",
+    "indicatorFullId": "D6-1.1",
+    "indicatorTitle": "Mengetahui metode asesmen dan kelebihan serta keterbatasannya",
+    "caseStudy": {
+      "title": "Studi Kasus 6: Kelebihan dan Keterbatasan Metode Observasi vs Wawancara vs Tes Psikologi (Kasus 6)",
+      "scenario": "Psikolog merencanakan baterai asesmen untuk menilai kecenderungan impulsivitas dan hiperaktivitas pada anak usia sekolah. Psikolog menganalisis kelebihan dan keterbatasan dari masing-masing metode: Observasi Perilaku Alami (naturalistic observation), Wawancara Klinis dengan Orang Tua, dan Tes Inventori Laporan Diri (self-report).",
+      "contextTags": [
+        "Metode Asesmen",
+        "Observasi",
+        "Wawancara",
+        "Inventori"
+      ]
+    },
+    "question": "Analisis manakah yang PALING tepat mengenai kelebihan dan keterbatasan metode observasi langsung pada kasus kecenderungan hiperaktivitas anak?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Observasi langsung berkelebihan mengungkap perilaku aktual dalam konteks alami, namun memiliki keterbatasan seperti pengaruh efek observer bias dan membutuhkan waktu lama."
+      },
+      {
+        "id": "B",
+        "text": "Observasi langsung memiliki kelebihan tidak membutuhkan waktu dan pasti 100% bebas dari bias pengamat."
+      },
+      {
+        "id": "C",
+        "text": "Wawancara orang tua selalu lebih obyektif dibanding observasi perilaku nyata di kelas."
+      },
+      {
+        "id": "D",
+        "text": "Tes self-report tulisan paling cocok diberikan kepada anak balita usia 2 tahun."
+      }
+    ],
+    "key": "A",
+    "explanation": "Setiap metode asesmen memiliki karakteristik: Observasi langsung menangkap perilaku aktual (high ecological validity) namun berisiko observer effect & memakan waktu; Wawancara memberikan persepsi historis; Self-report tergantung introspeksi & usia."
+  },
+  {
+    "id": "D6_I1.1_Q7",
+    "domainId": 6,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Menentukan metode asesmen)",
+    "indicatorId": "1.1",
+    "indicatorFullId": "D6-1.1",
+    "indicatorTitle": "Mengetahui metode asesmen dan kelebihan serta keterbatasannya",
+    "caseStudy": {
+      "title": "Studi Kasus 7: Kelebihan dan Keterbatasan Metode Observasi vs Wawancara vs Tes Psikologi (Kasus 7)",
+      "scenario": "Psikolog merencanakan baterai asesmen untuk menilai kecenderungan impulsivitas dan hiperaktivitas pada anak usia sekolah. Psikolog menganalisis kelebihan dan keterbatasan dari masing-masing metode: Observasi Perilaku Alami (naturalistic observation), Wawancara Klinis dengan Orang Tua, dan Tes Inventori Laporan Diri (self-report).",
+      "contextTags": [
+        "Metode Asesmen",
+        "Observasi",
+        "Wawancara",
+        "Inventori"
+      ]
+    },
+    "question": "Analisis manakah yang PALING tepat mengenai kelebihan dan keterbatasan metode observasi langsung pada kasus kecenderungan hiperaktivitas anak?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Observasi langsung berkelebihan mengungkap perilaku aktual dalam konteks alami, namun memiliki keterbatasan seperti pengaruh efek observer bias dan membutuhkan waktu lama."
+      },
+      {
+        "id": "B",
+        "text": "Observasi langsung memiliki kelebihan tidak membutuhkan waktu dan pasti 100% bebas dari bias pengamat."
+      },
+      {
+        "id": "C",
+        "text": "Wawancara orang tua selalu lebih obyektif dibanding observasi perilaku nyata di kelas."
+      },
+      {
+        "id": "D",
+        "text": "Tes self-report tulisan paling cocok diberikan kepada anak balita usia 2 tahun."
+      }
+    ],
+    "key": "A",
+    "explanation": "Setiap metode asesmen memiliki karakteristik: Observasi langsung menangkap perilaku aktual (high ecological validity) namun berisiko observer effect & memakan waktu; Wawancara memberikan persepsi historis; Self-report tergantung introspeksi & usia."
+  },
+  {
+    "id": "D6_I1.1_Q8",
+    "domainId": 6,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Menentukan metode asesmen)",
+    "indicatorId": "1.1",
+    "indicatorFullId": "D6-1.1",
+    "indicatorTitle": "Mengetahui metode asesmen dan kelebihan serta keterbatasannya",
+    "caseStudy": {
+      "title": "Studi Kasus 8: Kelebihan dan Keterbatasan Metode Observasi vs Wawancara vs Tes Psikologi (Kasus 8)",
+      "scenario": "Psikolog merencanakan baterai asesmen untuk menilai kecenderungan impulsivitas dan hiperaktivitas pada anak usia sekolah. Psikolog menganalisis kelebihan dan keterbatasan dari masing-masing metode: Observasi Perilaku Alami (naturalistic observation), Wawancara Klinis dengan Orang Tua, dan Tes Inventori Laporan Diri (self-report).",
+      "contextTags": [
+        "Metode Asesmen",
+        "Observasi",
+        "Wawancara",
+        "Inventori"
+      ]
+    },
+    "question": "Analisis manakah yang PALING tepat mengenai kelebihan dan keterbatasan metode observasi langsung pada kasus kecenderungan hiperaktivitas anak?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Observasi langsung berkelebihan mengungkap perilaku aktual dalam konteks alami, namun memiliki keterbatasan seperti pengaruh efek observer bias dan membutuhkan waktu lama."
+      },
+      {
+        "id": "B",
+        "text": "Observasi langsung memiliki kelebihan tidak membutuhkan waktu dan pasti 100% bebas dari bias pengamat."
+      },
+      {
+        "id": "C",
+        "text": "Wawancara orang tua selalu lebih obyektif dibanding observasi perilaku nyata di kelas."
+      },
+      {
+        "id": "D",
+        "text": "Tes self-report tulisan paling cocok diberikan kepada anak balita usia 2 tahun."
+      }
+    ],
+    "key": "A",
+    "explanation": "Setiap metode asesmen memiliki karakteristik: Observasi langsung menangkap perilaku aktual (high ecological validity) namun berisiko observer effect & memakan waktu; Wawancara memberikan persepsi historis; Self-report tergantung introspeksi & usia."
+  },
+  {
+    "id": "D6_I1.1_Q9",
+    "domainId": 6,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Menentukan metode asesmen)",
+    "indicatorId": "1.1",
+    "indicatorFullId": "D6-1.1",
+    "indicatorTitle": "Mengetahui metode asesmen dan kelebihan serta keterbatasannya",
+    "caseStudy": {
+      "title": "Studi Kasus 9: Kelebihan dan Keterbatasan Metode Observasi vs Wawancara vs Tes Psikologi (Kasus 9)",
+      "scenario": "Psikolog merencanakan baterai asesmen untuk menilai kecenderungan impulsivitas dan hiperaktivitas pada anak usia sekolah. Psikolog menganalisis kelebihan dan keterbatasan dari masing-masing metode: Observasi Perilaku Alami (naturalistic observation), Wawancara Klinis dengan Orang Tua, dan Tes Inventori Laporan Diri (self-report).",
+      "contextTags": [
+        "Metode Asesmen",
+        "Observasi",
+        "Wawancara",
+        "Inventori"
+      ]
+    },
+    "question": "Analisis manakah yang PALING tepat mengenai kelebihan dan keterbatasan metode observasi langsung pada kasus kecenderungan hiperaktivitas anak?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Observasi langsung berkelebihan mengungkap perilaku aktual dalam konteks alami, namun memiliki keterbatasan seperti pengaruh efek observer bias dan membutuhkan waktu lama."
+      },
+      {
+        "id": "B",
+        "text": "Observasi langsung memiliki kelebihan tidak membutuhkan waktu dan pasti 100% bebas dari bias pengamat."
+      },
+      {
+        "id": "C",
+        "text": "Wawancara orang tua selalu lebih obyektif dibanding observasi perilaku nyata di kelas."
+      },
+      {
+        "id": "D",
+        "text": "Tes self-report tulisan paling cocok diberikan kepada anak balita usia 2 tahun."
+      }
+    ],
+    "key": "A",
+    "explanation": "Setiap metode asesmen memiliki karakteristik: Observasi langsung menangkap perilaku aktual (high ecological validity) namun berisiko observer effect & memakan waktu; Wawancara memberikan persepsi historis; Self-report tergantung introspeksi & usia."
+  },
+  {
+    "id": "D6_I1.1_Q10",
+    "domainId": 6,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Menentukan metode asesmen)",
+    "indicatorId": "1.1",
+    "indicatorFullId": "D6-1.1",
+    "indicatorTitle": "Mengetahui metode asesmen dan kelebihan serta keterbatasannya",
+    "caseStudy": {
+      "title": "Studi Kasus 10: Kelebihan dan Keterbatasan Metode Observasi vs Wawancara vs Tes Psikologi (Kasus 10)",
+      "scenario": "Psikolog merencanakan baterai asesmen untuk menilai kecenderungan impulsivitas dan hiperaktivitas pada anak usia sekolah. Psikolog menganalisis kelebihan dan keterbatasan dari masing-masing metode: Observasi Perilaku Alami (naturalistic observation), Wawancara Klinis dengan Orang Tua, dan Tes Inventori Laporan Diri (self-report).",
+      "contextTags": [
+        "Metode Asesmen",
+        "Observasi",
+        "Wawancara",
+        "Inventori"
+      ]
+    },
+    "question": "Analisis manakah yang PALING tepat mengenai kelebihan dan keterbatasan metode observasi langsung pada kasus kecenderungan hiperaktivitas anak?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Observasi langsung berkelebihan mengungkap perilaku aktual dalam konteks alami, namun memiliki keterbatasan seperti pengaruh efek observer bias dan membutuhkan waktu lama."
+      },
+      {
+        "id": "B",
+        "text": "Observasi langsung memiliki kelebihan tidak membutuhkan waktu dan pasti 100% bebas dari bias pengamat."
+      },
+      {
+        "id": "C",
+        "text": "Wawancara orang tua selalu lebih obyektif dibanding observasi perilaku nyata di kelas."
+      },
+      {
+        "id": "D",
+        "text": "Tes self-report tulisan paling cocok diberikan kepada anak balita usia 2 tahun."
+      }
+    ],
+    "key": "A",
+    "explanation": "Setiap metode asesmen memiliki karakteristik: Observasi langsung menangkap perilaku aktual (high ecological validity) namun berisiko observer effect & memakan waktu; Wawancara memberikan persepsi historis; Self-report tergantung introspeksi & usia."
+  },
+  {
+    "id": "D6_I1.2_Q1",
+    "domainId": 6,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Menentukan metode asesmen)",
+    "indicatorId": "1.2",
+    "indicatorFullId": "D6-1.2",
+    "indicatorTitle": "Membedakan metode asesmen yang tepat berdasarkan pertimbangan karakteristik klien dan permasalahannya",
+    "caseStudy": {
+      "title": "Studi Kasus 1: Membedakan Metode Asesmen Berdasarkan Karakteristik Klien Lansia dengan Dementia (Kasus 1)",
+      "scenario": "Seorang klien lansia berusia 74 tahun mengeluhkan kemunduran daya ingat hebat. Klien mengalami kesulitan konsentrasi dan kelelahan visual jika membaca tes kertas-pensil yang panjang. Psikolog membedakan dan memilih metode asesmen yang sesuai dengan karakteristik keterbatasan lansia tersebut.",
+      "contextTags": [
+        "Lansia",
+        "Dementia",
+        "Karakteristik Klien",
+        "Metode Asesmen"
+      ]
+    },
+    "question": "Metode asesmen manakah yang PALING tepat dan disesuaikan dengan karakteristik klien lansia tersebut?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Memberikan inventori kepribadian bertuliskan 500 soal kuis pilihan ganda tanpa henti."
+      },
+      {
+        "id": "B",
+        "text": "Menggunakan baterai tes neurokognitif singkat berbasis lisan/manipulatif (seperti MMSE/MoCA) dikombinasikan dengan wawancara auto-anamnesis & allo-anamnesis keluarga."
+      },
+      {
+        "id": "C",
+        "text": "Memaksa lansia melakukan tes treadmill fisik berintensitas tinggi."
+      },
+      {
+        "id": "D",
+        "text": "Mengabaikan pemeriksaan dan menyuruh lansia pulang tanpa asesmen."
+      }
+    ],
+    "key": "B",
+    "explanation": "Karakteristik klien lansia dengan penurunan neurokognitif memerlukan alat asesmen neurokognitif singkat yang tervalidasi (MMSE/MoCA), serta kombinasi wawancara allo-anamnesis dengan keluarga terdekat."
+  },
+  {
+    "id": "D6_I1.2_Q2",
+    "domainId": 6,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Menentukan metode asesmen)",
+    "indicatorId": "1.2",
+    "indicatorFullId": "D6-1.2",
+    "indicatorTitle": "Membedakan metode asesmen yang tepat berdasarkan pertimbangan karakteristik klien dan permasalahannya",
+    "caseStudy": {
+      "title": "Studi Kasus 2: Membedakan Metode Asesmen Berdasarkan Karakteristik Klien Lansia dengan Dementia (Kasus 2)",
+      "scenario": "Seorang klien lansia berusia 74 tahun mengeluhkan kemunduran daya ingat hebat. Klien mengalami kesulitan konsentrasi dan kelelahan visual jika membaca tes kertas-pensil yang panjang. Psikolog membedakan dan memilih metode asesmen yang sesuai dengan karakteristik keterbatasan lansia tersebut.",
+      "contextTags": [
+        "Lansia",
+        "Dementia",
+        "Karakteristik Klien",
+        "Metode Asesmen"
+      ]
+    },
+    "question": "Metode asesmen manakah yang PALING tepat dan disesuaikan dengan karakteristik klien lansia tersebut?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Memberikan inventori kepribadian bertuliskan 500 soal kuis pilihan ganda tanpa henti."
+      },
+      {
+        "id": "B",
+        "text": "Menggunakan baterai tes neurokognitif singkat berbasis lisan/manipulatif (seperti MMSE/MoCA) dikombinasikan dengan wawancara auto-anamnesis & allo-anamnesis keluarga."
+      },
+      {
+        "id": "C",
+        "text": "Memaksa lansia melakukan tes treadmill fisik berintensitas tinggi."
+      },
+      {
+        "id": "D",
+        "text": "Mengabaikan pemeriksaan dan menyuruh lansia pulang tanpa asesmen."
+      }
+    ],
+    "key": "B",
+    "explanation": "Karakteristik klien lansia dengan penurunan neurokognitif memerlukan alat asesmen neurokognitif singkat yang tervalidasi (MMSE/MoCA), serta kombinasi wawancara allo-anamnesis dengan keluarga terdekat."
+  },
+  {
+    "id": "D6_I1.2_Q3",
+    "domainId": 6,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Menentukan metode asesmen)",
+    "indicatorId": "1.2",
+    "indicatorFullId": "D6-1.2",
+    "indicatorTitle": "Membedakan metode asesmen yang tepat berdasarkan pertimbangan karakteristik klien dan permasalahannya",
+    "caseStudy": {
+      "title": "Studi Kasus 3: Membedakan Metode Asesmen Berdasarkan Karakteristik Klien Lansia dengan Dementia (Kasus 3)",
+      "scenario": "Seorang klien lansia berusia 74 tahun mengeluhkan kemunduran daya ingat hebat. Klien mengalami kesulitan konsentrasi dan kelelahan visual jika membaca tes kertas-pensil yang panjang. Psikolog membedakan dan memilih metode asesmen yang sesuai dengan karakteristik keterbatasan lansia tersebut.",
+      "contextTags": [
+        "Lansia",
+        "Dementia",
+        "Karakteristik Klien",
+        "Metode Asesmen"
+      ]
+    },
+    "question": "Metode asesmen manakah yang PALING tepat dan disesuaikan dengan karakteristik klien lansia tersebut?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Memberikan inventori kepribadian bertuliskan 500 soal kuis pilihan ganda tanpa henti."
+      },
+      {
+        "id": "B",
+        "text": "Menggunakan baterai tes neurokognitif singkat berbasis lisan/manipulatif (seperti MMSE/MoCA) dikombinasikan dengan wawancara auto-anamnesis & allo-anamnesis keluarga."
+      },
+      {
+        "id": "C",
+        "text": "Memaksa lansia melakukan tes treadmill fisik berintensitas tinggi."
+      },
+      {
+        "id": "D",
+        "text": "Mengabaikan pemeriksaan dan menyuruh lansia pulang tanpa asesmen."
+      }
+    ],
+    "key": "B",
+    "explanation": "Karakteristik klien lansia dengan penurunan neurokognitif memerlukan alat asesmen neurokognitif singkat yang tervalidasi (MMSE/MoCA), serta kombinasi wawancara allo-anamnesis dengan keluarga terdekat."
+  },
+  {
+    "id": "D6_I1.2_Q4",
+    "domainId": 6,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Menentukan metode asesmen)",
+    "indicatorId": "1.2",
+    "indicatorFullId": "D6-1.2",
+    "indicatorTitle": "Membedakan metode asesmen yang tepat berdasarkan pertimbangan karakteristik klien dan permasalahannya",
+    "caseStudy": {
+      "title": "Studi Kasus 4: Membedakan Metode Asesmen Berdasarkan Karakteristik Klien Lansia dengan Dementia (Kasus 4)",
+      "scenario": "Seorang klien lansia berusia 74 tahun mengeluhkan kemunduran daya ingat hebat. Klien mengalami kesulitan konsentrasi dan kelelahan visual jika membaca tes kertas-pensil yang panjang. Psikolog membedakan dan memilih metode asesmen yang sesuai dengan karakteristik keterbatasan lansia tersebut.",
+      "contextTags": [
+        "Lansia",
+        "Dementia",
+        "Karakteristik Klien",
+        "Metode Asesmen"
+      ]
+    },
+    "question": "Metode asesmen manakah yang PALING tepat dan disesuaikan dengan karakteristik klien lansia tersebut?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Memberikan inventori kepribadian bertuliskan 500 soal kuis pilihan ganda tanpa henti."
+      },
+      {
+        "id": "B",
+        "text": "Menggunakan baterai tes neurokognitif singkat berbasis lisan/manipulatif (seperti MMSE/MoCA) dikombinasikan dengan wawancara auto-anamnesis & allo-anamnesis keluarga."
+      },
+      {
+        "id": "C",
+        "text": "Memaksa lansia melakukan tes treadmill fisik berintensitas tinggi."
+      },
+      {
+        "id": "D",
+        "text": "Mengabaikan pemeriksaan dan menyuruh lansia pulang tanpa asesmen."
+      }
+    ],
+    "key": "B",
+    "explanation": "Karakteristik klien lansia dengan penurunan neurokognitif memerlukan alat asesmen neurokognitif singkat yang tervalidasi (MMSE/MoCA), serta kombinasi wawancara allo-anamnesis dengan keluarga terdekat."
+  },
+  {
+    "id": "D6_I1.2_Q5",
+    "domainId": 6,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Menentukan metode asesmen)",
+    "indicatorId": "1.2",
+    "indicatorFullId": "D6-1.2",
+    "indicatorTitle": "Membedakan metode asesmen yang tepat berdasarkan pertimbangan karakteristik klien dan permasalahannya",
+    "caseStudy": {
+      "title": "Studi Kasus 5: Membedakan Metode Asesmen Berdasarkan Karakteristik Klien Lansia dengan Dementia (Kasus 5)",
+      "scenario": "Seorang klien lansia berusia 74 tahun mengeluhkan kemunduran daya ingat hebat. Klien mengalami kesulitan konsentrasi dan kelelahan visual jika membaca tes kertas-pensil yang panjang. Psikolog membedakan dan memilih metode asesmen yang sesuai dengan karakteristik keterbatasan lansia tersebut.",
+      "contextTags": [
+        "Lansia",
+        "Dementia",
+        "Karakteristik Klien",
+        "Metode Asesmen"
+      ]
+    },
+    "question": "Metode asesmen manakah yang PALING tepat dan disesuaikan dengan karakteristik klien lansia tersebut?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Memberikan inventori kepribadian bertuliskan 500 soal kuis pilihan ganda tanpa henti."
+      },
+      {
+        "id": "B",
+        "text": "Menggunakan baterai tes neurokognitif singkat berbasis lisan/manipulatif (seperti MMSE/MoCA) dikombinasikan dengan wawancara auto-anamnesis & allo-anamnesis keluarga."
+      },
+      {
+        "id": "C",
+        "text": "Memaksa lansia melakukan tes treadmill fisik berintensitas tinggi."
+      },
+      {
+        "id": "D",
+        "text": "Mengabaikan pemeriksaan dan menyuruh lansia pulang tanpa asesmen."
+      }
+    ],
+    "key": "B",
+    "explanation": "Karakteristik klien lansia dengan penurunan neurokognitif memerlukan alat asesmen neurokognitif singkat yang tervalidasi (MMSE/MoCA), serta kombinasi wawancara allo-anamnesis dengan keluarga terdekat."
+  },
+  {
+    "id": "D6_I1.2_Q6",
+    "domainId": 6,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Menentukan metode asesmen)",
+    "indicatorId": "1.2",
+    "indicatorFullId": "D6-1.2",
+    "indicatorTitle": "Membedakan metode asesmen yang tepat berdasarkan pertimbangan karakteristik klien dan permasalahannya",
+    "caseStudy": {
+      "title": "Studi Kasus 6: Membedakan Metode Asesmen Berdasarkan Karakteristik Klien Lansia dengan Dementia (Kasus 6)",
+      "scenario": "Seorang klien lansia berusia 74 tahun mengeluhkan kemunduran daya ingat hebat. Klien mengalami kesulitan konsentrasi dan kelelahan visual jika membaca tes kertas-pensil yang panjang. Psikolog membedakan dan memilih metode asesmen yang sesuai dengan karakteristik keterbatasan lansia tersebut.",
+      "contextTags": [
+        "Lansia",
+        "Dementia",
+        "Karakteristik Klien",
+        "Metode Asesmen"
+      ]
+    },
+    "question": "Metode asesmen manakah yang PALING tepat dan disesuaikan dengan karakteristik klien lansia tersebut?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Memberikan inventori kepribadian bertuliskan 500 soal kuis pilihan ganda tanpa henti."
+      },
+      {
+        "id": "B",
+        "text": "Menggunakan baterai tes neurokognitif singkat berbasis lisan/manipulatif (seperti MMSE/MoCA) dikombinasikan dengan wawancara auto-anamnesis & allo-anamnesis keluarga."
+      },
+      {
+        "id": "C",
+        "text": "Memaksa lansia melakukan tes treadmill fisik berintensitas tinggi."
+      },
+      {
+        "id": "D",
+        "text": "Mengabaikan pemeriksaan dan menyuruh lansia pulang tanpa asesmen."
+      }
+    ],
+    "key": "B",
+    "explanation": "Karakteristik klien lansia dengan penurunan neurokognitif memerlukan alat asesmen neurokognitif singkat yang tervalidasi (MMSE/MoCA), serta kombinasi wawancara allo-anamnesis dengan keluarga terdekat."
+  },
+  {
+    "id": "D6_I1.2_Q7",
+    "domainId": 6,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Menentukan metode asesmen)",
+    "indicatorId": "1.2",
+    "indicatorFullId": "D6-1.2",
+    "indicatorTitle": "Membedakan metode asesmen yang tepat berdasarkan pertimbangan karakteristik klien dan permasalahannya",
+    "caseStudy": {
+      "title": "Studi Kasus 7: Membedakan Metode Asesmen Berdasarkan Karakteristik Klien Lansia dengan Dementia (Kasus 7)",
+      "scenario": "Seorang klien lansia berusia 74 tahun mengeluhkan kemunduran daya ingat hebat. Klien mengalami kesulitan konsentrasi dan kelelahan visual jika membaca tes kertas-pensil yang panjang. Psikolog membedakan dan memilih metode asesmen yang sesuai dengan karakteristik keterbatasan lansia tersebut.",
+      "contextTags": [
+        "Lansia",
+        "Dementia",
+        "Karakteristik Klien",
+        "Metode Asesmen"
+      ]
+    },
+    "question": "Metode asesmen manakah yang PALING tepat dan disesuaikan dengan karakteristik klien lansia tersebut?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Memberikan inventori kepribadian bertuliskan 500 soal kuis pilihan ganda tanpa henti."
+      },
+      {
+        "id": "B",
+        "text": "Menggunakan baterai tes neurokognitif singkat berbasis lisan/manipulatif (seperti MMSE/MoCA) dikombinasikan dengan wawancara auto-anamnesis & allo-anamnesis keluarga."
+      },
+      {
+        "id": "C",
+        "text": "Memaksa lansia melakukan tes treadmill fisik berintensitas tinggi."
+      },
+      {
+        "id": "D",
+        "text": "Mengabaikan pemeriksaan dan menyuruh lansia pulang tanpa asesmen."
+      }
+    ],
+    "key": "B",
+    "explanation": "Karakteristik klien lansia dengan penurunan neurokognitif memerlukan alat asesmen neurokognitif singkat yang tervalidasi (MMSE/MoCA), serta kombinasi wawancara allo-anamnesis dengan keluarga terdekat."
+  },
+  {
+    "id": "D6_I1.2_Q8",
+    "domainId": 6,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Menentukan metode asesmen)",
+    "indicatorId": "1.2",
+    "indicatorFullId": "D6-1.2",
+    "indicatorTitle": "Membedakan metode asesmen yang tepat berdasarkan pertimbangan karakteristik klien dan permasalahannya",
+    "caseStudy": {
+      "title": "Studi Kasus 8: Membedakan Metode Asesmen Berdasarkan Karakteristik Klien Lansia dengan Dementia (Kasus 8)",
+      "scenario": "Seorang klien lansia berusia 74 tahun mengeluhkan kemunduran daya ingat hebat. Klien mengalami kesulitan konsentrasi dan kelelahan visual jika membaca tes kertas-pensil yang panjang. Psikolog membedakan dan memilih metode asesmen yang sesuai dengan karakteristik keterbatasan lansia tersebut.",
+      "contextTags": [
+        "Lansia",
+        "Dementia",
+        "Karakteristik Klien",
+        "Metode Asesmen"
+      ]
+    },
+    "question": "Metode asesmen manakah yang PALING tepat dan disesuaikan dengan karakteristik klien lansia tersebut?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Memberikan inventori kepribadian bertuliskan 500 soal kuis pilihan ganda tanpa henti."
+      },
+      {
+        "id": "B",
+        "text": "Menggunakan baterai tes neurokognitif singkat berbasis lisan/manipulatif (seperti MMSE/MoCA) dikombinasikan dengan wawancara auto-anamnesis & allo-anamnesis keluarga."
+      },
+      {
+        "id": "C",
+        "text": "Memaksa lansia melakukan tes treadmill fisik berintensitas tinggi."
+      },
+      {
+        "id": "D",
+        "text": "Mengabaikan pemeriksaan dan menyuruh lansia pulang tanpa asesmen."
+      }
+    ],
+    "key": "B",
+    "explanation": "Karakteristik klien lansia dengan penurunan neurokognitif memerlukan alat asesmen neurokognitif singkat yang tervalidasi (MMSE/MoCA), serta kombinasi wawancara allo-anamnesis dengan keluarga terdekat."
+  },
+  {
+    "id": "D6_I1.2_Q9",
+    "domainId": 6,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Menentukan metode asesmen)",
+    "indicatorId": "1.2",
+    "indicatorFullId": "D6-1.2",
+    "indicatorTitle": "Membedakan metode asesmen yang tepat berdasarkan pertimbangan karakteristik klien dan permasalahannya",
+    "caseStudy": {
+      "title": "Studi Kasus 9: Membedakan Metode Asesmen Berdasarkan Karakteristik Klien Lansia dengan Dementia (Kasus 9)",
+      "scenario": "Seorang klien lansia berusia 74 tahun mengeluhkan kemunduran daya ingat hebat. Klien mengalami kesulitan konsentrasi dan kelelahan visual jika membaca tes kertas-pensil yang panjang. Psikolog membedakan dan memilih metode asesmen yang sesuai dengan karakteristik keterbatasan lansia tersebut.",
+      "contextTags": [
+        "Lansia",
+        "Dementia",
+        "Karakteristik Klien",
+        "Metode Asesmen"
+      ]
+    },
+    "question": "Metode asesmen manakah yang PALING tepat dan disesuaikan dengan karakteristik klien lansia tersebut?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Memberikan inventori kepribadian bertuliskan 500 soal kuis pilihan ganda tanpa henti."
+      },
+      {
+        "id": "B",
+        "text": "Menggunakan baterai tes neurokognitif singkat berbasis lisan/manipulatif (seperti MMSE/MoCA) dikombinasikan dengan wawancara auto-anamnesis & allo-anamnesis keluarga."
+      },
+      {
+        "id": "C",
+        "text": "Memaksa lansia melakukan tes treadmill fisik berintensitas tinggi."
+      },
+      {
+        "id": "D",
+        "text": "Mengabaikan pemeriksaan dan menyuruh lansia pulang tanpa asesmen."
+      }
+    ],
+    "key": "B",
+    "explanation": "Karakteristik klien lansia dengan penurunan neurokognitif memerlukan alat asesmen neurokognitif singkat yang tervalidasi (MMSE/MoCA), serta kombinasi wawancara allo-anamnesis dengan keluarga terdekat."
+  },
+  {
+    "id": "D6_I1.2_Q10",
+    "domainId": 6,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Menentukan metode asesmen)",
+    "indicatorId": "1.2",
+    "indicatorFullId": "D6-1.2",
+    "indicatorTitle": "Membedakan metode asesmen yang tepat berdasarkan pertimbangan karakteristik klien dan permasalahannya",
+    "caseStudy": {
+      "title": "Studi Kasus 10: Membedakan Metode Asesmen Berdasarkan Karakteristik Klien Lansia dengan Dementia (Kasus 10)",
+      "scenario": "Seorang klien lansia berusia 74 tahun mengeluhkan kemunduran daya ingat hebat. Klien mengalami kesulitan konsentrasi dan kelelahan visual jika membaca tes kertas-pensil yang panjang. Psikolog membedakan dan memilih metode asesmen yang sesuai dengan karakteristik keterbatasan lansia tersebut.",
+      "contextTags": [
+        "Lansia",
+        "Dementia",
+        "Karakteristik Klien",
+        "Metode Asesmen"
+      ]
+    },
+    "question": "Metode asesmen manakah yang PALING tepat dan disesuaikan dengan karakteristik klien lansia tersebut?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Memberikan inventori kepribadian bertuliskan 500 soal kuis pilihan ganda tanpa henti."
+      },
+      {
+        "id": "B",
+        "text": "Menggunakan baterai tes neurokognitif singkat berbasis lisan/manipulatif (seperti MMSE/MoCA) dikombinasikan dengan wawancara auto-anamnesis & allo-anamnesis keluarga."
+      },
+      {
+        "id": "C",
+        "text": "Memaksa lansia melakukan tes treadmill fisik berintensitas tinggi."
+      },
+      {
+        "id": "D",
+        "text": "Mengabaikan pemeriksaan dan menyuruh lansia pulang tanpa asesmen."
+      }
+    ],
+    "key": "B",
+    "explanation": "Karakteristik klien lansia dengan penurunan neurokognitif memerlukan alat asesmen neurokognitif singkat yang tervalidasi (MMSE/MoCA), serta kombinasi wawancara allo-anamnesis dengan keluarga terdekat."
+  },
+  {
+    "id": "D6_I1.3_Q1",
+    "domainId": 6,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Menentukan metode asesmen)",
+    "indicatorId": "1.3",
+    "indicatorFullId": "D6-1.3",
+    "indicatorTitle": "Membedakan metode asesmen yang tepat berdasarkan pertimbangan konteks atau latar layanan",
+    "caseStudy": {
+      "title": "Studi Kasus 1: Membedakan Metode Asesmen Berdasarkan Konteks Latar Rekrutmen Massal Industri (Kasus 1)",
+      "scenario": "Psikolog I-O diminta menyelenggarakan seleksi rekrutmen awal untuk 1.000 pelamar posisi operator pabrik dalam waktu 2 hari. Psikolog membedakan metode asesmen yang efisien secara masal vs mendalam secara individual.",
+      "contextTags": [
+        "Rekrutmen Massal",
+        "Asesmen Industri",
+        "Psikotes Massal",
+        "Latar Layanan"
+      ]
+    },
+    "question": "Metode asesmen manakah yang PALING efisien dan tepat sesuai latar layanan rekrutmen massal tersebut?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Wawancara klinis psikoanalisis mendalam 3 jam per orang untuk 1.000 pelamar."
+      },
+      {
+        "id": "B",
+        "text": "Tes Inteligensi kolektif terstandardisasi berbasis komputer (CBT) dan inventori kepribadian terstruktur yang dapat distor otomatis secara massal."
+      },
+      {
+        "id": "C",
+        "text": "Observasi perilaku di rumah masing-masing pelamar selama 1 minggu."
+      },
+      {
+        "id": "D",
+        "text": "Tes proyektif Rorschach individual untuk seluruh 1.000 pelamar."
+      }
+    ],
+    "key": "B",
+    "explanation": "Latar layanan seleksi massal (1.000 pelamar) menuntut metode asesmen terstruktur, objektif, dan dapat diadministrasikan secara efisien (seperti CBT kognitif & inventori kepribadian terstandardisasi)."
+  },
+  {
+    "id": "D6_I1.3_Q2",
+    "domainId": 6,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Menentukan metode asesmen)",
+    "indicatorId": "1.3",
+    "indicatorFullId": "D6-1.3",
+    "indicatorTitle": "Membedakan metode asesmen yang tepat berdasarkan pertimbangan konteks atau latar layanan",
+    "caseStudy": {
+      "title": "Studi Kasus 2: Membedakan Metode Asesmen Berdasarkan Konteks Latar Rekrutmen Massal Industri (Kasus 2)",
+      "scenario": "Psikolog I-O diminta menyelenggarakan seleksi rekrutmen awal untuk 1.000 pelamar posisi operator pabrik dalam waktu 2 hari. Psikolog membedakan metode asesmen yang efisien secara masal vs mendalam secara individual.",
+      "contextTags": [
+        "Rekrutmen Massal",
+        "Asesmen Industri",
+        "Psikotes Massal",
+        "Latar Layanan"
+      ]
+    },
+    "question": "Metode asesmen manakah yang PALING efisien dan tepat sesuai latar layanan rekrutmen massal tersebut?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Wawancara klinis psikoanalisis mendalam 3 jam per orang untuk 1.000 pelamar."
+      },
+      {
+        "id": "B",
+        "text": "Tes Inteligensi kolektif terstandardisasi berbasis komputer (CBT) dan inventori kepribadian terstruktur yang dapat distor otomatis secara massal."
+      },
+      {
+        "id": "C",
+        "text": "Observasi perilaku di rumah masing-masing pelamar selama 1 minggu."
+      },
+      {
+        "id": "D",
+        "text": "Tes proyektif Rorschach individual untuk seluruh 1.000 pelamar."
+      }
+    ],
+    "key": "B",
+    "explanation": "Latar layanan seleksi massal (1.000 pelamar) menuntut metode asesmen terstruktur, objektif, dan dapat diadministrasikan secara efisien (seperti CBT kognitif & inventori kepribadian terstandardisasi)."
+  },
+  {
+    "id": "D6_I1.3_Q3",
+    "domainId": 6,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Menentukan metode asesmen)",
+    "indicatorId": "1.3",
+    "indicatorFullId": "D6-1.3",
+    "indicatorTitle": "Membedakan metode asesmen yang tepat berdasarkan pertimbangan konteks atau latar layanan",
+    "caseStudy": {
+      "title": "Studi Kasus 3: Membedakan Metode Asesmen Berdasarkan Konteks Latar Rekrutmen Massal Industri (Kasus 3)",
+      "scenario": "Psikolog I-O diminta menyelenggarakan seleksi rekrutmen awal untuk 1.000 pelamar posisi operator pabrik dalam waktu 2 hari. Psikolog membedakan metode asesmen yang efisien secara masal vs mendalam secara individual.",
+      "contextTags": [
+        "Rekrutmen Massal",
+        "Asesmen Industri",
+        "Psikotes Massal",
+        "Latar Layanan"
+      ]
+    },
+    "question": "Metode asesmen manakah yang PALING efisien dan tepat sesuai latar layanan rekrutmen massal tersebut?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Wawancara klinis psikoanalisis mendalam 3 jam per orang untuk 1.000 pelamar."
+      },
+      {
+        "id": "B",
+        "text": "Tes Inteligensi kolektif terstandardisasi berbasis komputer (CBT) dan inventori kepribadian terstruktur yang dapat distor otomatis secara massal."
+      },
+      {
+        "id": "C",
+        "text": "Observasi perilaku di rumah masing-masing pelamar selama 1 minggu."
+      },
+      {
+        "id": "D",
+        "text": "Tes proyektif Rorschach individual untuk seluruh 1.000 pelamar."
+      }
+    ],
+    "key": "B",
+    "explanation": "Latar layanan seleksi massal (1.000 pelamar) menuntut metode asesmen terstruktur, objektif, dan dapat diadministrasikan secara efisien (seperti CBT kognitif & inventori kepribadian terstandardisasi)."
+  },
+  {
+    "id": "D6_I1.3_Q4",
+    "domainId": 6,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Menentukan metode asesmen)",
+    "indicatorId": "1.3",
+    "indicatorFullId": "D6-1.3",
+    "indicatorTitle": "Membedakan metode asesmen yang tepat berdasarkan pertimbangan konteks atau latar layanan",
+    "caseStudy": {
+      "title": "Studi Kasus 4: Membedakan Metode Asesmen Berdasarkan Konteks Latar Rekrutmen Massal Industri (Kasus 4)",
+      "scenario": "Psikolog I-O diminta menyelenggarakan seleksi rekrutmen awal untuk 1.000 pelamar posisi operator pabrik dalam waktu 2 hari. Psikolog membedakan metode asesmen yang efisien secara masal vs mendalam secara individual.",
+      "contextTags": [
+        "Rekrutmen Massal",
+        "Asesmen Industri",
+        "Psikotes Massal",
+        "Latar Layanan"
+      ]
+    },
+    "question": "Metode asesmen manakah yang PALING efisien dan tepat sesuai latar layanan rekrutmen massal tersebut?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Wawancara klinis psikoanalisis mendalam 3 jam per orang untuk 1.000 pelamar."
+      },
+      {
+        "id": "B",
+        "text": "Tes Inteligensi kolektif terstandardisasi berbasis komputer (CBT) dan inventori kepribadian terstruktur yang dapat distor otomatis secara massal."
+      },
+      {
+        "id": "C",
+        "text": "Observasi perilaku di rumah masing-masing pelamar selama 1 minggu."
+      },
+      {
+        "id": "D",
+        "text": "Tes proyektif Rorschach individual untuk seluruh 1.000 pelamar."
+      }
+    ],
+    "key": "B",
+    "explanation": "Latar layanan seleksi massal (1.000 pelamar) menuntut metode asesmen terstruktur, objektif, dan dapat diadministrasikan secara efisien (seperti CBT kognitif & inventori kepribadian terstandardisasi)."
+  },
+  {
+    "id": "D6_I1.3_Q5",
+    "domainId": 6,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Menentukan metode asesmen)",
+    "indicatorId": "1.3",
+    "indicatorFullId": "D6-1.3",
+    "indicatorTitle": "Membedakan metode asesmen yang tepat berdasarkan pertimbangan konteks atau latar layanan",
+    "caseStudy": {
+      "title": "Studi Kasus 5: Membedakan Metode Asesmen Berdasarkan Konteks Latar Rekrutmen Massal Industri (Kasus 5)",
+      "scenario": "Psikolog I-O diminta menyelenggarakan seleksi rekrutmen awal untuk 1.000 pelamar posisi operator pabrik dalam waktu 2 hari. Psikolog membedakan metode asesmen yang efisien secara masal vs mendalam secara individual.",
+      "contextTags": [
+        "Rekrutmen Massal",
+        "Asesmen Industri",
+        "Psikotes Massal",
+        "Latar Layanan"
+      ]
+    },
+    "question": "Metode asesmen manakah yang PALING efisien dan tepat sesuai latar layanan rekrutmen massal tersebut?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Wawancara klinis psikoanalisis mendalam 3 jam per orang untuk 1.000 pelamar."
+      },
+      {
+        "id": "B",
+        "text": "Tes Inteligensi kolektif terstandardisasi berbasis komputer (CBT) dan inventori kepribadian terstruktur yang dapat distor otomatis secara massal."
+      },
+      {
+        "id": "C",
+        "text": "Observasi perilaku di rumah masing-masing pelamar selama 1 minggu."
+      },
+      {
+        "id": "D",
+        "text": "Tes proyektif Rorschach individual untuk seluruh 1.000 pelamar."
+      }
+    ],
+    "key": "B",
+    "explanation": "Latar layanan seleksi massal (1.000 pelamar) menuntut metode asesmen terstruktur, objektif, dan dapat diadministrasikan secara efisien (seperti CBT kognitif & inventori kepribadian terstandardisasi)."
+  },
+  {
+    "id": "D6_I1.3_Q6",
+    "domainId": 6,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Menentukan metode asesmen)",
+    "indicatorId": "1.3",
+    "indicatorFullId": "D6-1.3",
+    "indicatorTitle": "Membedakan metode asesmen yang tepat berdasarkan pertimbangan konteks atau latar layanan",
+    "caseStudy": {
+      "title": "Studi Kasus 6: Membedakan Metode Asesmen Berdasarkan Konteks Latar Rekrutmen Massal Industri (Kasus 6)",
+      "scenario": "Psikolog I-O diminta menyelenggarakan seleksi rekrutmen awal untuk 1.000 pelamar posisi operator pabrik dalam waktu 2 hari. Psikolog membedakan metode asesmen yang efisien secara masal vs mendalam secara individual.",
+      "contextTags": [
+        "Rekrutmen Massal",
+        "Asesmen Industri",
+        "Psikotes Massal",
+        "Latar Layanan"
+      ]
+    },
+    "question": "Metode asesmen manakah yang PALING efisien dan tepat sesuai latar layanan rekrutmen massal tersebut?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Wawancara klinis psikoanalisis mendalam 3 jam per orang untuk 1.000 pelamar."
+      },
+      {
+        "id": "B",
+        "text": "Tes Inteligensi kolektif terstandardisasi berbasis komputer (CBT) dan inventori kepribadian terstruktur yang dapat distor otomatis secara massal."
+      },
+      {
+        "id": "C",
+        "text": "Observasi perilaku di rumah masing-masing pelamar selama 1 minggu."
+      },
+      {
+        "id": "D",
+        "text": "Tes proyektif Rorschach individual untuk seluruh 1.000 pelamar."
+      }
+    ],
+    "key": "B",
+    "explanation": "Latar layanan seleksi massal (1.000 pelamar) menuntut metode asesmen terstruktur, objektif, dan dapat diadministrasikan secara efisien (seperti CBT kognitif & inventori kepribadian terstandardisasi)."
+  },
+  {
+    "id": "D6_I1.3_Q7",
+    "domainId": 6,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Menentukan metode asesmen)",
+    "indicatorId": "1.3",
+    "indicatorFullId": "D6-1.3",
+    "indicatorTitle": "Membedakan metode asesmen yang tepat berdasarkan pertimbangan konteks atau latar layanan",
+    "caseStudy": {
+      "title": "Studi Kasus 7: Membedakan Metode Asesmen Berdasarkan Konteks Latar Rekrutmen Massal Industri (Kasus 7)",
+      "scenario": "Psikolog I-O diminta menyelenggarakan seleksi rekrutmen awal untuk 1.000 pelamar posisi operator pabrik dalam waktu 2 hari. Psikolog membedakan metode asesmen yang efisien secara masal vs mendalam secara individual.",
+      "contextTags": [
+        "Rekrutmen Massal",
+        "Asesmen Industri",
+        "Psikotes Massal",
+        "Latar Layanan"
+      ]
+    },
+    "question": "Metode asesmen manakah yang PALING efisien dan tepat sesuai latar layanan rekrutmen massal tersebut?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Wawancara klinis psikoanalisis mendalam 3 jam per orang untuk 1.000 pelamar."
+      },
+      {
+        "id": "B",
+        "text": "Tes Inteligensi kolektif terstandardisasi berbasis komputer (CBT) dan inventori kepribadian terstruktur yang dapat distor otomatis secara massal."
+      },
+      {
+        "id": "C",
+        "text": "Observasi perilaku di rumah masing-masing pelamar selama 1 minggu."
+      },
+      {
+        "id": "D",
+        "text": "Tes proyektif Rorschach individual untuk seluruh 1.000 pelamar."
+      }
+    ],
+    "key": "B",
+    "explanation": "Latar layanan seleksi massal (1.000 pelamar) menuntut metode asesmen terstruktur, objektif, dan dapat diadministrasikan secara efisien (seperti CBT kognitif & inventori kepribadian terstandardisasi)."
+  },
+  {
+    "id": "D6_I1.3_Q8",
+    "domainId": 6,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Menentukan metode asesmen)",
+    "indicatorId": "1.3",
+    "indicatorFullId": "D6-1.3",
+    "indicatorTitle": "Membedakan metode asesmen yang tepat berdasarkan pertimbangan konteks atau latar layanan",
+    "caseStudy": {
+      "title": "Studi Kasus 8: Membedakan Metode Asesmen Berdasarkan Konteks Latar Rekrutmen Massal Industri (Kasus 8)",
+      "scenario": "Psikolog I-O diminta menyelenggarakan seleksi rekrutmen awal untuk 1.000 pelamar posisi operator pabrik dalam waktu 2 hari. Psikolog membedakan metode asesmen yang efisien secara masal vs mendalam secara individual.",
+      "contextTags": [
+        "Rekrutmen Massal",
+        "Asesmen Industri",
+        "Psikotes Massal",
+        "Latar Layanan"
+      ]
+    },
+    "question": "Metode asesmen manakah yang PALING efisien dan tepat sesuai latar layanan rekrutmen massal tersebut?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Wawancara klinis psikoanalisis mendalam 3 jam per orang untuk 1.000 pelamar."
+      },
+      {
+        "id": "B",
+        "text": "Tes Inteligensi kolektif terstandardisasi berbasis komputer (CBT) dan inventori kepribadian terstruktur yang dapat distor otomatis secara massal."
+      },
+      {
+        "id": "C",
+        "text": "Observasi perilaku di rumah masing-masing pelamar selama 1 minggu."
+      },
+      {
+        "id": "D",
+        "text": "Tes proyektif Rorschach individual untuk seluruh 1.000 pelamar."
+      }
+    ],
+    "key": "B",
+    "explanation": "Latar layanan seleksi massal (1.000 pelamar) menuntut metode asesmen terstruktur, objektif, dan dapat diadministrasikan secara efisien (seperti CBT kognitif & inventori kepribadian terstandardisasi)."
+  },
+  {
+    "id": "D6_I1.3_Q9",
+    "domainId": 6,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Menentukan metode asesmen)",
+    "indicatorId": "1.3",
+    "indicatorFullId": "D6-1.3",
+    "indicatorTitle": "Membedakan metode asesmen yang tepat berdasarkan pertimbangan konteks atau latar layanan",
+    "caseStudy": {
+      "title": "Studi Kasus 9: Membedakan Metode Asesmen Berdasarkan Konteks Latar Rekrutmen Massal Industri (Kasus 9)",
+      "scenario": "Psikolog I-O diminta menyelenggarakan seleksi rekrutmen awal untuk 1.000 pelamar posisi operator pabrik dalam waktu 2 hari. Psikolog membedakan metode asesmen yang efisien secara masal vs mendalam secara individual.",
+      "contextTags": [
+        "Rekrutmen Massal",
+        "Asesmen Industri",
+        "Psikotes Massal",
+        "Latar Layanan"
+      ]
+    },
+    "question": "Metode asesmen manakah yang PALING efisien dan tepat sesuai latar layanan rekrutmen massal tersebut?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Wawancara klinis psikoanalisis mendalam 3 jam per orang untuk 1.000 pelamar."
+      },
+      {
+        "id": "B",
+        "text": "Tes Inteligensi kolektif terstandardisasi berbasis komputer (CBT) dan inventori kepribadian terstruktur yang dapat distor otomatis secara massal."
+      },
+      {
+        "id": "C",
+        "text": "Observasi perilaku di rumah masing-masing pelamar selama 1 minggu."
+      },
+      {
+        "id": "D",
+        "text": "Tes proyektif Rorschach individual untuk seluruh 1.000 pelamar."
+      }
+    ],
+    "key": "B",
+    "explanation": "Latar layanan seleksi massal (1.000 pelamar) menuntut metode asesmen terstruktur, objektif, dan dapat diadministrasikan secara efisien (seperti CBT kognitif & inventori kepribadian terstandardisasi)."
+  },
+  {
+    "id": "D6_I1.3_Q10",
+    "domainId": 6,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Menentukan metode asesmen)",
+    "indicatorId": "1.3",
+    "indicatorFullId": "D6-1.3",
+    "indicatorTitle": "Membedakan metode asesmen yang tepat berdasarkan pertimbangan konteks atau latar layanan",
+    "caseStudy": {
+      "title": "Studi Kasus 10: Membedakan Metode Asesmen Berdasarkan Konteks Latar Rekrutmen Massal Industri (Kasus 10)",
+      "scenario": "Psikolog I-O diminta menyelenggarakan seleksi rekrutmen awal untuk 1.000 pelamar posisi operator pabrik dalam waktu 2 hari. Psikolog membedakan metode asesmen yang efisien secara masal vs mendalam secara individual.",
+      "contextTags": [
+        "Rekrutmen Massal",
+        "Asesmen Industri",
+        "Psikotes Massal",
+        "Latar Layanan"
+      ]
+    },
+    "question": "Metode asesmen manakah yang PALING efisien dan tepat sesuai latar layanan rekrutmen massal tersebut?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Wawancara klinis psikoanalisis mendalam 3 jam per orang untuk 1.000 pelamar."
+      },
+      {
+        "id": "B",
+        "text": "Tes Inteligensi kolektif terstandardisasi berbasis komputer (CBT) dan inventori kepribadian terstruktur yang dapat distor otomatis secara massal."
+      },
+      {
+        "id": "C",
+        "text": "Observasi perilaku di rumah masing-masing pelamar selama 1 minggu."
+      },
+      {
+        "id": "D",
+        "text": "Tes proyektif Rorschach individual untuk seluruh 1.000 pelamar."
+      }
+    ],
+    "key": "B",
+    "explanation": "Latar layanan seleksi massal (1.000 pelamar) menuntut metode asesmen terstruktur, objektif, dan dapat diadministrasikan secara efisien (seperti CBT kognitif & inventori kepribadian terstandardisasi)."
+  },
+  {
+    "id": "D6_I1.4_Q1",
+    "domainId": 6,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Menentukan metode asesmen)",
+    "indicatorId": "1.4",
+    "indicatorFullId": "D6-1.4",
+    "indicatorTitle": "Membandingkan dan memilih metode asesmen yang sesuai dengan karakteristik klien dan permasalahannya",
+    "caseStudy": {
+      "title": "Studi Kasus 1: Membandingkan dan Memilih Metode Asesmen pada Klien Trauma Kekerasan (Kasus 1)",
+      "scenario": "Klien Sdri. Wita (20 tahun) baru saja mengalami trauma kekerasan seksual akut. Klien sangat tertutup, mudah cemas saat ditanya langsung mengenai rincian kronologi trauma, dan sering mengalami penolakan bicara (selective mutism). Psikolog membandingkan beberapa metode asesmen untuk mendapatkan gambaran trauma tanpa menimbulkan re-traumatisasi.",
+      "contextTags": [
+        "Trauma Seksual",
+        "Re-traumatisasi",
+        "Pemilihan Metode",
+        "Asesmen Trauma"
+      ]
+    },
+    "question": "Metode manakah yang PALING aman dan peka trauma untuk dipilih dalam pemeriksaan awal Sdri. Wita?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Wawancara konfrontatif yang memaksakan klien menceritakan adegan trauma secara berulang-ulang hingga menangis histeris."
+      },
+      {
+        "id": "B",
+        "text": "Menggunakan pendekatan menggambar/ekspresif non-verbal, skala respons trauma tervalidasi, dan wawancara bertahap yang empati serta aman (trauma-informed assessment)."
+      },
+      {
+        "id": "C",
+        "text": "Memberikan tes poligraf (detektor kebohongan) bertegangan listrik tinggi."
+      },
+      {
+        "id": "D",
+        "text": "Memaksa klien berbicara di depan umum ruang terbuka."
+      }
+    ],
+    "key": "B",
+    "explanation": "Pada klien trauma akut, memilih metode asesmen peka trauma (trauma-informed) menggunakan media non-verbal/ekspresif dan skala psikometrik aman mencegah terjadinya dampak buruk re-traumatisasi."
+  },
+  {
+    "id": "D6_I1.4_Q2",
+    "domainId": 6,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Menentukan metode asesmen)",
+    "indicatorId": "1.4",
+    "indicatorFullId": "D6-1.4",
+    "indicatorTitle": "Membandingkan dan memilih metode asesmen yang sesuai dengan karakteristik klien dan permasalahannya",
+    "caseStudy": {
+      "title": "Studi Kasus 2: Membandingkan dan Memilih Metode Asesmen pada Klien Trauma Kekerasan (Kasus 2)",
+      "scenario": "Klien Sdri. Wita (20 tahun) baru saja mengalami trauma kekerasan seksual akut. Klien sangat tertutup, mudah cemas saat ditanya langsung mengenai rincian kronologi trauma, dan sering mengalami penolakan bicara (selective mutism). Psikolog membandingkan beberapa metode asesmen untuk mendapatkan gambaran trauma tanpa menimbulkan re-traumatisasi.",
+      "contextTags": [
+        "Trauma Seksual",
+        "Re-traumatisasi",
+        "Pemilihan Metode",
+        "Asesmen Trauma"
+      ]
+    },
+    "question": "Metode manakah yang PALING aman dan peka trauma untuk dipilih dalam pemeriksaan awal Sdri. Wita?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Wawancara konfrontatif yang memaksakan klien menceritakan adegan trauma secara berulang-ulang hingga menangis histeris."
+      },
+      {
+        "id": "B",
+        "text": "Menggunakan pendekatan menggambar/ekspresif non-verbal, skala respons trauma tervalidasi, dan wawancara bertahap yang empati serta aman (trauma-informed assessment)."
+      },
+      {
+        "id": "C",
+        "text": "Memberikan tes poligraf (detektor kebohongan) bertegangan listrik tinggi."
+      },
+      {
+        "id": "D",
+        "text": "Memaksa klien berbicara di depan umum ruang terbuka."
+      }
+    ],
+    "key": "B",
+    "explanation": "Pada klien trauma akut, memilih metode asesmen peka trauma (trauma-informed) menggunakan media non-verbal/ekspresif dan skala psikometrik aman mencegah terjadinya dampak buruk re-traumatisasi."
+  },
+  {
+    "id": "D6_I1.4_Q3",
+    "domainId": 6,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Menentukan metode asesmen)",
+    "indicatorId": "1.4",
+    "indicatorFullId": "D6-1.4",
+    "indicatorTitle": "Membandingkan dan memilih metode asesmen yang sesuai dengan karakteristik klien dan permasalahannya",
+    "caseStudy": {
+      "title": "Studi Kasus 3: Membandingkan dan Memilih Metode Asesmen pada Klien Trauma Kekerasan (Kasus 3)",
+      "scenario": "Klien Sdri. Wita (20 tahun) baru saja mengalami trauma kekerasan seksual akut. Klien sangat tertutup, mudah cemas saat ditanya langsung mengenai rincian kronologi trauma, dan sering mengalami penolakan bicara (selective mutism). Psikolog membandingkan beberapa metode asesmen untuk mendapatkan gambaran trauma tanpa menimbulkan re-traumatisasi.",
+      "contextTags": [
+        "Trauma Seksual",
+        "Re-traumatisasi",
+        "Pemilihan Metode",
+        "Asesmen Trauma"
+      ]
+    },
+    "question": "Metode manakah yang PALING aman dan peka trauma untuk dipilih dalam pemeriksaan awal Sdri. Wita?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Wawancara konfrontatif yang memaksakan klien menceritakan adegan trauma secara berulang-ulang hingga menangis histeris."
+      },
+      {
+        "id": "B",
+        "text": "Menggunakan pendekatan menggambar/ekspresif non-verbal, skala respons trauma tervalidasi, dan wawancara bertahap yang empati serta aman (trauma-informed assessment)."
+      },
+      {
+        "id": "C",
+        "text": "Memberikan tes poligraf (detektor kebohongan) bertegangan listrik tinggi."
+      },
+      {
+        "id": "D",
+        "text": "Memaksa klien berbicara di depan umum ruang terbuka."
+      }
+    ],
+    "key": "B",
+    "explanation": "Pada klien trauma akut, memilih metode asesmen peka trauma (trauma-informed) menggunakan media non-verbal/ekspresif dan skala psikometrik aman mencegah terjadinya dampak buruk re-traumatisasi."
+  },
+  {
+    "id": "D6_I1.4_Q4",
+    "domainId": 6,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Menentukan metode asesmen)",
+    "indicatorId": "1.4",
+    "indicatorFullId": "D6-1.4",
+    "indicatorTitle": "Membandingkan dan memilih metode asesmen yang sesuai dengan karakteristik klien dan permasalahannya",
+    "caseStudy": {
+      "title": "Studi Kasus 4: Membandingkan dan Memilih Metode Asesmen pada Klien Trauma Kekerasan (Kasus 4)",
+      "scenario": "Klien Sdri. Wita (20 tahun) baru saja mengalami trauma kekerasan seksual akut. Klien sangat tertutup, mudah cemas saat ditanya langsung mengenai rincian kronologi trauma, dan sering mengalami penolakan bicara (selective mutism). Psikolog membandingkan beberapa metode asesmen untuk mendapatkan gambaran trauma tanpa menimbulkan re-traumatisasi.",
+      "contextTags": [
+        "Trauma Seksual",
+        "Re-traumatisasi",
+        "Pemilihan Metode",
+        "Asesmen Trauma"
+      ]
+    },
+    "question": "Metode manakah yang PALING aman dan peka trauma untuk dipilih dalam pemeriksaan awal Sdri. Wita?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Wawancara konfrontatif yang memaksakan klien menceritakan adegan trauma secara berulang-ulang hingga menangis histeris."
+      },
+      {
+        "id": "B",
+        "text": "Menggunakan pendekatan menggambar/ekspresif non-verbal, skala respons trauma tervalidasi, dan wawancara bertahap yang empati serta aman (trauma-informed assessment)."
+      },
+      {
+        "id": "C",
+        "text": "Memberikan tes poligraf (detektor kebohongan) bertegangan listrik tinggi."
+      },
+      {
+        "id": "D",
+        "text": "Memaksa klien berbicara di depan umum ruang terbuka."
+      }
+    ],
+    "key": "B",
+    "explanation": "Pada klien trauma akut, memilih metode asesmen peka trauma (trauma-informed) menggunakan media non-verbal/ekspresif dan skala psikometrik aman mencegah terjadinya dampak buruk re-traumatisasi."
+  },
+  {
+    "id": "D6_I1.4_Q5",
+    "domainId": 6,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Menentukan metode asesmen)",
+    "indicatorId": "1.4",
+    "indicatorFullId": "D6-1.4",
+    "indicatorTitle": "Membandingkan dan memilih metode asesmen yang sesuai dengan karakteristik klien dan permasalahannya",
+    "caseStudy": {
+      "title": "Studi Kasus 5: Membandingkan dan Memilih Metode Asesmen pada Klien Trauma Kekerasan (Kasus 5)",
+      "scenario": "Klien Sdri. Wita (20 tahun) baru saja mengalami trauma kekerasan seksual akut. Klien sangat tertutup, mudah cemas saat ditanya langsung mengenai rincian kronologi trauma, dan sering mengalami penolakan bicara (selective mutism). Psikolog membandingkan beberapa metode asesmen untuk mendapatkan gambaran trauma tanpa menimbulkan re-traumatisasi.",
+      "contextTags": [
+        "Trauma Seksual",
+        "Re-traumatisasi",
+        "Pemilihan Metode",
+        "Asesmen Trauma"
+      ]
+    },
+    "question": "Metode manakah yang PALING aman dan peka trauma untuk dipilih dalam pemeriksaan awal Sdri. Wita?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Wawancara konfrontatif yang memaksakan klien menceritakan adegan trauma secara berulang-ulang hingga menangis histeris."
+      },
+      {
+        "id": "B",
+        "text": "Menggunakan pendekatan menggambar/ekspresif non-verbal, skala respons trauma tervalidasi, dan wawancara bertahap yang empati serta aman (trauma-informed assessment)."
+      },
+      {
+        "id": "C",
+        "text": "Memberikan tes poligraf (detektor kebohongan) bertegangan listrik tinggi."
+      },
+      {
+        "id": "D",
+        "text": "Memaksa klien berbicara di depan umum ruang terbuka."
+      }
+    ],
+    "key": "B",
+    "explanation": "Pada klien trauma akut, memilih metode asesmen peka trauma (trauma-informed) menggunakan media non-verbal/ekspresif dan skala psikometrik aman mencegah terjadinya dampak buruk re-traumatisasi."
+  },
+  {
+    "id": "D6_I1.4_Q6",
+    "domainId": 6,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Menentukan metode asesmen)",
+    "indicatorId": "1.4",
+    "indicatorFullId": "D6-1.4",
+    "indicatorTitle": "Membandingkan dan memilih metode asesmen yang sesuai dengan karakteristik klien dan permasalahannya",
+    "caseStudy": {
+      "title": "Studi Kasus 6: Membandingkan dan Memilih Metode Asesmen pada Klien Trauma Kekerasan (Kasus 6)",
+      "scenario": "Klien Sdri. Wita (20 tahun) baru saja mengalami trauma kekerasan seksual akut. Klien sangat tertutup, mudah cemas saat ditanya langsung mengenai rincian kronologi trauma, dan sering mengalami penolakan bicara (selective mutism). Psikolog membandingkan beberapa metode asesmen untuk mendapatkan gambaran trauma tanpa menimbulkan re-traumatisasi.",
+      "contextTags": [
+        "Trauma Seksual",
+        "Re-traumatisasi",
+        "Pemilihan Metode",
+        "Asesmen Trauma"
+      ]
+    },
+    "question": "Metode manakah yang PALING aman dan peka trauma untuk dipilih dalam pemeriksaan awal Sdri. Wita?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Wawancara konfrontatif yang memaksakan klien menceritakan adegan trauma secara berulang-ulang hingga menangis histeris."
+      },
+      {
+        "id": "B",
+        "text": "Menggunakan pendekatan menggambar/ekspresif non-verbal, skala respons trauma tervalidasi, dan wawancara bertahap yang empati serta aman (trauma-informed assessment)."
+      },
+      {
+        "id": "C",
+        "text": "Memberikan tes poligraf (detektor kebohongan) bertegangan listrik tinggi."
+      },
+      {
+        "id": "D",
+        "text": "Memaksa klien berbicara di depan umum ruang terbuka."
+      }
+    ],
+    "key": "B",
+    "explanation": "Pada klien trauma akut, memilih metode asesmen peka trauma (trauma-informed) menggunakan media non-verbal/ekspresif dan skala psikometrik aman mencegah terjadinya dampak buruk re-traumatisasi."
+  },
+  {
+    "id": "D6_I1.4_Q7",
+    "domainId": 6,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Menentukan metode asesmen)",
+    "indicatorId": "1.4",
+    "indicatorFullId": "D6-1.4",
+    "indicatorTitle": "Membandingkan dan memilih metode asesmen yang sesuai dengan karakteristik klien dan permasalahannya",
+    "caseStudy": {
+      "title": "Studi Kasus 7: Membandingkan dan Memilih Metode Asesmen pada Klien Trauma Kekerasan (Kasus 7)",
+      "scenario": "Klien Sdri. Wita (20 tahun) baru saja mengalami trauma kekerasan seksual akut. Klien sangat tertutup, mudah cemas saat ditanya langsung mengenai rincian kronologi trauma, dan sering mengalami penolakan bicara (selective mutism). Psikolog membandingkan beberapa metode asesmen untuk mendapatkan gambaran trauma tanpa menimbulkan re-traumatisasi.",
+      "contextTags": [
+        "Trauma Seksual",
+        "Re-traumatisasi",
+        "Pemilihan Metode",
+        "Asesmen Trauma"
+      ]
+    },
+    "question": "Metode manakah yang PALING aman dan peka trauma untuk dipilih dalam pemeriksaan awal Sdri. Wita?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Wawancara konfrontatif yang memaksakan klien menceritakan adegan trauma secara berulang-ulang hingga menangis histeris."
+      },
+      {
+        "id": "B",
+        "text": "Menggunakan pendekatan menggambar/ekspresif non-verbal, skala respons trauma tervalidasi, dan wawancara bertahap yang empati serta aman (trauma-informed assessment)."
+      },
+      {
+        "id": "C",
+        "text": "Memberikan tes poligraf (detektor kebohongan) bertegangan listrik tinggi."
+      },
+      {
+        "id": "D",
+        "text": "Memaksa klien berbicara di depan umum ruang terbuka."
+      }
+    ],
+    "key": "B",
+    "explanation": "Pada klien trauma akut, memilih metode asesmen peka trauma (trauma-informed) menggunakan media non-verbal/ekspresif dan skala psikometrik aman mencegah terjadinya dampak buruk re-traumatisasi."
+  },
+  {
+    "id": "D6_I1.4_Q8",
+    "domainId": 6,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Menentukan metode asesmen)",
+    "indicatorId": "1.4",
+    "indicatorFullId": "D6-1.4",
+    "indicatorTitle": "Membandingkan dan memilih metode asesmen yang sesuai dengan karakteristik klien dan permasalahannya",
+    "caseStudy": {
+      "title": "Studi Kasus 8: Membandingkan dan Memilih Metode Asesmen pada Klien Trauma Kekerasan (Kasus 8)",
+      "scenario": "Klien Sdri. Wita (20 tahun) baru saja mengalami trauma kekerasan seksual akut. Klien sangat tertutup, mudah cemas saat ditanya langsung mengenai rincian kronologi trauma, dan sering mengalami penolakan bicara (selective mutism). Psikolog membandingkan beberapa metode asesmen untuk mendapatkan gambaran trauma tanpa menimbulkan re-traumatisasi.",
+      "contextTags": [
+        "Trauma Seksual",
+        "Re-traumatisasi",
+        "Pemilihan Metode",
+        "Asesmen Trauma"
+      ]
+    },
+    "question": "Metode manakah yang PALING aman dan peka trauma untuk dipilih dalam pemeriksaan awal Sdri. Wita?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Wawancara konfrontatif yang memaksakan klien menceritakan adegan trauma secara berulang-ulang hingga menangis histeris."
+      },
+      {
+        "id": "B",
+        "text": "Menggunakan pendekatan menggambar/ekspresif non-verbal, skala respons trauma tervalidasi, dan wawancara bertahap yang empati serta aman (trauma-informed assessment)."
+      },
+      {
+        "id": "C",
+        "text": "Memberikan tes poligraf (detektor kebohongan) bertegangan listrik tinggi."
+      },
+      {
+        "id": "D",
+        "text": "Memaksa klien berbicara di depan umum ruang terbuka."
+      }
+    ],
+    "key": "B",
+    "explanation": "Pada klien trauma akut, memilih metode asesmen peka trauma (trauma-informed) menggunakan media non-verbal/ekspresif dan skala psikometrik aman mencegah terjadinya dampak buruk re-traumatisasi."
+  },
+  {
+    "id": "D6_I1.4_Q9",
+    "domainId": 6,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Menentukan metode asesmen)",
+    "indicatorId": "1.4",
+    "indicatorFullId": "D6-1.4",
+    "indicatorTitle": "Membandingkan dan memilih metode asesmen yang sesuai dengan karakteristik klien dan permasalahannya",
+    "caseStudy": {
+      "title": "Studi Kasus 9: Membandingkan dan Memilih Metode Asesmen pada Klien Trauma Kekerasan (Kasus 9)",
+      "scenario": "Klien Sdri. Wita (20 tahun) baru saja mengalami trauma kekerasan seksual akut. Klien sangat tertutup, mudah cemas saat ditanya langsung mengenai rincian kronologi trauma, dan sering mengalami penolakan bicara (selective mutism). Psikolog membandingkan beberapa metode asesmen untuk mendapatkan gambaran trauma tanpa menimbulkan re-traumatisasi.",
+      "contextTags": [
+        "Trauma Seksual",
+        "Re-traumatisasi",
+        "Pemilihan Metode",
+        "Asesmen Trauma"
+      ]
+    },
+    "question": "Metode manakah yang PALING aman dan peka trauma untuk dipilih dalam pemeriksaan awal Sdri. Wita?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Wawancara konfrontatif yang memaksakan klien menceritakan adegan trauma secara berulang-ulang hingga menangis histeris."
+      },
+      {
+        "id": "B",
+        "text": "Menggunakan pendekatan menggambar/ekspresif non-verbal, skala respons trauma tervalidasi, dan wawancara bertahap yang empati serta aman (trauma-informed assessment)."
+      },
+      {
+        "id": "C",
+        "text": "Memberikan tes poligraf (detektor kebohongan) bertegangan listrik tinggi."
+      },
+      {
+        "id": "D",
+        "text": "Memaksa klien berbicara di depan umum ruang terbuka."
+      }
+    ],
+    "key": "B",
+    "explanation": "Pada klien trauma akut, memilih metode asesmen peka trauma (trauma-informed) menggunakan media non-verbal/ekspresif dan skala psikometrik aman mencegah terjadinya dampak buruk re-traumatisasi."
+  },
+  {
+    "id": "D6_I1.4_Q10",
+    "domainId": 6,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Menentukan metode asesmen)",
+    "indicatorId": "1.4",
+    "indicatorFullId": "D6-1.4",
+    "indicatorTitle": "Membandingkan dan memilih metode asesmen yang sesuai dengan karakteristik klien dan permasalahannya",
+    "caseStudy": {
+      "title": "Studi Kasus 10: Membandingkan dan Memilih Metode Asesmen pada Klien Trauma Kekerasan (Kasus 10)",
+      "scenario": "Klien Sdri. Wita (20 tahun) baru saja mengalami trauma kekerasan seksual akut. Klien sangat tertutup, mudah cemas saat ditanya langsung mengenai rincian kronologi trauma, dan sering mengalami penolakan bicara (selective mutism). Psikolog membandingkan beberapa metode asesmen untuk mendapatkan gambaran trauma tanpa menimbulkan re-traumatisasi.",
+      "contextTags": [
+        "Trauma Seksual",
+        "Re-traumatisasi",
+        "Pemilihan Metode",
+        "Asesmen Trauma"
+      ]
+    },
+    "question": "Metode manakah yang PALING aman dan peka trauma untuk dipilih dalam pemeriksaan awal Sdri. Wita?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Wawancara konfrontatif yang memaksakan klien menceritakan adegan trauma secara berulang-ulang hingga menangis histeris."
+      },
+      {
+        "id": "B",
+        "text": "Menggunakan pendekatan menggambar/ekspresif non-verbal, skala respons trauma tervalidasi, dan wawancara bertahap yang empati serta aman (trauma-informed assessment)."
+      },
+      {
+        "id": "C",
+        "text": "Memberikan tes poligraf (detektor kebohongan) bertegangan listrik tinggi."
+      },
+      {
+        "id": "D",
+        "text": "Memaksa klien berbicara di depan umum ruang terbuka."
+      }
+    ],
+    "key": "B",
+    "explanation": "Pada klien trauma akut, memilih metode asesmen peka trauma (trauma-informed) menggunakan media non-verbal/ekspresif dan skala psikometrik aman mencegah terjadinya dampak buruk re-traumatisasi."
+  },
+  {
+    "id": "D6_I1.5_Q1",
+    "domainId": 6,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Menentukan metode asesmen)",
+    "indicatorId": "1.5",
+    "indicatorFullId": "D6-1.5",
+    "indicatorTitle": "Membandingkan dan memilih metode asesmen yang tepat berdasarkan pertimbangan konteks atau latar layanan",
+    "caseStudy": {
+      "title": "Studi Kasus 1: Membandingkan Metode Asesmen Klinis di Instalasi Gawat Darurat (IGD) RS (Kasus 1)",
+      "scenario": "Psikolog Klinis dipanggil ke ruangan IGD untuk memeriksa pasien yang dibawa polisi karena mengamuk dan diduga mencoba bunuh diri. Konteks IGD membutuhkan keputusan darurat yang cepat mengenai risiko keselamatan jiwa (suicide risk assessment). Psikolog membandingkan instrumen skrining krisis darurat vs tes proyektif panjang.",
+      "contextTags": [
+        "Asesmen IGD",
+        "Krisis Suisidal",
+        "Skrining Krisis",
+        "Latar Klinik"
+      ]
+    },
+    "question": "Metode asesmen manakah yang PALING tepat dipilih dalam latar layanan darurat IGD tersebut?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Memberikan tes proyektif TAT dan Wartegg yang membutuhkan waktu analisis 5 hari."
+      },
+      {
+        "id": "B",
+        "text": "Menggunakan instrumen skrining risiko bunuh diri singkat tervalidasi (seperti C-SSRS), observasi status mental darurat, dan wawancara singkat terfokus pada keselamatan jiwa."
+      },
+      {
+        "id": "C",
+        "text": "Menyuruh pasien mengisi angket kepribadian 600 soal saat tangan pasien masih diikat."
+      },
+      {
+        "id": "D",
+        "text": "Menunda asesmen hingga 2 bulan kemudian."
+      }
+    ],
+    "key": "B",
+    "explanation": "Dalam latar krisis darurat (IGD/Hospital Emergency), metode asesmen yang dipilih harus berupa instrumen skrining krisis terfokus (seperti C-SSRS) dan wawancara status mental darurat untuk perlindungan jiwa segera."
+  },
+  {
+    "id": "D6_I1.5_Q2",
+    "domainId": 6,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Menentukan metode asesmen)",
+    "indicatorId": "1.5",
+    "indicatorFullId": "D6-1.5",
+    "indicatorTitle": "Membandingkan dan memilih metode asesmen yang tepat berdasarkan pertimbangan konteks atau latar layanan",
+    "caseStudy": {
+      "title": "Studi Kasus 2: Membandingkan Metode Asesmen Klinis di Instalasi Gawat Darurat (IGD) RS (Kasus 2)",
+      "scenario": "Psikolog Klinis dipanggil ke ruangan IGD untuk memeriksa pasien yang dibawa polisi karena mengamuk dan diduga mencoba bunuh diri. Konteks IGD membutuhkan keputusan darurat yang cepat mengenai risiko keselamatan jiwa (suicide risk assessment). Psikolog membandingkan instrumen skrining krisis darurat vs tes proyektif panjang.",
+      "contextTags": [
+        "Asesmen IGD",
+        "Krisis Suisidal",
+        "Skrining Krisis",
+        "Latar Klinik"
+      ]
+    },
+    "question": "Metode asesmen manakah yang PALING tepat dipilih dalam latar layanan darurat IGD tersebut?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Memberikan tes proyektif TAT dan Wartegg yang membutuhkan waktu analisis 5 hari."
+      },
+      {
+        "id": "B",
+        "text": "Menggunakan instrumen skrining risiko bunuh diri singkat tervalidasi (seperti C-SSRS), observasi status mental darurat, dan wawancara singkat terfokus pada keselamatan jiwa."
+      },
+      {
+        "id": "C",
+        "text": "Menyuruh pasien mengisi angket kepribadian 600 soal saat tangan pasien masih diikat."
+      },
+      {
+        "id": "D",
+        "text": "Menunda asesmen hingga 2 bulan kemudian."
+      }
+    ],
+    "key": "B",
+    "explanation": "Dalam latar krisis darurat (IGD/Hospital Emergency), metode asesmen yang dipilih harus berupa instrumen skrining krisis terfokus (seperti C-SSRS) dan wawancara status mental darurat untuk perlindungan jiwa segera."
+  },
+  {
+    "id": "D6_I1.5_Q3",
+    "domainId": 6,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Menentukan metode asesmen)",
+    "indicatorId": "1.5",
+    "indicatorFullId": "D6-1.5",
+    "indicatorTitle": "Membandingkan dan memilih metode asesmen yang tepat berdasarkan pertimbangan konteks atau latar layanan",
+    "caseStudy": {
+      "title": "Studi Kasus 3: Membandingkan Metode Asesmen Klinis di Instalasi Gawat Darurat (IGD) RS (Kasus 3)",
+      "scenario": "Psikolog Klinis dipanggil ke ruangan IGD untuk memeriksa pasien yang dibawa polisi karena mengamuk dan diduga mencoba bunuh diri. Konteks IGD membutuhkan keputusan darurat yang cepat mengenai risiko keselamatan jiwa (suicide risk assessment). Psikolog membandingkan instrumen skrining krisis darurat vs tes proyektif panjang.",
+      "contextTags": [
+        "Asesmen IGD",
+        "Krisis Suisidal",
+        "Skrining Krisis",
+        "Latar Klinik"
+      ]
+    },
+    "question": "Metode asesmen manakah yang PALING tepat dipilih dalam latar layanan darurat IGD tersebut?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Memberikan tes proyektif TAT dan Wartegg yang membutuhkan waktu analisis 5 hari."
+      },
+      {
+        "id": "B",
+        "text": "Menggunakan instrumen skrining risiko bunuh diri singkat tervalidasi (seperti C-SSRS), observasi status mental darurat, dan wawancara singkat terfokus pada keselamatan jiwa."
+      },
+      {
+        "id": "C",
+        "text": "Menyuruh pasien mengisi angket kepribadian 600 soal saat tangan pasien masih diikat."
+      },
+      {
+        "id": "D",
+        "text": "Menunda asesmen hingga 2 bulan kemudian."
+      }
+    ],
+    "key": "B",
+    "explanation": "Dalam latar krisis darurat (IGD/Hospital Emergency), metode asesmen yang dipilih harus berupa instrumen skrining krisis terfokus (seperti C-SSRS) dan wawancara status mental darurat untuk perlindungan jiwa segera."
+  },
+  {
+    "id": "D6_I1.5_Q4",
+    "domainId": 6,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Menentukan metode asesmen)",
+    "indicatorId": "1.5",
+    "indicatorFullId": "D6-1.5",
+    "indicatorTitle": "Membandingkan dan memilih metode asesmen yang tepat berdasarkan pertimbangan konteks atau latar layanan",
+    "caseStudy": {
+      "title": "Studi Kasus 4: Membandingkan Metode Asesmen Klinis di Instalasi Gawat Darurat (IGD) RS (Kasus 4)",
+      "scenario": "Psikolog Klinis dipanggil ke ruangan IGD untuk memeriksa pasien yang dibawa polisi karena mengamuk dan diduga mencoba bunuh diri. Konteks IGD membutuhkan keputusan darurat yang cepat mengenai risiko keselamatan jiwa (suicide risk assessment). Psikolog membandingkan instrumen skrining krisis darurat vs tes proyektif panjang.",
+      "contextTags": [
+        "Asesmen IGD",
+        "Krisis Suisidal",
+        "Skrining Krisis",
+        "Latar Klinik"
+      ]
+    },
+    "question": "Metode asesmen manakah yang PALING tepat dipilih dalam latar layanan darurat IGD tersebut?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Memberikan tes proyektif TAT dan Wartegg yang membutuhkan waktu analisis 5 hari."
+      },
+      {
+        "id": "B",
+        "text": "Menggunakan instrumen skrining risiko bunuh diri singkat tervalidasi (seperti C-SSRS), observasi status mental darurat, dan wawancara singkat terfokus pada keselamatan jiwa."
+      },
+      {
+        "id": "C",
+        "text": "Menyuruh pasien mengisi angket kepribadian 600 soal saat tangan pasien masih diikat."
+      },
+      {
+        "id": "D",
+        "text": "Menunda asesmen hingga 2 bulan kemudian."
+      }
+    ],
+    "key": "B",
+    "explanation": "Dalam latar krisis darurat (IGD/Hospital Emergency), metode asesmen yang dipilih harus berupa instrumen skrining krisis terfokus (seperti C-SSRS) dan wawancara status mental darurat untuk perlindungan jiwa segera."
+  },
+  {
+    "id": "D6_I1.5_Q5",
+    "domainId": 6,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Menentukan metode asesmen)",
+    "indicatorId": "1.5",
+    "indicatorFullId": "D6-1.5",
+    "indicatorTitle": "Membandingkan dan memilih metode asesmen yang tepat berdasarkan pertimbangan konteks atau latar layanan",
+    "caseStudy": {
+      "title": "Studi Kasus 5: Membandingkan Metode Asesmen Klinis di Instalasi Gawat Darurat (IGD) RS (Kasus 5)",
+      "scenario": "Psikolog Klinis dipanggil ke ruangan IGD untuk memeriksa pasien yang dibawa polisi karena mengamuk dan diduga mencoba bunuh diri. Konteks IGD membutuhkan keputusan darurat yang cepat mengenai risiko keselamatan jiwa (suicide risk assessment). Psikolog membandingkan instrumen skrining krisis darurat vs tes proyektif panjang.",
+      "contextTags": [
+        "Asesmen IGD",
+        "Krisis Suisidal",
+        "Skrining Krisis",
+        "Latar Klinik"
+      ]
+    },
+    "question": "Metode asesmen manakah yang PALING tepat dipilih dalam latar layanan darurat IGD tersebut?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Memberikan tes proyektif TAT dan Wartegg yang membutuhkan waktu analisis 5 hari."
+      },
+      {
+        "id": "B",
+        "text": "Menggunakan instrumen skrining risiko bunuh diri singkat tervalidasi (seperti C-SSRS), observasi status mental darurat, dan wawancara singkat terfokus pada keselamatan jiwa."
+      },
+      {
+        "id": "C",
+        "text": "Menyuruh pasien mengisi angket kepribadian 600 soal saat tangan pasien masih diikat."
+      },
+      {
+        "id": "D",
+        "text": "Menunda asesmen hingga 2 bulan kemudian."
+      }
+    ],
+    "key": "B",
+    "explanation": "Dalam latar krisis darurat (IGD/Hospital Emergency), metode asesmen yang dipilih harus berupa instrumen skrining krisis terfokus (seperti C-SSRS) dan wawancara status mental darurat untuk perlindungan jiwa segera."
+  },
+  {
+    "id": "D6_I1.5_Q6",
+    "domainId": 6,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Menentukan metode asesmen)",
+    "indicatorId": "1.5",
+    "indicatorFullId": "D6-1.5",
+    "indicatorTitle": "Membandingkan dan memilih metode asesmen yang tepat berdasarkan pertimbangan konteks atau latar layanan",
+    "caseStudy": {
+      "title": "Studi Kasus 6: Membandingkan Metode Asesmen Klinis di Instalasi Gawat Darurat (IGD) RS (Kasus 6)",
+      "scenario": "Psikolog Klinis dipanggil ke ruangan IGD untuk memeriksa pasien yang dibawa polisi karena mengamuk dan diduga mencoba bunuh diri. Konteks IGD membutuhkan keputusan darurat yang cepat mengenai risiko keselamatan jiwa (suicide risk assessment). Psikolog membandingkan instrumen skrining krisis darurat vs tes proyektif panjang.",
+      "contextTags": [
+        "Asesmen IGD",
+        "Krisis Suisidal",
+        "Skrining Krisis",
+        "Latar Klinik"
+      ]
+    },
+    "question": "Metode asesmen manakah yang PALING tepat dipilih dalam latar layanan darurat IGD tersebut?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Memberikan tes proyektif TAT dan Wartegg yang membutuhkan waktu analisis 5 hari."
+      },
+      {
+        "id": "B",
+        "text": "Menggunakan instrumen skrining risiko bunuh diri singkat tervalidasi (seperti C-SSRS), observasi status mental darurat, dan wawancara singkat terfokus pada keselamatan jiwa."
+      },
+      {
+        "id": "C",
+        "text": "Menyuruh pasien mengisi angket kepribadian 600 soal saat tangan pasien masih diikat."
+      },
+      {
+        "id": "D",
+        "text": "Menunda asesmen hingga 2 bulan kemudian."
+      }
+    ],
+    "key": "B",
+    "explanation": "Dalam latar krisis darurat (IGD/Hospital Emergency), metode asesmen yang dipilih harus berupa instrumen skrining krisis terfokus (seperti C-SSRS) dan wawancara status mental darurat untuk perlindungan jiwa segera."
+  },
+  {
+    "id": "D6_I1.5_Q7",
+    "domainId": 6,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Menentukan metode asesmen)",
+    "indicatorId": "1.5",
+    "indicatorFullId": "D6-1.5",
+    "indicatorTitle": "Membandingkan dan memilih metode asesmen yang tepat berdasarkan pertimbangan konteks atau latar layanan",
+    "caseStudy": {
+      "title": "Studi Kasus 7: Membandingkan Metode Asesmen Klinis di Instalasi Gawat Darurat (IGD) RS (Kasus 7)",
+      "scenario": "Psikolog Klinis dipanggil ke ruangan IGD untuk memeriksa pasien yang dibawa polisi karena mengamuk dan diduga mencoba bunuh diri. Konteks IGD membutuhkan keputusan darurat yang cepat mengenai risiko keselamatan jiwa (suicide risk assessment). Psikolog membandingkan instrumen skrining krisis darurat vs tes proyektif panjang.",
+      "contextTags": [
+        "Asesmen IGD",
+        "Krisis Suisidal",
+        "Skrining Krisis",
+        "Latar Klinik"
+      ]
+    },
+    "question": "Metode asesmen manakah yang PALING tepat dipilih dalam latar layanan darurat IGD tersebut?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Memberikan tes proyektif TAT dan Wartegg yang membutuhkan waktu analisis 5 hari."
+      },
+      {
+        "id": "B",
+        "text": "Menggunakan instrumen skrining risiko bunuh diri singkat tervalidasi (seperti C-SSRS), observasi status mental darurat, dan wawancara singkat terfokus pada keselamatan jiwa."
+      },
+      {
+        "id": "C",
+        "text": "Menyuruh pasien mengisi angket kepribadian 600 soal saat tangan pasien masih diikat."
+      },
+      {
+        "id": "D",
+        "text": "Menunda asesmen hingga 2 bulan kemudian."
+      }
+    ],
+    "key": "B",
+    "explanation": "Dalam latar krisis darurat (IGD/Hospital Emergency), metode asesmen yang dipilih harus berupa instrumen skrining krisis terfokus (seperti C-SSRS) dan wawancara status mental darurat untuk perlindungan jiwa segera."
+  },
+  {
+    "id": "D6_I1.5_Q8",
+    "domainId": 6,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Menentukan metode asesmen)",
+    "indicatorId": "1.5",
+    "indicatorFullId": "D6-1.5",
+    "indicatorTitle": "Membandingkan dan memilih metode asesmen yang tepat berdasarkan pertimbangan konteks atau latar layanan",
+    "caseStudy": {
+      "title": "Studi Kasus 8: Membandingkan Metode Asesmen Klinis di Instalasi Gawat Darurat (IGD) RS (Kasus 8)",
+      "scenario": "Psikolog Klinis dipanggil ke ruangan IGD untuk memeriksa pasien yang dibawa polisi karena mengamuk dan diduga mencoba bunuh diri. Konteks IGD membutuhkan keputusan darurat yang cepat mengenai risiko keselamatan jiwa (suicide risk assessment). Psikolog membandingkan instrumen skrining krisis darurat vs tes proyektif panjang.",
+      "contextTags": [
+        "Asesmen IGD",
+        "Krisis Suisidal",
+        "Skrining Krisis",
+        "Latar Klinik"
+      ]
+    },
+    "question": "Metode asesmen manakah yang PALING tepat dipilih dalam latar layanan darurat IGD tersebut?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Memberikan tes proyektif TAT dan Wartegg yang membutuhkan waktu analisis 5 hari."
+      },
+      {
+        "id": "B",
+        "text": "Menggunakan instrumen skrining risiko bunuh diri singkat tervalidasi (seperti C-SSRS), observasi status mental darurat, dan wawancara singkat terfokus pada keselamatan jiwa."
+      },
+      {
+        "id": "C",
+        "text": "Menyuruh pasien mengisi angket kepribadian 600 soal saat tangan pasien masih diikat."
+      },
+      {
+        "id": "D",
+        "text": "Menunda asesmen hingga 2 bulan kemudian."
+      }
+    ],
+    "key": "B",
+    "explanation": "Dalam latar krisis darurat (IGD/Hospital Emergency), metode asesmen yang dipilih harus berupa instrumen skrining krisis terfokus (seperti C-SSRS) dan wawancara status mental darurat untuk perlindungan jiwa segera."
+  },
+  {
+    "id": "D6_I1.5_Q9",
+    "domainId": 6,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Menentukan metode asesmen)",
+    "indicatorId": "1.5",
+    "indicatorFullId": "D6-1.5",
+    "indicatorTitle": "Membandingkan dan memilih metode asesmen yang tepat berdasarkan pertimbangan konteks atau latar layanan",
+    "caseStudy": {
+      "title": "Studi Kasus 9: Membandingkan Metode Asesmen Klinis di Instalasi Gawat Darurat (IGD) RS (Kasus 9)",
+      "scenario": "Psikolog Klinis dipanggil ke ruangan IGD untuk memeriksa pasien yang dibawa polisi karena mengamuk dan diduga mencoba bunuh diri. Konteks IGD membutuhkan keputusan darurat yang cepat mengenai risiko keselamatan jiwa (suicide risk assessment). Psikolog membandingkan instrumen skrining krisis darurat vs tes proyektif panjang.",
+      "contextTags": [
+        "Asesmen IGD",
+        "Krisis Suisidal",
+        "Skrining Krisis",
+        "Latar Klinik"
+      ]
+    },
+    "question": "Metode asesmen manakah yang PALING tepat dipilih dalam latar layanan darurat IGD tersebut?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Memberikan tes proyektif TAT dan Wartegg yang membutuhkan waktu analisis 5 hari."
+      },
+      {
+        "id": "B",
+        "text": "Menggunakan instrumen skrining risiko bunuh diri singkat tervalidasi (seperti C-SSRS), observasi status mental darurat, dan wawancara singkat terfokus pada keselamatan jiwa."
+      },
+      {
+        "id": "C",
+        "text": "Menyuruh pasien mengisi angket kepribadian 600 soal saat tangan pasien masih diikat."
+      },
+      {
+        "id": "D",
+        "text": "Menunda asesmen hingga 2 bulan kemudian."
+      }
+    ],
+    "key": "B",
+    "explanation": "Dalam latar krisis darurat (IGD/Hospital Emergency), metode asesmen yang dipilih harus berupa instrumen skrining krisis terfokus (seperti C-SSRS) dan wawancara status mental darurat untuk perlindungan jiwa segera."
+  },
+  {
+    "id": "D6_I1.5_Q10",
+    "domainId": 6,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Menentukan metode asesmen)",
+    "indicatorId": "1.5",
+    "indicatorFullId": "D6-1.5",
+    "indicatorTitle": "Membandingkan dan memilih metode asesmen yang tepat berdasarkan pertimbangan konteks atau latar layanan",
+    "caseStudy": {
+      "title": "Studi Kasus 10: Membandingkan Metode Asesmen Klinis di Instalasi Gawat Darurat (IGD) RS (Kasus 10)",
+      "scenario": "Psikolog Klinis dipanggil ke ruangan IGD untuk memeriksa pasien yang dibawa polisi karena mengamuk dan diduga mencoba bunuh diri. Konteks IGD membutuhkan keputusan darurat yang cepat mengenai risiko keselamatan jiwa (suicide risk assessment). Psikolog membandingkan instrumen skrining krisis darurat vs tes proyektif panjang.",
+      "contextTags": [
+        "Asesmen IGD",
+        "Krisis Suisidal",
+        "Skrining Krisis",
+        "Latar Klinik"
+      ]
+    },
+    "question": "Metode asesmen manakah yang PALING tepat dipilih dalam latar layanan darurat IGD tersebut?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Memberikan tes proyektif TAT dan Wartegg yang membutuhkan waktu analisis 5 hari."
+      },
+      {
+        "id": "B",
+        "text": "Menggunakan instrumen skrining risiko bunuh diri singkat tervalidasi (seperti C-SSRS), observasi status mental darurat, dan wawancara singkat terfokus pada keselamatan jiwa."
+      },
+      {
+        "id": "C",
+        "text": "Menyuruh pasien mengisi angket kepribadian 600 soal saat tangan pasien masih diikat."
+      },
+      {
+        "id": "D",
+        "text": "Menunda asesmen hingga 2 bulan kemudian."
+      }
+    ],
+    "key": "B",
+    "explanation": "Dalam latar krisis darurat (IGD/Hospital Emergency), metode asesmen yang dipilih harus berupa instrumen skrining krisis terfokus (seperti C-SSRS) dan wawancara status mental darurat untuk perlindungan jiwa segera."
+  },
+  {
+    "id": "D6_I1.6_Q1",
+    "domainId": 6,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Menentukan metode asesmen)",
+    "indicatorId": "1.6",
+    "indicatorFullId": "D6-1.6",
+    "indicatorTitle": "Melakukan evaluasi terhadap satu atau beberapa metode asesmen berdasarkan kesesuaian dengan karakteristik klien dan permasalahannya",
+    "caseStudy": {
+      "title": "Studi Kasus 1: Evaluasi Efektivitas Metode Asesmen Pembelajaran pada Anak ADHD (Kasus 1)",
+      "scenario": "Psikolog mengevaluasi mengapa metode asesmen tertulis berdurasi panjang gagal memotret kapasitas inteligensi anak dengan ADHD (Attention Deficit Hyperactivity Disorder). Hasil evaluasi menunjukkan bahwa skor rendah anak bukan karena deficit kecerdasan, melainkan karena rentang perhatian yang pendek dan distraktibilitas tinggi terhadap format tes tertulis konvensional.",
+      "contextTags": [
+        "Evaluasi Metode",
+        "ADHD",
+        "Kapasitas Kognitif",
+        "Akurasi Asesmen"
+      ]
+    },
+    "question": "Hasil evaluasi etis dan metodologis psikolog atas ketidaksesuaian metode tes tersebut adalah:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Menyimpulkan anak ADHD pasti memiliki IQ di bawah rata-rata tanpa perlu perbaikan metode."
+      },
+      {
+        "id": "B",
+        "text": "Merekomendasikan penggantian metode asesmen menjadi tes kognitif berbasis manipulatif individual dengan jeda istirahat terstruktur agar sesuai dengan karakteristik ADHD."
+      },
+      {
+        "id": "C",
+        "text": "Melarang anak ADHD untuk pernah mengikuti asesmen psikologi lagi."
+      },
+      {
+        "id": "D",
+        "text": "Menambah durasi ujian tertulis menjadi 6 jam tanpa istirahat."
+      }
+    ],
+    "key": "B",
+    "explanation": "Melakukan evaluasi metode asesmen berarti mengidentifikasi bila suatu instrumen bias/tidak akurat akibat hambatan karakteristik klien (seperti ADHD), dan merekomendasikan adaptasi metode yang valid dan adil."
+  },
+  {
+    "id": "D6_I1.6_Q2",
+    "domainId": 6,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Menentukan metode asesmen)",
+    "indicatorId": "1.6",
+    "indicatorFullId": "D6-1.6",
+    "indicatorTitle": "Melakukan evaluasi terhadap satu atau beberapa metode asesmen berdasarkan kesesuaian dengan karakteristik klien dan permasalahannya",
+    "caseStudy": {
+      "title": "Studi Kasus 2: Evaluasi Efektivitas Metode Asesmen Pembelajaran pada Anak ADHD (Kasus 2)",
+      "scenario": "Psikolog mengevaluasi mengapa metode asesmen tertulis berdurasi panjang gagal memotret kapasitas inteligensi anak dengan ADHD (Attention Deficit Hyperactivity Disorder). Hasil evaluasi menunjukkan bahwa skor rendah anak bukan karena deficit kecerdasan, melainkan karena rentang perhatian yang pendek dan distraktibilitas tinggi terhadap format tes tertulis konvensional.",
+      "contextTags": [
+        "Evaluasi Metode",
+        "ADHD",
+        "Kapasitas Kognitif",
+        "Akurasi Asesmen"
+      ]
+    },
+    "question": "Hasil evaluasi etis dan metodologis psikolog atas ketidaksesuaian metode tes tersebut adalah:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Menyimpulkan anak ADHD pasti memiliki IQ di bawah rata-rata tanpa perlu perbaikan metode."
+      },
+      {
+        "id": "B",
+        "text": "Merekomendasikan penggantian metode asesmen menjadi tes kognitif berbasis manipulatif individual dengan jeda istirahat terstruktur agar sesuai dengan karakteristik ADHD."
+      },
+      {
+        "id": "C",
+        "text": "Melarang anak ADHD untuk pernah mengikuti asesmen psikologi lagi."
+      },
+      {
+        "id": "D",
+        "text": "Menambah durasi ujian tertulis menjadi 6 jam tanpa istirahat."
+      }
+    ],
+    "key": "B",
+    "explanation": "Melakukan evaluasi metode asesmen berarti mengidentifikasi bila suatu instrumen bias/tidak akurat akibat hambatan karakteristik klien (seperti ADHD), dan merekomendasikan adaptasi metode yang valid dan adil."
+  },
+  {
+    "id": "D6_I1.6_Q3",
+    "domainId": 6,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Menentukan metode asesmen)",
+    "indicatorId": "1.6",
+    "indicatorFullId": "D6-1.6",
+    "indicatorTitle": "Melakukan evaluasi terhadap satu atau beberapa metode asesmen berdasarkan kesesuaian dengan karakteristik klien dan permasalahannya",
+    "caseStudy": {
+      "title": "Studi Kasus 3: Evaluasi Efektivitas Metode Asesmen Pembelajaran pada Anak ADHD (Kasus 3)",
+      "scenario": "Psikolog mengevaluasi mengapa metode asesmen tertulis berdurasi panjang gagal memotret kapasitas inteligensi anak dengan ADHD (Attention Deficit Hyperactivity Disorder). Hasil evaluasi menunjukkan bahwa skor rendah anak bukan karena deficit kecerdasan, melainkan karena rentang perhatian yang pendek dan distraktibilitas tinggi terhadap format tes tertulis konvensional.",
+      "contextTags": [
+        "Evaluasi Metode",
+        "ADHD",
+        "Kapasitas Kognitif",
+        "Akurasi Asesmen"
+      ]
+    },
+    "question": "Hasil evaluasi etis dan metodologis psikolog atas ketidaksesuaian metode tes tersebut adalah:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Menyimpulkan anak ADHD pasti memiliki IQ di bawah rata-rata tanpa perlu perbaikan metode."
+      },
+      {
+        "id": "B",
+        "text": "Merekomendasikan penggantian metode asesmen menjadi tes kognitif berbasis manipulatif individual dengan jeda istirahat terstruktur agar sesuai dengan karakteristik ADHD."
+      },
+      {
+        "id": "C",
+        "text": "Melarang anak ADHD untuk pernah mengikuti asesmen psikologi lagi."
+      },
+      {
+        "id": "D",
+        "text": "Menambah durasi ujian tertulis menjadi 6 jam tanpa istirahat."
+      }
+    ],
+    "key": "B",
+    "explanation": "Melakukan evaluasi metode asesmen berarti mengidentifikasi bila suatu instrumen bias/tidak akurat akibat hambatan karakteristik klien (seperti ADHD), dan merekomendasikan adaptasi metode yang valid dan adil."
+  },
+  {
+    "id": "D6_I1.6_Q4",
+    "domainId": 6,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Menentukan metode asesmen)",
+    "indicatorId": "1.6",
+    "indicatorFullId": "D6-1.6",
+    "indicatorTitle": "Melakukan evaluasi terhadap satu atau beberapa metode asesmen berdasarkan kesesuaian dengan karakteristik klien dan permasalahannya",
+    "caseStudy": {
+      "title": "Studi Kasus 4: Evaluasi Efektivitas Metode Asesmen Pembelajaran pada Anak ADHD (Kasus 4)",
+      "scenario": "Psikolog mengevaluasi mengapa metode asesmen tertulis berdurasi panjang gagal memotret kapasitas inteligensi anak dengan ADHD (Attention Deficit Hyperactivity Disorder). Hasil evaluasi menunjukkan bahwa skor rendah anak bukan karena deficit kecerdasan, melainkan karena rentang perhatian yang pendek dan distraktibilitas tinggi terhadap format tes tertulis konvensional.",
+      "contextTags": [
+        "Evaluasi Metode",
+        "ADHD",
+        "Kapasitas Kognitif",
+        "Akurasi Asesmen"
+      ]
+    },
+    "question": "Hasil evaluasi etis dan metodologis psikolog atas ketidaksesuaian metode tes tersebut adalah:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Menyimpulkan anak ADHD pasti memiliki IQ di bawah rata-rata tanpa perlu perbaikan metode."
+      },
+      {
+        "id": "B",
+        "text": "Merekomendasikan penggantian metode asesmen menjadi tes kognitif berbasis manipulatif individual dengan jeda istirahat terstruktur agar sesuai dengan karakteristik ADHD."
+      },
+      {
+        "id": "C",
+        "text": "Melarang anak ADHD untuk pernah mengikuti asesmen psikologi lagi."
+      },
+      {
+        "id": "D",
+        "text": "Menambah durasi ujian tertulis menjadi 6 jam tanpa istirahat."
+      }
+    ],
+    "key": "B",
+    "explanation": "Melakukan evaluasi metode asesmen berarti mengidentifikasi bila suatu instrumen bias/tidak akurat akibat hambatan karakteristik klien (seperti ADHD), dan merekomendasikan adaptasi metode yang valid dan adil."
+  },
+  {
+    "id": "D6_I1.6_Q5",
+    "domainId": 6,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Menentukan metode asesmen)",
+    "indicatorId": "1.6",
+    "indicatorFullId": "D6-1.6",
+    "indicatorTitle": "Melakukan evaluasi terhadap satu atau beberapa metode asesmen berdasarkan kesesuaian dengan karakteristik klien dan permasalahannya",
+    "caseStudy": {
+      "title": "Studi Kasus 5: Evaluasi Efektivitas Metode Asesmen Pembelajaran pada Anak ADHD (Kasus 5)",
+      "scenario": "Psikolog mengevaluasi mengapa metode asesmen tertulis berdurasi panjang gagal memotret kapasitas inteligensi anak dengan ADHD (Attention Deficit Hyperactivity Disorder). Hasil evaluasi menunjukkan bahwa skor rendah anak bukan karena deficit kecerdasan, melainkan karena rentang perhatian yang pendek dan distraktibilitas tinggi terhadap format tes tertulis konvensional.",
+      "contextTags": [
+        "Evaluasi Metode",
+        "ADHD",
+        "Kapasitas Kognitif",
+        "Akurasi Asesmen"
+      ]
+    },
+    "question": "Hasil evaluasi etis dan metodologis psikolog atas ketidaksesuaian metode tes tersebut adalah:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Menyimpulkan anak ADHD pasti memiliki IQ di bawah rata-rata tanpa perlu perbaikan metode."
+      },
+      {
+        "id": "B",
+        "text": "Merekomendasikan penggantian metode asesmen menjadi tes kognitif berbasis manipulatif individual dengan jeda istirahat terstruktur agar sesuai dengan karakteristik ADHD."
+      },
+      {
+        "id": "C",
+        "text": "Melarang anak ADHD untuk pernah mengikuti asesmen psikologi lagi."
+      },
+      {
+        "id": "D",
+        "text": "Menambah durasi ujian tertulis menjadi 6 jam tanpa istirahat."
+      }
+    ],
+    "key": "B",
+    "explanation": "Melakukan evaluasi metode asesmen berarti mengidentifikasi bila suatu instrumen bias/tidak akurat akibat hambatan karakteristik klien (seperti ADHD), dan merekomendasikan adaptasi metode yang valid dan adil."
+  },
+  {
+    "id": "D6_I1.6_Q6",
+    "domainId": 6,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Menentukan metode asesmen)",
+    "indicatorId": "1.6",
+    "indicatorFullId": "D6-1.6",
+    "indicatorTitle": "Melakukan evaluasi terhadap satu atau beberapa metode asesmen berdasarkan kesesuaian dengan karakteristik klien dan permasalahannya",
+    "caseStudy": {
+      "title": "Studi Kasus 6: Evaluasi Efektivitas Metode Asesmen Pembelajaran pada Anak ADHD (Kasus 6)",
+      "scenario": "Psikolog mengevaluasi mengapa metode asesmen tertulis berdurasi panjang gagal memotret kapasitas inteligensi anak dengan ADHD (Attention Deficit Hyperactivity Disorder). Hasil evaluasi menunjukkan bahwa skor rendah anak bukan karena deficit kecerdasan, melainkan karena rentang perhatian yang pendek dan distraktibilitas tinggi terhadap format tes tertulis konvensional.",
+      "contextTags": [
+        "Evaluasi Metode",
+        "ADHD",
+        "Kapasitas Kognitif",
+        "Akurasi Asesmen"
+      ]
+    },
+    "question": "Hasil evaluasi etis dan metodologis psikolog atas ketidaksesuaian metode tes tersebut adalah:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Menyimpulkan anak ADHD pasti memiliki IQ di bawah rata-rata tanpa perlu perbaikan metode."
+      },
+      {
+        "id": "B",
+        "text": "Merekomendasikan penggantian metode asesmen menjadi tes kognitif berbasis manipulatif individual dengan jeda istirahat terstruktur agar sesuai dengan karakteristik ADHD."
+      },
+      {
+        "id": "C",
+        "text": "Melarang anak ADHD untuk pernah mengikuti asesmen psikologi lagi."
+      },
+      {
+        "id": "D",
+        "text": "Menambah durasi ujian tertulis menjadi 6 jam tanpa istirahat."
+      }
+    ],
+    "key": "B",
+    "explanation": "Melakukan evaluasi metode asesmen berarti mengidentifikasi bila suatu instrumen bias/tidak akurat akibat hambatan karakteristik klien (seperti ADHD), dan merekomendasikan adaptasi metode yang valid dan adil."
+  },
+  {
+    "id": "D6_I1.6_Q7",
+    "domainId": 6,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Menentukan metode asesmen)",
+    "indicatorId": "1.6",
+    "indicatorFullId": "D6-1.6",
+    "indicatorTitle": "Melakukan evaluasi terhadap satu atau beberapa metode asesmen berdasarkan kesesuaian dengan karakteristik klien dan permasalahannya",
+    "caseStudy": {
+      "title": "Studi Kasus 7: Evaluasi Efektivitas Metode Asesmen Pembelajaran pada Anak ADHD (Kasus 7)",
+      "scenario": "Psikolog mengevaluasi mengapa metode asesmen tertulis berdurasi panjang gagal memotret kapasitas inteligensi anak dengan ADHD (Attention Deficit Hyperactivity Disorder). Hasil evaluasi menunjukkan bahwa skor rendah anak bukan karena deficit kecerdasan, melainkan karena rentang perhatian yang pendek dan distraktibilitas tinggi terhadap format tes tertulis konvensional.",
+      "contextTags": [
+        "Evaluasi Metode",
+        "ADHD",
+        "Kapasitas Kognitif",
+        "Akurasi Asesmen"
+      ]
+    },
+    "question": "Hasil evaluasi etis dan metodologis psikolog atas ketidaksesuaian metode tes tersebut adalah:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Menyimpulkan anak ADHD pasti memiliki IQ di bawah rata-rata tanpa perlu perbaikan metode."
+      },
+      {
+        "id": "B",
+        "text": "Merekomendasikan penggantian metode asesmen menjadi tes kognitif berbasis manipulatif individual dengan jeda istirahat terstruktur agar sesuai dengan karakteristik ADHD."
+      },
+      {
+        "id": "C",
+        "text": "Melarang anak ADHD untuk pernah mengikuti asesmen psikologi lagi."
+      },
+      {
+        "id": "D",
+        "text": "Menambah durasi ujian tertulis menjadi 6 jam tanpa istirahat."
+      }
+    ],
+    "key": "B",
+    "explanation": "Melakukan evaluasi metode asesmen berarti mengidentifikasi bila suatu instrumen bias/tidak akurat akibat hambatan karakteristik klien (seperti ADHD), dan merekomendasikan adaptasi metode yang valid dan adil."
+  },
+  {
+    "id": "D6_I1.6_Q8",
+    "domainId": 6,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Menentukan metode asesmen)",
+    "indicatorId": "1.6",
+    "indicatorFullId": "D6-1.6",
+    "indicatorTitle": "Melakukan evaluasi terhadap satu atau beberapa metode asesmen berdasarkan kesesuaian dengan karakteristik klien dan permasalahannya",
+    "caseStudy": {
+      "title": "Studi Kasus 8: Evaluasi Efektivitas Metode Asesmen Pembelajaran pada Anak ADHD (Kasus 8)",
+      "scenario": "Psikolog mengevaluasi mengapa metode asesmen tertulis berdurasi panjang gagal memotret kapasitas inteligensi anak dengan ADHD (Attention Deficit Hyperactivity Disorder). Hasil evaluasi menunjukkan bahwa skor rendah anak bukan karena deficit kecerdasan, melainkan karena rentang perhatian yang pendek dan distraktibilitas tinggi terhadap format tes tertulis konvensional.",
+      "contextTags": [
+        "Evaluasi Metode",
+        "ADHD",
+        "Kapasitas Kognitif",
+        "Akurasi Asesmen"
+      ]
+    },
+    "question": "Hasil evaluasi etis dan metodologis psikolog atas ketidaksesuaian metode tes tersebut adalah:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Menyimpulkan anak ADHD pasti memiliki IQ di bawah rata-rata tanpa perlu perbaikan metode."
+      },
+      {
+        "id": "B",
+        "text": "Merekomendasikan penggantian metode asesmen menjadi tes kognitif berbasis manipulatif individual dengan jeda istirahat terstruktur agar sesuai dengan karakteristik ADHD."
+      },
+      {
+        "id": "C",
+        "text": "Melarang anak ADHD untuk pernah mengikuti asesmen psikologi lagi."
+      },
+      {
+        "id": "D",
+        "text": "Menambah durasi ujian tertulis menjadi 6 jam tanpa istirahat."
+      }
+    ],
+    "key": "B",
+    "explanation": "Melakukan evaluasi metode asesmen berarti mengidentifikasi bila suatu instrumen bias/tidak akurat akibat hambatan karakteristik klien (seperti ADHD), dan merekomendasikan adaptasi metode yang valid dan adil."
+  },
+  {
+    "id": "D6_I1.6_Q9",
+    "domainId": 6,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Menentukan metode asesmen)",
+    "indicatorId": "1.6",
+    "indicatorFullId": "D6-1.6",
+    "indicatorTitle": "Melakukan evaluasi terhadap satu atau beberapa metode asesmen berdasarkan kesesuaian dengan karakteristik klien dan permasalahannya",
+    "caseStudy": {
+      "title": "Studi Kasus 9: Evaluasi Efektivitas Metode Asesmen Pembelajaran pada Anak ADHD (Kasus 9)",
+      "scenario": "Psikolog mengevaluasi mengapa metode asesmen tertulis berdurasi panjang gagal memotret kapasitas inteligensi anak dengan ADHD (Attention Deficit Hyperactivity Disorder). Hasil evaluasi menunjukkan bahwa skor rendah anak bukan karena deficit kecerdasan, melainkan karena rentang perhatian yang pendek dan distraktibilitas tinggi terhadap format tes tertulis konvensional.",
+      "contextTags": [
+        "Evaluasi Metode",
+        "ADHD",
+        "Kapasitas Kognitif",
+        "Akurasi Asesmen"
+      ]
+    },
+    "question": "Hasil evaluasi etis dan metodologis psikolog atas ketidaksesuaian metode tes tersebut adalah:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Menyimpulkan anak ADHD pasti memiliki IQ di bawah rata-rata tanpa perlu perbaikan metode."
+      },
+      {
+        "id": "B",
+        "text": "Merekomendasikan penggantian metode asesmen menjadi tes kognitif berbasis manipulatif individual dengan jeda istirahat terstruktur agar sesuai dengan karakteristik ADHD."
+      },
+      {
+        "id": "C",
+        "text": "Melarang anak ADHD untuk pernah mengikuti asesmen psikologi lagi."
+      },
+      {
+        "id": "D",
+        "text": "Menambah durasi ujian tertulis menjadi 6 jam tanpa istirahat."
+      }
+    ],
+    "key": "B",
+    "explanation": "Melakukan evaluasi metode asesmen berarti mengidentifikasi bila suatu instrumen bias/tidak akurat akibat hambatan karakteristik klien (seperti ADHD), dan merekomendasikan adaptasi metode yang valid dan adil."
+  },
+  {
+    "id": "D6_I1.6_Q10",
+    "domainId": 6,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Menentukan metode asesmen)",
+    "indicatorId": "1.6",
+    "indicatorFullId": "D6-1.6",
+    "indicatorTitle": "Melakukan evaluasi terhadap satu atau beberapa metode asesmen berdasarkan kesesuaian dengan karakteristik klien dan permasalahannya",
+    "caseStudy": {
+      "title": "Studi Kasus 10: Evaluasi Efektivitas Metode Asesmen Pembelajaran pada Anak ADHD (Kasus 10)",
+      "scenario": "Psikolog mengevaluasi mengapa metode asesmen tertulis berdurasi panjang gagal memotret kapasitas inteligensi anak dengan ADHD (Attention Deficit Hyperactivity Disorder). Hasil evaluasi menunjukkan bahwa skor rendah anak bukan karena deficit kecerdasan, melainkan karena rentang perhatian yang pendek dan distraktibilitas tinggi terhadap format tes tertulis konvensional.",
+      "contextTags": [
+        "Evaluasi Metode",
+        "ADHD",
+        "Kapasitas Kognitif",
+        "Akurasi Asesmen"
+      ]
+    },
+    "question": "Hasil evaluasi etis dan metodologis psikolog atas ketidaksesuaian metode tes tersebut adalah:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Menyimpulkan anak ADHD pasti memiliki IQ di bawah rata-rata tanpa perlu perbaikan metode."
+      },
+      {
+        "id": "B",
+        "text": "Merekomendasikan penggantian metode asesmen menjadi tes kognitif berbasis manipulatif individual dengan jeda istirahat terstruktur agar sesuai dengan karakteristik ADHD."
+      },
+      {
+        "id": "C",
+        "text": "Melarang anak ADHD untuk pernah mengikuti asesmen psikologi lagi."
+      },
+      {
+        "id": "D",
+        "text": "Menambah durasi ujian tertulis menjadi 6 jam tanpa istirahat."
+      }
+    ],
+    "key": "B",
+    "explanation": "Melakukan evaluasi metode asesmen berarti mengidentifikasi bila suatu instrumen bias/tidak akurat akibat hambatan karakteristik klien (seperti ADHD), dan merekomendasikan adaptasi metode yang valid dan adil."
+  },
+  {
+    "id": "D6_I1.7_Q1",
+    "domainId": 6,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Menentukan metode asesmen)",
+    "indicatorId": "1.7",
+    "indicatorFullId": "D6-1.7",
+    "indicatorTitle": "Melakukan evaluasi terhadap satu atau beberapa metode asesmen berdasarkan pertimbangan konteks atau latar layanan",
+    "caseStudy": {
+      "title": "Studi Kasus 1: Evaluasi Metode Asesmen Online dalam Latar Lembaga Pemasyarakatan (Lapas) (Kasus 1)",
+      "scenario": "Psikolog mengevaluasi penerapan metode asesmen kepribadian berbasis tes online (web-based) pada warga binaan di Lembaga Pemasyarakatan (Lapas) Kelas I. Evaluasi menunjukkan kendala teknis: ketiadaan sinyal internet yang stabil dan tingkat literasi komputer warga binaan yang sangat rendah, sehingga hasil data tes banyak tidak valid.",
+      "contextTags": [
+        "Evaluasi Konteks",
+        "Lapas",
+        "Asesmen Daring",
+        "Validitas Data"
+      ]
+    },
+    "question": "Langkah evaluasi dan tindakan penyesuaian apakah yang HARUS diambil oleh Psikolog?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Memaksa warga binaan tetap menggunakan tes online meskipun data hasil tes acak-acakan dan tidak valid."
+      },
+      {
+        "id": "B",
+        "text": "Evaluasi menunjukkan metode tes online tidak sesuai dengan konteks latar Lapas, sehingga harus diganti dengan metode asesmen kertas-pensil / wawancara langsung yang terstandardisasi."
+      },
+      {
+        "id": "C",
+        "text": "Menghapus seluruh program asesmen di Lapas dan membiarkan warga binaan tanpa evaluasi."
+      },
+      {
+        "id": "D",
+        "text": "Melaporkan pihak Lapas ke polisi atas kegagalan penyediaan internet 5G."
+      }
+    ],
+    "key": "B",
+    "explanation": "Evaluasi metode berdasarkan konteks layanan menilai kesesuaian infrastruktur dan karakteristik responden di latar tersebut (seperti Lapas). Bila tidak kondusif, psikolog harus beralih ke metode konvensional yang teruji validitasnya."
+  },
+  {
+    "id": "D6_I1.7_Q2",
+    "domainId": 6,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Menentukan metode asesmen)",
+    "indicatorId": "1.7",
+    "indicatorFullId": "D6-1.7",
+    "indicatorTitle": "Melakukan evaluasi terhadap satu atau beberapa metode asesmen berdasarkan pertimbangan konteks atau latar layanan",
+    "caseStudy": {
+      "title": "Studi Kasus 2: Evaluasi Metode Asesmen Online dalam Latar Lembaga Pemasyarakatan (Lapas) (Kasus 2)",
+      "scenario": "Psikolog mengevaluasi penerapan metode asesmen kepribadian berbasis tes online (web-based) pada warga binaan di Lembaga Pemasyarakatan (Lapas) Kelas I. Evaluasi menunjukkan kendala teknis: ketiadaan sinyal internet yang stabil dan tingkat literasi komputer warga binaan yang sangat rendah, sehingga hasil data tes banyak tidak valid.",
+      "contextTags": [
+        "Evaluasi Konteks",
+        "Lapas",
+        "Asesmen Daring",
+        "Validitas Data"
+      ]
+    },
+    "question": "Langkah evaluasi dan tindakan penyesuaian apakah yang HARUS diambil oleh Psikolog?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Memaksa warga binaan tetap menggunakan tes online meskipun data hasil tes acak-acakan dan tidak valid."
+      },
+      {
+        "id": "B",
+        "text": "Evaluasi menunjukkan metode tes online tidak sesuai dengan konteks latar Lapas, sehingga harus diganti dengan metode asesmen kertas-pensil / wawancara langsung yang terstandardisasi."
+      },
+      {
+        "id": "C",
+        "text": "Menghapus seluruh program asesmen di Lapas dan membiarkan warga binaan tanpa evaluasi."
+      },
+      {
+        "id": "D",
+        "text": "Melaporkan pihak Lapas ke polisi atas kegagalan penyediaan internet 5G."
+      }
+    ],
+    "key": "B",
+    "explanation": "Evaluasi metode berdasarkan konteks layanan menilai kesesuaian infrastruktur dan karakteristik responden di latar tersebut (seperti Lapas). Bila tidak kondusif, psikolog harus beralih ke metode konvensional yang teruji validitasnya."
+  },
+  {
+    "id": "D6_I1.7_Q3",
+    "domainId": 6,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Menentukan metode asesmen)",
+    "indicatorId": "1.7",
+    "indicatorFullId": "D6-1.7",
+    "indicatorTitle": "Melakukan evaluasi terhadap satu atau beberapa metode asesmen berdasarkan pertimbangan konteks atau latar layanan",
+    "caseStudy": {
+      "title": "Studi Kasus 3: Evaluasi Metode Asesmen Online dalam Latar Lembaga Pemasyarakatan (Lapas) (Kasus 3)",
+      "scenario": "Psikolog mengevaluasi penerapan metode asesmen kepribadian berbasis tes online (web-based) pada warga binaan di Lembaga Pemasyarakatan (Lapas) Kelas I. Evaluasi menunjukkan kendala teknis: ketiadaan sinyal internet yang stabil dan tingkat literasi komputer warga binaan yang sangat rendah, sehingga hasil data tes banyak tidak valid.",
+      "contextTags": [
+        "Evaluasi Konteks",
+        "Lapas",
+        "Asesmen Daring",
+        "Validitas Data"
+      ]
+    },
+    "question": "Langkah evaluasi dan tindakan penyesuaian apakah yang HARUS diambil oleh Psikolog?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Memaksa warga binaan tetap menggunakan tes online meskipun data hasil tes acak-acakan dan tidak valid."
+      },
+      {
+        "id": "B",
+        "text": "Evaluasi menunjukkan metode tes online tidak sesuai dengan konteks latar Lapas, sehingga harus diganti dengan metode asesmen kertas-pensil / wawancara langsung yang terstandardisasi."
+      },
+      {
+        "id": "C",
+        "text": "Menghapus seluruh program asesmen di Lapas dan membiarkan warga binaan tanpa evaluasi."
+      },
+      {
+        "id": "D",
+        "text": "Melaporkan pihak Lapas ke polisi atas kegagalan penyediaan internet 5G."
+      }
+    ],
+    "key": "B",
+    "explanation": "Evaluasi metode berdasarkan konteks layanan menilai kesesuaian infrastruktur dan karakteristik responden di latar tersebut (seperti Lapas). Bila tidak kondusif, psikolog harus beralih ke metode konvensional yang teruji validitasnya."
+  },
+  {
+    "id": "D6_I1.7_Q4",
+    "domainId": 6,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Menentukan metode asesmen)",
+    "indicatorId": "1.7",
+    "indicatorFullId": "D6-1.7",
+    "indicatorTitle": "Melakukan evaluasi terhadap satu atau beberapa metode asesmen berdasarkan pertimbangan konteks atau latar layanan",
+    "caseStudy": {
+      "title": "Studi Kasus 4: Evaluasi Metode Asesmen Online dalam Latar Lembaga Pemasyarakatan (Lapas) (Kasus 4)",
+      "scenario": "Psikolog mengevaluasi penerapan metode asesmen kepribadian berbasis tes online (web-based) pada warga binaan di Lembaga Pemasyarakatan (Lapas) Kelas I. Evaluasi menunjukkan kendala teknis: ketiadaan sinyal internet yang stabil dan tingkat literasi komputer warga binaan yang sangat rendah, sehingga hasil data tes banyak tidak valid.",
+      "contextTags": [
+        "Evaluasi Konteks",
+        "Lapas",
+        "Asesmen Daring",
+        "Validitas Data"
+      ]
+    },
+    "question": "Langkah evaluasi dan tindakan penyesuaian apakah yang HARUS diambil oleh Psikolog?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Memaksa warga binaan tetap menggunakan tes online meskipun data hasil tes acak-acakan dan tidak valid."
+      },
+      {
+        "id": "B",
+        "text": "Evaluasi menunjukkan metode tes online tidak sesuai dengan konteks latar Lapas, sehingga harus diganti dengan metode asesmen kertas-pensil / wawancara langsung yang terstandardisasi."
+      },
+      {
+        "id": "C",
+        "text": "Menghapus seluruh program asesmen di Lapas dan membiarkan warga binaan tanpa evaluasi."
+      },
+      {
+        "id": "D",
+        "text": "Melaporkan pihak Lapas ke polisi atas kegagalan penyediaan internet 5G."
+      }
+    ],
+    "key": "B",
+    "explanation": "Evaluasi metode berdasarkan konteks layanan menilai kesesuaian infrastruktur dan karakteristik responden di latar tersebut (seperti Lapas). Bila tidak kondusif, psikolog harus beralih ke metode konvensional yang teruji validitasnya."
+  },
+  {
+    "id": "D6_I1.7_Q5",
+    "domainId": 6,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Menentukan metode asesmen)",
+    "indicatorId": "1.7",
+    "indicatorFullId": "D6-1.7",
+    "indicatorTitle": "Melakukan evaluasi terhadap satu atau beberapa metode asesmen berdasarkan pertimbangan konteks atau latar layanan",
+    "caseStudy": {
+      "title": "Studi Kasus 5: Evaluasi Metode Asesmen Online dalam Latar Lembaga Pemasyarakatan (Lapas) (Kasus 5)",
+      "scenario": "Psikolog mengevaluasi penerapan metode asesmen kepribadian berbasis tes online (web-based) pada warga binaan di Lembaga Pemasyarakatan (Lapas) Kelas I. Evaluasi menunjukkan kendala teknis: ketiadaan sinyal internet yang stabil dan tingkat literasi komputer warga binaan yang sangat rendah, sehingga hasil data tes banyak tidak valid.",
+      "contextTags": [
+        "Evaluasi Konteks",
+        "Lapas",
+        "Asesmen Daring",
+        "Validitas Data"
+      ]
+    },
+    "question": "Langkah evaluasi dan tindakan penyesuaian apakah yang HARUS diambil oleh Psikolog?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Memaksa warga binaan tetap menggunakan tes online meskipun data hasil tes acak-acakan dan tidak valid."
+      },
+      {
+        "id": "B",
+        "text": "Evaluasi menunjukkan metode tes online tidak sesuai dengan konteks latar Lapas, sehingga harus diganti dengan metode asesmen kertas-pensil / wawancara langsung yang terstandardisasi."
+      },
+      {
+        "id": "C",
+        "text": "Menghapus seluruh program asesmen di Lapas dan membiarkan warga binaan tanpa evaluasi."
+      },
+      {
+        "id": "D",
+        "text": "Melaporkan pihak Lapas ke polisi atas kegagalan penyediaan internet 5G."
+      }
+    ],
+    "key": "B",
+    "explanation": "Evaluasi metode berdasarkan konteks layanan menilai kesesuaian infrastruktur dan karakteristik responden di latar tersebut (seperti Lapas). Bila tidak kondusif, psikolog harus beralih ke metode konvensional yang teruji validitasnya."
+  },
+  {
+    "id": "D6_I1.7_Q6",
+    "domainId": 6,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Menentukan metode asesmen)",
+    "indicatorId": "1.7",
+    "indicatorFullId": "D6-1.7",
+    "indicatorTitle": "Melakukan evaluasi terhadap satu atau beberapa metode asesmen berdasarkan pertimbangan konteks atau latar layanan",
+    "caseStudy": {
+      "title": "Studi Kasus 6: Evaluasi Metode Asesmen Online dalam Latar Lembaga Pemasyarakatan (Lapas) (Kasus 6)",
+      "scenario": "Psikolog mengevaluasi penerapan metode asesmen kepribadian berbasis tes online (web-based) pada warga binaan di Lembaga Pemasyarakatan (Lapas) Kelas I. Evaluasi menunjukkan kendala teknis: ketiadaan sinyal internet yang stabil dan tingkat literasi komputer warga binaan yang sangat rendah, sehingga hasil data tes banyak tidak valid.",
+      "contextTags": [
+        "Evaluasi Konteks",
+        "Lapas",
+        "Asesmen Daring",
+        "Validitas Data"
+      ]
+    },
+    "question": "Langkah evaluasi dan tindakan penyesuaian apakah yang HARUS diambil oleh Psikolog?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Memaksa warga binaan tetap menggunakan tes online meskipun data hasil tes acak-acakan dan tidak valid."
+      },
+      {
+        "id": "B",
+        "text": "Evaluasi menunjukkan metode tes online tidak sesuai dengan konteks latar Lapas, sehingga harus diganti dengan metode asesmen kertas-pensil / wawancara langsung yang terstandardisasi."
+      },
+      {
+        "id": "C",
+        "text": "Menghapus seluruh program asesmen di Lapas dan membiarkan warga binaan tanpa evaluasi."
+      },
+      {
+        "id": "D",
+        "text": "Melaporkan pihak Lapas ke polisi atas kegagalan penyediaan internet 5G."
+      }
+    ],
+    "key": "B",
+    "explanation": "Evaluasi metode berdasarkan konteks layanan menilai kesesuaian infrastruktur dan karakteristik responden di latar tersebut (seperti Lapas). Bila tidak kondusif, psikolog harus beralih ke metode konvensional yang teruji validitasnya."
+  },
+  {
+    "id": "D6_I1.7_Q7",
+    "domainId": 6,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Menentukan metode asesmen)",
+    "indicatorId": "1.7",
+    "indicatorFullId": "D6-1.7",
+    "indicatorTitle": "Melakukan evaluasi terhadap satu atau beberapa metode asesmen berdasarkan pertimbangan konteks atau latar layanan",
+    "caseStudy": {
+      "title": "Studi Kasus 7: Evaluasi Metode Asesmen Online dalam Latar Lembaga Pemasyarakatan (Lapas) (Kasus 7)",
+      "scenario": "Psikolog mengevaluasi penerapan metode asesmen kepribadian berbasis tes online (web-based) pada warga binaan di Lembaga Pemasyarakatan (Lapas) Kelas I. Evaluasi menunjukkan kendala teknis: ketiadaan sinyal internet yang stabil dan tingkat literasi komputer warga binaan yang sangat rendah, sehingga hasil data tes banyak tidak valid.",
+      "contextTags": [
+        "Evaluasi Konteks",
+        "Lapas",
+        "Asesmen Daring",
+        "Validitas Data"
+      ]
+    },
+    "question": "Langkah evaluasi dan tindakan penyesuaian apakah yang HARUS diambil oleh Psikolog?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Memaksa warga binaan tetap menggunakan tes online meskipun data hasil tes acak-acakan dan tidak valid."
+      },
+      {
+        "id": "B",
+        "text": "Evaluasi menunjukkan metode tes online tidak sesuai dengan konteks latar Lapas, sehingga harus diganti dengan metode asesmen kertas-pensil / wawancara langsung yang terstandardisasi."
+      },
+      {
+        "id": "C",
+        "text": "Menghapus seluruh program asesmen di Lapas dan membiarkan warga binaan tanpa evaluasi."
+      },
+      {
+        "id": "D",
+        "text": "Melaporkan pihak Lapas ke polisi atas kegagalan penyediaan internet 5G."
+      }
+    ],
+    "key": "B",
+    "explanation": "Evaluasi metode berdasarkan konteks layanan menilai kesesuaian infrastruktur dan karakteristik responden di latar tersebut (seperti Lapas). Bila tidak kondusif, psikolog harus beralih ke metode konvensional yang teruji validitasnya."
+  },
+  {
+    "id": "D6_I1.7_Q8",
+    "domainId": 6,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Menentukan metode asesmen)",
+    "indicatorId": "1.7",
+    "indicatorFullId": "D6-1.7",
+    "indicatorTitle": "Melakukan evaluasi terhadap satu atau beberapa metode asesmen berdasarkan pertimbangan konteks atau latar layanan",
+    "caseStudy": {
+      "title": "Studi Kasus 8: Evaluasi Metode Asesmen Online dalam Latar Lembaga Pemasyarakatan (Lapas) (Kasus 8)",
+      "scenario": "Psikolog mengevaluasi penerapan metode asesmen kepribadian berbasis tes online (web-based) pada warga binaan di Lembaga Pemasyarakatan (Lapas) Kelas I. Evaluasi menunjukkan kendala teknis: ketiadaan sinyal internet yang stabil dan tingkat literasi komputer warga binaan yang sangat rendah, sehingga hasil data tes banyak tidak valid.",
+      "contextTags": [
+        "Evaluasi Konteks",
+        "Lapas",
+        "Asesmen Daring",
+        "Validitas Data"
+      ]
+    },
+    "question": "Langkah evaluasi dan tindakan penyesuaian apakah yang HARUS diambil oleh Psikolog?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Memaksa warga binaan tetap menggunakan tes online meskipun data hasil tes acak-acakan dan tidak valid."
+      },
+      {
+        "id": "B",
+        "text": "Evaluasi menunjukkan metode tes online tidak sesuai dengan konteks latar Lapas, sehingga harus diganti dengan metode asesmen kertas-pensil / wawancara langsung yang terstandardisasi."
+      },
+      {
+        "id": "C",
+        "text": "Menghapus seluruh program asesmen di Lapas dan membiarkan warga binaan tanpa evaluasi."
+      },
+      {
+        "id": "D",
+        "text": "Melaporkan pihak Lapas ke polisi atas kegagalan penyediaan internet 5G."
+      }
+    ],
+    "key": "B",
+    "explanation": "Evaluasi metode berdasarkan konteks layanan menilai kesesuaian infrastruktur dan karakteristik responden di latar tersebut (seperti Lapas). Bila tidak kondusif, psikolog harus beralih ke metode konvensional yang teruji validitasnya."
+  },
+  {
+    "id": "D6_I1.7_Q9",
+    "domainId": 6,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Menentukan metode asesmen)",
+    "indicatorId": "1.7",
+    "indicatorFullId": "D6-1.7",
+    "indicatorTitle": "Melakukan evaluasi terhadap satu atau beberapa metode asesmen berdasarkan pertimbangan konteks atau latar layanan",
+    "caseStudy": {
+      "title": "Studi Kasus 9: Evaluasi Metode Asesmen Online dalam Latar Lembaga Pemasyarakatan (Lapas) (Kasus 9)",
+      "scenario": "Psikolog mengevaluasi penerapan metode asesmen kepribadian berbasis tes online (web-based) pada warga binaan di Lembaga Pemasyarakatan (Lapas) Kelas I. Evaluasi menunjukkan kendala teknis: ketiadaan sinyal internet yang stabil dan tingkat literasi komputer warga binaan yang sangat rendah, sehingga hasil data tes banyak tidak valid.",
+      "contextTags": [
+        "Evaluasi Konteks",
+        "Lapas",
+        "Asesmen Daring",
+        "Validitas Data"
+      ]
+    },
+    "question": "Langkah evaluasi dan tindakan penyesuaian apakah yang HARUS diambil oleh Psikolog?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Memaksa warga binaan tetap menggunakan tes online meskipun data hasil tes acak-acakan dan tidak valid."
+      },
+      {
+        "id": "B",
+        "text": "Evaluasi menunjukkan metode tes online tidak sesuai dengan konteks latar Lapas, sehingga harus diganti dengan metode asesmen kertas-pensil / wawancara langsung yang terstandardisasi."
+      },
+      {
+        "id": "C",
+        "text": "Menghapus seluruh program asesmen di Lapas dan membiarkan warga binaan tanpa evaluasi."
+      },
+      {
+        "id": "D",
+        "text": "Melaporkan pihak Lapas ke polisi atas kegagalan penyediaan internet 5G."
+      }
+    ],
+    "key": "B",
+    "explanation": "Evaluasi metode berdasarkan konteks layanan menilai kesesuaian infrastruktur dan karakteristik responden di latar tersebut (seperti Lapas). Bila tidak kondusif, psikolog harus beralih ke metode konvensional yang teruji validitasnya."
+  },
+  {
+    "id": "D6_I1.7_Q10",
+    "domainId": 6,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Menentukan metode asesmen)",
+    "indicatorId": "1.7",
+    "indicatorFullId": "D6-1.7",
+    "indicatorTitle": "Melakukan evaluasi terhadap satu atau beberapa metode asesmen berdasarkan pertimbangan konteks atau latar layanan",
+    "caseStudy": {
+      "title": "Studi Kasus 10: Evaluasi Metode Asesmen Online dalam Latar Lembaga Pemasyarakatan (Lapas) (Kasus 10)",
+      "scenario": "Psikolog mengevaluasi penerapan metode asesmen kepribadian berbasis tes online (web-based) pada warga binaan di Lembaga Pemasyarakatan (Lapas) Kelas I. Evaluasi menunjukkan kendala teknis: ketiadaan sinyal internet yang stabil dan tingkat literasi komputer warga binaan yang sangat rendah, sehingga hasil data tes banyak tidak valid.",
+      "contextTags": [
+        "Evaluasi Konteks",
+        "Lapas",
+        "Asesmen Daring",
+        "Validitas Data"
+      ]
+    },
+    "question": "Langkah evaluasi dan tindakan penyesuaian apakah yang HARUS diambil oleh Psikolog?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Memaksa warga binaan tetap menggunakan tes online meskipun data hasil tes acak-acakan dan tidak valid."
+      },
+      {
+        "id": "B",
+        "text": "Evaluasi menunjukkan metode tes online tidak sesuai dengan konteks latar Lapas, sehingga harus diganti dengan metode asesmen kertas-pensil / wawancara langsung yang terstandardisasi."
+      },
+      {
+        "id": "C",
+        "text": "Menghapus seluruh program asesmen di Lapas dan membiarkan warga binaan tanpa evaluasi."
+      },
+      {
+        "id": "D",
+        "text": "Melaporkan pihak Lapas ke polisi atas kegagalan penyediaan internet 5G."
+      }
+    ],
+    "key": "B",
+    "explanation": "Evaluasi metode berdasarkan konteks layanan menilai kesesuaian infrastruktur dan karakteristik responden di latar tersebut (seperti Lapas). Bila tidak kondusif, psikolog harus beralih ke metode konvensional yang teruji validitasnya."
+  }
+]

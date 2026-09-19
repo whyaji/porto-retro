@@ -1,0 +1,1602 @@
+[
+  {
+    "id": "D13_I1.1_Q1",
+    "domainId": 13,
+    "domainTitle": "Keterampilan Kerja Khusus - Etika Psikologi dan Hukum (Pengetahuan hukum)",
+    "indicatorId": "1.1",
+    "indicatorFullId": "D13-1.1",
+    "indicatorTitle": "Menunjukkan peraturan perundangan yang relevan dengan layanan psikologis yang dilakukan sesuai dengan permasalahan dan latar layanan",
+    "caseStudy": {
+      "title": "Studi Kasus 1: Pengetahuan dan Penerapan Peraturan Perundang-Undangan dalam Layanan Psikologi (Menunjukkan peraturan perundangan yang relevan dengan layanan psikologis yang dilakukan sesuai dengan permasalahan dan latar layanan) (Kasus 1)",
+      "scenario": "Psikolog menghadapi kasus penanganan yang beririsan dengan payung hukum Republik Indonesia (Kasus 1 Indikator 1.1): UU No 23 Tahun 2022 tentang Pendidikan dan Layanan Psikologi (UU PLP), UU Kesehatan No 17 Tahun 2023, UU Perlindungan Anak No 35 Tahun 2014, UU TPKS (Tindak Pidana Kekerasan Seksual) No 12 Tahun 2022, atau UU Sistem Peradilan Pidana Anak (SPPA) No 11 Tahun 2012. Psikolog mengidentifikasi landasan hukum yang berlaku.",
+      "contextTags": [
+        "Pengetahuan Hukum",
+        "UU PLP No 23/2022",
+        "UU TPKS",
+        "UU SPPA",
+        "Menunjukkan peraturan perundangan yang relevan dengan layanan psikologis yang dilakukan sesuai dengan permasalahan dan latar layanan"
+      ]
+    },
+    "question": "Peraturan perundang-undangan manakah yang PALING relevan dan menjadi rujukan hukum utama bagi Psikolog dalam konteks kasus tersebut?",
+    "options": [
+      {
+        "id": "A",
+        "text": "UU Hukum Dagang dan Kepabeanan Impor Barang Swasta."
+      },
+      {
+        "id": "B",
+        "text": "Peraturan Perundang-Undangan yang spesifik dan relevan (seperti UU PLP No 23/2022 untuk praktik profesi, UU SPPA No 11/2012 untuk penanganan anak ABH, atau UU TPKS No 12/2022 untuk perlindungan korban kekerasan seksual)."
+      },
+      {
+        "id": "C",
+        "text": "UU Lalu Lintas dan Angkutan Jalan Raya."
+      },
+      {
+        "id": "D",
+        "text": "Peraturan Daerah mengenai Izin Mendirikan Bangunan (IMB)."
+      }
+    ],
+    "key": "B",
+    "explanation": "Praktik profesional psikolog di Indonesia dilindungi dan diatur oleh payung hukum positif: UU PLP No 23/2022 untuk kewenangan praktik, UU SPPA No 11/2012 untuk pendampingan ABH, UU TPKS No 12/2022 untuk hak pemulihan trauma psikologis korban kekerasan seksual, dan UU Kesehatan No 17/2023."
+  },
+  {
+    "id": "D13_I1.1_Q2",
+    "domainId": 13,
+    "domainTitle": "Keterampilan Kerja Khusus - Etika Psikologi dan Hukum (Pengetahuan hukum)",
+    "indicatorId": "1.1",
+    "indicatorFullId": "D13-1.1",
+    "indicatorTitle": "Menunjukkan peraturan perundangan yang relevan dengan layanan psikologis yang dilakukan sesuai dengan permasalahan dan latar layanan",
+    "caseStudy": {
+      "title": "Studi Kasus 2: Pengetahuan dan Penerapan Peraturan Perundang-Undangan dalam Layanan Psikologi (Menunjukkan peraturan perundangan yang relevan dengan layanan psikologis yang dilakukan sesuai dengan permasalahan dan latar layanan) (Kasus 2)",
+      "scenario": "Psikolog menghadapi kasus penanganan yang beririsan dengan payung hukum Republik Indonesia (Kasus 2 Indikator 1.1): UU No 23 Tahun 2022 tentang Pendidikan dan Layanan Psikologi (UU PLP), UU Kesehatan No 17 Tahun 2023, UU Perlindungan Anak No 35 Tahun 2014, UU TPKS (Tindak Pidana Kekerasan Seksual) No 12 Tahun 2022, atau UU Sistem Peradilan Pidana Anak (SPPA) No 11 Tahun 2012. Psikolog mengidentifikasi landasan hukum yang berlaku.",
+      "contextTags": [
+        "Pengetahuan Hukum",
+        "UU PLP No 23/2022",
+        "UU TPKS",
+        "UU SPPA",
+        "Menunjukkan peraturan perundangan yang relevan dengan layanan psikologis yang dilakukan sesuai dengan permasalahan dan latar layanan"
+      ]
+    },
+    "question": "Peraturan perundang-undangan manakah yang PALING relevan dan menjadi rujukan hukum utama bagi Psikolog dalam konteks kasus tersebut?",
+    "options": [
+      {
+        "id": "A",
+        "text": "UU Hukum Dagang dan Kepabeanan Impor Barang Swasta."
+      },
+      {
+        "id": "B",
+        "text": "Peraturan Perundang-Undangan yang spesifik dan relevan (seperti UU PLP No 23/2022 untuk praktik profesi, UU SPPA No 11/2012 untuk penanganan anak ABH, atau UU TPKS No 12/2022 untuk perlindungan korban kekerasan seksual)."
+      },
+      {
+        "id": "C",
+        "text": "UU Lalu Lintas dan Angkutan Jalan Raya."
+      },
+      {
+        "id": "D",
+        "text": "Peraturan Daerah mengenai Izin Mendirikan Bangunan (IMB)."
+      }
+    ],
+    "key": "B",
+    "explanation": "Praktik profesional psikolog di Indonesia dilindungi dan diatur oleh payung hukum positif: UU PLP No 23/2022 untuk kewenangan praktik, UU SPPA No 11/2012 untuk pendampingan ABH, UU TPKS No 12/2022 untuk hak pemulihan trauma psikologis korban kekerasan seksual, dan UU Kesehatan No 17/2023."
+  },
+  {
+    "id": "D13_I1.1_Q3",
+    "domainId": 13,
+    "domainTitle": "Keterampilan Kerja Khusus - Etika Psikologi dan Hukum (Pengetahuan hukum)",
+    "indicatorId": "1.1",
+    "indicatorFullId": "D13-1.1",
+    "indicatorTitle": "Menunjukkan peraturan perundangan yang relevan dengan layanan psikologis yang dilakukan sesuai dengan permasalahan dan latar layanan",
+    "caseStudy": {
+      "title": "Studi Kasus 3: Pengetahuan dan Penerapan Peraturan Perundang-Undangan dalam Layanan Psikologi (Menunjukkan peraturan perundangan yang relevan dengan layanan psikologis yang dilakukan sesuai dengan permasalahan dan latar layanan) (Kasus 3)",
+      "scenario": "Psikolog menghadapi kasus penanganan yang beririsan dengan payung hukum Republik Indonesia (Kasus 3 Indikator 1.1): UU No 23 Tahun 2022 tentang Pendidikan dan Layanan Psikologi (UU PLP), UU Kesehatan No 17 Tahun 2023, UU Perlindungan Anak No 35 Tahun 2014, UU TPKS (Tindak Pidana Kekerasan Seksual) No 12 Tahun 2022, atau UU Sistem Peradilan Pidana Anak (SPPA) No 11 Tahun 2012. Psikolog mengidentifikasi landasan hukum yang berlaku.",
+      "contextTags": [
+        "Pengetahuan Hukum",
+        "UU PLP No 23/2022",
+        "UU TPKS",
+        "UU SPPA",
+        "Menunjukkan peraturan perundangan yang relevan dengan layanan psikologis yang dilakukan sesuai dengan permasalahan dan latar layanan"
+      ]
+    },
+    "question": "Peraturan perundang-undangan manakah yang PALING relevan dan menjadi rujukan hukum utama bagi Psikolog dalam konteks kasus tersebut?",
+    "options": [
+      {
+        "id": "A",
+        "text": "UU Hukum Dagang dan Kepabeanan Impor Barang Swasta."
+      },
+      {
+        "id": "B",
+        "text": "Peraturan Perundang-Undangan yang spesifik dan relevan (seperti UU PLP No 23/2022 untuk praktik profesi, UU SPPA No 11/2012 untuk penanganan anak ABH, atau UU TPKS No 12/2022 untuk perlindungan korban kekerasan seksual)."
+      },
+      {
+        "id": "C",
+        "text": "UU Lalu Lintas dan Angkutan Jalan Raya."
+      },
+      {
+        "id": "D",
+        "text": "Peraturan Daerah mengenai Izin Mendirikan Bangunan (IMB)."
+      }
+    ],
+    "key": "B",
+    "explanation": "Praktik profesional psikolog di Indonesia dilindungi dan diatur oleh payung hukum positif: UU PLP No 23/2022 untuk kewenangan praktik, UU SPPA No 11/2012 untuk pendampingan ABH, UU TPKS No 12/2022 untuk hak pemulihan trauma psikologis korban kekerasan seksual, dan UU Kesehatan No 17/2023."
+  },
+  {
+    "id": "D13_I1.1_Q4",
+    "domainId": 13,
+    "domainTitle": "Keterampilan Kerja Khusus - Etika Psikologi dan Hukum (Pengetahuan hukum)",
+    "indicatorId": "1.1",
+    "indicatorFullId": "D13-1.1",
+    "indicatorTitle": "Menunjukkan peraturan perundangan yang relevan dengan layanan psikologis yang dilakukan sesuai dengan permasalahan dan latar layanan",
+    "caseStudy": {
+      "title": "Studi Kasus 4: Pengetahuan dan Penerapan Peraturan Perundang-Undangan dalam Layanan Psikologi (Menunjukkan peraturan perundangan yang relevan dengan layanan psikologis yang dilakukan sesuai dengan permasalahan dan latar layanan) (Kasus 4)",
+      "scenario": "Psikolog menghadapi kasus penanganan yang beririsan dengan payung hukum Republik Indonesia (Kasus 4 Indikator 1.1): UU No 23 Tahun 2022 tentang Pendidikan dan Layanan Psikologi (UU PLP), UU Kesehatan No 17 Tahun 2023, UU Perlindungan Anak No 35 Tahun 2014, UU TPKS (Tindak Pidana Kekerasan Seksual) No 12 Tahun 2022, atau UU Sistem Peradilan Pidana Anak (SPPA) No 11 Tahun 2012. Psikolog mengidentifikasi landasan hukum yang berlaku.",
+      "contextTags": [
+        "Pengetahuan Hukum",
+        "UU PLP No 23/2022",
+        "UU TPKS",
+        "UU SPPA",
+        "Menunjukkan peraturan perundangan yang relevan dengan layanan psikologis yang dilakukan sesuai dengan permasalahan dan latar layanan"
+      ]
+    },
+    "question": "Peraturan perundang-undangan manakah yang PALING relevan dan menjadi rujukan hukum utama bagi Psikolog dalam konteks kasus tersebut?",
+    "options": [
+      {
+        "id": "A",
+        "text": "UU Hukum Dagang dan Kepabeanan Impor Barang Swasta."
+      },
+      {
+        "id": "B",
+        "text": "Peraturan Perundang-Undangan yang spesifik dan relevan (seperti UU PLP No 23/2022 untuk praktik profesi, UU SPPA No 11/2012 untuk penanganan anak ABH, atau UU TPKS No 12/2022 untuk perlindungan korban kekerasan seksual)."
+      },
+      {
+        "id": "C",
+        "text": "UU Lalu Lintas dan Angkutan Jalan Raya."
+      },
+      {
+        "id": "D",
+        "text": "Peraturan Daerah mengenai Izin Mendirikan Bangunan (IMB)."
+      }
+    ],
+    "key": "B",
+    "explanation": "Praktik profesional psikolog di Indonesia dilindungi dan diatur oleh payung hukum positif: UU PLP No 23/2022 untuk kewenangan praktik, UU SPPA No 11/2012 untuk pendampingan ABH, UU TPKS No 12/2022 untuk hak pemulihan trauma psikologis korban kekerasan seksual, dan UU Kesehatan No 17/2023."
+  },
+  {
+    "id": "D13_I1.1_Q5",
+    "domainId": 13,
+    "domainTitle": "Keterampilan Kerja Khusus - Etika Psikologi dan Hukum (Pengetahuan hukum)",
+    "indicatorId": "1.1",
+    "indicatorFullId": "D13-1.1",
+    "indicatorTitle": "Menunjukkan peraturan perundangan yang relevan dengan layanan psikologis yang dilakukan sesuai dengan permasalahan dan latar layanan",
+    "caseStudy": {
+      "title": "Studi Kasus 5: Pengetahuan dan Penerapan Peraturan Perundang-Undangan dalam Layanan Psikologi (Menunjukkan peraturan perundangan yang relevan dengan layanan psikologis yang dilakukan sesuai dengan permasalahan dan latar layanan) (Kasus 5)",
+      "scenario": "Psikolog menghadapi kasus penanganan yang beririsan dengan payung hukum Republik Indonesia (Kasus 5 Indikator 1.1): UU No 23 Tahun 2022 tentang Pendidikan dan Layanan Psikologi (UU PLP), UU Kesehatan No 17 Tahun 2023, UU Perlindungan Anak No 35 Tahun 2014, UU TPKS (Tindak Pidana Kekerasan Seksual) No 12 Tahun 2022, atau UU Sistem Peradilan Pidana Anak (SPPA) No 11 Tahun 2012. Psikolog mengidentifikasi landasan hukum yang berlaku.",
+      "contextTags": [
+        "Pengetahuan Hukum",
+        "UU PLP No 23/2022",
+        "UU TPKS",
+        "UU SPPA",
+        "Menunjukkan peraturan perundangan yang relevan dengan layanan psikologis yang dilakukan sesuai dengan permasalahan dan latar layanan"
+      ]
+    },
+    "question": "Peraturan perundang-undangan manakah yang PALING relevan dan menjadi rujukan hukum utama bagi Psikolog dalam konteks kasus tersebut?",
+    "options": [
+      {
+        "id": "A",
+        "text": "UU Hukum Dagang dan Kepabeanan Impor Barang Swasta."
+      },
+      {
+        "id": "B",
+        "text": "Peraturan Perundang-Undangan yang spesifik dan relevan (seperti UU PLP No 23/2022 untuk praktik profesi, UU SPPA No 11/2012 untuk penanganan anak ABH, atau UU TPKS No 12/2022 untuk perlindungan korban kekerasan seksual)."
+      },
+      {
+        "id": "C",
+        "text": "UU Lalu Lintas dan Angkutan Jalan Raya."
+      },
+      {
+        "id": "D",
+        "text": "Peraturan Daerah mengenai Izin Mendirikan Bangunan (IMB)."
+      }
+    ],
+    "key": "B",
+    "explanation": "Praktik profesional psikolog di Indonesia dilindungi dan diatur oleh payung hukum positif: UU PLP No 23/2022 untuk kewenangan praktik, UU SPPA No 11/2012 untuk pendampingan ABH, UU TPKS No 12/2022 untuk hak pemulihan trauma psikologis korban kekerasan seksual, dan UU Kesehatan No 17/2023."
+  },
+  {
+    "id": "D13_I1.1_Q6",
+    "domainId": 13,
+    "domainTitle": "Keterampilan Kerja Khusus - Etika Psikologi dan Hukum (Pengetahuan hukum)",
+    "indicatorId": "1.1",
+    "indicatorFullId": "D13-1.1",
+    "indicatorTitle": "Menunjukkan peraturan perundangan yang relevan dengan layanan psikologis yang dilakukan sesuai dengan permasalahan dan latar layanan",
+    "caseStudy": {
+      "title": "Studi Kasus 6: Pengetahuan dan Penerapan Peraturan Perundang-Undangan dalam Layanan Psikologi (Menunjukkan peraturan perundangan yang relevan dengan layanan psikologis yang dilakukan sesuai dengan permasalahan dan latar layanan) (Kasus 6)",
+      "scenario": "Psikolog menghadapi kasus penanganan yang beririsan dengan payung hukum Republik Indonesia (Kasus 6 Indikator 1.1): UU No 23 Tahun 2022 tentang Pendidikan dan Layanan Psikologi (UU PLP), UU Kesehatan No 17 Tahun 2023, UU Perlindungan Anak No 35 Tahun 2014, UU TPKS (Tindak Pidana Kekerasan Seksual) No 12 Tahun 2022, atau UU Sistem Peradilan Pidana Anak (SPPA) No 11 Tahun 2012. Psikolog mengidentifikasi landasan hukum yang berlaku.",
+      "contextTags": [
+        "Pengetahuan Hukum",
+        "UU PLP No 23/2022",
+        "UU TPKS",
+        "UU SPPA",
+        "Menunjukkan peraturan perundangan yang relevan dengan layanan psikologis yang dilakukan sesuai dengan permasalahan dan latar layanan"
+      ]
+    },
+    "question": "Peraturan perundang-undangan manakah yang PALING relevan dan menjadi rujukan hukum utama bagi Psikolog dalam konteks kasus tersebut?",
+    "options": [
+      {
+        "id": "A",
+        "text": "UU Hukum Dagang dan Kepabeanan Impor Barang Swasta."
+      },
+      {
+        "id": "B",
+        "text": "Peraturan Perundang-Undangan yang spesifik dan relevan (seperti UU PLP No 23/2022 untuk praktik profesi, UU SPPA No 11/2012 untuk penanganan anak ABH, atau UU TPKS No 12/2022 untuk perlindungan korban kekerasan seksual)."
+      },
+      {
+        "id": "C",
+        "text": "UU Lalu Lintas dan Angkutan Jalan Raya."
+      },
+      {
+        "id": "D",
+        "text": "Peraturan Daerah mengenai Izin Mendirikan Bangunan (IMB)."
+      }
+    ],
+    "key": "B",
+    "explanation": "Praktik profesional psikolog di Indonesia dilindungi dan diatur oleh payung hukum positif: UU PLP No 23/2022 untuk kewenangan praktik, UU SPPA No 11/2012 untuk pendampingan ABH, UU TPKS No 12/2022 untuk hak pemulihan trauma psikologis korban kekerasan seksual, dan UU Kesehatan No 17/2023."
+  },
+  {
+    "id": "D13_I1.1_Q7",
+    "domainId": 13,
+    "domainTitle": "Keterampilan Kerja Khusus - Etika Psikologi dan Hukum (Pengetahuan hukum)",
+    "indicatorId": "1.1",
+    "indicatorFullId": "D13-1.1",
+    "indicatorTitle": "Menunjukkan peraturan perundangan yang relevan dengan layanan psikologis yang dilakukan sesuai dengan permasalahan dan latar layanan",
+    "caseStudy": {
+      "title": "Studi Kasus 7: Pengetahuan dan Penerapan Peraturan Perundang-Undangan dalam Layanan Psikologi (Menunjukkan peraturan perundangan yang relevan dengan layanan psikologis yang dilakukan sesuai dengan permasalahan dan latar layanan) (Kasus 7)",
+      "scenario": "Psikolog menghadapi kasus penanganan yang beririsan dengan payung hukum Republik Indonesia (Kasus 7 Indikator 1.1): UU No 23 Tahun 2022 tentang Pendidikan dan Layanan Psikologi (UU PLP), UU Kesehatan No 17 Tahun 2023, UU Perlindungan Anak No 35 Tahun 2014, UU TPKS (Tindak Pidana Kekerasan Seksual) No 12 Tahun 2022, atau UU Sistem Peradilan Pidana Anak (SPPA) No 11 Tahun 2012. Psikolog mengidentifikasi landasan hukum yang berlaku.",
+      "contextTags": [
+        "Pengetahuan Hukum",
+        "UU PLP No 23/2022",
+        "UU TPKS",
+        "UU SPPA",
+        "Menunjukkan peraturan perundangan yang relevan dengan layanan psikologis yang dilakukan sesuai dengan permasalahan dan latar layanan"
+      ]
+    },
+    "question": "Peraturan perundang-undangan manakah yang PALING relevan dan menjadi rujukan hukum utama bagi Psikolog dalam konteks kasus tersebut?",
+    "options": [
+      {
+        "id": "A",
+        "text": "UU Hukum Dagang dan Kepabeanan Impor Barang Swasta."
+      },
+      {
+        "id": "B",
+        "text": "Peraturan Perundang-Undangan yang spesifik dan relevan (seperti UU PLP No 23/2022 untuk praktik profesi, UU SPPA No 11/2012 untuk penanganan anak ABH, atau UU TPKS No 12/2022 untuk perlindungan korban kekerasan seksual)."
+      },
+      {
+        "id": "C",
+        "text": "UU Lalu Lintas dan Angkutan Jalan Raya."
+      },
+      {
+        "id": "D",
+        "text": "Peraturan Daerah mengenai Izin Mendirikan Bangunan (IMB)."
+      }
+    ],
+    "key": "B",
+    "explanation": "Praktik profesional psikolog di Indonesia dilindungi dan diatur oleh payung hukum positif: UU PLP No 23/2022 untuk kewenangan praktik, UU SPPA No 11/2012 untuk pendampingan ABH, UU TPKS No 12/2022 untuk hak pemulihan trauma psikologis korban kekerasan seksual, dan UU Kesehatan No 17/2023."
+  },
+  {
+    "id": "D13_I1.1_Q8",
+    "domainId": 13,
+    "domainTitle": "Keterampilan Kerja Khusus - Etika Psikologi dan Hukum (Pengetahuan hukum)",
+    "indicatorId": "1.1",
+    "indicatorFullId": "D13-1.1",
+    "indicatorTitle": "Menunjukkan peraturan perundangan yang relevan dengan layanan psikologis yang dilakukan sesuai dengan permasalahan dan latar layanan",
+    "caseStudy": {
+      "title": "Studi Kasus 8: Pengetahuan dan Penerapan Peraturan Perundang-Undangan dalam Layanan Psikologi (Menunjukkan peraturan perundangan yang relevan dengan layanan psikologis yang dilakukan sesuai dengan permasalahan dan latar layanan) (Kasus 8)",
+      "scenario": "Psikolog menghadapi kasus penanganan yang beririsan dengan payung hukum Republik Indonesia (Kasus 8 Indikator 1.1): UU No 23 Tahun 2022 tentang Pendidikan dan Layanan Psikologi (UU PLP), UU Kesehatan No 17 Tahun 2023, UU Perlindungan Anak No 35 Tahun 2014, UU TPKS (Tindak Pidana Kekerasan Seksual) No 12 Tahun 2022, atau UU Sistem Peradilan Pidana Anak (SPPA) No 11 Tahun 2012. Psikolog mengidentifikasi landasan hukum yang berlaku.",
+      "contextTags": [
+        "Pengetahuan Hukum",
+        "UU PLP No 23/2022",
+        "UU TPKS",
+        "UU SPPA",
+        "Menunjukkan peraturan perundangan yang relevan dengan layanan psikologis yang dilakukan sesuai dengan permasalahan dan latar layanan"
+      ]
+    },
+    "question": "Peraturan perundang-undangan manakah yang PALING relevan dan menjadi rujukan hukum utama bagi Psikolog dalam konteks kasus tersebut?",
+    "options": [
+      {
+        "id": "A",
+        "text": "UU Hukum Dagang dan Kepabeanan Impor Barang Swasta."
+      },
+      {
+        "id": "B",
+        "text": "Peraturan Perundang-Undangan yang spesifik dan relevan (seperti UU PLP No 23/2022 untuk praktik profesi, UU SPPA No 11/2012 untuk penanganan anak ABH, atau UU TPKS No 12/2022 untuk perlindungan korban kekerasan seksual)."
+      },
+      {
+        "id": "C",
+        "text": "UU Lalu Lintas dan Angkutan Jalan Raya."
+      },
+      {
+        "id": "D",
+        "text": "Peraturan Daerah mengenai Izin Mendirikan Bangunan (IMB)."
+      }
+    ],
+    "key": "B",
+    "explanation": "Praktik profesional psikolog di Indonesia dilindungi dan diatur oleh payung hukum positif: UU PLP No 23/2022 untuk kewenangan praktik, UU SPPA No 11/2012 untuk pendampingan ABH, UU TPKS No 12/2022 untuk hak pemulihan trauma psikologis korban kekerasan seksual, dan UU Kesehatan No 17/2023."
+  },
+  {
+    "id": "D13_I1.1_Q9",
+    "domainId": 13,
+    "domainTitle": "Keterampilan Kerja Khusus - Etika Psikologi dan Hukum (Pengetahuan hukum)",
+    "indicatorId": "1.1",
+    "indicatorFullId": "D13-1.1",
+    "indicatorTitle": "Menunjukkan peraturan perundangan yang relevan dengan layanan psikologis yang dilakukan sesuai dengan permasalahan dan latar layanan",
+    "caseStudy": {
+      "title": "Studi Kasus 9: Pengetahuan dan Penerapan Peraturan Perundang-Undangan dalam Layanan Psikologi (Menunjukkan peraturan perundangan yang relevan dengan layanan psikologis yang dilakukan sesuai dengan permasalahan dan latar layanan) (Kasus 9)",
+      "scenario": "Psikolog menghadapi kasus penanganan yang beririsan dengan payung hukum Republik Indonesia (Kasus 9 Indikator 1.1): UU No 23 Tahun 2022 tentang Pendidikan dan Layanan Psikologi (UU PLP), UU Kesehatan No 17 Tahun 2023, UU Perlindungan Anak No 35 Tahun 2014, UU TPKS (Tindak Pidana Kekerasan Seksual) No 12 Tahun 2022, atau UU Sistem Peradilan Pidana Anak (SPPA) No 11 Tahun 2012. Psikolog mengidentifikasi landasan hukum yang berlaku.",
+      "contextTags": [
+        "Pengetahuan Hukum",
+        "UU PLP No 23/2022",
+        "UU TPKS",
+        "UU SPPA",
+        "Menunjukkan peraturan perundangan yang relevan dengan layanan psikologis yang dilakukan sesuai dengan permasalahan dan latar layanan"
+      ]
+    },
+    "question": "Peraturan perundang-undangan manakah yang PALING relevan dan menjadi rujukan hukum utama bagi Psikolog dalam konteks kasus tersebut?",
+    "options": [
+      {
+        "id": "A",
+        "text": "UU Hukum Dagang dan Kepabeanan Impor Barang Swasta."
+      },
+      {
+        "id": "B",
+        "text": "Peraturan Perundang-Undangan yang spesifik dan relevan (seperti UU PLP No 23/2022 untuk praktik profesi, UU SPPA No 11/2012 untuk penanganan anak ABH, atau UU TPKS No 12/2022 untuk perlindungan korban kekerasan seksual)."
+      },
+      {
+        "id": "C",
+        "text": "UU Lalu Lintas dan Angkutan Jalan Raya."
+      },
+      {
+        "id": "D",
+        "text": "Peraturan Daerah mengenai Izin Mendirikan Bangunan (IMB)."
+      }
+    ],
+    "key": "B",
+    "explanation": "Praktik profesional psikolog di Indonesia dilindungi dan diatur oleh payung hukum positif: UU PLP No 23/2022 untuk kewenangan praktik, UU SPPA No 11/2012 untuk pendampingan ABH, UU TPKS No 12/2022 untuk hak pemulihan trauma psikologis korban kekerasan seksual, dan UU Kesehatan No 17/2023."
+  },
+  {
+    "id": "D13_I1.1_Q10",
+    "domainId": 13,
+    "domainTitle": "Keterampilan Kerja Khusus - Etika Psikologi dan Hukum (Pengetahuan hukum)",
+    "indicatorId": "1.1",
+    "indicatorFullId": "D13-1.1",
+    "indicatorTitle": "Menunjukkan peraturan perundangan yang relevan dengan layanan psikologis yang dilakukan sesuai dengan permasalahan dan latar layanan",
+    "caseStudy": {
+      "title": "Studi Kasus 10: Pengetahuan dan Penerapan Peraturan Perundang-Undangan dalam Layanan Psikologi (Menunjukkan peraturan perundangan yang relevan dengan layanan psikologis yang dilakukan sesuai dengan permasalahan dan latar layanan) (Kasus 10)",
+      "scenario": "Psikolog menghadapi kasus penanganan yang beririsan dengan payung hukum Republik Indonesia (Kasus 10 Indikator 1.1): UU No 23 Tahun 2022 tentang Pendidikan dan Layanan Psikologi (UU PLP), UU Kesehatan No 17 Tahun 2023, UU Perlindungan Anak No 35 Tahun 2014, UU TPKS (Tindak Pidana Kekerasan Seksual) No 12 Tahun 2022, atau UU Sistem Peradilan Pidana Anak (SPPA) No 11 Tahun 2012. Psikolog mengidentifikasi landasan hukum yang berlaku.",
+      "contextTags": [
+        "Pengetahuan Hukum",
+        "UU PLP No 23/2022",
+        "UU TPKS",
+        "UU SPPA",
+        "Menunjukkan peraturan perundangan yang relevan dengan layanan psikologis yang dilakukan sesuai dengan permasalahan dan latar layanan"
+      ]
+    },
+    "question": "Peraturan perundang-undangan manakah yang PALING relevan dan menjadi rujukan hukum utama bagi Psikolog dalam konteks kasus tersebut?",
+    "options": [
+      {
+        "id": "A",
+        "text": "UU Hukum Dagang dan Kepabeanan Impor Barang Swasta."
+      },
+      {
+        "id": "B",
+        "text": "Peraturan Perundang-Undangan yang spesifik dan relevan (seperti UU PLP No 23/2022 untuk praktik profesi, UU SPPA No 11/2012 untuk penanganan anak ABH, atau UU TPKS No 12/2022 untuk perlindungan korban kekerasan seksual)."
+      },
+      {
+        "id": "C",
+        "text": "UU Lalu Lintas dan Angkutan Jalan Raya."
+      },
+      {
+        "id": "D",
+        "text": "Peraturan Daerah mengenai Izin Mendirikan Bangunan (IMB)."
+      }
+    ],
+    "key": "B",
+    "explanation": "Praktik profesional psikolog di Indonesia dilindungi dan diatur oleh payung hukum positif: UU PLP No 23/2022 untuk kewenangan praktik, UU SPPA No 11/2012 untuk pendampingan ABH, UU TPKS No 12/2022 untuk hak pemulihan trauma psikologis korban kekerasan seksual, dan UU Kesehatan No 17/2023."
+  },
+  {
+    "id": "D13_I1.2_Q1",
+    "domainId": 13,
+    "domainTitle": "Keterampilan Kerja Khusus - Etika Psikologi dan Hukum (Pengetahuan hukum)",
+    "indicatorId": "1.2",
+    "indicatorFullId": "D13-1.2",
+    "indicatorTitle": "Mencontohkan peraturan perundangan yang relevan dengan layanan psikologis yang dilakukan sesuai dengan permasalahan dan latar layanan",
+    "caseStudy": {
+      "title": "Studi Kasus 1: Pengetahuan dan Penerapan Peraturan Perundang-Undangan dalam Layanan Psikologi (Mencontohkan peraturan perundangan yang relevan dengan layanan psikologis yang dilakukan sesuai dengan permasalahan dan latar layanan) (Kasus 1)",
+      "scenario": "Psikolog menghadapi kasus penanganan yang beririsan dengan payung hukum Republik Indonesia (Kasus 1 Indikator 1.2): UU No 23 Tahun 2022 tentang Pendidikan dan Layanan Psikologi (UU PLP), UU Kesehatan No 17 Tahun 2023, UU Perlindungan Anak No 35 Tahun 2014, UU TPKS (Tindak Pidana Kekerasan Seksual) No 12 Tahun 2022, atau UU Sistem Peradilan Pidana Anak (SPPA) No 11 Tahun 2012. Psikolog mengidentifikasi landasan hukum yang berlaku.",
+      "contextTags": [
+        "Pengetahuan Hukum",
+        "UU PLP No 23/2022",
+        "UU TPKS",
+        "UU SPPA",
+        "Mencontohkan peraturan perundangan yang relevan dengan layanan psikologis yang dilakukan sesuai dengan permasalahan dan latar layanan"
+      ]
+    },
+    "question": "Peraturan perundang-undangan manakah yang PALING relevan dan menjadi rujukan hukum utama bagi Psikolog dalam konteks kasus tersebut?",
+    "options": [
+      {
+        "id": "A",
+        "text": "UU Hukum Dagang dan Kepabeanan Impor Barang Swasta."
+      },
+      {
+        "id": "B",
+        "text": "Peraturan Perundang-Undangan yang spesifik dan relevan (seperti UU PLP No 23/2022 untuk praktik profesi, UU SPPA No 11/2012 untuk penanganan anak ABH, atau UU TPKS No 12/2022 untuk perlindungan korban kekerasan seksual)."
+      },
+      {
+        "id": "C",
+        "text": "UU Lalu Lintas dan Angkutan Jalan Raya."
+      },
+      {
+        "id": "D",
+        "text": "Peraturan Daerah mengenai Izin Mendirikan Bangunan (IMB)."
+      }
+    ],
+    "key": "B",
+    "explanation": "Praktik profesional psikolog di Indonesia dilindungi dan diatur oleh payung hukum positif: UU PLP No 23/2022 untuk kewenangan praktik, UU SPPA No 11/2012 untuk pendampingan ABH, UU TPKS No 12/2022 untuk hak pemulihan trauma psikologis korban kekerasan seksual, dan UU Kesehatan No 17/2023."
+  },
+  {
+    "id": "D13_I1.2_Q2",
+    "domainId": 13,
+    "domainTitle": "Keterampilan Kerja Khusus - Etika Psikologi dan Hukum (Pengetahuan hukum)",
+    "indicatorId": "1.2",
+    "indicatorFullId": "D13-1.2",
+    "indicatorTitle": "Mencontohkan peraturan perundangan yang relevan dengan layanan psikologis yang dilakukan sesuai dengan permasalahan dan latar layanan",
+    "caseStudy": {
+      "title": "Studi Kasus 2: Pengetahuan dan Penerapan Peraturan Perundang-Undangan dalam Layanan Psikologi (Mencontohkan peraturan perundangan yang relevan dengan layanan psikologis yang dilakukan sesuai dengan permasalahan dan latar layanan) (Kasus 2)",
+      "scenario": "Psikolog menghadapi kasus penanganan yang beririsan dengan payung hukum Republik Indonesia (Kasus 2 Indikator 1.2): UU No 23 Tahun 2022 tentang Pendidikan dan Layanan Psikologi (UU PLP), UU Kesehatan No 17 Tahun 2023, UU Perlindungan Anak No 35 Tahun 2014, UU TPKS (Tindak Pidana Kekerasan Seksual) No 12 Tahun 2022, atau UU Sistem Peradilan Pidana Anak (SPPA) No 11 Tahun 2012. Psikolog mengidentifikasi landasan hukum yang berlaku.",
+      "contextTags": [
+        "Pengetahuan Hukum",
+        "UU PLP No 23/2022",
+        "UU TPKS",
+        "UU SPPA",
+        "Mencontohkan peraturan perundangan yang relevan dengan layanan psikologis yang dilakukan sesuai dengan permasalahan dan latar layanan"
+      ]
+    },
+    "question": "Peraturan perundang-undangan manakah yang PALING relevan dan menjadi rujukan hukum utama bagi Psikolog dalam konteks kasus tersebut?",
+    "options": [
+      {
+        "id": "A",
+        "text": "UU Hukum Dagang dan Kepabeanan Impor Barang Swasta."
+      },
+      {
+        "id": "B",
+        "text": "Peraturan Perundang-Undangan yang spesifik dan relevan (seperti UU PLP No 23/2022 untuk praktik profesi, UU SPPA No 11/2012 untuk penanganan anak ABH, atau UU TPKS No 12/2022 untuk perlindungan korban kekerasan seksual)."
+      },
+      {
+        "id": "C",
+        "text": "UU Lalu Lintas dan Angkutan Jalan Raya."
+      },
+      {
+        "id": "D",
+        "text": "Peraturan Daerah mengenai Izin Mendirikan Bangunan (IMB)."
+      }
+    ],
+    "key": "B",
+    "explanation": "Praktik profesional psikolog di Indonesia dilindungi dan diatur oleh payung hukum positif: UU PLP No 23/2022 untuk kewenangan praktik, UU SPPA No 11/2012 untuk pendampingan ABH, UU TPKS No 12/2022 untuk hak pemulihan trauma psikologis korban kekerasan seksual, dan UU Kesehatan No 17/2023."
+  },
+  {
+    "id": "D13_I1.2_Q3",
+    "domainId": 13,
+    "domainTitle": "Keterampilan Kerja Khusus - Etika Psikologi dan Hukum (Pengetahuan hukum)",
+    "indicatorId": "1.2",
+    "indicatorFullId": "D13-1.2",
+    "indicatorTitle": "Mencontohkan peraturan perundangan yang relevan dengan layanan psikologis yang dilakukan sesuai dengan permasalahan dan latar layanan",
+    "caseStudy": {
+      "title": "Studi Kasus 3: Pengetahuan dan Penerapan Peraturan Perundang-Undangan dalam Layanan Psikologi (Mencontohkan peraturan perundangan yang relevan dengan layanan psikologis yang dilakukan sesuai dengan permasalahan dan latar layanan) (Kasus 3)",
+      "scenario": "Psikolog menghadapi kasus penanganan yang beririsan dengan payung hukum Republik Indonesia (Kasus 3 Indikator 1.2): UU No 23 Tahun 2022 tentang Pendidikan dan Layanan Psikologi (UU PLP), UU Kesehatan No 17 Tahun 2023, UU Perlindungan Anak No 35 Tahun 2014, UU TPKS (Tindak Pidana Kekerasan Seksual) No 12 Tahun 2022, atau UU Sistem Peradilan Pidana Anak (SPPA) No 11 Tahun 2012. Psikolog mengidentifikasi landasan hukum yang berlaku.",
+      "contextTags": [
+        "Pengetahuan Hukum",
+        "UU PLP No 23/2022",
+        "UU TPKS",
+        "UU SPPA",
+        "Mencontohkan peraturan perundangan yang relevan dengan layanan psikologis yang dilakukan sesuai dengan permasalahan dan latar layanan"
+      ]
+    },
+    "question": "Peraturan perundang-undangan manakah yang PALING relevan dan menjadi rujukan hukum utama bagi Psikolog dalam konteks kasus tersebut?",
+    "options": [
+      {
+        "id": "A",
+        "text": "UU Hukum Dagang dan Kepabeanan Impor Barang Swasta."
+      },
+      {
+        "id": "B",
+        "text": "Peraturan Perundang-Undangan yang spesifik dan relevan (seperti UU PLP No 23/2022 untuk praktik profesi, UU SPPA No 11/2012 untuk penanganan anak ABH, atau UU TPKS No 12/2022 untuk perlindungan korban kekerasan seksual)."
+      },
+      {
+        "id": "C",
+        "text": "UU Lalu Lintas dan Angkutan Jalan Raya."
+      },
+      {
+        "id": "D",
+        "text": "Peraturan Daerah mengenai Izin Mendirikan Bangunan (IMB)."
+      }
+    ],
+    "key": "B",
+    "explanation": "Praktik profesional psikolog di Indonesia dilindungi dan diatur oleh payung hukum positif: UU PLP No 23/2022 untuk kewenangan praktik, UU SPPA No 11/2012 untuk pendampingan ABH, UU TPKS No 12/2022 untuk hak pemulihan trauma psikologis korban kekerasan seksual, dan UU Kesehatan No 17/2023."
+  },
+  {
+    "id": "D13_I1.2_Q4",
+    "domainId": 13,
+    "domainTitle": "Keterampilan Kerja Khusus - Etika Psikologi dan Hukum (Pengetahuan hukum)",
+    "indicatorId": "1.2",
+    "indicatorFullId": "D13-1.2",
+    "indicatorTitle": "Mencontohkan peraturan perundangan yang relevan dengan layanan psikologis yang dilakukan sesuai dengan permasalahan dan latar layanan",
+    "caseStudy": {
+      "title": "Studi Kasus 4: Pengetahuan dan Penerapan Peraturan Perundang-Undangan dalam Layanan Psikologi (Mencontohkan peraturan perundangan yang relevan dengan layanan psikologis yang dilakukan sesuai dengan permasalahan dan latar layanan) (Kasus 4)",
+      "scenario": "Psikolog menghadapi kasus penanganan yang beririsan dengan payung hukum Republik Indonesia (Kasus 4 Indikator 1.2): UU No 23 Tahun 2022 tentang Pendidikan dan Layanan Psikologi (UU PLP), UU Kesehatan No 17 Tahun 2023, UU Perlindungan Anak No 35 Tahun 2014, UU TPKS (Tindak Pidana Kekerasan Seksual) No 12 Tahun 2022, atau UU Sistem Peradilan Pidana Anak (SPPA) No 11 Tahun 2012. Psikolog mengidentifikasi landasan hukum yang berlaku.",
+      "contextTags": [
+        "Pengetahuan Hukum",
+        "UU PLP No 23/2022",
+        "UU TPKS",
+        "UU SPPA",
+        "Mencontohkan peraturan perundangan yang relevan dengan layanan psikologis yang dilakukan sesuai dengan permasalahan dan latar layanan"
+      ]
+    },
+    "question": "Peraturan perundang-undangan manakah yang PALING relevan dan menjadi rujukan hukum utama bagi Psikolog dalam konteks kasus tersebut?",
+    "options": [
+      {
+        "id": "A",
+        "text": "UU Hukum Dagang dan Kepabeanan Impor Barang Swasta."
+      },
+      {
+        "id": "B",
+        "text": "Peraturan Perundang-Undangan yang spesifik dan relevan (seperti UU PLP No 23/2022 untuk praktik profesi, UU SPPA No 11/2012 untuk penanganan anak ABH, atau UU TPKS No 12/2022 untuk perlindungan korban kekerasan seksual)."
+      },
+      {
+        "id": "C",
+        "text": "UU Lalu Lintas dan Angkutan Jalan Raya."
+      },
+      {
+        "id": "D",
+        "text": "Peraturan Daerah mengenai Izin Mendirikan Bangunan (IMB)."
+      }
+    ],
+    "key": "B",
+    "explanation": "Praktik profesional psikolog di Indonesia dilindungi dan diatur oleh payung hukum positif: UU PLP No 23/2022 untuk kewenangan praktik, UU SPPA No 11/2012 untuk pendampingan ABH, UU TPKS No 12/2022 untuk hak pemulihan trauma psikologis korban kekerasan seksual, dan UU Kesehatan No 17/2023."
+  },
+  {
+    "id": "D13_I1.2_Q5",
+    "domainId": 13,
+    "domainTitle": "Keterampilan Kerja Khusus - Etika Psikologi dan Hukum (Pengetahuan hukum)",
+    "indicatorId": "1.2",
+    "indicatorFullId": "D13-1.2",
+    "indicatorTitle": "Mencontohkan peraturan perundangan yang relevan dengan layanan psikologis yang dilakukan sesuai dengan permasalahan dan latar layanan",
+    "caseStudy": {
+      "title": "Studi Kasus 5: Pengetahuan dan Penerapan Peraturan Perundang-Undangan dalam Layanan Psikologi (Mencontohkan peraturan perundangan yang relevan dengan layanan psikologis yang dilakukan sesuai dengan permasalahan dan latar layanan) (Kasus 5)",
+      "scenario": "Psikolog menghadapi kasus penanganan yang beririsan dengan payung hukum Republik Indonesia (Kasus 5 Indikator 1.2): UU No 23 Tahun 2022 tentang Pendidikan dan Layanan Psikologi (UU PLP), UU Kesehatan No 17 Tahun 2023, UU Perlindungan Anak No 35 Tahun 2014, UU TPKS (Tindak Pidana Kekerasan Seksual) No 12 Tahun 2022, atau UU Sistem Peradilan Pidana Anak (SPPA) No 11 Tahun 2012. Psikolog mengidentifikasi landasan hukum yang berlaku.",
+      "contextTags": [
+        "Pengetahuan Hukum",
+        "UU PLP No 23/2022",
+        "UU TPKS",
+        "UU SPPA",
+        "Mencontohkan peraturan perundangan yang relevan dengan layanan psikologis yang dilakukan sesuai dengan permasalahan dan latar layanan"
+      ]
+    },
+    "question": "Peraturan perundang-undangan manakah yang PALING relevan dan menjadi rujukan hukum utama bagi Psikolog dalam konteks kasus tersebut?",
+    "options": [
+      {
+        "id": "A",
+        "text": "UU Hukum Dagang dan Kepabeanan Impor Barang Swasta."
+      },
+      {
+        "id": "B",
+        "text": "Peraturan Perundang-Undangan yang spesifik dan relevan (seperti UU PLP No 23/2022 untuk praktik profesi, UU SPPA No 11/2012 untuk penanganan anak ABH, atau UU TPKS No 12/2022 untuk perlindungan korban kekerasan seksual)."
+      },
+      {
+        "id": "C",
+        "text": "UU Lalu Lintas dan Angkutan Jalan Raya."
+      },
+      {
+        "id": "D",
+        "text": "Peraturan Daerah mengenai Izin Mendirikan Bangunan (IMB)."
+      }
+    ],
+    "key": "B",
+    "explanation": "Praktik profesional psikolog di Indonesia dilindungi dan diatur oleh payung hukum positif: UU PLP No 23/2022 untuk kewenangan praktik, UU SPPA No 11/2012 untuk pendampingan ABH, UU TPKS No 12/2022 untuk hak pemulihan trauma psikologis korban kekerasan seksual, dan UU Kesehatan No 17/2023."
+  },
+  {
+    "id": "D13_I1.2_Q6",
+    "domainId": 13,
+    "domainTitle": "Keterampilan Kerja Khusus - Etika Psikologi dan Hukum (Pengetahuan hukum)",
+    "indicatorId": "1.2",
+    "indicatorFullId": "D13-1.2",
+    "indicatorTitle": "Mencontohkan peraturan perundangan yang relevan dengan layanan psikologis yang dilakukan sesuai dengan permasalahan dan latar layanan",
+    "caseStudy": {
+      "title": "Studi Kasus 6: Pengetahuan dan Penerapan Peraturan Perundang-Undangan dalam Layanan Psikologi (Mencontohkan peraturan perundangan yang relevan dengan layanan psikologis yang dilakukan sesuai dengan permasalahan dan latar layanan) (Kasus 6)",
+      "scenario": "Psikolog menghadapi kasus penanganan yang beririsan dengan payung hukum Republik Indonesia (Kasus 6 Indikator 1.2): UU No 23 Tahun 2022 tentang Pendidikan dan Layanan Psikologi (UU PLP), UU Kesehatan No 17 Tahun 2023, UU Perlindungan Anak No 35 Tahun 2014, UU TPKS (Tindak Pidana Kekerasan Seksual) No 12 Tahun 2022, atau UU Sistem Peradilan Pidana Anak (SPPA) No 11 Tahun 2012. Psikolog mengidentifikasi landasan hukum yang berlaku.",
+      "contextTags": [
+        "Pengetahuan Hukum",
+        "UU PLP No 23/2022",
+        "UU TPKS",
+        "UU SPPA",
+        "Mencontohkan peraturan perundangan yang relevan dengan layanan psikologis yang dilakukan sesuai dengan permasalahan dan latar layanan"
+      ]
+    },
+    "question": "Peraturan perundang-undangan manakah yang PALING relevan dan menjadi rujukan hukum utama bagi Psikolog dalam konteks kasus tersebut?",
+    "options": [
+      {
+        "id": "A",
+        "text": "UU Hukum Dagang dan Kepabeanan Impor Barang Swasta."
+      },
+      {
+        "id": "B",
+        "text": "Peraturan Perundang-Undangan yang spesifik dan relevan (seperti UU PLP No 23/2022 untuk praktik profesi, UU SPPA No 11/2012 untuk penanganan anak ABH, atau UU TPKS No 12/2022 untuk perlindungan korban kekerasan seksual)."
+      },
+      {
+        "id": "C",
+        "text": "UU Lalu Lintas dan Angkutan Jalan Raya."
+      },
+      {
+        "id": "D",
+        "text": "Peraturan Daerah mengenai Izin Mendirikan Bangunan (IMB)."
+      }
+    ],
+    "key": "B",
+    "explanation": "Praktik profesional psikolog di Indonesia dilindungi dan diatur oleh payung hukum positif: UU PLP No 23/2022 untuk kewenangan praktik, UU SPPA No 11/2012 untuk pendampingan ABH, UU TPKS No 12/2022 untuk hak pemulihan trauma psikologis korban kekerasan seksual, dan UU Kesehatan No 17/2023."
+  },
+  {
+    "id": "D13_I1.2_Q7",
+    "domainId": 13,
+    "domainTitle": "Keterampilan Kerja Khusus - Etika Psikologi dan Hukum (Pengetahuan hukum)",
+    "indicatorId": "1.2",
+    "indicatorFullId": "D13-1.2",
+    "indicatorTitle": "Mencontohkan peraturan perundangan yang relevan dengan layanan psikologis yang dilakukan sesuai dengan permasalahan dan latar layanan",
+    "caseStudy": {
+      "title": "Studi Kasus 7: Pengetahuan dan Penerapan Peraturan Perundang-Undangan dalam Layanan Psikologi (Mencontohkan peraturan perundangan yang relevan dengan layanan psikologis yang dilakukan sesuai dengan permasalahan dan latar layanan) (Kasus 7)",
+      "scenario": "Psikolog menghadapi kasus penanganan yang beririsan dengan payung hukum Republik Indonesia (Kasus 7 Indikator 1.2): UU No 23 Tahun 2022 tentang Pendidikan dan Layanan Psikologi (UU PLP), UU Kesehatan No 17 Tahun 2023, UU Perlindungan Anak No 35 Tahun 2014, UU TPKS (Tindak Pidana Kekerasan Seksual) No 12 Tahun 2022, atau UU Sistem Peradilan Pidana Anak (SPPA) No 11 Tahun 2012. Psikolog mengidentifikasi landasan hukum yang berlaku.",
+      "contextTags": [
+        "Pengetahuan Hukum",
+        "UU PLP No 23/2022",
+        "UU TPKS",
+        "UU SPPA",
+        "Mencontohkan peraturan perundangan yang relevan dengan layanan psikologis yang dilakukan sesuai dengan permasalahan dan latar layanan"
+      ]
+    },
+    "question": "Peraturan perundang-undangan manakah yang PALING relevan dan menjadi rujukan hukum utama bagi Psikolog dalam konteks kasus tersebut?",
+    "options": [
+      {
+        "id": "A",
+        "text": "UU Hukum Dagang dan Kepabeanan Impor Barang Swasta."
+      },
+      {
+        "id": "B",
+        "text": "Peraturan Perundang-Undangan yang spesifik dan relevan (seperti UU PLP No 23/2022 untuk praktik profesi, UU SPPA No 11/2012 untuk penanganan anak ABH, atau UU TPKS No 12/2022 untuk perlindungan korban kekerasan seksual)."
+      },
+      {
+        "id": "C",
+        "text": "UU Lalu Lintas dan Angkutan Jalan Raya."
+      },
+      {
+        "id": "D",
+        "text": "Peraturan Daerah mengenai Izin Mendirikan Bangunan (IMB)."
+      }
+    ],
+    "key": "B",
+    "explanation": "Praktik profesional psikolog di Indonesia dilindungi dan diatur oleh payung hukum positif: UU PLP No 23/2022 untuk kewenangan praktik, UU SPPA No 11/2012 untuk pendampingan ABH, UU TPKS No 12/2022 untuk hak pemulihan trauma psikologis korban kekerasan seksual, dan UU Kesehatan No 17/2023."
+  },
+  {
+    "id": "D13_I1.2_Q8",
+    "domainId": 13,
+    "domainTitle": "Keterampilan Kerja Khusus - Etika Psikologi dan Hukum (Pengetahuan hukum)",
+    "indicatorId": "1.2",
+    "indicatorFullId": "D13-1.2",
+    "indicatorTitle": "Mencontohkan peraturan perundangan yang relevan dengan layanan psikologis yang dilakukan sesuai dengan permasalahan dan latar layanan",
+    "caseStudy": {
+      "title": "Studi Kasus 8: Pengetahuan dan Penerapan Peraturan Perundang-Undangan dalam Layanan Psikologi (Mencontohkan peraturan perundangan yang relevan dengan layanan psikologis yang dilakukan sesuai dengan permasalahan dan latar layanan) (Kasus 8)",
+      "scenario": "Psikolog menghadapi kasus penanganan yang beririsan dengan payung hukum Republik Indonesia (Kasus 8 Indikator 1.2): UU No 23 Tahun 2022 tentang Pendidikan dan Layanan Psikologi (UU PLP), UU Kesehatan No 17 Tahun 2023, UU Perlindungan Anak No 35 Tahun 2014, UU TPKS (Tindak Pidana Kekerasan Seksual) No 12 Tahun 2022, atau UU Sistem Peradilan Pidana Anak (SPPA) No 11 Tahun 2012. Psikolog mengidentifikasi landasan hukum yang berlaku.",
+      "contextTags": [
+        "Pengetahuan Hukum",
+        "UU PLP No 23/2022",
+        "UU TPKS",
+        "UU SPPA",
+        "Mencontohkan peraturan perundangan yang relevan dengan layanan psikologis yang dilakukan sesuai dengan permasalahan dan latar layanan"
+      ]
+    },
+    "question": "Peraturan perundang-undangan manakah yang PALING relevan dan menjadi rujukan hukum utama bagi Psikolog dalam konteks kasus tersebut?",
+    "options": [
+      {
+        "id": "A",
+        "text": "UU Hukum Dagang dan Kepabeanan Impor Barang Swasta."
+      },
+      {
+        "id": "B",
+        "text": "Peraturan Perundang-Undangan yang spesifik dan relevan (seperti UU PLP No 23/2022 untuk praktik profesi, UU SPPA No 11/2012 untuk penanganan anak ABH, atau UU TPKS No 12/2022 untuk perlindungan korban kekerasan seksual)."
+      },
+      {
+        "id": "C",
+        "text": "UU Lalu Lintas dan Angkutan Jalan Raya."
+      },
+      {
+        "id": "D",
+        "text": "Peraturan Daerah mengenai Izin Mendirikan Bangunan (IMB)."
+      }
+    ],
+    "key": "B",
+    "explanation": "Praktik profesional psikolog di Indonesia dilindungi dan diatur oleh payung hukum positif: UU PLP No 23/2022 untuk kewenangan praktik, UU SPPA No 11/2012 untuk pendampingan ABH, UU TPKS No 12/2022 untuk hak pemulihan trauma psikologis korban kekerasan seksual, dan UU Kesehatan No 17/2023."
+  },
+  {
+    "id": "D13_I1.2_Q9",
+    "domainId": 13,
+    "domainTitle": "Keterampilan Kerja Khusus - Etika Psikologi dan Hukum (Pengetahuan hukum)",
+    "indicatorId": "1.2",
+    "indicatorFullId": "D13-1.2",
+    "indicatorTitle": "Mencontohkan peraturan perundangan yang relevan dengan layanan psikologis yang dilakukan sesuai dengan permasalahan dan latar layanan",
+    "caseStudy": {
+      "title": "Studi Kasus 9: Pengetahuan dan Penerapan Peraturan Perundang-Undangan dalam Layanan Psikologi (Mencontohkan peraturan perundangan yang relevan dengan layanan psikologis yang dilakukan sesuai dengan permasalahan dan latar layanan) (Kasus 9)",
+      "scenario": "Psikolog menghadapi kasus penanganan yang beririsan dengan payung hukum Republik Indonesia (Kasus 9 Indikator 1.2): UU No 23 Tahun 2022 tentang Pendidikan dan Layanan Psikologi (UU PLP), UU Kesehatan No 17 Tahun 2023, UU Perlindungan Anak No 35 Tahun 2014, UU TPKS (Tindak Pidana Kekerasan Seksual) No 12 Tahun 2022, atau UU Sistem Peradilan Pidana Anak (SPPA) No 11 Tahun 2012. Psikolog mengidentifikasi landasan hukum yang berlaku.",
+      "contextTags": [
+        "Pengetahuan Hukum",
+        "UU PLP No 23/2022",
+        "UU TPKS",
+        "UU SPPA",
+        "Mencontohkan peraturan perundangan yang relevan dengan layanan psikologis yang dilakukan sesuai dengan permasalahan dan latar layanan"
+      ]
+    },
+    "question": "Peraturan perundang-undangan manakah yang PALING relevan dan menjadi rujukan hukum utama bagi Psikolog dalam konteks kasus tersebut?",
+    "options": [
+      {
+        "id": "A",
+        "text": "UU Hukum Dagang dan Kepabeanan Impor Barang Swasta."
+      },
+      {
+        "id": "B",
+        "text": "Peraturan Perundang-Undangan yang spesifik dan relevan (seperti UU PLP No 23/2022 untuk praktik profesi, UU SPPA No 11/2012 untuk penanganan anak ABH, atau UU TPKS No 12/2022 untuk perlindungan korban kekerasan seksual)."
+      },
+      {
+        "id": "C",
+        "text": "UU Lalu Lintas dan Angkutan Jalan Raya."
+      },
+      {
+        "id": "D",
+        "text": "Peraturan Daerah mengenai Izin Mendirikan Bangunan (IMB)."
+      }
+    ],
+    "key": "B",
+    "explanation": "Praktik profesional psikolog di Indonesia dilindungi dan diatur oleh payung hukum positif: UU PLP No 23/2022 untuk kewenangan praktik, UU SPPA No 11/2012 untuk pendampingan ABH, UU TPKS No 12/2022 untuk hak pemulihan trauma psikologis korban kekerasan seksual, dan UU Kesehatan No 17/2023."
+  },
+  {
+    "id": "D13_I1.2_Q10",
+    "domainId": 13,
+    "domainTitle": "Keterampilan Kerja Khusus - Etika Psikologi dan Hukum (Pengetahuan hukum)",
+    "indicatorId": "1.2",
+    "indicatorFullId": "D13-1.2",
+    "indicatorTitle": "Mencontohkan peraturan perundangan yang relevan dengan layanan psikologis yang dilakukan sesuai dengan permasalahan dan latar layanan",
+    "caseStudy": {
+      "title": "Studi Kasus 10: Pengetahuan dan Penerapan Peraturan Perundang-Undangan dalam Layanan Psikologi (Mencontohkan peraturan perundangan yang relevan dengan layanan psikologis yang dilakukan sesuai dengan permasalahan dan latar layanan) (Kasus 10)",
+      "scenario": "Psikolog menghadapi kasus penanganan yang beririsan dengan payung hukum Republik Indonesia (Kasus 10 Indikator 1.2): UU No 23 Tahun 2022 tentang Pendidikan dan Layanan Psikologi (UU PLP), UU Kesehatan No 17 Tahun 2023, UU Perlindungan Anak No 35 Tahun 2014, UU TPKS (Tindak Pidana Kekerasan Seksual) No 12 Tahun 2022, atau UU Sistem Peradilan Pidana Anak (SPPA) No 11 Tahun 2012. Psikolog mengidentifikasi landasan hukum yang berlaku.",
+      "contextTags": [
+        "Pengetahuan Hukum",
+        "UU PLP No 23/2022",
+        "UU TPKS",
+        "UU SPPA",
+        "Mencontohkan peraturan perundangan yang relevan dengan layanan psikologis yang dilakukan sesuai dengan permasalahan dan latar layanan"
+      ]
+    },
+    "question": "Peraturan perundang-undangan manakah yang PALING relevan dan menjadi rujukan hukum utama bagi Psikolog dalam konteks kasus tersebut?",
+    "options": [
+      {
+        "id": "A",
+        "text": "UU Hukum Dagang dan Kepabeanan Impor Barang Swasta."
+      },
+      {
+        "id": "B",
+        "text": "Peraturan Perundang-Undangan yang spesifik dan relevan (seperti UU PLP No 23/2022 untuk praktik profesi, UU SPPA No 11/2012 untuk penanganan anak ABH, atau UU TPKS No 12/2022 untuk perlindungan korban kekerasan seksual)."
+      },
+      {
+        "id": "C",
+        "text": "UU Lalu Lintas dan Angkutan Jalan Raya."
+      },
+      {
+        "id": "D",
+        "text": "Peraturan Daerah mengenai Izin Mendirikan Bangunan (IMB)."
+      }
+    ],
+    "key": "B",
+    "explanation": "Praktik profesional psikolog di Indonesia dilindungi dan diatur oleh payung hukum positif: UU PLP No 23/2022 untuk kewenangan praktik, UU SPPA No 11/2012 untuk pendampingan ABH, UU TPKS No 12/2022 untuk hak pemulihan trauma psikologis korban kekerasan seksual, dan UU Kesehatan No 17/2023."
+  },
+  {
+    "id": "D13_I2.1_Q1",
+    "domainId": 13,
+    "domainTitle": "Keterampilan Kerja Khusus - Etika Psikologi dan Hukum (Pengetahuan hukum)",
+    "indicatorId": "2.1",
+    "indicatorFullId": "D13-2.1",
+    "indicatorTitle": "Menunjukkan peraturan perundangan yang relevan dengan permasalahan psikologis yang terkait hukum sesuai dengan latar layanan",
+    "caseStudy": {
+      "title": "Studi Kasus 1: Pengetahuan dan Penerapan Peraturan Perundang-Undangan dalam Layanan Psikologi (Menunjukkan peraturan perundangan yang relevan dengan permasalahan psikologis yang terkait hukum sesuai dengan latar layanan) (Kasus 1)",
+      "scenario": "Psikolog menghadapi kasus penanganan yang beririsan dengan payung hukum Republik Indonesia (Kasus 1 Indikator 2.1): UU No 23 Tahun 2022 tentang Pendidikan dan Layanan Psikologi (UU PLP), UU Kesehatan No 17 Tahun 2023, UU Perlindungan Anak No 35 Tahun 2014, UU TPKS (Tindak Pidana Kekerasan Seksual) No 12 Tahun 2022, atau UU Sistem Peradilan Pidana Anak (SPPA) No 11 Tahun 2012. Psikolog mengidentifikasi landasan hukum yang berlaku.",
+      "contextTags": [
+        "Pengetahuan Hukum",
+        "UU PLP No 23/2022",
+        "UU TPKS",
+        "UU SPPA",
+        "Menunjukkan peraturan perundangan yang relevan dengan permasalahan psikologis yang terkait hukum sesuai dengan latar layanan"
+      ]
+    },
+    "question": "Peraturan perundang-undangan manakah yang PALING relevan dan menjadi rujukan hukum utama bagi Psikolog dalam konteks kasus tersebut?",
+    "options": [
+      {
+        "id": "A",
+        "text": "UU Hukum Dagang dan Kepabeanan Impor Barang Swasta."
+      },
+      {
+        "id": "B",
+        "text": "Peraturan Perundang-Undangan yang spesifik dan relevan (seperti UU PLP No 23/2022 untuk praktik profesi, UU SPPA No 11/2012 untuk penanganan anak ABH, atau UU TPKS No 12/2022 untuk perlindungan korban kekerasan seksual)."
+      },
+      {
+        "id": "C",
+        "text": "UU Lalu Lintas dan Angkutan Jalan Raya."
+      },
+      {
+        "id": "D",
+        "text": "Peraturan Daerah mengenai Izin Mendirikan Bangunan (IMB)."
+      }
+    ],
+    "key": "B",
+    "explanation": "Praktik profesional psikolog di Indonesia dilindungi dan diatur oleh payung hukum positif: UU PLP No 23/2022 untuk kewenangan praktik, UU SPPA No 11/2012 untuk pendampingan ABH, UU TPKS No 12/2022 untuk hak pemulihan trauma psikologis korban kekerasan seksual, dan UU Kesehatan No 17/2023."
+  },
+  {
+    "id": "D13_I2.1_Q2",
+    "domainId": 13,
+    "domainTitle": "Keterampilan Kerja Khusus - Etika Psikologi dan Hukum (Pengetahuan hukum)",
+    "indicatorId": "2.1",
+    "indicatorFullId": "D13-2.1",
+    "indicatorTitle": "Menunjukkan peraturan perundangan yang relevan dengan permasalahan psikologis yang terkait hukum sesuai dengan latar layanan",
+    "caseStudy": {
+      "title": "Studi Kasus 2: Pengetahuan dan Penerapan Peraturan Perundang-Undangan dalam Layanan Psikologi (Menunjukkan peraturan perundangan yang relevan dengan permasalahan psikologis yang terkait hukum sesuai dengan latar layanan) (Kasus 2)",
+      "scenario": "Psikolog menghadapi kasus penanganan yang beririsan dengan payung hukum Republik Indonesia (Kasus 2 Indikator 2.1): UU No 23 Tahun 2022 tentang Pendidikan dan Layanan Psikologi (UU PLP), UU Kesehatan No 17 Tahun 2023, UU Perlindungan Anak No 35 Tahun 2014, UU TPKS (Tindak Pidana Kekerasan Seksual) No 12 Tahun 2022, atau UU Sistem Peradilan Pidana Anak (SPPA) No 11 Tahun 2012. Psikolog mengidentifikasi landasan hukum yang berlaku.",
+      "contextTags": [
+        "Pengetahuan Hukum",
+        "UU PLP No 23/2022",
+        "UU TPKS",
+        "UU SPPA",
+        "Menunjukkan peraturan perundangan yang relevan dengan permasalahan psikologis yang terkait hukum sesuai dengan latar layanan"
+      ]
+    },
+    "question": "Peraturan perundang-undangan manakah yang PALING relevan dan menjadi rujukan hukum utama bagi Psikolog dalam konteks kasus tersebut?",
+    "options": [
+      {
+        "id": "A",
+        "text": "UU Hukum Dagang dan Kepabeanan Impor Barang Swasta."
+      },
+      {
+        "id": "B",
+        "text": "Peraturan Perundang-Undangan yang spesifik dan relevan (seperti UU PLP No 23/2022 untuk praktik profesi, UU SPPA No 11/2012 untuk penanganan anak ABH, atau UU TPKS No 12/2022 untuk perlindungan korban kekerasan seksual)."
+      },
+      {
+        "id": "C",
+        "text": "UU Lalu Lintas dan Angkutan Jalan Raya."
+      },
+      {
+        "id": "D",
+        "text": "Peraturan Daerah mengenai Izin Mendirikan Bangunan (IMB)."
+      }
+    ],
+    "key": "B",
+    "explanation": "Praktik profesional psikolog di Indonesia dilindungi dan diatur oleh payung hukum positif: UU PLP No 23/2022 untuk kewenangan praktik, UU SPPA No 11/2012 untuk pendampingan ABH, UU TPKS No 12/2022 untuk hak pemulihan trauma psikologis korban kekerasan seksual, dan UU Kesehatan No 17/2023."
+  },
+  {
+    "id": "D13_I2.1_Q3",
+    "domainId": 13,
+    "domainTitle": "Keterampilan Kerja Khusus - Etika Psikologi dan Hukum (Pengetahuan hukum)",
+    "indicatorId": "2.1",
+    "indicatorFullId": "D13-2.1",
+    "indicatorTitle": "Menunjukkan peraturan perundangan yang relevan dengan permasalahan psikologis yang terkait hukum sesuai dengan latar layanan",
+    "caseStudy": {
+      "title": "Studi Kasus 3: Pengetahuan dan Penerapan Peraturan Perundang-Undangan dalam Layanan Psikologi (Menunjukkan peraturan perundangan yang relevan dengan permasalahan psikologis yang terkait hukum sesuai dengan latar layanan) (Kasus 3)",
+      "scenario": "Psikolog menghadapi kasus penanganan yang beririsan dengan payung hukum Republik Indonesia (Kasus 3 Indikator 2.1): UU No 23 Tahun 2022 tentang Pendidikan dan Layanan Psikologi (UU PLP), UU Kesehatan No 17 Tahun 2023, UU Perlindungan Anak No 35 Tahun 2014, UU TPKS (Tindak Pidana Kekerasan Seksual) No 12 Tahun 2022, atau UU Sistem Peradilan Pidana Anak (SPPA) No 11 Tahun 2012. Psikolog mengidentifikasi landasan hukum yang berlaku.",
+      "contextTags": [
+        "Pengetahuan Hukum",
+        "UU PLP No 23/2022",
+        "UU TPKS",
+        "UU SPPA",
+        "Menunjukkan peraturan perundangan yang relevan dengan permasalahan psikologis yang terkait hukum sesuai dengan latar layanan"
+      ]
+    },
+    "question": "Peraturan perundang-undangan manakah yang PALING relevan dan menjadi rujukan hukum utama bagi Psikolog dalam konteks kasus tersebut?",
+    "options": [
+      {
+        "id": "A",
+        "text": "UU Hukum Dagang dan Kepabeanan Impor Barang Swasta."
+      },
+      {
+        "id": "B",
+        "text": "Peraturan Perundang-Undangan yang spesifik dan relevan (seperti UU PLP No 23/2022 untuk praktik profesi, UU SPPA No 11/2012 untuk penanganan anak ABH, atau UU TPKS No 12/2022 untuk perlindungan korban kekerasan seksual)."
+      },
+      {
+        "id": "C",
+        "text": "UU Lalu Lintas dan Angkutan Jalan Raya."
+      },
+      {
+        "id": "D",
+        "text": "Peraturan Daerah mengenai Izin Mendirikan Bangunan (IMB)."
+      }
+    ],
+    "key": "B",
+    "explanation": "Praktik profesional psikolog di Indonesia dilindungi dan diatur oleh payung hukum positif: UU PLP No 23/2022 untuk kewenangan praktik, UU SPPA No 11/2012 untuk pendampingan ABH, UU TPKS No 12/2022 untuk hak pemulihan trauma psikologis korban kekerasan seksual, dan UU Kesehatan No 17/2023."
+  },
+  {
+    "id": "D13_I2.1_Q4",
+    "domainId": 13,
+    "domainTitle": "Keterampilan Kerja Khusus - Etika Psikologi dan Hukum (Pengetahuan hukum)",
+    "indicatorId": "2.1",
+    "indicatorFullId": "D13-2.1",
+    "indicatorTitle": "Menunjukkan peraturan perundangan yang relevan dengan permasalahan psikologis yang terkait hukum sesuai dengan latar layanan",
+    "caseStudy": {
+      "title": "Studi Kasus 4: Pengetahuan dan Penerapan Peraturan Perundang-Undangan dalam Layanan Psikologi (Menunjukkan peraturan perundangan yang relevan dengan permasalahan psikologis yang terkait hukum sesuai dengan latar layanan) (Kasus 4)",
+      "scenario": "Psikolog menghadapi kasus penanganan yang beririsan dengan payung hukum Republik Indonesia (Kasus 4 Indikator 2.1): UU No 23 Tahun 2022 tentang Pendidikan dan Layanan Psikologi (UU PLP), UU Kesehatan No 17 Tahun 2023, UU Perlindungan Anak No 35 Tahun 2014, UU TPKS (Tindak Pidana Kekerasan Seksual) No 12 Tahun 2022, atau UU Sistem Peradilan Pidana Anak (SPPA) No 11 Tahun 2012. Psikolog mengidentifikasi landasan hukum yang berlaku.",
+      "contextTags": [
+        "Pengetahuan Hukum",
+        "UU PLP No 23/2022",
+        "UU TPKS",
+        "UU SPPA",
+        "Menunjukkan peraturan perundangan yang relevan dengan permasalahan psikologis yang terkait hukum sesuai dengan latar layanan"
+      ]
+    },
+    "question": "Peraturan perundang-undangan manakah yang PALING relevan dan menjadi rujukan hukum utama bagi Psikolog dalam konteks kasus tersebut?",
+    "options": [
+      {
+        "id": "A",
+        "text": "UU Hukum Dagang dan Kepabeanan Impor Barang Swasta."
+      },
+      {
+        "id": "B",
+        "text": "Peraturan Perundang-Undangan yang spesifik dan relevan (seperti UU PLP No 23/2022 untuk praktik profesi, UU SPPA No 11/2012 untuk penanganan anak ABH, atau UU TPKS No 12/2022 untuk perlindungan korban kekerasan seksual)."
+      },
+      {
+        "id": "C",
+        "text": "UU Lalu Lintas dan Angkutan Jalan Raya."
+      },
+      {
+        "id": "D",
+        "text": "Peraturan Daerah mengenai Izin Mendirikan Bangunan (IMB)."
+      }
+    ],
+    "key": "B",
+    "explanation": "Praktik profesional psikolog di Indonesia dilindungi dan diatur oleh payung hukum positif: UU PLP No 23/2022 untuk kewenangan praktik, UU SPPA No 11/2012 untuk pendampingan ABH, UU TPKS No 12/2022 untuk hak pemulihan trauma psikologis korban kekerasan seksual, dan UU Kesehatan No 17/2023."
+  },
+  {
+    "id": "D13_I2.1_Q5",
+    "domainId": 13,
+    "domainTitle": "Keterampilan Kerja Khusus - Etika Psikologi dan Hukum (Pengetahuan hukum)",
+    "indicatorId": "2.1",
+    "indicatorFullId": "D13-2.1",
+    "indicatorTitle": "Menunjukkan peraturan perundangan yang relevan dengan permasalahan psikologis yang terkait hukum sesuai dengan latar layanan",
+    "caseStudy": {
+      "title": "Studi Kasus 5: Pengetahuan dan Penerapan Peraturan Perundang-Undangan dalam Layanan Psikologi (Menunjukkan peraturan perundangan yang relevan dengan permasalahan psikologis yang terkait hukum sesuai dengan latar layanan) (Kasus 5)",
+      "scenario": "Psikolog menghadapi kasus penanganan yang beririsan dengan payung hukum Republik Indonesia (Kasus 5 Indikator 2.1): UU No 23 Tahun 2022 tentang Pendidikan dan Layanan Psikologi (UU PLP), UU Kesehatan No 17 Tahun 2023, UU Perlindungan Anak No 35 Tahun 2014, UU TPKS (Tindak Pidana Kekerasan Seksual) No 12 Tahun 2022, atau UU Sistem Peradilan Pidana Anak (SPPA) No 11 Tahun 2012. Psikolog mengidentifikasi landasan hukum yang berlaku.",
+      "contextTags": [
+        "Pengetahuan Hukum",
+        "UU PLP No 23/2022",
+        "UU TPKS",
+        "UU SPPA",
+        "Menunjukkan peraturan perundangan yang relevan dengan permasalahan psikologis yang terkait hukum sesuai dengan latar layanan"
+      ]
+    },
+    "question": "Peraturan perundang-undangan manakah yang PALING relevan dan menjadi rujukan hukum utama bagi Psikolog dalam konteks kasus tersebut?",
+    "options": [
+      {
+        "id": "A",
+        "text": "UU Hukum Dagang dan Kepabeanan Impor Barang Swasta."
+      },
+      {
+        "id": "B",
+        "text": "Peraturan Perundang-Undangan yang spesifik dan relevan (seperti UU PLP No 23/2022 untuk praktik profesi, UU SPPA No 11/2012 untuk penanganan anak ABH, atau UU TPKS No 12/2022 untuk perlindungan korban kekerasan seksual)."
+      },
+      {
+        "id": "C",
+        "text": "UU Lalu Lintas dan Angkutan Jalan Raya."
+      },
+      {
+        "id": "D",
+        "text": "Peraturan Daerah mengenai Izin Mendirikan Bangunan (IMB)."
+      }
+    ],
+    "key": "B",
+    "explanation": "Praktik profesional psikolog di Indonesia dilindungi dan diatur oleh payung hukum positif: UU PLP No 23/2022 untuk kewenangan praktik, UU SPPA No 11/2012 untuk pendampingan ABH, UU TPKS No 12/2022 untuk hak pemulihan trauma psikologis korban kekerasan seksual, dan UU Kesehatan No 17/2023."
+  },
+  {
+    "id": "D13_I2.1_Q6",
+    "domainId": 13,
+    "domainTitle": "Keterampilan Kerja Khusus - Etika Psikologi dan Hukum (Pengetahuan hukum)",
+    "indicatorId": "2.1",
+    "indicatorFullId": "D13-2.1",
+    "indicatorTitle": "Menunjukkan peraturan perundangan yang relevan dengan permasalahan psikologis yang terkait hukum sesuai dengan latar layanan",
+    "caseStudy": {
+      "title": "Studi Kasus 6: Pengetahuan dan Penerapan Peraturan Perundang-Undangan dalam Layanan Psikologi (Menunjukkan peraturan perundangan yang relevan dengan permasalahan psikologis yang terkait hukum sesuai dengan latar layanan) (Kasus 6)",
+      "scenario": "Psikolog menghadapi kasus penanganan yang beririsan dengan payung hukum Republik Indonesia (Kasus 6 Indikator 2.1): UU No 23 Tahun 2022 tentang Pendidikan dan Layanan Psikologi (UU PLP), UU Kesehatan No 17 Tahun 2023, UU Perlindungan Anak No 35 Tahun 2014, UU TPKS (Tindak Pidana Kekerasan Seksual) No 12 Tahun 2022, atau UU Sistem Peradilan Pidana Anak (SPPA) No 11 Tahun 2012. Psikolog mengidentifikasi landasan hukum yang berlaku.",
+      "contextTags": [
+        "Pengetahuan Hukum",
+        "UU PLP No 23/2022",
+        "UU TPKS",
+        "UU SPPA",
+        "Menunjukkan peraturan perundangan yang relevan dengan permasalahan psikologis yang terkait hukum sesuai dengan latar layanan"
+      ]
+    },
+    "question": "Peraturan perundang-undangan manakah yang PALING relevan dan menjadi rujukan hukum utama bagi Psikolog dalam konteks kasus tersebut?",
+    "options": [
+      {
+        "id": "A",
+        "text": "UU Hukum Dagang dan Kepabeanan Impor Barang Swasta."
+      },
+      {
+        "id": "B",
+        "text": "Peraturan Perundang-Undangan yang spesifik dan relevan (seperti UU PLP No 23/2022 untuk praktik profesi, UU SPPA No 11/2012 untuk penanganan anak ABH, atau UU TPKS No 12/2022 untuk perlindungan korban kekerasan seksual)."
+      },
+      {
+        "id": "C",
+        "text": "UU Lalu Lintas dan Angkutan Jalan Raya."
+      },
+      {
+        "id": "D",
+        "text": "Peraturan Daerah mengenai Izin Mendirikan Bangunan (IMB)."
+      }
+    ],
+    "key": "B",
+    "explanation": "Praktik profesional psikolog di Indonesia dilindungi dan diatur oleh payung hukum positif: UU PLP No 23/2022 untuk kewenangan praktik, UU SPPA No 11/2012 untuk pendampingan ABH, UU TPKS No 12/2022 untuk hak pemulihan trauma psikologis korban kekerasan seksual, dan UU Kesehatan No 17/2023."
+  },
+  {
+    "id": "D13_I2.1_Q7",
+    "domainId": 13,
+    "domainTitle": "Keterampilan Kerja Khusus - Etika Psikologi dan Hukum (Pengetahuan hukum)",
+    "indicatorId": "2.1",
+    "indicatorFullId": "D13-2.1",
+    "indicatorTitle": "Menunjukkan peraturan perundangan yang relevan dengan permasalahan psikologis yang terkait hukum sesuai dengan latar layanan",
+    "caseStudy": {
+      "title": "Studi Kasus 7: Pengetahuan dan Penerapan Peraturan Perundang-Undangan dalam Layanan Psikologi (Menunjukkan peraturan perundangan yang relevan dengan permasalahan psikologis yang terkait hukum sesuai dengan latar layanan) (Kasus 7)",
+      "scenario": "Psikolog menghadapi kasus penanganan yang beririsan dengan payung hukum Republik Indonesia (Kasus 7 Indikator 2.1): UU No 23 Tahun 2022 tentang Pendidikan dan Layanan Psikologi (UU PLP), UU Kesehatan No 17 Tahun 2023, UU Perlindungan Anak No 35 Tahun 2014, UU TPKS (Tindak Pidana Kekerasan Seksual) No 12 Tahun 2022, atau UU Sistem Peradilan Pidana Anak (SPPA) No 11 Tahun 2012. Psikolog mengidentifikasi landasan hukum yang berlaku.",
+      "contextTags": [
+        "Pengetahuan Hukum",
+        "UU PLP No 23/2022",
+        "UU TPKS",
+        "UU SPPA",
+        "Menunjukkan peraturan perundangan yang relevan dengan permasalahan psikologis yang terkait hukum sesuai dengan latar layanan"
+      ]
+    },
+    "question": "Peraturan perundang-undangan manakah yang PALING relevan dan menjadi rujukan hukum utama bagi Psikolog dalam konteks kasus tersebut?",
+    "options": [
+      {
+        "id": "A",
+        "text": "UU Hukum Dagang dan Kepabeanan Impor Barang Swasta."
+      },
+      {
+        "id": "B",
+        "text": "Peraturan Perundang-Undangan yang spesifik dan relevan (seperti UU PLP No 23/2022 untuk praktik profesi, UU SPPA No 11/2012 untuk penanganan anak ABH, atau UU TPKS No 12/2022 untuk perlindungan korban kekerasan seksual)."
+      },
+      {
+        "id": "C",
+        "text": "UU Lalu Lintas dan Angkutan Jalan Raya."
+      },
+      {
+        "id": "D",
+        "text": "Peraturan Daerah mengenai Izin Mendirikan Bangunan (IMB)."
+      }
+    ],
+    "key": "B",
+    "explanation": "Praktik profesional psikolog di Indonesia dilindungi dan diatur oleh payung hukum positif: UU PLP No 23/2022 untuk kewenangan praktik, UU SPPA No 11/2012 untuk pendampingan ABH, UU TPKS No 12/2022 untuk hak pemulihan trauma psikologis korban kekerasan seksual, dan UU Kesehatan No 17/2023."
+  },
+  {
+    "id": "D13_I2.1_Q8",
+    "domainId": 13,
+    "domainTitle": "Keterampilan Kerja Khusus - Etika Psikologi dan Hukum (Pengetahuan hukum)",
+    "indicatorId": "2.1",
+    "indicatorFullId": "D13-2.1",
+    "indicatorTitle": "Menunjukkan peraturan perundangan yang relevan dengan permasalahan psikologis yang terkait hukum sesuai dengan latar layanan",
+    "caseStudy": {
+      "title": "Studi Kasus 8: Pengetahuan dan Penerapan Peraturan Perundang-Undangan dalam Layanan Psikologi (Menunjukkan peraturan perundangan yang relevan dengan permasalahan psikologis yang terkait hukum sesuai dengan latar layanan) (Kasus 8)",
+      "scenario": "Psikolog menghadapi kasus penanganan yang beririsan dengan payung hukum Republik Indonesia (Kasus 8 Indikator 2.1): UU No 23 Tahun 2022 tentang Pendidikan dan Layanan Psikologi (UU PLP), UU Kesehatan No 17 Tahun 2023, UU Perlindungan Anak No 35 Tahun 2014, UU TPKS (Tindak Pidana Kekerasan Seksual) No 12 Tahun 2022, atau UU Sistem Peradilan Pidana Anak (SPPA) No 11 Tahun 2012. Psikolog mengidentifikasi landasan hukum yang berlaku.",
+      "contextTags": [
+        "Pengetahuan Hukum",
+        "UU PLP No 23/2022",
+        "UU TPKS",
+        "UU SPPA",
+        "Menunjukkan peraturan perundangan yang relevan dengan permasalahan psikologis yang terkait hukum sesuai dengan latar layanan"
+      ]
+    },
+    "question": "Peraturan perundang-undangan manakah yang PALING relevan dan menjadi rujukan hukum utama bagi Psikolog dalam konteks kasus tersebut?",
+    "options": [
+      {
+        "id": "A",
+        "text": "UU Hukum Dagang dan Kepabeanan Impor Barang Swasta."
+      },
+      {
+        "id": "B",
+        "text": "Peraturan Perundang-Undangan yang spesifik dan relevan (seperti UU PLP No 23/2022 untuk praktik profesi, UU SPPA No 11/2012 untuk penanganan anak ABH, atau UU TPKS No 12/2022 untuk perlindungan korban kekerasan seksual)."
+      },
+      {
+        "id": "C",
+        "text": "UU Lalu Lintas dan Angkutan Jalan Raya."
+      },
+      {
+        "id": "D",
+        "text": "Peraturan Daerah mengenai Izin Mendirikan Bangunan (IMB)."
+      }
+    ],
+    "key": "B",
+    "explanation": "Praktik profesional psikolog di Indonesia dilindungi dan diatur oleh payung hukum positif: UU PLP No 23/2022 untuk kewenangan praktik, UU SPPA No 11/2012 untuk pendampingan ABH, UU TPKS No 12/2022 untuk hak pemulihan trauma psikologis korban kekerasan seksual, dan UU Kesehatan No 17/2023."
+  },
+  {
+    "id": "D13_I2.1_Q9",
+    "domainId": 13,
+    "domainTitle": "Keterampilan Kerja Khusus - Etika Psikologi dan Hukum (Pengetahuan hukum)",
+    "indicatorId": "2.1",
+    "indicatorFullId": "D13-2.1",
+    "indicatorTitle": "Menunjukkan peraturan perundangan yang relevan dengan permasalahan psikologis yang terkait hukum sesuai dengan latar layanan",
+    "caseStudy": {
+      "title": "Studi Kasus 9: Pengetahuan dan Penerapan Peraturan Perundang-Undangan dalam Layanan Psikologi (Menunjukkan peraturan perundangan yang relevan dengan permasalahan psikologis yang terkait hukum sesuai dengan latar layanan) (Kasus 9)",
+      "scenario": "Psikolog menghadapi kasus penanganan yang beririsan dengan payung hukum Republik Indonesia (Kasus 9 Indikator 2.1): UU No 23 Tahun 2022 tentang Pendidikan dan Layanan Psikologi (UU PLP), UU Kesehatan No 17 Tahun 2023, UU Perlindungan Anak No 35 Tahun 2014, UU TPKS (Tindak Pidana Kekerasan Seksual) No 12 Tahun 2022, atau UU Sistem Peradilan Pidana Anak (SPPA) No 11 Tahun 2012. Psikolog mengidentifikasi landasan hukum yang berlaku.",
+      "contextTags": [
+        "Pengetahuan Hukum",
+        "UU PLP No 23/2022",
+        "UU TPKS",
+        "UU SPPA",
+        "Menunjukkan peraturan perundangan yang relevan dengan permasalahan psikologis yang terkait hukum sesuai dengan latar layanan"
+      ]
+    },
+    "question": "Peraturan perundang-undangan manakah yang PALING relevan dan menjadi rujukan hukum utama bagi Psikolog dalam konteks kasus tersebut?",
+    "options": [
+      {
+        "id": "A",
+        "text": "UU Hukum Dagang dan Kepabeanan Impor Barang Swasta."
+      },
+      {
+        "id": "B",
+        "text": "Peraturan Perundang-Undangan yang spesifik dan relevan (seperti UU PLP No 23/2022 untuk praktik profesi, UU SPPA No 11/2012 untuk penanganan anak ABH, atau UU TPKS No 12/2022 untuk perlindungan korban kekerasan seksual)."
+      },
+      {
+        "id": "C",
+        "text": "UU Lalu Lintas dan Angkutan Jalan Raya."
+      },
+      {
+        "id": "D",
+        "text": "Peraturan Daerah mengenai Izin Mendirikan Bangunan (IMB)."
+      }
+    ],
+    "key": "B",
+    "explanation": "Praktik profesional psikolog di Indonesia dilindungi dan diatur oleh payung hukum positif: UU PLP No 23/2022 untuk kewenangan praktik, UU SPPA No 11/2012 untuk pendampingan ABH, UU TPKS No 12/2022 untuk hak pemulihan trauma psikologis korban kekerasan seksual, dan UU Kesehatan No 17/2023."
+  },
+  {
+    "id": "D13_I2.1_Q10",
+    "domainId": 13,
+    "domainTitle": "Keterampilan Kerja Khusus - Etika Psikologi dan Hukum (Pengetahuan hukum)",
+    "indicatorId": "2.1",
+    "indicatorFullId": "D13-2.1",
+    "indicatorTitle": "Menunjukkan peraturan perundangan yang relevan dengan permasalahan psikologis yang terkait hukum sesuai dengan latar layanan",
+    "caseStudy": {
+      "title": "Studi Kasus 10: Pengetahuan dan Penerapan Peraturan Perundang-Undangan dalam Layanan Psikologi (Menunjukkan peraturan perundangan yang relevan dengan permasalahan psikologis yang terkait hukum sesuai dengan latar layanan) (Kasus 10)",
+      "scenario": "Psikolog menghadapi kasus penanganan yang beririsan dengan payung hukum Republik Indonesia (Kasus 10 Indikator 2.1): UU No 23 Tahun 2022 tentang Pendidikan dan Layanan Psikologi (UU PLP), UU Kesehatan No 17 Tahun 2023, UU Perlindungan Anak No 35 Tahun 2014, UU TPKS (Tindak Pidana Kekerasan Seksual) No 12 Tahun 2022, atau UU Sistem Peradilan Pidana Anak (SPPA) No 11 Tahun 2012. Psikolog mengidentifikasi landasan hukum yang berlaku.",
+      "contextTags": [
+        "Pengetahuan Hukum",
+        "UU PLP No 23/2022",
+        "UU TPKS",
+        "UU SPPA",
+        "Menunjukkan peraturan perundangan yang relevan dengan permasalahan psikologis yang terkait hukum sesuai dengan latar layanan"
+      ]
+    },
+    "question": "Peraturan perundang-undangan manakah yang PALING relevan dan menjadi rujukan hukum utama bagi Psikolog dalam konteks kasus tersebut?",
+    "options": [
+      {
+        "id": "A",
+        "text": "UU Hukum Dagang dan Kepabeanan Impor Barang Swasta."
+      },
+      {
+        "id": "B",
+        "text": "Peraturan Perundang-Undangan yang spesifik dan relevan (seperti UU PLP No 23/2022 untuk praktik profesi, UU SPPA No 11/2012 untuk penanganan anak ABH, atau UU TPKS No 12/2022 untuk perlindungan korban kekerasan seksual)."
+      },
+      {
+        "id": "C",
+        "text": "UU Lalu Lintas dan Angkutan Jalan Raya."
+      },
+      {
+        "id": "D",
+        "text": "Peraturan Daerah mengenai Izin Mendirikan Bangunan (IMB)."
+      }
+    ],
+    "key": "B",
+    "explanation": "Praktik profesional psikolog di Indonesia dilindungi dan diatur oleh payung hukum positif: UU PLP No 23/2022 untuk kewenangan praktik, UU SPPA No 11/2012 untuk pendampingan ABH, UU TPKS No 12/2022 untuk hak pemulihan trauma psikologis korban kekerasan seksual, dan UU Kesehatan No 17/2023."
+  },
+  {
+    "id": "D13_I2.2_Q1",
+    "domainId": 13,
+    "domainTitle": "Keterampilan Kerja Khusus - Etika Psikologi dan Hukum (Pengetahuan hukum)",
+    "indicatorId": "2.2",
+    "indicatorFullId": "D13-2.2",
+    "indicatorTitle": "Mencontohkan peraturan perundangan yang relevan dengan permasalahan psikologis yang terkait hukum sesuai dengan latar layanan",
+    "caseStudy": {
+      "title": "Studi Kasus 1: Pengetahuan dan Penerapan Peraturan Perundang-Undangan dalam Layanan Psikologi (Mencontohkan peraturan perundangan yang relevan dengan permasalahan psikologis yang terkait hukum sesuai dengan latar layanan) (Kasus 1)",
+      "scenario": "Psikolog menghadapi kasus penanganan yang beririsan dengan payung hukum Republik Indonesia (Kasus 1 Indikator 2.2): UU No 23 Tahun 2022 tentang Pendidikan dan Layanan Psikologi (UU PLP), UU Kesehatan No 17 Tahun 2023, UU Perlindungan Anak No 35 Tahun 2014, UU TPKS (Tindak Pidana Kekerasan Seksual) No 12 Tahun 2022, atau UU Sistem Peradilan Pidana Anak (SPPA) No 11 Tahun 2012. Psikolog mengidentifikasi landasan hukum yang berlaku.",
+      "contextTags": [
+        "Pengetahuan Hukum",
+        "UU PLP No 23/2022",
+        "UU TPKS",
+        "UU SPPA",
+        "Mencontohkan peraturan perundangan yang relevan dengan permasalahan psikologis yang terkait hukum sesuai dengan latar layanan"
+      ]
+    },
+    "question": "Peraturan perundang-undangan manakah yang PALING relevan dan menjadi rujukan hukum utama bagi Psikolog dalam konteks kasus tersebut?",
+    "options": [
+      {
+        "id": "A",
+        "text": "UU Hukum Dagang dan Kepabeanan Impor Barang Swasta."
+      },
+      {
+        "id": "B",
+        "text": "Peraturan Perundang-Undangan yang spesifik dan relevan (seperti UU PLP No 23/2022 untuk praktik profesi, UU SPPA No 11/2012 untuk penanganan anak ABH, atau UU TPKS No 12/2022 untuk perlindungan korban kekerasan seksual)."
+      },
+      {
+        "id": "C",
+        "text": "UU Lalu Lintas dan Angkutan Jalan Raya."
+      },
+      {
+        "id": "D",
+        "text": "Peraturan Daerah mengenai Izin Mendirikan Bangunan (IMB)."
+      }
+    ],
+    "key": "B",
+    "explanation": "Praktik profesional psikolog di Indonesia dilindungi dan diatur oleh payung hukum positif: UU PLP No 23/2022 untuk kewenangan praktik, UU SPPA No 11/2012 untuk pendampingan ABH, UU TPKS No 12/2022 untuk hak pemulihan trauma psikologis korban kekerasan seksual, dan UU Kesehatan No 17/2023."
+  },
+  {
+    "id": "D13_I2.2_Q2",
+    "domainId": 13,
+    "domainTitle": "Keterampilan Kerja Khusus - Etika Psikologi dan Hukum (Pengetahuan hukum)",
+    "indicatorId": "2.2",
+    "indicatorFullId": "D13-2.2",
+    "indicatorTitle": "Mencontohkan peraturan perundangan yang relevan dengan permasalahan psikologis yang terkait hukum sesuai dengan latar layanan",
+    "caseStudy": {
+      "title": "Studi Kasus 2: Pengetahuan dan Penerapan Peraturan Perundang-Undangan dalam Layanan Psikologi (Mencontohkan peraturan perundangan yang relevan dengan permasalahan psikologis yang terkait hukum sesuai dengan latar layanan) (Kasus 2)",
+      "scenario": "Psikolog menghadapi kasus penanganan yang beririsan dengan payung hukum Republik Indonesia (Kasus 2 Indikator 2.2): UU No 23 Tahun 2022 tentang Pendidikan dan Layanan Psikologi (UU PLP), UU Kesehatan No 17 Tahun 2023, UU Perlindungan Anak No 35 Tahun 2014, UU TPKS (Tindak Pidana Kekerasan Seksual) No 12 Tahun 2022, atau UU Sistem Peradilan Pidana Anak (SPPA) No 11 Tahun 2012. Psikolog mengidentifikasi landasan hukum yang berlaku.",
+      "contextTags": [
+        "Pengetahuan Hukum",
+        "UU PLP No 23/2022",
+        "UU TPKS",
+        "UU SPPA",
+        "Mencontohkan peraturan perundangan yang relevan dengan permasalahan psikologis yang terkait hukum sesuai dengan latar layanan"
+      ]
+    },
+    "question": "Peraturan perundang-undangan manakah yang PALING relevan dan menjadi rujukan hukum utama bagi Psikolog dalam konteks kasus tersebut?",
+    "options": [
+      {
+        "id": "A",
+        "text": "UU Hukum Dagang dan Kepabeanan Impor Barang Swasta."
+      },
+      {
+        "id": "B",
+        "text": "Peraturan Perundang-Undangan yang spesifik dan relevan (seperti UU PLP No 23/2022 untuk praktik profesi, UU SPPA No 11/2012 untuk penanganan anak ABH, atau UU TPKS No 12/2022 untuk perlindungan korban kekerasan seksual)."
+      },
+      {
+        "id": "C",
+        "text": "UU Lalu Lintas dan Angkutan Jalan Raya."
+      },
+      {
+        "id": "D",
+        "text": "Peraturan Daerah mengenai Izin Mendirikan Bangunan (IMB)."
+      }
+    ],
+    "key": "B",
+    "explanation": "Praktik profesional psikolog di Indonesia dilindungi dan diatur oleh payung hukum positif: UU PLP No 23/2022 untuk kewenangan praktik, UU SPPA No 11/2012 untuk pendampingan ABH, UU TPKS No 12/2022 untuk hak pemulihan trauma psikologis korban kekerasan seksual, dan UU Kesehatan No 17/2023."
+  },
+  {
+    "id": "D13_I2.2_Q3",
+    "domainId": 13,
+    "domainTitle": "Keterampilan Kerja Khusus - Etika Psikologi dan Hukum (Pengetahuan hukum)",
+    "indicatorId": "2.2",
+    "indicatorFullId": "D13-2.2",
+    "indicatorTitle": "Mencontohkan peraturan perundangan yang relevan dengan permasalahan psikologis yang terkait hukum sesuai dengan latar layanan",
+    "caseStudy": {
+      "title": "Studi Kasus 3: Pengetahuan dan Penerapan Peraturan Perundang-Undangan dalam Layanan Psikologi (Mencontohkan peraturan perundangan yang relevan dengan permasalahan psikologis yang terkait hukum sesuai dengan latar layanan) (Kasus 3)",
+      "scenario": "Psikolog menghadapi kasus penanganan yang beririsan dengan payung hukum Republik Indonesia (Kasus 3 Indikator 2.2): UU No 23 Tahun 2022 tentang Pendidikan dan Layanan Psikologi (UU PLP), UU Kesehatan No 17 Tahun 2023, UU Perlindungan Anak No 35 Tahun 2014, UU TPKS (Tindak Pidana Kekerasan Seksual) No 12 Tahun 2022, atau UU Sistem Peradilan Pidana Anak (SPPA) No 11 Tahun 2012. Psikolog mengidentifikasi landasan hukum yang berlaku.",
+      "contextTags": [
+        "Pengetahuan Hukum",
+        "UU PLP No 23/2022",
+        "UU TPKS",
+        "UU SPPA",
+        "Mencontohkan peraturan perundangan yang relevan dengan permasalahan psikologis yang terkait hukum sesuai dengan latar layanan"
+      ]
+    },
+    "question": "Peraturan perundang-undangan manakah yang PALING relevan dan menjadi rujukan hukum utama bagi Psikolog dalam konteks kasus tersebut?",
+    "options": [
+      {
+        "id": "A",
+        "text": "UU Hukum Dagang dan Kepabeanan Impor Barang Swasta."
+      },
+      {
+        "id": "B",
+        "text": "Peraturan Perundang-Undangan yang spesifik dan relevan (seperti UU PLP No 23/2022 untuk praktik profesi, UU SPPA No 11/2012 untuk penanganan anak ABH, atau UU TPKS No 12/2022 untuk perlindungan korban kekerasan seksual)."
+      },
+      {
+        "id": "C",
+        "text": "UU Lalu Lintas dan Angkutan Jalan Raya."
+      },
+      {
+        "id": "D",
+        "text": "Peraturan Daerah mengenai Izin Mendirikan Bangunan (IMB)."
+      }
+    ],
+    "key": "B",
+    "explanation": "Praktik profesional psikolog di Indonesia dilindungi dan diatur oleh payung hukum positif: UU PLP No 23/2022 untuk kewenangan praktik, UU SPPA No 11/2012 untuk pendampingan ABH, UU TPKS No 12/2022 untuk hak pemulihan trauma psikologis korban kekerasan seksual, dan UU Kesehatan No 17/2023."
+  },
+  {
+    "id": "D13_I2.2_Q4",
+    "domainId": 13,
+    "domainTitle": "Keterampilan Kerja Khusus - Etika Psikologi dan Hukum (Pengetahuan hukum)",
+    "indicatorId": "2.2",
+    "indicatorFullId": "D13-2.2",
+    "indicatorTitle": "Mencontohkan peraturan perundangan yang relevan dengan permasalahan psikologis yang terkait hukum sesuai dengan latar layanan",
+    "caseStudy": {
+      "title": "Studi Kasus 4: Pengetahuan dan Penerapan Peraturan Perundang-Undangan dalam Layanan Psikologi (Mencontohkan peraturan perundangan yang relevan dengan permasalahan psikologis yang terkait hukum sesuai dengan latar layanan) (Kasus 4)",
+      "scenario": "Psikolog menghadapi kasus penanganan yang beririsan dengan payung hukum Republik Indonesia (Kasus 4 Indikator 2.2): UU No 23 Tahun 2022 tentang Pendidikan dan Layanan Psikologi (UU PLP), UU Kesehatan No 17 Tahun 2023, UU Perlindungan Anak No 35 Tahun 2014, UU TPKS (Tindak Pidana Kekerasan Seksual) No 12 Tahun 2022, atau UU Sistem Peradilan Pidana Anak (SPPA) No 11 Tahun 2012. Psikolog mengidentifikasi landasan hukum yang berlaku.",
+      "contextTags": [
+        "Pengetahuan Hukum",
+        "UU PLP No 23/2022",
+        "UU TPKS",
+        "UU SPPA",
+        "Mencontohkan peraturan perundangan yang relevan dengan permasalahan psikologis yang terkait hukum sesuai dengan latar layanan"
+      ]
+    },
+    "question": "Peraturan perundang-undangan manakah yang PALING relevan dan menjadi rujukan hukum utama bagi Psikolog dalam konteks kasus tersebut?",
+    "options": [
+      {
+        "id": "A",
+        "text": "UU Hukum Dagang dan Kepabeanan Impor Barang Swasta."
+      },
+      {
+        "id": "B",
+        "text": "Peraturan Perundang-Undangan yang spesifik dan relevan (seperti UU PLP No 23/2022 untuk praktik profesi, UU SPPA No 11/2012 untuk penanganan anak ABH, atau UU TPKS No 12/2022 untuk perlindungan korban kekerasan seksual)."
+      },
+      {
+        "id": "C",
+        "text": "UU Lalu Lintas dan Angkutan Jalan Raya."
+      },
+      {
+        "id": "D",
+        "text": "Peraturan Daerah mengenai Izin Mendirikan Bangunan (IMB)."
+      }
+    ],
+    "key": "B",
+    "explanation": "Praktik profesional psikolog di Indonesia dilindungi dan diatur oleh payung hukum positif: UU PLP No 23/2022 untuk kewenangan praktik, UU SPPA No 11/2012 untuk pendampingan ABH, UU TPKS No 12/2022 untuk hak pemulihan trauma psikologis korban kekerasan seksual, dan UU Kesehatan No 17/2023."
+  },
+  {
+    "id": "D13_I2.2_Q5",
+    "domainId": 13,
+    "domainTitle": "Keterampilan Kerja Khusus - Etika Psikologi dan Hukum (Pengetahuan hukum)",
+    "indicatorId": "2.2",
+    "indicatorFullId": "D13-2.2",
+    "indicatorTitle": "Mencontohkan peraturan perundangan yang relevan dengan permasalahan psikologis yang terkait hukum sesuai dengan latar layanan",
+    "caseStudy": {
+      "title": "Studi Kasus 5: Pengetahuan dan Penerapan Peraturan Perundang-Undangan dalam Layanan Psikologi (Mencontohkan peraturan perundangan yang relevan dengan permasalahan psikologis yang terkait hukum sesuai dengan latar layanan) (Kasus 5)",
+      "scenario": "Psikolog menghadapi kasus penanganan yang beririsan dengan payung hukum Republik Indonesia (Kasus 5 Indikator 2.2): UU No 23 Tahun 2022 tentang Pendidikan dan Layanan Psikologi (UU PLP), UU Kesehatan No 17 Tahun 2023, UU Perlindungan Anak No 35 Tahun 2014, UU TPKS (Tindak Pidana Kekerasan Seksual) No 12 Tahun 2022, atau UU Sistem Peradilan Pidana Anak (SPPA) No 11 Tahun 2012. Psikolog mengidentifikasi landasan hukum yang berlaku.",
+      "contextTags": [
+        "Pengetahuan Hukum",
+        "UU PLP No 23/2022",
+        "UU TPKS",
+        "UU SPPA",
+        "Mencontohkan peraturan perundangan yang relevan dengan permasalahan psikologis yang terkait hukum sesuai dengan latar layanan"
+      ]
+    },
+    "question": "Peraturan perundang-undangan manakah yang PALING relevan dan menjadi rujukan hukum utama bagi Psikolog dalam konteks kasus tersebut?",
+    "options": [
+      {
+        "id": "A",
+        "text": "UU Hukum Dagang dan Kepabeanan Impor Barang Swasta."
+      },
+      {
+        "id": "B",
+        "text": "Peraturan Perundang-Undangan yang spesifik dan relevan (seperti UU PLP No 23/2022 untuk praktik profesi, UU SPPA No 11/2012 untuk penanganan anak ABH, atau UU TPKS No 12/2022 untuk perlindungan korban kekerasan seksual)."
+      },
+      {
+        "id": "C",
+        "text": "UU Lalu Lintas dan Angkutan Jalan Raya."
+      },
+      {
+        "id": "D",
+        "text": "Peraturan Daerah mengenai Izin Mendirikan Bangunan (IMB)."
+      }
+    ],
+    "key": "B",
+    "explanation": "Praktik profesional psikolog di Indonesia dilindungi dan diatur oleh payung hukum positif: UU PLP No 23/2022 untuk kewenangan praktik, UU SPPA No 11/2012 untuk pendampingan ABH, UU TPKS No 12/2022 untuk hak pemulihan trauma psikologis korban kekerasan seksual, dan UU Kesehatan No 17/2023."
+  },
+  {
+    "id": "D13_I2.2_Q6",
+    "domainId": 13,
+    "domainTitle": "Keterampilan Kerja Khusus - Etika Psikologi dan Hukum (Pengetahuan hukum)",
+    "indicatorId": "2.2",
+    "indicatorFullId": "D13-2.2",
+    "indicatorTitle": "Mencontohkan peraturan perundangan yang relevan dengan permasalahan psikologis yang terkait hukum sesuai dengan latar layanan",
+    "caseStudy": {
+      "title": "Studi Kasus 6: Pengetahuan dan Penerapan Peraturan Perundang-Undangan dalam Layanan Psikologi (Mencontohkan peraturan perundangan yang relevan dengan permasalahan psikologis yang terkait hukum sesuai dengan latar layanan) (Kasus 6)",
+      "scenario": "Psikolog menghadapi kasus penanganan yang beririsan dengan payung hukum Republik Indonesia (Kasus 6 Indikator 2.2): UU No 23 Tahun 2022 tentang Pendidikan dan Layanan Psikologi (UU PLP), UU Kesehatan No 17 Tahun 2023, UU Perlindungan Anak No 35 Tahun 2014, UU TPKS (Tindak Pidana Kekerasan Seksual) No 12 Tahun 2022, atau UU Sistem Peradilan Pidana Anak (SPPA) No 11 Tahun 2012. Psikolog mengidentifikasi landasan hukum yang berlaku.",
+      "contextTags": [
+        "Pengetahuan Hukum",
+        "UU PLP No 23/2022",
+        "UU TPKS",
+        "UU SPPA",
+        "Mencontohkan peraturan perundangan yang relevan dengan permasalahan psikologis yang terkait hukum sesuai dengan latar layanan"
+      ]
+    },
+    "question": "Peraturan perundang-undangan manakah yang PALING relevan dan menjadi rujukan hukum utama bagi Psikolog dalam konteks kasus tersebut?",
+    "options": [
+      {
+        "id": "A",
+        "text": "UU Hukum Dagang dan Kepabeanan Impor Barang Swasta."
+      },
+      {
+        "id": "B",
+        "text": "Peraturan Perundang-Undangan yang spesifik dan relevan (seperti UU PLP No 23/2022 untuk praktik profesi, UU SPPA No 11/2012 untuk penanganan anak ABH, atau UU TPKS No 12/2022 untuk perlindungan korban kekerasan seksual)."
+      },
+      {
+        "id": "C",
+        "text": "UU Lalu Lintas dan Angkutan Jalan Raya."
+      },
+      {
+        "id": "D",
+        "text": "Peraturan Daerah mengenai Izin Mendirikan Bangunan (IMB)."
+      }
+    ],
+    "key": "B",
+    "explanation": "Praktik profesional psikolog di Indonesia dilindungi dan diatur oleh payung hukum positif: UU PLP No 23/2022 untuk kewenangan praktik, UU SPPA No 11/2012 untuk pendampingan ABH, UU TPKS No 12/2022 untuk hak pemulihan trauma psikologis korban kekerasan seksual, dan UU Kesehatan No 17/2023."
+  },
+  {
+    "id": "D13_I2.2_Q7",
+    "domainId": 13,
+    "domainTitle": "Keterampilan Kerja Khusus - Etika Psikologi dan Hukum (Pengetahuan hukum)",
+    "indicatorId": "2.2",
+    "indicatorFullId": "D13-2.2",
+    "indicatorTitle": "Mencontohkan peraturan perundangan yang relevan dengan permasalahan psikologis yang terkait hukum sesuai dengan latar layanan",
+    "caseStudy": {
+      "title": "Studi Kasus 7: Pengetahuan dan Penerapan Peraturan Perundang-Undangan dalam Layanan Psikologi (Mencontohkan peraturan perundangan yang relevan dengan permasalahan psikologis yang terkait hukum sesuai dengan latar layanan) (Kasus 7)",
+      "scenario": "Psikolog menghadapi kasus penanganan yang beririsan dengan payung hukum Republik Indonesia (Kasus 7 Indikator 2.2): UU No 23 Tahun 2022 tentang Pendidikan dan Layanan Psikologi (UU PLP), UU Kesehatan No 17 Tahun 2023, UU Perlindungan Anak No 35 Tahun 2014, UU TPKS (Tindak Pidana Kekerasan Seksual) No 12 Tahun 2022, atau UU Sistem Peradilan Pidana Anak (SPPA) No 11 Tahun 2012. Psikolog mengidentifikasi landasan hukum yang berlaku.",
+      "contextTags": [
+        "Pengetahuan Hukum",
+        "UU PLP No 23/2022",
+        "UU TPKS",
+        "UU SPPA",
+        "Mencontohkan peraturan perundangan yang relevan dengan permasalahan psikologis yang terkait hukum sesuai dengan latar layanan"
+      ]
+    },
+    "question": "Peraturan perundang-undangan manakah yang PALING relevan dan menjadi rujukan hukum utama bagi Psikolog dalam konteks kasus tersebut?",
+    "options": [
+      {
+        "id": "A",
+        "text": "UU Hukum Dagang dan Kepabeanan Impor Barang Swasta."
+      },
+      {
+        "id": "B",
+        "text": "Peraturan Perundang-Undangan yang spesifik dan relevan (seperti UU PLP No 23/2022 untuk praktik profesi, UU SPPA No 11/2012 untuk penanganan anak ABH, atau UU TPKS No 12/2022 untuk perlindungan korban kekerasan seksual)."
+      },
+      {
+        "id": "C",
+        "text": "UU Lalu Lintas dan Angkutan Jalan Raya."
+      },
+      {
+        "id": "D",
+        "text": "Peraturan Daerah mengenai Izin Mendirikan Bangunan (IMB)."
+      }
+    ],
+    "key": "B",
+    "explanation": "Praktik profesional psikolog di Indonesia dilindungi dan diatur oleh payung hukum positif: UU PLP No 23/2022 untuk kewenangan praktik, UU SPPA No 11/2012 untuk pendampingan ABH, UU TPKS No 12/2022 untuk hak pemulihan trauma psikologis korban kekerasan seksual, dan UU Kesehatan No 17/2023."
+  },
+  {
+    "id": "D13_I2.2_Q8",
+    "domainId": 13,
+    "domainTitle": "Keterampilan Kerja Khusus - Etika Psikologi dan Hukum (Pengetahuan hukum)",
+    "indicatorId": "2.2",
+    "indicatorFullId": "D13-2.2",
+    "indicatorTitle": "Mencontohkan peraturan perundangan yang relevan dengan permasalahan psikologis yang terkait hukum sesuai dengan latar layanan",
+    "caseStudy": {
+      "title": "Studi Kasus 8: Pengetahuan dan Penerapan Peraturan Perundang-Undangan dalam Layanan Psikologi (Mencontohkan peraturan perundangan yang relevan dengan permasalahan psikologis yang terkait hukum sesuai dengan latar layanan) (Kasus 8)",
+      "scenario": "Psikolog menghadapi kasus penanganan yang beririsan dengan payung hukum Republik Indonesia (Kasus 8 Indikator 2.2): UU No 23 Tahun 2022 tentang Pendidikan dan Layanan Psikologi (UU PLP), UU Kesehatan No 17 Tahun 2023, UU Perlindungan Anak No 35 Tahun 2014, UU TPKS (Tindak Pidana Kekerasan Seksual) No 12 Tahun 2022, atau UU Sistem Peradilan Pidana Anak (SPPA) No 11 Tahun 2012. Psikolog mengidentifikasi landasan hukum yang berlaku.",
+      "contextTags": [
+        "Pengetahuan Hukum",
+        "UU PLP No 23/2022",
+        "UU TPKS",
+        "UU SPPA",
+        "Mencontohkan peraturan perundangan yang relevan dengan permasalahan psikologis yang terkait hukum sesuai dengan latar layanan"
+      ]
+    },
+    "question": "Peraturan perundang-undangan manakah yang PALING relevan dan menjadi rujukan hukum utama bagi Psikolog dalam konteks kasus tersebut?",
+    "options": [
+      {
+        "id": "A",
+        "text": "UU Hukum Dagang dan Kepabeanan Impor Barang Swasta."
+      },
+      {
+        "id": "B",
+        "text": "Peraturan Perundang-Undangan yang spesifik dan relevan (seperti UU PLP No 23/2022 untuk praktik profesi, UU SPPA No 11/2012 untuk penanganan anak ABH, atau UU TPKS No 12/2022 untuk perlindungan korban kekerasan seksual)."
+      },
+      {
+        "id": "C",
+        "text": "UU Lalu Lintas dan Angkutan Jalan Raya."
+      },
+      {
+        "id": "D",
+        "text": "Peraturan Daerah mengenai Izin Mendirikan Bangunan (IMB)."
+      }
+    ],
+    "key": "B",
+    "explanation": "Praktik profesional psikolog di Indonesia dilindungi dan diatur oleh payung hukum positif: UU PLP No 23/2022 untuk kewenangan praktik, UU SPPA No 11/2012 untuk pendampingan ABH, UU TPKS No 12/2022 untuk hak pemulihan trauma psikologis korban kekerasan seksual, dan UU Kesehatan No 17/2023."
+  },
+  {
+    "id": "D13_I2.2_Q9",
+    "domainId": 13,
+    "domainTitle": "Keterampilan Kerja Khusus - Etika Psikologi dan Hukum (Pengetahuan hukum)",
+    "indicatorId": "2.2",
+    "indicatorFullId": "D13-2.2",
+    "indicatorTitle": "Mencontohkan peraturan perundangan yang relevan dengan permasalahan psikologis yang terkait hukum sesuai dengan latar layanan",
+    "caseStudy": {
+      "title": "Studi Kasus 9: Pengetahuan dan Penerapan Peraturan Perundang-Undangan dalam Layanan Psikologi (Mencontohkan peraturan perundangan yang relevan dengan permasalahan psikologis yang terkait hukum sesuai dengan latar layanan) (Kasus 9)",
+      "scenario": "Psikolog menghadapi kasus penanganan yang beririsan dengan payung hukum Republik Indonesia (Kasus 9 Indikator 2.2): UU No 23 Tahun 2022 tentang Pendidikan dan Layanan Psikologi (UU PLP), UU Kesehatan No 17 Tahun 2023, UU Perlindungan Anak No 35 Tahun 2014, UU TPKS (Tindak Pidana Kekerasan Seksual) No 12 Tahun 2022, atau UU Sistem Peradilan Pidana Anak (SPPA) No 11 Tahun 2012. Psikolog mengidentifikasi landasan hukum yang berlaku.",
+      "contextTags": [
+        "Pengetahuan Hukum",
+        "UU PLP No 23/2022",
+        "UU TPKS",
+        "UU SPPA",
+        "Mencontohkan peraturan perundangan yang relevan dengan permasalahan psikologis yang terkait hukum sesuai dengan latar layanan"
+      ]
+    },
+    "question": "Peraturan perundang-undangan manakah yang PALING relevan dan menjadi rujukan hukum utama bagi Psikolog dalam konteks kasus tersebut?",
+    "options": [
+      {
+        "id": "A",
+        "text": "UU Hukum Dagang dan Kepabeanan Impor Barang Swasta."
+      },
+      {
+        "id": "B",
+        "text": "Peraturan Perundang-Undangan yang spesifik dan relevan (seperti UU PLP No 23/2022 untuk praktik profesi, UU SPPA No 11/2012 untuk penanganan anak ABH, atau UU TPKS No 12/2022 untuk perlindungan korban kekerasan seksual)."
+      },
+      {
+        "id": "C",
+        "text": "UU Lalu Lintas dan Angkutan Jalan Raya."
+      },
+      {
+        "id": "D",
+        "text": "Peraturan Daerah mengenai Izin Mendirikan Bangunan (IMB)."
+      }
+    ],
+    "key": "B",
+    "explanation": "Praktik profesional psikolog di Indonesia dilindungi dan diatur oleh payung hukum positif: UU PLP No 23/2022 untuk kewenangan praktik, UU SPPA No 11/2012 untuk pendampingan ABH, UU TPKS No 12/2022 untuk hak pemulihan trauma psikologis korban kekerasan seksual, dan UU Kesehatan No 17/2023."
+  },
+  {
+    "id": "D13_I2.2_Q10",
+    "domainId": 13,
+    "domainTitle": "Keterampilan Kerja Khusus - Etika Psikologi dan Hukum (Pengetahuan hukum)",
+    "indicatorId": "2.2",
+    "indicatorFullId": "D13-2.2",
+    "indicatorTitle": "Mencontohkan peraturan perundangan yang relevan dengan permasalahan psikologis yang terkait hukum sesuai dengan latar layanan",
+    "caseStudy": {
+      "title": "Studi Kasus 10: Pengetahuan dan Penerapan Peraturan Perundang-Undangan dalam Layanan Psikologi (Mencontohkan peraturan perundangan yang relevan dengan permasalahan psikologis yang terkait hukum sesuai dengan latar layanan) (Kasus 10)",
+      "scenario": "Psikolog menghadapi kasus penanganan yang beririsan dengan payung hukum Republik Indonesia (Kasus 10 Indikator 2.2): UU No 23 Tahun 2022 tentang Pendidikan dan Layanan Psikologi (UU PLP), UU Kesehatan No 17 Tahun 2023, UU Perlindungan Anak No 35 Tahun 2014, UU TPKS (Tindak Pidana Kekerasan Seksual) No 12 Tahun 2022, atau UU Sistem Peradilan Pidana Anak (SPPA) No 11 Tahun 2012. Psikolog mengidentifikasi landasan hukum yang berlaku.",
+      "contextTags": [
+        "Pengetahuan Hukum",
+        "UU PLP No 23/2022",
+        "UU TPKS",
+        "UU SPPA",
+        "Mencontohkan peraturan perundangan yang relevan dengan permasalahan psikologis yang terkait hukum sesuai dengan latar layanan"
+      ]
+    },
+    "question": "Peraturan perundang-undangan manakah yang PALING relevan dan menjadi rujukan hukum utama bagi Psikolog dalam konteks kasus tersebut?",
+    "options": [
+      {
+        "id": "A",
+        "text": "UU Hukum Dagang dan Kepabeanan Impor Barang Swasta."
+      },
+      {
+        "id": "B",
+        "text": "Peraturan Perundang-Undangan yang spesifik dan relevan (seperti UU PLP No 23/2022 untuk praktik profesi, UU SPPA No 11/2012 untuk penanganan anak ABH, atau UU TPKS No 12/2022 untuk perlindungan korban kekerasan seksual)."
+      },
+      {
+        "id": "C",
+        "text": "UU Lalu Lintas dan Angkutan Jalan Raya."
+      },
+      {
+        "id": "D",
+        "text": "Peraturan Daerah mengenai Izin Mendirikan Bangunan (IMB)."
+      }
+    ],
+    "key": "B",
+    "explanation": "Praktik profesional psikolog di Indonesia dilindungi dan diatur oleh payung hukum positif: UU PLP No 23/2022 untuk kewenangan praktik, UU SPPA No 11/2012 untuk pendampingan ABH, UU TPKS No 12/2022 untuk hak pemulihan trauma psikologis korban kekerasan seksual, dan UU Kesehatan No 17/2023."
+  }
+]

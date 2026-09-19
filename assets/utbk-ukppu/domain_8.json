@@ -1,0 +1,1562 @@
+[
+  {
+    "id": "D8_I1.1_Q1",
+    "domainId": 8,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Membuat kesimpulan/menegakkan diagnosis)",
+    "indicatorId": "1.1",
+    "indicatorFullId": "D8-1.1",
+    "indicatorTitle": "Mengetahui prinsip dasar dalam membuat kesimpulan atau menegakkan diagnosis",
+    "caseStudy": {
+      "title": "Studi Kasus 1: Prinsip Dasar Penegakan Diagnosis Berdasarkan Manual Klasifikasi Standar (DSM-5 / ICD-11) (Kasus 1)",
+      "scenario": "Psikolog klinis memeriksa pasien dengan berbagai keluhan emosional. Psikolog memahami prinsip dasar dalam menegakkan diagnosis klinis formal yang etis dan valid: harus didasarkan pada pemenuhan kriteria diagnostik baku (DSM-5 / ICD-11 / PPDGJ-III), bukti empiris hasil asesmen, serta mempertimbangkan diagnosis banding (differential diagnosis).",
+      "contextTags": [
+        "Prinsip Diagnosis",
+        "DSM-5",
+        "Diagnosis Banding",
+        "Diagnosis Formal"
+      ]
+    },
+    "question": "Manakah yang merupakan prinsip dasar utama dalam menegakkan diagnosis psikologis yang valid dan beretika?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Diagnosis ditegakkan hanya berdasarkan tebakan sepintas tanpa mencocokkan kriteria manual baku."
+      },
+      {
+        "id": "B",
+        "text": "Diagnosis harus didasarkan pada verifikasi bukti asesmen terhadap kriteria manual standar (DSM-5/ICD-11), memperhitungkan durasi/keparahan gejala, serta melakukan evaluasi diagnosis banding."
+      },
+      {
+        "id": "C",
+        "text": "Diagnosis selalu disesuaikan dengan keinginan keluarga agar terlihat tidak menakutkan."
+      },
+      {
+        "id": "D",
+        "text": "Diagnosis hanya boleh diberikan jika pasien sudah berusia di atas 80 tahun."
+      }
+    ],
+    "key": "B",
+    "explanation": "Prinsip dasar penegakan diagnosis psikologis mensyaratkan pencocokan bukti objektif asesmen terhadap manual klasifikasi resmi (DSM-5/ICD-11), analisis kriteria durasi dan disfungsi, serta mempertimbangkan diagnosis banding."
+  },
+  {
+    "id": "D8_I1.1_Q2",
+    "domainId": 8,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Membuat kesimpulan/menegakkan diagnosis)",
+    "indicatorId": "1.1",
+    "indicatorFullId": "D8-1.1",
+    "indicatorTitle": "Mengetahui prinsip dasar dalam membuat kesimpulan atau menegakkan diagnosis",
+    "caseStudy": {
+      "title": "Studi Kasus 2: Prinsip Dasar Penegakan Diagnosis Berdasarkan Manual Klasifikasi Standar (DSM-5 / ICD-11) (Kasus 2)",
+      "scenario": "Psikolog klinis memeriksa pasien dengan berbagai keluhan emosional. Psikolog memahami prinsip dasar dalam menegakkan diagnosis klinis formal yang etis dan valid: harus didasarkan pada pemenuhan kriteria diagnostik baku (DSM-5 / ICD-11 / PPDGJ-III), bukti empiris hasil asesmen, serta mempertimbangkan diagnosis banding (differential diagnosis).",
+      "contextTags": [
+        "Prinsip Diagnosis",
+        "DSM-5",
+        "Diagnosis Banding",
+        "Diagnosis Formal"
+      ]
+    },
+    "question": "Manakah yang merupakan prinsip dasar utama dalam menegakkan diagnosis psikologis yang valid dan beretika?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Diagnosis ditegakkan hanya berdasarkan tebakan sepintas tanpa mencocokkan kriteria manual baku."
+      },
+      {
+        "id": "B",
+        "text": "Diagnosis harus didasarkan pada verifikasi bukti asesmen terhadap kriteria manual standar (DSM-5/ICD-11), memperhitungkan durasi/keparahan gejala, serta melakukan evaluasi diagnosis banding."
+      },
+      {
+        "id": "C",
+        "text": "Diagnosis selalu disesuaikan dengan keinginan keluarga agar terlihat tidak menakutkan."
+      },
+      {
+        "id": "D",
+        "text": "Diagnosis hanya boleh diberikan jika pasien sudah berusia di atas 80 tahun."
+      }
+    ],
+    "key": "B",
+    "explanation": "Prinsip dasar penegakan diagnosis psikologis mensyaratkan pencocokan bukti objektif asesmen terhadap manual klasifikasi resmi (DSM-5/ICD-11), analisis kriteria durasi dan disfungsi, serta mempertimbangkan diagnosis banding."
+  },
+  {
+    "id": "D8_I1.1_Q3",
+    "domainId": 8,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Membuat kesimpulan/menegakkan diagnosis)",
+    "indicatorId": "1.1",
+    "indicatorFullId": "D8-1.1",
+    "indicatorTitle": "Mengetahui prinsip dasar dalam membuat kesimpulan atau menegakkan diagnosis",
+    "caseStudy": {
+      "title": "Studi Kasus 3: Prinsip Dasar Penegakan Diagnosis Berdasarkan Manual Klasifikasi Standar (DSM-5 / ICD-11) (Kasus 3)",
+      "scenario": "Psikolog klinis memeriksa pasien dengan berbagai keluhan emosional. Psikolog memahami prinsip dasar dalam menegakkan diagnosis klinis formal yang etis dan valid: harus didasarkan pada pemenuhan kriteria diagnostik baku (DSM-5 / ICD-11 / PPDGJ-III), bukti empiris hasil asesmen, serta mempertimbangkan diagnosis banding (differential diagnosis).",
+      "contextTags": [
+        "Prinsip Diagnosis",
+        "DSM-5",
+        "Diagnosis Banding",
+        "Diagnosis Formal"
+      ]
+    },
+    "question": "Manakah yang merupakan prinsip dasar utama dalam menegakkan diagnosis psikologis yang valid dan beretika?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Diagnosis ditegakkan hanya berdasarkan tebakan sepintas tanpa mencocokkan kriteria manual baku."
+      },
+      {
+        "id": "B",
+        "text": "Diagnosis harus didasarkan pada verifikasi bukti asesmen terhadap kriteria manual standar (DSM-5/ICD-11), memperhitungkan durasi/keparahan gejala, serta melakukan evaluasi diagnosis banding."
+      },
+      {
+        "id": "C",
+        "text": "Diagnosis selalu disesuaikan dengan keinginan keluarga agar terlihat tidak menakutkan."
+      },
+      {
+        "id": "D",
+        "text": "Diagnosis hanya boleh diberikan jika pasien sudah berusia di atas 80 tahun."
+      }
+    ],
+    "key": "B",
+    "explanation": "Prinsip dasar penegakan diagnosis psikologis mensyaratkan pencocokan bukti objektif asesmen terhadap manual klasifikasi resmi (DSM-5/ICD-11), analisis kriteria durasi dan disfungsi, serta mempertimbangkan diagnosis banding."
+  },
+  {
+    "id": "D8_I1.1_Q4",
+    "domainId": 8,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Membuat kesimpulan/menegakkan diagnosis)",
+    "indicatorId": "1.1",
+    "indicatorFullId": "D8-1.1",
+    "indicatorTitle": "Mengetahui prinsip dasar dalam membuat kesimpulan atau menegakkan diagnosis",
+    "caseStudy": {
+      "title": "Studi Kasus 4: Prinsip Dasar Penegakan Diagnosis Berdasarkan Manual Klasifikasi Standar (DSM-5 / ICD-11) (Kasus 4)",
+      "scenario": "Psikolog klinis memeriksa pasien dengan berbagai keluhan emosional. Psikolog memahami prinsip dasar dalam menegakkan diagnosis klinis formal yang etis dan valid: harus didasarkan pada pemenuhan kriteria diagnostik baku (DSM-5 / ICD-11 / PPDGJ-III), bukti empiris hasil asesmen, serta mempertimbangkan diagnosis banding (differential diagnosis).",
+      "contextTags": [
+        "Prinsip Diagnosis",
+        "DSM-5",
+        "Diagnosis Banding",
+        "Diagnosis Formal"
+      ]
+    },
+    "question": "Manakah yang merupakan prinsip dasar utama dalam menegakkan diagnosis psikologis yang valid dan beretika?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Diagnosis ditegakkan hanya berdasarkan tebakan sepintas tanpa mencocokkan kriteria manual baku."
+      },
+      {
+        "id": "B",
+        "text": "Diagnosis harus didasarkan pada verifikasi bukti asesmen terhadap kriteria manual standar (DSM-5/ICD-11), memperhitungkan durasi/keparahan gejala, serta melakukan evaluasi diagnosis banding."
+      },
+      {
+        "id": "C",
+        "text": "Diagnosis selalu disesuaikan dengan keinginan keluarga agar terlihat tidak menakutkan."
+      },
+      {
+        "id": "D",
+        "text": "Diagnosis hanya boleh diberikan jika pasien sudah berusia di atas 80 tahun."
+      }
+    ],
+    "key": "B",
+    "explanation": "Prinsip dasar penegakan diagnosis psikologis mensyaratkan pencocokan bukti objektif asesmen terhadap manual klasifikasi resmi (DSM-5/ICD-11), analisis kriteria durasi dan disfungsi, serta mempertimbangkan diagnosis banding."
+  },
+  {
+    "id": "D8_I1.1_Q5",
+    "domainId": 8,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Membuat kesimpulan/menegakkan diagnosis)",
+    "indicatorId": "1.1",
+    "indicatorFullId": "D8-1.1",
+    "indicatorTitle": "Mengetahui prinsip dasar dalam membuat kesimpulan atau menegakkan diagnosis",
+    "caseStudy": {
+      "title": "Studi Kasus 5: Prinsip Dasar Penegakan Diagnosis Berdasarkan Manual Klasifikasi Standar (DSM-5 / ICD-11) (Kasus 5)",
+      "scenario": "Psikolog klinis memeriksa pasien dengan berbagai keluhan emosional. Psikolog memahami prinsip dasar dalam menegakkan diagnosis klinis formal yang etis dan valid: harus didasarkan pada pemenuhan kriteria diagnostik baku (DSM-5 / ICD-11 / PPDGJ-III), bukti empiris hasil asesmen, serta mempertimbangkan diagnosis banding (differential diagnosis).",
+      "contextTags": [
+        "Prinsip Diagnosis",
+        "DSM-5",
+        "Diagnosis Banding",
+        "Diagnosis Formal"
+      ]
+    },
+    "question": "Manakah yang merupakan prinsip dasar utama dalam menegakkan diagnosis psikologis yang valid dan beretika?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Diagnosis ditegakkan hanya berdasarkan tebakan sepintas tanpa mencocokkan kriteria manual baku."
+      },
+      {
+        "id": "B",
+        "text": "Diagnosis harus didasarkan pada verifikasi bukti asesmen terhadap kriteria manual standar (DSM-5/ICD-11), memperhitungkan durasi/keparahan gejala, serta melakukan evaluasi diagnosis banding."
+      },
+      {
+        "id": "C",
+        "text": "Diagnosis selalu disesuaikan dengan keinginan keluarga agar terlihat tidak menakutkan."
+      },
+      {
+        "id": "D",
+        "text": "Diagnosis hanya boleh diberikan jika pasien sudah berusia di atas 80 tahun."
+      }
+    ],
+    "key": "B",
+    "explanation": "Prinsip dasar penegakan diagnosis psikologis mensyaratkan pencocokan bukti objektif asesmen terhadap manual klasifikasi resmi (DSM-5/ICD-11), analisis kriteria durasi dan disfungsi, serta mempertimbangkan diagnosis banding."
+  },
+  {
+    "id": "D8_I1.1_Q6",
+    "domainId": 8,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Membuat kesimpulan/menegakkan diagnosis)",
+    "indicatorId": "1.1",
+    "indicatorFullId": "D8-1.1",
+    "indicatorTitle": "Mengetahui prinsip dasar dalam membuat kesimpulan atau menegakkan diagnosis",
+    "caseStudy": {
+      "title": "Studi Kasus 6: Prinsip Dasar Penegakan Diagnosis Berdasarkan Manual Klasifikasi Standar (DSM-5 / ICD-11) (Kasus 6)",
+      "scenario": "Psikolog klinis memeriksa pasien dengan berbagai keluhan emosional. Psikolog memahami prinsip dasar dalam menegakkan diagnosis klinis formal yang etis dan valid: harus didasarkan pada pemenuhan kriteria diagnostik baku (DSM-5 / ICD-11 / PPDGJ-III), bukti empiris hasil asesmen, serta mempertimbangkan diagnosis banding (differential diagnosis).",
+      "contextTags": [
+        "Prinsip Diagnosis",
+        "DSM-5",
+        "Diagnosis Banding",
+        "Diagnosis Formal"
+      ]
+    },
+    "question": "Manakah yang merupakan prinsip dasar utama dalam menegakkan diagnosis psikologis yang valid dan beretika?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Diagnosis ditegakkan hanya berdasarkan tebakan sepintas tanpa mencocokkan kriteria manual baku."
+      },
+      {
+        "id": "B",
+        "text": "Diagnosis harus didasarkan pada verifikasi bukti asesmen terhadap kriteria manual standar (DSM-5/ICD-11), memperhitungkan durasi/keparahan gejala, serta melakukan evaluasi diagnosis banding."
+      },
+      {
+        "id": "C",
+        "text": "Diagnosis selalu disesuaikan dengan keinginan keluarga agar terlihat tidak menakutkan."
+      },
+      {
+        "id": "D",
+        "text": "Diagnosis hanya boleh diberikan jika pasien sudah berusia di atas 80 tahun."
+      }
+    ],
+    "key": "B",
+    "explanation": "Prinsip dasar penegakan diagnosis psikologis mensyaratkan pencocokan bukti objektif asesmen terhadap manual klasifikasi resmi (DSM-5/ICD-11), analisis kriteria durasi dan disfungsi, serta mempertimbangkan diagnosis banding."
+  },
+  {
+    "id": "D8_I1.1_Q7",
+    "domainId": 8,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Membuat kesimpulan/menegakkan diagnosis)",
+    "indicatorId": "1.1",
+    "indicatorFullId": "D8-1.1",
+    "indicatorTitle": "Mengetahui prinsip dasar dalam membuat kesimpulan atau menegakkan diagnosis",
+    "caseStudy": {
+      "title": "Studi Kasus 7: Prinsip Dasar Penegakan Diagnosis Berdasarkan Manual Klasifikasi Standar (DSM-5 / ICD-11) (Kasus 7)",
+      "scenario": "Psikolog klinis memeriksa pasien dengan berbagai keluhan emosional. Psikolog memahami prinsip dasar dalam menegakkan diagnosis klinis formal yang etis dan valid: harus didasarkan pada pemenuhan kriteria diagnostik baku (DSM-5 / ICD-11 / PPDGJ-III), bukti empiris hasil asesmen, serta mempertimbangkan diagnosis banding (differential diagnosis).",
+      "contextTags": [
+        "Prinsip Diagnosis",
+        "DSM-5",
+        "Diagnosis Banding",
+        "Diagnosis Formal"
+      ]
+    },
+    "question": "Manakah yang merupakan prinsip dasar utama dalam menegakkan diagnosis psikologis yang valid dan beretika?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Diagnosis ditegakkan hanya berdasarkan tebakan sepintas tanpa mencocokkan kriteria manual baku."
+      },
+      {
+        "id": "B",
+        "text": "Diagnosis harus didasarkan pada verifikasi bukti asesmen terhadap kriteria manual standar (DSM-5/ICD-11), memperhitungkan durasi/keparahan gejala, serta melakukan evaluasi diagnosis banding."
+      },
+      {
+        "id": "C",
+        "text": "Diagnosis selalu disesuaikan dengan keinginan keluarga agar terlihat tidak menakutkan."
+      },
+      {
+        "id": "D",
+        "text": "Diagnosis hanya boleh diberikan jika pasien sudah berusia di atas 80 tahun."
+      }
+    ],
+    "key": "B",
+    "explanation": "Prinsip dasar penegakan diagnosis psikologis mensyaratkan pencocokan bukti objektif asesmen terhadap manual klasifikasi resmi (DSM-5/ICD-11), analisis kriteria durasi dan disfungsi, serta mempertimbangkan diagnosis banding."
+  },
+  {
+    "id": "D8_I1.1_Q8",
+    "domainId": 8,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Membuat kesimpulan/menegakkan diagnosis)",
+    "indicatorId": "1.1",
+    "indicatorFullId": "D8-1.1",
+    "indicatorTitle": "Mengetahui prinsip dasar dalam membuat kesimpulan atau menegakkan diagnosis",
+    "caseStudy": {
+      "title": "Studi Kasus 8: Prinsip Dasar Penegakan Diagnosis Berdasarkan Manual Klasifikasi Standar (DSM-5 / ICD-11) (Kasus 8)",
+      "scenario": "Psikolog klinis memeriksa pasien dengan berbagai keluhan emosional. Psikolog memahami prinsip dasar dalam menegakkan diagnosis klinis formal yang etis dan valid: harus didasarkan pada pemenuhan kriteria diagnostik baku (DSM-5 / ICD-11 / PPDGJ-III), bukti empiris hasil asesmen, serta mempertimbangkan diagnosis banding (differential diagnosis).",
+      "contextTags": [
+        "Prinsip Diagnosis",
+        "DSM-5",
+        "Diagnosis Banding",
+        "Diagnosis Formal"
+      ]
+    },
+    "question": "Manakah yang merupakan prinsip dasar utama dalam menegakkan diagnosis psikologis yang valid dan beretika?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Diagnosis ditegakkan hanya berdasarkan tebakan sepintas tanpa mencocokkan kriteria manual baku."
+      },
+      {
+        "id": "B",
+        "text": "Diagnosis harus didasarkan pada verifikasi bukti asesmen terhadap kriteria manual standar (DSM-5/ICD-11), memperhitungkan durasi/keparahan gejala, serta melakukan evaluasi diagnosis banding."
+      },
+      {
+        "id": "C",
+        "text": "Diagnosis selalu disesuaikan dengan keinginan keluarga agar terlihat tidak menakutkan."
+      },
+      {
+        "id": "D",
+        "text": "Diagnosis hanya boleh diberikan jika pasien sudah berusia di atas 80 tahun."
+      }
+    ],
+    "key": "B",
+    "explanation": "Prinsip dasar penegakan diagnosis psikologis mensyaratkan pencocokan bukti objektif asesmen terhadap manual klasifikasi resmi (DSM-5/ICD-11), analisis kriteria durasi dan disfungsi, serta mempertimbangkan diagnosis banding."
+  },
+  {
+    "id": "D8_I1.1_Q9",
+    "domainId": 8,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Membuat kesimpulan/menegakkan diagnosis)",
+    "indicatorId": "1.1",
+    "indicatorFullId": "D8-1.1",
+    "indicatorTitle": "Mengetahui prinsip dasar dalam membuat kesimpulan atau menegakkan diagnosis",
+    "caseStudy": {
+      "title": "Studi Kasus 9: Prinsip Dasar Penegakan Diagnosis Berdasarkan Manual Klasifikasi Standar (DSM-5 / ICD-11) (Kasus 9)",
+      "scenario": "Psikolog klinis memeriksa pasien dengan berbagai keluhan emosional. Psikolog memahami prinsip dasar dalam menegakkan diagnosis klinis formal yang etis dan valid: harus didasarkan pada pemenuhan kriteria diagnostik baku (DSM-5 / ICD-11 / PPDGJ-III), bukti empiris hasil asesmen, serta mempertimbangkan diagnosis banding (differential diagnosis).",
+      "contextTags": [
+        "Prinsip Diagnosis",
+        "DSM-5",
+        "Diagnosis Banding",
+        "Diagnosis Formal"
+      ]
+    },
+    "question": "Manakah yang merupakan prinsip dasar utama dalam menegakkan diagnosis psikologis yang valid dan beretika?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Diagnosis ditegakkan hanya berdasarkan tebakan sepintas tanpa mencocokkan kriteria manual baku."
+      },
+      {
+        "id": "B",
+        "text": "Diagnosis harus didasarkan pada verifikasi bukti asesmen terhadap kriteria manual standar (DSM-5/ICD-11), memperhitungkan durasi/keparahan gejala, serta melakukan evaluasi diagnosis banding."
+      },
+      {
+        "id": "C",
+        "text": "Diagnosis selalu disesuaikan dengan keinginan keluarga agar terlihat tidak menakutkan."
+      },
+      {
+        "id": "D",
+        "text": "Diagnosis hanya boleh diberikan jika pasien sudah berusia di atas 80 tahun."
+      }
+    ],
+    "key": "B",
+    "explanation": "Prinsip dasar penegakan diagnosis psikologis mensyaratkan pencocokan bukti objektif asesmen terhadap manual klasifikasi resmi (DSM-5/ICD-11), analisis kriteria durasi dan disfungsi, serta mempertimbangkan diagnosis banding."
+  },
+  {
+    "id": "D8_I1.1_Q10",
+    "domainId": 8,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Membuat kesimpulan/menegakkan diagnosis)",
+    "indicatorId": "1.1",
+    "indicatorFullId": "D8-1.1",
+    "indicatorTitle": "Mengetahui prinsip dasar dalam membuat kesimpulan atau menegakkan diagnosis",
+    "caseStudy": {
+      "title": "Studi Kasus 10: Prinsip Dasar Penegakan Diagnosis Berdasarkan Manual Klasifikasi Standar (DSM-5 / ICD-11) (Kasus 10)",
+      "scenario": "Psikolog klinis memeriksa pasien dengan berbagai keluhan emosional. Psikolog memahami prinsip dasar dalam menegakkan diagnosis klinis formal yang etis dan valid: harus didasarkan pada pemenuhan kriteria diagnostik baku (DSM-5 / ICD-11 / PPDGJ-III), bukti empiris hasil asesmen, serta mempertimbangkan diagnosis banding (differential diagnosis).",
+      "contextTags": [
+        "Prinsip Diagnosis",
+        "DSM-5",
+        "Diagnosis Banding",
+        "Diagnosis Formal"
+      ]
+    },
+    "question": "Manakah yang merupakan prinsip dasar utama dalam menegakkan diagnosis psikologis yang valid dan beretika?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Diagnosis ditegakkan hanya berdasarkan tebakan sepintas tanpa mencocokkan kriteria manual baku."
+      },
+      {
+        "id": "B",
+        "text": "Diagnosis harus didasarkan pada verifikasi bukti asesmen terhadap kriteria manual standar (DSM-5/ICD-11), memperhitungkan durasi/keparahan gejala, serta melakukan evaluasi diagnosis banding."
+      },
+      {
+        "id": "C",
+        "text": "Diagnosis selalu disesuaikan dengan keinginan keluarga agar terlihat tidak menakutkan."
+      },
+      {
+        "id": "D",
+        "text": "Diagnosis hanya boleh diberikan jika pasien sudah berusia di atas 80 tahun."
+      }
+    ],
+    "key": "B",
+    "explanation": "Prinsip dasar penegakan diagnosis psikologis mensyaratkan pencocokan bukti objektif asesmen terhadap manual klasifikasi resmi (DSM-5/ICD-11), analisis kriteria durasi dan disfungsi, serta mempertimbangkan diagnosis banding."
+  },
+  {
+    "id": "D8_I1.2_Q1",
+    "domainId": 8,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Membuat kesimpulan/menegakkan diagnosis)",
+    "indicatorId": "1.2",
+    "indicatorFullId": "D8-1.2",
+    "indicatorTitle": "Membuat kesimpulan atau menegakkan diagnosis berdasarkan hasil asesmen dan teori psikologi yang sesuai (humanistik, atau perilakuan, atau kognitif perilakuan)",
+    "caseStudy": {
+      "title": "Studi Kasus 1: Penegakan Diagnosis Berdasarkan Teori Kognitif Perilakuan (CBT) pada Kasus Agorafobia (Kasus 1)",
+      "scenario": "Klien Sdr. Kurnia (31 tahun) mengalami kecemasan hebat dan serangan panik setiap berada di tempat umum atau keramaian terbuka (pasar/mall) karena takut tidak bisa melarikan diri jika terjadi kepanikan. Hasil asesmen menunjukkan adanya keyakinan catastrophizing kognitif dan perilaku menghindar (avoidance). Psikolog menegakkan kesimpulan diagnosis berbasis teori CBT.",
+      "contextTags": [
+        "Diagnosis CBT",
+        "Agorafobia",
+        "Catastrophizing",
+        "Kesimpulan Klinis"
+      ]
+    },
+    "question": "Kesimpulan diagnosis manakah yang PALING akurat berdasarkan temuan kriteria tersebut?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Gangguan Kepribadian Skizoid."
+      },
+      {
+        "id": "B",
+        "text": "Agorafobia (Agoraphobia) dengan konseptualisasi kognitif-perilakuan berupa penilaian katastropik dan mekanisme penghindaran agorafobik."
+      },
+      {
+        "id": "C",
+        "text": "Gangguan Bipolar I Episode Manik."
+      },
+      {
+        "id": "D",
+        "text": "Kelelahan fisik biasa tanpa indikasi psikologis."
+      }
+    ],
+    "key": "B",
+    "explanation": "Penegakan diagnosis Agorafobia berbasis CBT mengintegrasikan pemenuhan kriteria DSM-5 (ketakutan tempat terbuka/keramaian) dengan analisis pola kognitif katastropik dan avoidance."
+  },
+  {
+    "id": "D8_I1.2_Q2",
+    "domainId": 8,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Membuat kesimpulan/menegakkan diagnosis)",
+    "indicatorId": "1.2",
+    "indicatorFullId": "D8-1.2",
+    "indicatorTitle": "Membuat kesimpulan atau menegakkan diagnosis berdasarkan hasil asesmen dan teori psikologi yang sesuai (humanistik, atau perilakuan, atau kognitif perilakuan)",
+    "caseStudy": {
+      "title": "Studi Kasus 2: Penegakan Diagnosis Berdasarkan Teori Kognitif Perilakuan (CBT) pada Kasus Agorafobia (Kasus 2)",
+      "scenario": "Klien Sdr. Kurnia (31 tahun) mengalami kecemasan hebat dan serangan panik setiap berada di tempat umum atau keramaian terbuka (pasar/mall) karena takut tidak bisa melarikan diri jika terjadi kepanikan. Hasil asesmen menunjukkan adanya keyakinan catastrophizing kognitif dan perilaku menghindar (avoidance). Psikolog menegakkan kesimpulan diagnosis berbasis teori CBT.",
+      "contextTags": [
+        "Diagnosis CBT",
+        "Agorafobia",
+        "Catastrophizing",
+        "Kesimpulan Klinis"
+      ]
+    },
+    "question": "Kesimpulan diagnosis manakah yang PALING akurat berdasarkan temuan kriteria tersebut?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Gangguan Kepribadian Skizoid."
+      },
+      {
+        "id": "B",
+        "text": "Agorafobia (Agoraphobia) dengan konseptualisasi kognitif-perilakuan berupa penilaian katastropik dan mekanisme penghindaran agorafobik."
+      },
+      {
+        "id": "C",
+        "text": "Gangguan Bipolar I Episode Manik."
+      },
+      {
+        "id": "D",
+        "text": "Kelelahan fisik biasa tanpa indikasi psikologis."
+      }
+    ],
+    "key": "B",
+    "explanation": "Penegakan diagnosis Agorafobia berbasis CBT mengintegrasikan pemenuhan kriteria DSM-5 (ketakutan tempat terbuka/keramaian) dengan analisis pola kognitif katastropik dan avoidance."
+  },
+  {
+    "id": "D8_I1.2_Q3",
+    "domainId": 8,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Membuat kesimpulan/menegakkan diagnosis)",
+    "indicatorId": "1.2",
+    "indicatorFullId": "D8-1.2",
+    "indicatorTitle": "Membuat kesimpulan atau menegakkan diagnosis berdasarkan hasil asesmen dan teori psikologi yang sesuai (humanistik, atau perilakuan, atau kognitif perilakuan)",
+    "caseStudy": {
+      "title": "Studi Kasus 3: Penegakan Diagnosis Berdasarkan Teori Kognitif Perilakuan (CBT) pada Kasus Agorafobia (Kasus 3)",
+      "scenario": "Klien Sdr. Kurnia (31 tahun) mengalami kecemasan hebat dan serangan panik setiap berada di tempat umum atau keramaian terbuka (pasar/mall) karena takut tidak bisa melarikan diri jika terjadi kepanikan. Hasil asesmen menunjukkan adanya keyakinan catastrophizing kognitif dan perilaku menghindar (avoidance). Psikolog menegakkan kesimpulan diagnosis berbasis teori CBT.",
+      "contextTags": [
+        "Diagnosis CBT",
+        "Agorafobia",
+        "Catastrophizing",
+        "Kesimpulan Klinis"
+      ]
+    },
+    "question": "Kesimpulan diagnosis manakah yang PALING akurat berdasarkan temuan kriteria tersebut?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Gangguan Kepribadian Skizoid."
+      },
+      {
+        "id": "B",
+        "text": "Agorafobia (Agoraphobia) dengan konseptualisasi kognitif-perilakuan berupa penilaian katastropik dan mekanisme penghindaran agorafobik."
+      },
+      {
+        "id": "C",
+        "text": "Gangguan Bipolar I Episode Manik."
+      },
+      {
+        "id": "D",
+        "text": "Kelelahan fisik biasa tanpa indikasi psikologis."
+      }
+    ],
+    "key": "B",
+    "explanation": "Penegakan diagnosis Agorafobia berbasis CBT mengintegrasikan pemenuhan kriteria DSM-5 (ketakutan tempat terbuka/keramaian) dengan analisis pola kognitif katastropik dan avoidance."
+  },
+  {
+    "id": "D8_I1.2_Q4",
+    "domainId": 8,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Membuat kesimpulan/menegakkan diagnosis)",
+    "indicatorId": "1.2",
+    "indicatorFullId": "D8-1.2",
+    "indicatorTitle": "Membuat kesimpulan atau menegakkan diagnosis berdasarkan hasil asesmen dan teori psikologi yang sesuai (humanistik, atau perilakuan, atau kognitif perilakuan)",
+    "caseStudy": {
+      "title": "Studi Kasus 4: Penegakan Diagnosis Berdasarkan Teori Kognitif Perilakuan (CBT) pada Kasus Agorafobia (Kasus 4)",
+      "scenario": "Klien Sdr. Kurnia (31 tahun) mengalami kecemasan hebat dan serangan panik setiap berada di tempat umum atau keramaian terbuka (pasar/mall) karena takut tidak bisa melarikan diri jika terjadi kepanikan. Hasil asesmen menunjukkan adanya keyakinan catastrophizing kognitif dan perilaku menghindar (avoidance). Psikolog menegakkan kesimpulan diagnosis berbasis teori CBT.",
+      "contextTags": [
+        "Diagnosis CBT",
+        "Agorafobia",
+        "Catastrophizing",
+        "Kesimpulan Klinis"
+      ]
+    },
+    "question": "Kesimpulan diagnosis manakah yang PALING akurat berdasarkan temuan kriteria tersebut?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Gangguan Kepribadian Skizoid."
+      },
+      {
+        "id": "B",
+        "text": "Agorafobia (Agoraphobia) dengan konseptualisasi kognitif-perilakuan berupa penilaian katastropik dan mekanisme penghindaran agorafobik."
+      },
+      {
+        "id": "C",
+        "text": "Gangguan Bipolar I Episode Manik."
+      },
+      {
+        "id": "D",
+        "text": "Kelelahan fisik biasa tanpa indikasi psikologis."
+      }
+    ],
+    "key": "B",
+    "explanation": "Penegakan diagnosis Agorafobia berbasis CBT mengintegrasikan pemenuhan kriteria DSM-5 (ketakutan tempat terbuka/keramaian) dengan analisis pola kognitif katastropik dan avoidance."
+  },
+  {
+    "id": "D8_I1.2_Q5",
+    "domainId": 8,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Membuat kesimpulan/menegakkan diagnosis)",
+    "indicatorId": "1.2",
+    "indicatorFullId": "D8-1.2",
+    "indicatorTitle": "Membuat kesimpulan atau menegakkan diagnosis berdasarkan hasil asesmen dan teori psikologi yang sesuai (humanistik, atau perilakuan, atau kognitif perilakuan)",
+    "caseStudy": {
+      "title": "Studi Kasus 5: Penegakan Diagnosis Berdasarkan Teori Kognitif Perilakuan (CBT) pada Kasus Agorafobia (Kasus 5)",
+      "scenario": "Klien Sdr. Kurnia (31 tahun) mengalami kecemasan hebat dan serangan panik setiap berada di tempat umum atau keramaian terbuka (pasar/mall) karena takut tidak bisa melarikan diri jika terjadi kepanikan. Hasil asesmen menunjukkan adanya keyakinan catastrophizing kognitif dan perilaku menghindar (avoidance). Psikolog menegakkan kesimpulan diagnosis berbasis teori CBT.",
+      "contextTags": [
+        "Diagnosis CBT",
+        "Agorafobia",
+        "Catastrophizing",
+        "Kesimpulan Klinis"
+      ]
+    },
+    "question": "Kesimpulan diagnosis manakah yang PALING akurat berdasarkan temuan kriteria tersebut?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Gangguan Kepribadian Skizoid."
+      },
+      {
+        "id": "B",
+        "text": "Agorafobia (Agoraphobia) dengan konseptualisasi kognitif-perilakuan berupa penilaian katastropik dan mekanisme penghindaran agorafobik."
+      },
+      {
+        "id": "C",
+        "text": "Gangguan Bipolar I Episode Manik."
+      },
+      {
+        "id": "D",
+        "text": "Kelelahan fisik biasa tanpa indikasi psikologis."
+      }
+    ],
+    "key": "B",
+    "explanation": "Penegakan diagnosis Agorafobia berbasis CBT mengintegrasikan pemenuhan kriteria DSM-5 (ketakutan tempat terbuka/keramaian) dengan analisis pola kognitif katastropik dan avoidance."
+  },
+  {
+    "id": "D8_I1.2_Q6",
+    "domainId": 8,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Membuat kesimpulan/menegakkan diagnosis)",
+    "indicatorId": "1.2",
+    "indicatorFullId": "D8-1.2",
+    "indicatorTitle": "Membuat kesimpulan atau menegakkan diagnosis berdasarkan hasil asesmen dan teori psikologi yang sesuai (humanistik, atau perilakuan, atau kognitif perilakuan)",
+    "caseStudy": {
+      "title": "Studi Kasus 6: Penegakan Diagnosis Berdasarkan Teori Kognitif Perilakuan (CBT) pada Kasus Agorafobia (Kasus 6)",
+      "scenario": "Klien Sdr. Kurnia (31 tahun) mengalami kecemasan hebat dan serangan panik setiap berada di tempat umum atau keramaian terbuka (pasar/mall) karena takut tidak bisa melarikan diri jika terjadi kepanikan. Hasil asesmen menunjukkan adanya keyakinan catastrophizing kognitif dan perilaku menghindar (avoidance). Psikolog menegakkan kesimpulan diagnosis berbasis teori CBT.",
+      "contextTags": [
+        "Diagnosis CBT",
+        "Agorafobia",
+        "Catastrophizing",
+        "Kesimpulan Klinis"
+      ]
+    },
+    "question": "Kesimpulan diagnosis manakah yang PALING akurat berdasarkan temuan kriteria tersebut?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Gangguan Kepribadian Skizoid."
+      },
+      {
+        "id": "B",
+        "text": "Agorafobia (Agoraphobia) dengan konseptualisasi kognitif-perilakuan berupa penilaian katastropik dan mekanisme penghindaran agorafobik."
+      },
+      {
+        "id": "C",
+        "text": "Gangguan Bipolar I Episode Manik."
+      },
+      {
+        "id": "D",
+        "text": "Kelelahan fisik biasa tanpa indikasi psikologis."
+      }
+    ],
+    "key": "B",
+    "explanation": "Penegakan diagnosis Agorafobia berbasis CBT mengintegrasikan pemenuhan kriteria DSM-5 (ketakutan tempat terbuka/keramaian) dengan analisis pola kognitif katastropik dan avoidance."
+  },
+  {
+    "id": "D8_I1.2_Q7",
+    "domainId": 8,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Membuat kesimpulan/menegakkan diagnosis)",
+    "indicatorId": "1.2",
+    "indicatorFullId": "D8-1.2",
+    "indicatorTitle": "Membuat kesimpulan atau menegakkan diagnosis berdasarkan hasil asesmen dan teori psikologi yang sesuai (humanistik, atau perilakuan, atau kognitif perilakuan)",
+    "caseStudy": {
+      "title": "Studi Kasus 7: Penegakan Diagnosis Berdasarkan Teori Kognitif Perilakuan (CBT) pada Kasus Agorafobia (Kasus 7)",
+      "scenario": "Klien Sdr. Kurnia (31 tahun) mengalami kecemasan hebat dan serangan panik setiap berada di tempat umum atau keramaian terbuka (pasar/mall) karena takut tidak bisa melarikan diri jika terjadi kepanikan. Hasil asesmen menunjukkan adanya keyakinan catastrophizing kognitif dan perilaku menghindar (avoidance). Psikolog menegakkan kesimpulan diagnosis berbasis teori CBT.",
+      "contextTags": [
+        "Diagnosis CBT",
+        "Agorafobia",
+        "Catastrophizing",
+        "Kesimpulan Klinis"
+      ]
+    },
+    "question": "Kesimpulan diagnosis manakah yang PALING akurat berdasarkan temuan kriteria tersebut?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Gangguan Kepribadian Skizoid."
+      },
+      {
+        "id": "B",
+        "text": "Agorafobia (Agoraphobia) dengan konseptualisasi kognitif-perilakuan berupa penilaian katastropik dan mekanisme penghindaran agorafobik."
+      },
+      {
+        "id": "C",
+        "text": "Gangguan Bipolar I Episode Manik."
+      },
+      {
+        "id": "D",
+        "text": "Kelelahan fisik biasa tanpa indikasi psikologis."
+      }
+    ],
+    "key": "B",
+    "explanation": "Penegakan diagnosis Agorafobia berbasis CBT mengintegrasikan pemenuhan kriteria DSM-5 (ketakutan tempat terbuka/keramaian) dengan analisis pola kognitif katastropik dan avoidance."
+  },
+  {
+    "id": "D8_I1.2_Q8",
+    "domainId": 8,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Membuat kesimpulan/menegakkan diagnosis)",
+    "indicatorId": "1.2",
+    "indicatorFullId": "D8-1.2",
+    "indicatorTitle": "Membuat kesimpulan atau menegakkan diagnosis berdasarkan hasil asesmen dan teori psikologi yang sesuai (humanistik, atau perilakuan, atau kognitif perilakuan)",
+    "caseStudy": {
+      "title": "Studi Kasus 8: Penegakan Diagnosis Berdasarkan Teori Kognitif Perilakuan (CBT) pada Kasus Agorafobia (Kasus 8)",
+      "scenario": "Klien Sdr. Kurnia (31 tahun) mengalami kecemasan hebat dan serangan panik setiap berada di tempat umum atau keramaian terbuka (pasar/mall) karena takut tidak bisa melarikan diri jika terjadi kepanikan. Hasil asesmen menunjukkan adanya keyakinan catastrophizing kognitif dan perilaku menghindar (avoidance). Psikolog menegakkan kesimpulan diagnosis berbasis teori CBT.",
+      "contextTags": [
+        "Diagnosis CBT",
+        "Agorafobia",
+        "Catastrophizing",
+        "Kesimpulan Klinis"
+      ]
+    },
+    "question": "Kesimpulan diagnosis manakah yang PALING akurat berdasarkan temuan kriteria tersebut?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Gangguan Kepribadian Skizoid."
+      },
+      {
+        "id": "B",
+        "text": "Agorafobia (Agoraphobia) dengan konseptualisasi kognitif-perilakuan berupa penilaian katastropik dan mekanisme penghindaran agorafobik."
+      },
+      {
+        "id": "C",
+        "text": "Gangguan Bipolar I Episode Manik."
+      },
+      {
+        "id": "D",
+        "text": "Kelelahan fisik biasa tanpa indikasi psikologis."
+      }
+    ],
+    "key": "B",
+    "explanation": "Penegakan diagnosis Agorafobia berbasis CBT mengintegrasikan pemenuhan kriteria DSM-5 (ketakutan tempat terbuka/keramaian) dengan analisis pola kognitif katastropik dan avoidance."
+  },
+  {
+    "id": "D8_I1.2_Q9",
+    "domainId": 8,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Membuat kesimpulan/menegakkan diagnosis)",
+    "indicatorId": "1.2",
+    "indicatorFullId": "D8-1.2",
+    "indicatorTitle": "Membuat kesimpulan atau menegakkan diagnosis berdasarkan hasil asesmen dan teori psikologi yang sesuai (humanistik, atau perilakuan, atau kognitif perilakuan)",
+    "caseStudy": {
+      "title": "Studi Kasus 9: Penegakan Diagnosis Berdasarkan Teori Kognitif Perilakuan (CBT) pada Kasus Agorafobia (Kasus 9)",
+      "scenario": "Klien Sdr. Kurnia (31 tahun) mengalami kecemasan hebat dan serangan panik setiap berada di tempat umum atau keramaian terbuka (pasar/mall) karena takut tidak bisa melarikan diri jika terjadi kepanikan. Hasil asesmen menunjukkan adanya keyakinan catastrophizing kognitif dan perilaku menghindar (avoidance). Psikolog menegakkan kesimpulan diagnosis berbasis teori CBT.",
+      "contextTags": [
+        "Diagnosis CBT",
+        "Agorafobia",
+        "Catastrophizing",
+        "Kesimpulan Klinis"
+      ]
+    },
+    "question": "Kesimpulan diagnosis manakah yang PALING akurat berdasarkan temuan kriteria tersebut?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Gangguan Kepribadian Skizoid."
+      },
+      {
+        "id": "B",
+        "text": "Agorafobia (Agoraphobia) dengan konseptualisasi kognitif-perilakuan berupa penilaian katastropik dan mekanisme penghindaran agorafobik."
+      },
+      {
+        "id": "C",
+        "text": "Gangguan Bipolar I Episode Manik."
+      },
+      {
+        "id": "D",
+        "text": "Kelelahan fisik biasa tanpa indikasi psikologis."
+      }
+    ],
+    "key": "B",
+    "explanation": "Penegakan diagnosis Agorafobia berbasis CBT mengintegrasikan pemenuhan kriteria DSM-5 (ketakutan tempat terbuka/keramaian) dengan analisis pola kognitif katastropik dan avoidance."
+  },
+  {
+    "id": "D8_I1.2_Q10",
+    "domainId": 8,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Membuat kesimpulan/menegakkan diagnosis)",
+    "indicatorId": "1.2",
+    "indicatorFullId": "D8-1.2",
+    "indicatorTitle": "Membuat kesimpulan atau menegakkan diagnosis berdasarkan hasil asesmen dan teori psikologi yang sesuai (humanistik, atau perilakuan, atau kognitif perilakuan)",
+    "caseStudy": {
+      "title": "Studi Kasus 10: Penegakan Diagnosis Berdasarkan Teori Kognitif Perilakuan (CBT) pada Kasus Agorafobia (Kasus 10)",
+      "scenario": "Klien Sdr. Kurnia (31 tahun) mengalami kecemasan hebat dan serangan panik setiap berada di tempat umum atau keramaian terbuka (pasar/mall) karena takut tidak bisa melarikan diri jika terjadi kepanikan. Hasil asesmen menunjukkan adanya keyakinan catastrophizing kognitif dan perilaku menghindar (avoidance). Psikolog menegakkan kesimpulan diagnosis berbasis teori CBT.",
+      "contextTags": [
+        "Diagnosis CBT",
+        "Agorafobia",
+        "Catastrophizing",
+        "Kesimpulan Klinis"
+      ]
+    },
+    "question": "Kesimpulan diagnosis manakah yang PALING akurat berdasarkan temuan kriteria tersebut?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Gangguan Kepribadian Skizoid."
+      },
+      {
+        "id": "B",
+        "text": "Agorafobia (Agoraphobia) dengan konseptualisasi kognitif-perilakuan berupa penilaian katastropik dan mekanisme penghindaran agorafobik."
+      },
+      {
+        "id": "C",
+        "text": "Gangguan Bipolar I Episode Manik."
+      },
+      {
+        "id": "D",
+        "text": "Kelelahan fisik biasa tanpa indikasi psikologis."
+      }
+    ],
+    "key": "B",
+    "explanation": "Penegakan diagnosis Agorafobia berbasis CBT mengintegrasikan pemenuhan kriteria DSM-5 (ketakutan tempat terbuka/keramaian) dengan analisis pola kognitif katastropik dan avoidance."
+  },
+  {
+    "id": "D8_I1.3_Q1",
+    "domainId": 8,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Membuat kesimpulan/menegakkan diagnosis)",
+    "indicatorId": "1.3",
+    "indicatorFullId": "D8-1.3",
+    "indicatorTitle": "Membandingkan berbagai gejala dan fungsi psikologis untuk membuat kesimpulan atau menegakkan diagnosis",
+    "caseStudy": {
+      "title": "Studi Kasus 1: Membandingkan Gejala Klinis untuk Penegakan Diagnosis Banding (Differential Diagnosis) Depresi vs Bipolar (Kasus 1)",
+      "scenario": "Klien Sdri. Laras (26 tahun) datang dengan episode depresi berat saat ini. Namun wawancara mendalam dan allo-anamnesis keluarga mengungkap bahwa 1 tahun lalu Sdri. Laras pernah mengalami periode 2 minggu di mana ia hanya tidur 2 jam sehari, sangat euforia, bicara cepat tak terhenti (flight of ideas), dan melakukan belanja impulsif hingga membuang uang puluhan juta. Psikolog membandingkan gejala untuk menetapkan diagnosis banding.",
+      "contextTags": [
+        "Diagnosis Banding",
+        "Bipolar I",
+        "Depresi Mayor",
+        "Differential Diagnosis"
+      ]
+    },
+    "question": "Berdasarkan perbandingan gejala historis tersebut, diagnosis manakah yang PALING TEPAT ditegakkan bagi Sdri. Laras?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Gangguan Depresi Mayor Tunggal (Unipolar Depression)."
+      },
+      {
+        "id": "B",
+        "text": "Gangguan Bipolar I (Bipolar I Disorder), karena adanya riwayat episode manik yang jelas di masa lalu meskipun saat ini klien sedang dalam episode depresi."
+      },
+      {
+        "id": "C",
+        "text": "Gangguan Kecemasan Terpisah (Separation Anxiety)."
+      },
+      {
+        "id": "D",
+        "text": "Gangguan Anoreksia Nervosa."
+      }
+    ],
+    "key": "B",
+    "explanation": "Diagnosis banding yang cermat membedakan Unipolar Depression dari Bipolar I Disorder. Adanya setidaknya satu episode manik di masa lalu (euforia, flight of ideas, berkurangnya kebutuhan tidur) mengubah diagnosis menjadi Gangguan Bipolar I."
+  },
+  {
+    "id": "D8_I1.3_Q2",
+    "domainId": 8,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Membuat kesimpulan/menegakkan diagnosis)",
+    "indicatorId": "1.3",
+    "indicatorFullId": "D8-1.3",
+    "indicatorTitle": "Membandingkan berbagai gejala dan fungsi psikologis untuk membuat kesimpulan atau menegakkan diagnosis",
+    "caseStudy": {
+      "title": "Studi Kasus 2: Membandingkan Gejala Klinis untuk Penegakan Diagnosis Banding (Differential Diagnosis) Depresi vs Bipolar (Kasus 2)",
+      "scenario": "Klien Sdri. Laras (26 tahun) datang dengan episode depresi berat saat ini. Namun wawancara mendalam dan allo-anamnesis keluarga mengungkap bahwa 1 tahun lalu Sdri. Laras pernah mengalami periode 2 minggu di mana ia hanya tidur 2 jam sehari, sangat euforia, bicara cepat tak terhenti (flight of ideas), dan melakukan belanja impulsif hingga membuang uang puluhan juta. Psikolog membandingkan gejala untuk menetapkan diagnosis banding.",
+      "contextTags": [
+        "Diagnosis Banding",
+        "Bipolar I",
+        "Depresi Mayor",
+        "Differential Diagnosis"
+      ]
+    },
+    "question": "Berdasarkan perbandingan gejala historis tersebut, diagnosis manakah yang PALING TEPAT ditegakkan bagi Sdri. Laras?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Gangguan Depresi Mayor Tunggal (Unipolar Depression)."
+      },
+      {
+        "id": "B",
+        "text": "Gangguan Bipolar I (Bipolar I Disorder), karena adanya riwayat episode manik yang jelas di masa lalu meskipun saat ini klien sedang dalam episode depresi."
+      },
+      {
+        "id": "C",
+        "text": "Gangguan Kecemasan Terpisah (Separation Anxiety)."
+      },
+      {
+        "id": "D",
+        "text": "Gangguan Anoreksia Nervosa."
+      }
+    ],
+    "key": "B",
+    "explanation": "Diagnosis banding yang cermat membedakan Unipolar Depression dari Bipolar I Disorder. Adanya setidaknya satu episode manik di masa lalu (euforia, flight of ideas, berkurangnya kebutuhan tidur) mengubah diagnosis menjadi Gangguan Bipolar I."
+  },
+  {
+    "id": "D8_I1.3_Q3",
+    "domainId": 8,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Membuat kesimpulan/menegakkan diagnosis)",
+    "indicatorId": "1.3",
+    "indicatorFullId": "D8-1.3",
+    "indicatorTitle": "Membandingkan berbagai gejala dan fungsi psikologis untuk membuat kesimpulan atau menegakkan diagnosis",
+    "caseStudy": {
+      "title": "Studi Kasus 3: Membandingkan Gejala Klinis untuk Penegakan Diagnosis Banding (Differential Diagnosis) Depresi vs Bipolar (Kasus 3)",
+      "scenario": "Klien Sdri. Laras (26 tahun) datang dengan episode depresi berat saat ini. Namun wawancara mendalam dan allo-anamnesis keluarga mengungkap bahwa 1 tahun lalu Sdri. Laras pernah mengalami periode 2 minggu di mana ia hanya tidur 2 jam sehari, sangat euforia, bicara cepat tak terhenti (flight of ideas), dan melakukan belanja impulsif hingga membuang uang puluhan juta. Psikolog membandingkan gejala untuk menetapkan diagnosis banding.",
+      "contextTags": [
+        "Diagnosis Banding",
+        "Bipolar I",
+        "Depresi Mayor",
+        "Differential Diagnosis"
+      ]
+    },
+    "question": "Berdasarkan perbandingan gejala historis tersebut, diagnosis manakah yang PALING TEPAT ditegakkan bagi Sdri. Laras?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Gangguan Depresi Mayor Tunggal (Unipolar Depression)."
+      },
+      {
+        "id": "B",
+        "text": "Gangguan Bipolar I (Bipolar I Disorder), karena adanya riwayat episode manik yang jelas di masa lalu meskipun saat ini klien sedang dalam episode depresi."
+      },
+      {
+        "id": "C",
+        "text": "Gangguan Kecemasan Terpisah (Separation Anxiety)."
+      },
+      {
+        "id": "D",
+        "text": "Gangguan Anoreksia Nervosa."
+      }
+    ],
+    "key": "B",
+    "explanation": "Diagnosis banding yang cermat membedakan Unipolar Depression dari Bipolar I Disorder. Adanya setidaknya satu episode manik di masa lalu (euforia, flight of ideas, berkurangnya kebutuhan tidur) mengubah diagnosis menjadi Gangguan Bipolar I."
+  },
+  {
+    "id": "D8_I1.3_Q4",
+    "domainId": 8,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Membuat kesimpulan/menegakkan diagnosis)",
+    "indicatorId": "1.3",
+    "indicatorFullId": "D8-1.3",
+    "indicatorTitle": "Membandingkan berbagai gejala dan fungsi psikologis untuk membuat kesimpulan atau menegakkan diagnosis",
+    "caseStudy": {
+      "title": "Studi Kasus 4: Membandingkan Gejala Klinis untuk Penegakan Diagnosis Banding (Differential Diagnosis) Depresi vs Bipolar (Kasus 4)",
+      "scenario": "Klien Sdri. Laras (26 tahun) datang dengan episode depresi berat saat ini. Namun wawancara mendalam dan allo-anamnesis keluarga mengungkap bahwa 1 tahun lalu Sdri. Laras pernah mengalami periode 2 minggu di mana ia hanya tidur 2 jam sehari, sangat euforia, bicara cepat tak terhenti (flight of ideas), dan melakukan belanja impulsif hingga membuang uang puluhan juta. Psikolog membandingkan gejala untuk menetapkan diagnosis banding.",
+      "contextTags": [
+        "Diagnosis Banding",
+        "Bipolar I",
+        "Depresi Mayor",
+        "Differential Diagnosis"
+      ]
+    },
+    "question": "Berdasarkan perbandingan gejala historis tersebut, diagnosis manakah yang PALING TEPAT ditegakkan bagi Sdri. Laras?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Gangguan Depresi Mayor Tunggal (Unipolar Depression)."
+      },
+      {
+        "id": "B",
+        "text": "Gangguan Bipolar I (Bipolar I Disorder), karena adanya riwayat episode manik yang jelas di masa lalu meskipun saat ini klien sedang dalam episode depresi."
+      },
+      {
+        "id": "C",
+        "text": "Gangguan Kecemasan Terpisah (Separation Anxiety)."
+      },
+      {
+        "id": "D",
+        "text": "Gangguan Anoreksia Nervosa."
+      }
+    ],
+    "key": "B",
+    "explanation": "Diagnosis banding yang cermat membedakan Unipolar Depression dari Bipolar I Disorder. Adanya setidaknya satu episode manik di masa lalu (euforia, flight of ideas, berkurangnya kebutuhan tidur) mengubah diagnosis menjadi Gangguan Bipolar I."
+  },
+  {
+    "id": "D8_I1.3_Q5",
+    "domainId": 8,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Membuat kesimpulan/menegakkan diagnosis)",
+    "indicatorId": "1.3",
+    "indicatorFullId": "D8-1.3",
+    "indicatorTitle": "Membandingkan berbagai gejala dan fungsi psikologis untuk membuat kesimpulan atau menegakkan diagnosis",
+    "caseStudy": {
+      "title": "Studi Kasus 5: Membandingkan Gejala Klinis untuk Penegakan Diagnosis Banding (Differential Diagnosis) Depresi vs Bipolar (Kasus 5)",
+      "scenario": "Klien Sdri. Laras (26 tahun) datang dengan episode depresi berat saat ini. Namun wawancara mendalam dan allo-anamnesis keluarga mengungkap bahwa 1 tahun lalu Sdri. Laras pernah mengalami periode 2 minggu di mana ia hanya tidur 2 jam sehari, sangat euforia, bicara cepat tak terhenti (flight of ideas), dan melakukan belanja impulsif hingga membuang uang puluhan juta. Psikolog membandingkan gejala untuk menetapkan diagnosis banding.",
+      "contextTags": [
+        "Diagnosis Banding",
+        "Bipolar I",
+        "Depresi Mayor",
+        "Differential Diagnosis"
+      ]
+    },
+    "question": "Berdasarkan perbandingan gejala historis tersebut, diagnosis manakah yang PALING TEPAT ditegakkan bagi Sdri. Laras?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Gangguan Depresi Mayor Tunggal (Unipolar Depression)."
+      },
+      {
+        "id": "B",
+        "text": "Gangguan Bipolar I (Bipolar I Disorder), karena adanya riwayat episode manik yang jelas di masa lalu meskipun saat ini klien sedang dalam episode depresi."
+      },
+      {
+        "id": "C",
+        "text": "Gangguan Kecemasan Terpisah (Separation Anxiety)."
+      },
+      {
+        "id": "D",
+        "text": "Gangguan Anoreksia Nervosa."
+      }
+    ],
+    "key": "B",
+    "explanation": "Diagnosis banding yang cermat membedakan Unipolar Depression dari Bipolar I Disorder. Adanya setidaknya satu episode manik di masa lalu (euforia, flight of ideas, berkurangnya kebutuhan tidur) mengubah diagnosis menjadi Gangguan Bipolar I."
+  },
+  {
+    "id": "D8_I1.3_Q6",
+    "domainId": 8,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Membuat kesimpulan/menegakkan diagnosis)",
+    "indicatorId": "1.3",
+    "indicatorFullId": "D8-1.3",
+    "indicatorTitle": "Membandingkan berbagai gejala dan fungsi psikologis untuk membuat kesimpulan atau menegakkan diagnosis",
+    "caseStudy": {
+      "title": "Studi Kasus 6: Membandingkan Gejala Klinis untuk Penegakan Diagnosis Banding (Differential Diagnosis) Depresi vs Bipolar (Kasus 6)",
+      "scenario": "Klien Sdri. Laras (26 tahun) datang dengan episode depresi berat saat ini. Namun wawancara mendalam dan allo-anamnesis keluarga mengungkap bahwa 1 tahun lalu Sdri. Laras pernah mengalami periode 2 minggu di mana ia hanya tidur 2 jam sehari, sangat euforia, bicara cepat tak terhenti (flight of ideas), dan melakukan belanja impulsif hingga membuang uang puluhan juta. Psikolog membandingkan gejala untuk menetapkan diagnosis banding.",
+      "contextTags": [
+        "Diagnosis Banding",
+        "Bipolar I",
+        "Depresi Mayor",
+        "Differential Diagnosis"
+      ]
+    },
+    "question": "Berdasarkan perbandingan gejala historis tersebut, diagnosis manakah yang PALING TEPAT ditegakkan bagi Sdri. Laras?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Gangguan Depresi Mayor Tunggal (Unipolar Depression)."
+      },
+      {
+        "id": "B",
+        "text": "Gangguan Bipolar I (Bipolar I Disorder), karena adanya riwayat episode manik yang jelas di masa lalu meskipun saat ini klien sedang dalam episode depresi."
+      },
+      {
+        "id": "C",
+        "text": "Gangguan Kecemasan Terpisah (Separation Anxiety)."
+      },
+      {
+        "id": "D",
+        "text": "Gangguan Anoreksia Nervosa."
+      }
+    ],
+    "key": "B",
+    "explanation": "Diagnosis banding yang cermat membedakan Unipolar Depression dari Bipolar I Disorder. Adanya setidaknya satu episode manik di masa lalu (euforia, flight of ideas, berkurangnya kebutuhan tidur) mengubah diagnosis menjadi Gangguan Bipolar I."
+  },
+  {
+    "id": "D8_I1.3_Q7",
+    "domainId": 8,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Membuat kesimpulan/menegakkan diagnosis)",
+    "indicatorId": "1.3",
+    "indicatorFullId": "D8-1.3",
+    "indicatorTitle": "Membandingkan berbagai gejala dan fungsi psikologis untuk membuat kesimpulan atau menegakkan diagnosis",
+    "caseStudy": {
+      "title": "Studi Kasus 7: Membandingkan Gejala Klinis untuk Penegakan Diagnosis Banding (Differential Diagnosis) Depresi vs Bipolar (Kasus 7)",
+      "scenario": "Klien Sdri. Laras (26 tahun) datang dengan episode depresi berat saat ini. Namun wawancara mendalam dan allo-anamnesis keluarga mengungkap bahwa 1 tahun lalu Sdri. Laras pernah mengalami periode 2 minggu di mana ia hanya tidur 2 jam sehari, sangat euforia, bicara cepat tak terhenti (flight of ideas), dan melakukan belanja impulsif hingga membuang uang puluhan juta. Psikolog membandingkan gejala untuk menetapkan diagnosis banding.",
+      "contextTags": [
+        "Diagnosis Banding",
+        "Bipolar I",
+        "Depresi Mayor",
+        "Differential Diagnosis"
+      ]
+    },
+    "question": "Berdasarkan perbandingan gejala historis tersebut, diagnosis manakah yang PALING TEPAT ditegakkan bagi Sdri. Laras?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Gangguan Depresi Mayor Tunggal (Unipolar Depression)."
+      },
+      {
+        "id": "B",
+        "text": "Gangguan Bipolar I (Bipolar I Disorder), karena adanya riwayat episode manik yang jelas di masa lalu meskipun saat ini klien sedang dalam episode depresi."
+      },
+      {
+        "id": "C",
+        "text": "Gangguan Kecemasan Terpisah (Separation Anxiety)."
+      },
+      {
+        "id": "D",
+        "text": "Gangguan Anoreksia Nervosa."
+      }
+    ],
+    "key": "B",
+    "explanation": "Diagnosis banding yang cermat membedakan Unipolar Depression dari Bipolar I Disorder. Adanya setidaknya satu episode manik di masa lalu (euforia, flight of ideas, berkurangnya kebutuhan tidur) mengubah diagnosis menjadi Gangguan Bipolar I."
+  },
+  {
+    "id": "D8_I1.3_Q8",
+    "domainId": 8,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Membuat kesimpulan/menegakkan diagnosis)",
+    "indicatorId": "1.3",
+    "indicatorFullId": "D8-1.3",
+    "indicatorTitle": "Membandingkan berbagai gejala dan fungsi psikologis untuk membuat kesimpulan atau menegakkan diagnosis",
+    "caseStudy": {
+      "title": "Studi Kasus 8: Membandingkan Gejala Klinis untuk Penegakan Diagnosis Banding (Differential Diagnosis) Depresi vs Bipolar (Kasus 8)",
+      "scenario": "Klien Sdri. Laras (26 tahun) datang dengan episode depresi berat saat ini. Namun wawancara mendalam dan allo-anamnesis keluarga mengungkap bahwa 1 tahun lalu Sdri. Laras pernah mengalami periode 2 minggu di mana ia hanya tidur 2 jam sehari, sangat euforia, bicara cepat tak terhenti (flight of ideas), dan melakukan belanja impulsif hingga membuang uang puluhan juta. Psikolog membandingkan gejala untuk menetapkan diagnosis banding.",
+      "contextTags": [
+        "Diagnosis Banding",
+        "Bipolar I",
+        "Depresi Mayor",
+        "Differential Diagnosis"
+      ]
+    },
+    "question": "Berdasarkan perbandingan gejala historis tersebut, diagnosis manakah yang PALING TEPAT ditegakkan bagi Sdri. Laras?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Gangguan Depresi Mayor Tunggal (Unipolar Depression)."
+      },
+      {
+        "id": "B",
+        "text": "Gangguan Bipolar I (Bipolar I Disorder), karena adanya riwayat episode manik yang jelas di masa lalu meskipun saat ini klien sedang dalam episode depresi."
+      },
+      {
+        "id": "C",
+        "text": "Gangguan Kecemasan Terpisah (Separation Anxiety)."
+      },
+      {
+        "id": "D",
+        "text": "Gangguan Anoreksia Nervosa."
+      }
+    ],
+    "key": "B",
+    "explanation": "Diagnosis banding yang cermat membedakan Unipolar Depression dari Bipolar I Disorder. Adanya setidaknya satu episode manik di masa lalu (euforia, flight of ideas, berkurangnya kebutuhan tidur) mengubah diagnosis menjadi Gangguan Bipolar I."
+  },
+  {
+    "id": "D8_I1.3_Q9",
+    "domainId": 8,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Membuat kesimpulan/menegakkan diagnosis)",
+    "indicatorId": "1.3",
+    "indicatorFullId": "D8-1.3",
+    "indicatorTitle": "Membandingkan berbagai gejala dan fungsi psikologis untuk membuat kesimpulan atau menegakkan diagnosis",
+    "caseStudy": {
+      "title": "Studi Kasus 9: Membandingkan Gejala Klinis untuk Penegakan Diagnosis Banding (Differential Diagnosis) Depresi vs Bipolar (Kasus 9)",
+      "scenario": "Klien Sdri. Laras (26 tahun) datang dengan episode depresi berat saat ini. Namun wawancara mendalam dan allo-anamnesis keluarga mengungkap bahwa 1 tahun lalu Sdri. Laras pernah mengalami periode 2 minggu di mana ia hanya tidur 2 jam sehari, sangat euforia, bicara cepat tak terhenti (flight of ideas), dan melakukan belanja impulsif hingga membuang uang puluhan juta. Psikolog membandingkan gejala untuk menetapkan diagnosis banding.",
+      "contextTags": [
+        "Diagnosis Banding",
+        "Bipolar I",
+        "Depresi Mayor",
+        "Differential Diagnosis"
+      ]
+    },
+    "question": "Berdasarkan perbandingan gejala historis tersebut, diagnosis manakah yang PALING TEPAT ditegakkan bagi Sdri. Laras?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Gangguan Depresi Mayor Tunggal (Unipolar Depression)."
+      },
+      {
+        "id": "B",
+        "text": "Gangguan Bipolar I (Bipolar I Disorder), karena adanya riwayat episode manik yang jelas di masa lalu meskipun saat ini klien sedang dalam episode depresi."
+      },
+      {
+        "id": "C",
+        "text": "Gangguan Kecemasan Terpisah (Separation Anxiety)."
+      },
+      {
+        "id": "D",
+        "text": "Gangguan Anoreksia Nervosa."
+      }
+    ],
+    "key": "B",
+    "explanation": "Diagnosis banding yang cermat membedakan Unipolar Depression dari Bipolar I Disorder. Adanya setidaknya satu episode manik di masa lalu (euforia, flight of ideas, berkurangnya kebutuhan tidur) mengubah diagnosis menjadi Gangguan Bipolar I."
+  },
+  {
+    "id": "D8_I1.3_Q10",
+    "domainId": 8,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Membuat kesimpulan/menegakkan diagnosis)",
+    "indicatorId": "1.3",
+    "indicatorFullId": "D8-1.3",
+    "indicatorTitle": "Membandingkan berbagai gejala dan fungsi psikologis untuk membuat kesimpulan atau menegakkan diagnosis",
+    "caseStudy": {
+      "title": "Studi Kasus 10: Membandingkan Gejala Klinis untuk Penegakan Diagnosis Banding (Differential Diagnosis) Depresi vs Bipolar (Kasus 10)",
+      "scenario": "Klien Sdri. Laras (26 tahun) datang dengan episode depresi berat saat ini. Namun wawancara mendalam dan allo-anamnesis keluarga mengungkap bahwa 1 tahun lalu Sdri. Laras pernah mengalami periode 2 minggu di mana ia hanya tidur 2 jam sehari, sangat euforia, bicara cepat tak terhenti (flight of ideas), dan melakukan belanja impulsif hingga membuang uang puluhan juta. Psikolog membandingkan gejala untuk menetapkan diagnosis banding.",
+      "contextTags": [
+        "Diagnosis Banding",
+        "Bipolar I",
+        "Depresi Mayor",
+        "Differential Diagnosis"
+      ]
+    },
+    "question": "Berdasarkan perbandingan gejala historis tersebut, diagnosis manakah yang PALING TEPAT ditegakkan bagi Sdri. Laras?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Gangguan Depresi Mayor Tunggal (Unipolar Depression)."
+      },
+      {
+        "id": "B",
+        "text": "Gangguan Bipolar I (Bipolar I Disorder), karena adanya riwayat episode manik yang jelas di masa lalu meskipun saat ini klien sedang dalam episode depresi."
+      },
+      {
+        "id": "C",
+        "text": "Gangguan Kecemasan Terpisah (Separation Anxiety)."
+      },
+      {
+        "id": "D",
+        "text": "Gangguan Anoreksia Nervosa."
+      }
+    ],
+    "key": "B",
+    "explanation": "Diagnosis banding yang cermat membedakan Unipolar Depression dari Bipolar I Disorder. Adanya setidaknya satu episode manik di masa lalu (euforia, flight of ideas, berkurangnya kebutuhan tidur) mengubah diagnosis menjadi Gangguan Bipolar I."
+  },
+  {
+    "id": "D8_I1.4_Q1",
+    "domainId": 8,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Membuat kesimpulan/menegakkan diagnosis)",
+    "indicatorId": "1.4",
+    "indicatorFullId": "D8-1.4",
+    "indicatorTitle": "Membandingkan dan memilih teori psikologi (humanistik, perilakuan, atau kognitif perilakuan) yang sesuai untuk menjelaskan gejala dan fungsi psikologis klien dalam rangka membuat kesimpulan atau menegakkan diagnosis",
+    "caseStudy": {
+      "title": "Studi Kasus 1: Membandingkan Teori Humanistik vs CBT untuk Menjelaskan Gejala Krisis Eksistensial (Kasus 1)",
+      "scenario": "Sdr. Mulyono (40 tahun) mengeluhkan rasa hampa yang mendalam, kehilangan makna hidup, dan perasaan 'asing dengan diri sendiri' setelah mencapai seluruh target finansial karirnya. Gejala tidak menunjukkan adanya kecemasan panik atau fobia spesifik. Psikolog membandingkan teori Humanistik (Rogers/Frankl) vs CBT untuk memilih kerangka teoretis yang paling pas menjelaskan fenomena tersebut.",
+      "contextTags": [
+        "Teori Humanistik",
+        "Krisis Eksistensial",
+        "Makna Hidup",
+        "Pemilihan Teori"
+      ]
+    },
+    "question": "Teori manakah yang PALING sesuai dipilih untuk menjelaskan dan menegakkan kesimpulan kasus Sdr. Mulyono?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Teori Conditioning Operan Skinner, karena murni masalah pengkondisian stimulus."
+      },
+      {
+        "id": "B",
+        "text": "Teori Humanistik-Eksistensial (Frankl/Rogers), karena secara tepat menjelaskan krisis makna hidup (existential vacuum) dan inkongruensi antara ego ideal dan pengalaman aktual."
+      },
+      {
+        "id": "C",
+        "text": "Teori Desensitisasi Sistematis."
+      },
+      {
+        "id": "D",
+        "text": "Teori Farmakologi Psikiatri medis."
+      }
+    ],
+    "key": "B",
+    "explanation": "Untuk krisis eksistensial, kehilangan makna hidup (existential vacuum), dan kepenuhan hidup, kerangka Teori Humanistik-Eksistensial paling tepat untuk memberikan konseptualisasi dan diagnosis komprehensif."
+  },
+  {
+    "id": "D8_I1.4_Q2",
+    "domainId": 8,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Membuat kesimpulan/menegakkan diagnosis)",
+    "indicatorId": "1.4",
+    "indicatorFullId": "D8-1.4",
+    "indicatorTitle": "Membandingkan dan memilih teori psikologi (humanistik, perilakuan, atau kognitif perilakuan) yang sesuai untuk menjelaskan gejala dan fungsi psikologis klien dalam rangka membuat kesimpulan atau menegakkan diagnosis",
+    "caseStudy": {
+      "title": "Studi Kasus 2: Membandingkan Teori Humanistik vs CBT untuk Menjelaskan Gejala Krisis Eksistensial (Kasus 2)",
+      "scenario": "Sdr. Mulyono (40 tahun) mengeluhkan rasa hampa yang mendalam, kehilangan makna hidup, dan perasaan 'asing dengan diri sendiri' setelah mencapai seluruh target finansial karirnya. Gejala tidak menunjukkan adanya kecemasan panik atau fobia spesifik. Psikolog membandingkan teori Humanistik (Rogers/Frankl) vs CBT untuk memilih kerangka teoretis yang paling pas menjelaskan fenomena tersebut.",
+      "contextTags": [
+        "Teori Humanistik",
+        "Krisis Eksistensial",
+        "Makna Hidup",
+        "Pemilihan Teori"
+      ]
+    },
+    "question": "Teori manakah yang PALING sesuai dipilih untuk menjelaskan dan menegakkan kesimpulan kasus Sdr. Mulyono?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Teori Conditioning Operan Skinner, karena murni masalah pengkondisian stimulus."
+      },
+      {
+        "id": "B",
+        "text": "Teori Humanistik-Eksistensial (Frankl/Rogers), karena secara tepat menjelaskan krisis makna hidup (existential vacuum) dan inkongruensi antara ego ideal dan pengalaman aktual."
+      },
+      {
+        "id": "C",
+        "text": "Teori Desensitisasi Sistematis."
+      },
+      {
+        "id": "D",
+        "text": "Teori Farmakologi Psikiatri medis."
+      }
+    ],
+    "key": "B",
+    "explanation": "Untuk krisis eksistensial, kehilangan makna hidup (existential vacuum), dan kepenuhan hidup, kerangka Teori Humanistik-Eksistensial paling tepat untuk memberikan konseptualisasi dan diagnosis komprehensif."
+  },
+  {
+    "id": "D8_I1.4_Q3",
+    "domainId": 8,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Membuat kesimpulan/menegakkan diagnosis)",
+    "indicatorId": "1.4",
+    "indicatorFullId": "D8-1.4",
+    "indicatorTitle": "Membandingkan dan memilih teori psikologi (humanistik, perilakuan, atau kognitif perilakuan) yang sesuai untuk menjelaskan gejala dan fungsi psikologis klien dalam rangka membuat kesimpulan atau menegakkan diagnosis",
+    "caseStudy": {
+      "title": "Studi Kasus 3: Membandingkan Teori Humanistik vs CBT untuk Menjelaskan Gejala Krisis Eksistensial (Kasus 3)",
+      "scenario": "Sdr. Mulyono (40 tahun) mengeluhkan rasa hampa yang mendalam, kehilangan makna hidup, dan perasaan 'asing dengan diri sendiri' setelah mencapai seluruh target finansial karirnya. Gejala tidak menunjukkan adanya kecemasan panik atau fobia spesifik. Psikolog membandingkan teori Humanistik (Rogers/Frankl) vs CBT untuk memilih kerangka teoretis yang paling pas menjelaskan fenomena tersebut.",
+      "contextTags": [
+        "Teori Humanistik",
+        "Krisis Eksistensial",
+        "Makna Hidup",
+        "Pemilihan Teori"
+      ]
+    },
+    "question": "Teori manakah yang PALING sesuai dipilih untuk menjelaskan dan menegakkan kesimpulan kasus Sdr. Mulyono?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Teori Conditioning Operan Skinner, karena murni masalah pengkondisian stimulus."
+      },
+      {
+        "id": "B",
+        "text": "Teori Humanistik-Eksistensial (Frankl/Rogers), karena secara tepat menjelaskan krisis makna hidup (existential vacuum) dan inkongruensi antara ego ideal dan pengalaman aktual."
+      },
+      {
+        "id": "C",
+        "text": "Teori Desensitisasi Sistematis."
+      },
+      {
+        "id": "D",
+        "text": "Teori Farmakologi Psikiatri medis."
+      }
+    ],
+    "key": "B",
+    "explanation": "Untuk krisis eksistensial, kehilangan makna hidup (existential vacuum), dan kepenuhan hidup, kerangka Teori Humanistik-Eksistensial paling tepat untuk memberikan konseptualisasi dan diagnosis komprehensif."
+  },
+  {
+    "id": "D8_I1.4_Q4",
+    "domainId": 8,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Membuat kesimpulan/menegakkan diagnosis)",
+    "indicatorId": "1.4",
+    "indicatorFullId": "D8-1.4",
+    "indicatorTitle": "Membandingkan dan memilih teori psikologi (humanistik, perilakuan, atau kognitif perilakuan) yang sesuai untuk menjelaskan gejala dan fungsi psikologis klien dalam rangka membuat kesimpulan atau menegakkan diagnosis",
+    "caseStudy": {
+      "title": "Studi Kasus 4: Membandingkan Teori Humanistik vs CBT untuk Menjelaskan Gejala Krisis Eksistensial (Kasus 4)",
+      "scenario": "Sdr. Mulyono (40 tahun) mengeluhkan rasa hampa yang mendalam, kehilangan makna hidup, dan perasaan 'asing dengan diri sendiri' setelah mencapai seluruh target finansial karirnya. Gejala tidak menunjukkan adanya kecemasan panik atau fobia spesifik. Psikolog membandingkan teori Humanistik (Rogers/Frankl) vs CBT untuk memilih kerangka teoretis yang paling pas menjelaskan fenomena tersebut.",
+      "contextTags": [
+        "Teori Humanistik",
+        "Krisis Eksistensial",
+        "Makna Hidup",
+        "Pemilihan Teori"
+      ]
+    },
+    "question": "Teori manakah yang PALING sesuai dipilih untuk menjelaskan dan menegakkan kesimpulan kasus Sdr. Mulyono?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Teori Conditioning Operan Skinner, karena murni masalah pengkondisian stimulus."
+      },
+      {
+        "id": "B",
+        "text": "Teori Humanistik-Eksistensial (Frankl/Rogers), karena secara tepat menjelaskan krisis makna hidup (existential vacuum) dan inkongruensi antara ego ideal dan pengalaman aktual."
+      },
+      {
+        "id": "C",
+        "text": "Teori Desensitisasi Sistematis."
+      },
+      {
+        "id": "D",
+        "text": "Teori Farmakologi Psikiatri medis."
+      }
+    ],
+    "key": "B",
+    "explanation": "Untuk krisis eksistensial, kehilangan makna hidup (existential vacuum), dan kepenuhan hidup, kerangka Teori Humanistik-Eksistensial paling tepat untuk memberikan konseptualisasi dan diagnosis komprehensif."
+  },
+  {
+    "id": "D8_I1.4_Q5",
+    "domainId": 8,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Membuat kesimpulan/menegakkan diagnosis)",
+    "indicatorId": "1.4",
+    "indicatorFullId": "D8-1.4",
+    "indicatorTitle": "Membandingkan dan memilih teori psikologi (humanistik, perilakuan, atau kognitif perilakuan) yang sesuai untuk menjelaskan gejala dan fungsi psikologis klien dalam rangka membuat kesimpulan atau menegakkan diagnosis",
+    "caseStudy": {
+      "title": "Studi Kasus 5: Membandingkan Teori Humanistik vs CBT untuk Menjelaskan Gejala Krisis Eksistensial (Kasus 5)",
+      "scenario": "Sdr. Mulyono (40 tahun) mengeluhkan rasa hampa yang mendalam, kehilangan makna hidup, dan perasaan 'asing dengan diri sendiri' setelah mencapai seluruh target finansial karirnya. Gejala tidak menunjukkan adanya kecemasan panik atau fobia spesifik. Psikolog membandingkan teori Humanistik (Rogers/Frankl) vs CBT untuk memilih kerangka teoretis yang paling pas menjelaskan fenomena tersebut.",
+      "contextTags": [
+        "Teori Humanistik",
+        "Krisis Eksistensial",
+        "Makna Hidup",
+        "Pemilihan Teori"
+      ]
+    },
+    "question": "Teori manakah yang PALING sesuai dipilih untuk menjelaskan dan menegakkan kesimpulan kasus Sdr. Mulyono?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Teori Conditioning Operan Skinner, karena murni masalah pengkondisian stimulus."
+      },
+      {
+        "id": "B",
+        "text": "Teori Humanistik-Eksistensial (Frankl/Rogers), karena secara tepat menjelaskan krisis makna hidup (existential vacuum) dan inkongruensi antara ego ideal dan pengalaman aktual."
+      },
+      {
+        "id": "C",
+        "text": "Teori Desensitisasi Sistematis."
+      },
+      {
+        "id": "D",
+        "text": "Teori Farmakologi Psikiatri medis."
+      }
+    ],
+    "key": "B",
+    "explanation": "Untuk krisis eksistensial, kehilangan makna hidup (existential vacuum), dan kepenuhan hidup, kerangka Teori Humanistik-Eksistensial paling tepat untuk memberikan konseptualisasi dan diagnosis komprehensif."
+  },
+  {
+    "id": "D8_I1.4_Q6",
+    "domainId": 8,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Membuat kesimpulan/menegakkan diagnosis)",
+    "indicatorId": "1.4",
+    "indicatorFullId": "D8-1.4",
+    "indicatorTitle": "Membandingkan dan memilih teori psikologi (humanistik, perilakuan, atau kognitif perilakuan) yang sesuai untuk menjelaskan gejala dan fungsi psikologis klien dalam rangka membuat kesimpulan atau menegakkan diagnosis",
+    "caseStudy": {
+      "title": "Studi Kasus 6: Membandingkan Teori Humanistik vs CBT untuk Menjelaskan Gejala Krisis Eksistensial (Kasus 6)",
+      "scenario": "Sdr. Mulyono (40 tahun) mengeluhkan rasa hampa yang mendalam, kehilangan makna hidup, dan perasaan 'asing dengan diri sendiri' setelah mencapai seluruh target finansial karirnya. Gejala tidak menunjukkan adanya kecemasan panik atau fobia spesifik. Psikolog membandingkan teori Humanistik (Rogers/Frankl) vs CBT untuk memilih kerangka teoretis yang paling pas menjelaskan fenomena tersebut.",
+      "contextTags": [
+        "Teori Humanistik",
+        "Krisis Eksistensial",
+        "Makna Hidup",
+        "Pemilihan Teori"
+      ]
+    },
+    "question": "Teori manakah yang PALING sesuai dipilih untuk menjelaskan dan menegakkan kesimpulan kasus Sdr. Mulyono?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Teori Conditioning Operan Skinner, karena murni masalah pengkondisian stimulus."
+      },
+      {
+        "id": "B",
+        "text": "Teori Humanistik-Eksistensial (Frankl/Rogers), karena secara tepat menjelaskan krisis makna hidup (existential vacuum) dan inkongruensi antara ego ideal dan pengalaman aktual."
+      },
+      {
+        "id": "C",
+        "text": "Teori Desensitisasi Sistematis."
+      },
+      {
+        "id": "D",
+        "text": "Teori Farmakologi Psikiatri medis."
+      }
+    ],
+    "key": "B",
+    "explanation": "Untuk krisis eksistensial, kehilangan makna hidup (existential vacuum), dan kepenuhan hidup, kerangka Teori Humanistik-Eksistensial paling tepat untuk memberikan konseptualisasi dan diagnosis komprehensif."
+  },
+  {
+    "id": "D8_I1.4_Q7",
+    "domainId": 8,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Membuat kesimpulan/menegakkan diagnosis)",
+    "indicatorId": "1.4",
+    "indicatorFullId": "D8-1.4",
+    "indicatorTitle": "Membandingkan dan memilih teori psikologi (humanistik, perilakuan, atau kognitif perilakuan) yang sesuai untuk menjelaskan gejala dan fungsi psikologis klien dalam rangka membuat kesimpulan atau menegakkan diagnosis",
+    "caseStudy": {
+      "title": "Studi Kasus 7: Membandingkan Teori Humanistik vs CBT untuk Menjelaskan Gejala Krisis Eksistensial (Kasus 7)",
+      "scenario": "Sdr. Mulyono (40 tahun) mengeluhkan rasa hampa yang mendalam, kehilangan makna hidup, dan perasaan 'asing dengan diri sendiri' setelah mencapai seluruh target finansial karirnya. Gejala tidak menunjukkan adanya kecemasan panik atau fobia spesifik. Psikolog membandingkan teori Humanistik (Rogers/Frankl) vs CBT untuk memilih kerangka teoretis yang paling pas menjelaskan fenomena tersebut.",
+      "contextTags": [
+        "Teori Humanistik",
+        "Krisis Eksistensial",
+        "Makna Hidup",
+        "Pemilihan Teori"
+      ]
+    },
+    "question": "Teori manakah yang PALING sesuai dipilih untuk menjelaskan dan menegakkan kesimpulan kasus Sdr. Mulyono?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Teori Conditioning Operan Skinner, karena murni masalah pengkondisian stimulus."
+      },
+      {
+        "id": "B",
+        "text": "Teori Humanistik-Eksistensial (Frankl/Rogers), karena secara tepat menjelaskan krisis makna hidup (existential vacuum) dan inkongruensi antara ego ideal dan pengalaman aktual."
+      },
+      {
+        "id": "C",
+        "text": "Teori Desensitisasi Sistematis."
+      },
+      {
+        "id": "D",
+        "text": "Teori Farmakologi Psikiatri medis."
+      }
+    ],
+    "key": "B",
+    "explanation": "Untuk krisis eksistensial, kehilangan makna hidup (existential vacuum), dan kepenuhan hidup, kerangka Teori Humanistik-Eksistensial paling tepat untuk memberikan konseptualisasi dan diagnosis komprehensif."
+  },
+  {
+    "id": "D8_I1.4_Q8",
+    "domainId": 8,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Membuat kesimpulan/menegakkan diagnosis)",
+    "indicatorId": "1.4",
+    "indicatorFullId": "D8-1.4",
+    "indicatorTitle": "Membandingkan dan memilih teori psikologi (humanistik, perilakuan, atau kognitif perilakuan) yang sesuai untuk menjelaskan gejala dan fungsi psikologis klien dalam rangka membuat kesimpulan atau menegakkan diagnosis",
+    "caseStudy": {
+      "title": "Studi Kasus 8: Membandingkan Teori Humanistik vs CBT untuk Menjelaskan Gejala Krisis Eksistensial (Kasus 8)",
+      "scenario": "Sdr. Mulyono (40 tahun) mengeluhkan rasa hampa yang mendalam, kehilangan makna hidup, dan perasaan 'asing dengan diri sendiri' setelah mencapai seluruh target finansial karirnya. Gejala tidak menunjukkan adanya kecemasan panik atau fobia spesifik. Psikolog membandingkan teori Humanistik (Rogers/Frankl) vs CBT untuk memilih kerangka teoretis yang paling pas menjelaskan fenomena tersebut.",
+      "contextTags": [
+        "Teori Humanistik",
+        "Krisis Eksistensial",
+        "Makna Hidup",
+        "Pemilihan Teori"
+      ]
+    },
+    "question": "Teori manakah yang PALING sesuai dipilih untuk menjelaskan dan menegakkan kesimpulan kasus Sdr. Mulyono?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Teori Conditioning Operan Skinner, karena murni masalah pengkondisian stimulus."
+      },
+      {
+        "id": "B",
+        "text": "Teori Humanistik-Eksistensial (Frankl/Rogers), karena secara tepat menjelaskan krisis makna hidup (existential vacuum) dan inkongruensi antara ego ideal dan pengalaman aktual."
+      },
+      {
+        "id": "C",
+        "text": "Teori Desensitisasi Sistematis."
+      },
+      {
+        "id": "D",
+        "text": "Teori Farmakologi Psikiatri medis."
+      }
+    ],
+    "key": "B",
+    "explanation": "Untuk krisis eksistensial, kehilangan makna hidup (existential vacuum), dan kepenuhan hidup, kerangka Teori Humanistik-Eksistensial paling tepat untuk memberikan konseptualisasi dan diagnosis komprehensif."
+  },
+  {
+    "id": "D8_I1.4_Q9",
+    "domainId": 8,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Membuat kesimpulan/menegakkan diagnosis)",
+    "indicatorId": "1.4",
+    "indicatorFullId": "D8-1.4",
+    "indicatorTitle": "Membandingkan dan memilih teori psikologi (humanistik, perilakuan, atau kognitif perilakuan) yang sesuai untuk menjelaskan gejala dan fungsi psikologis klien dalam rangka membuat kesimpulan atau menegakkan diagnosis",
+    "caseStudy": {
+      "title": "Studi Kasus 9: Membandingkan Teori Humanistik vs CBT untuk Menjelaskan Gejala Krisis Eksistensial (Kasus 9)",
+      "scenario": "Sdr. Mulyono (40 tahun) mengeluhkan rasa hampa yang mendalam, kehilangan makna hidup, dan perasaan 'asing dengan diri sendiri' setelah mencapai seluruh target finansial karirnya. Gejala tidak menunjukkan adanya kecemasan panik atau fobia spesifik. Psikolog membandingkan teori Humanistik (Rogers/Frankl) vs CBT untuk memilih kerangka teoretis yang paling pas menjelaskan fenomena tersebut.",
+      "contextTags": [
+        "Teori Humanistik",
+        "Krisis Eksistensial",
+        "Makna Hidup",
+        "Pemilihan Teori"
+      ]
+    },
+    "question": "Teori manakah yang PALING sesuai dipilih untuk menjelaskan dan menegakkan kesimpulan kasus Sdr. Mulyono?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Teori Conditioning Operan Skinner, karena murni masalah pengkondisian stimulus."
+      },
+      {
+        "id": "B",
+        "text": "Teori Humanistik-Eksistensial (Frankl/Rogers), karena secara tepat menjelaskan krisis makna hidup (existential vacuum) dan inkongruensi antara ego ideal dan pengalaman aktual."
+      },
+      {
+        "id": "C",
+        "text": "Teori Desensitisasi Sistematis."
+      },
+      {
+        "id": "D",
+        "text": "Teori Farmakologi Psikiatri medis."
+      }
+    ],
+    "key": "B",
+    "explanation": "Untuk krisis eksistensial, kehilangan makna hidup (existential vacuum), dan kepenuhan hidup, kerangka Teori Humanistik-Eksistensial paling tepat untuk memberikan konseptualisasi dan diagnosis komprehensif."
+  },
+  {
+    "id": "D8_I1.4_Q10",
+    "domainId": 8,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Membuat kesimpulan/menegakkan diagnosis)",
+    "indicatorId": "1.4",
+    "indicatorFullId": "D8-1.4",
+    "indicatorTitle": "Membandingkan dan memilih teori psikologi (humanistik, perilakuan, atau kognitif perilakuan) yang sesuai untuk menjelaskan gejala dan fungsi psikologis klien dalam rangka membuat kesimpulan atau menegakkan diagnosis",
+    "caseStudy": {
+      "title": "Studi Kasus 10: Membandingkan Teori Humanistik vs CBT untuk Menjelaskan Gejala Krisis Eksistensial (Kasus 10)",
+      "scenario": "Sdr. Mulyono (40 tahun) mengeluhkan rasa hampa yang mendalam, kehilangan makna hidup, dan perasaan 'asing dengan diri sendiri' setelah mencapai seluruh target finansial karirnya. Gejala tidak menunjukkan adanya kecemasan panik atau fobia spesifik. Psikolog membandingkan teori Humanistik (Rogers/Frankl) vs CBT untuk memilih kerangka teoretis yang paling pas menjelaskan fenomena tersebut.",
+      "contextTags": [
+        "Teori Humanistik",
+        "Krisis Eksistensial",
+        "Makna Hidup",
+        "Pemilihan Teori"
+      ]
+    },
+    "question": "Teori manakah yang PALING sesuai dipilih untuk menjelaskan dan menegakkan kesimpulan kasus Sdr. Mulyono?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Teori Conditioning Operan Skinner, karena murni masalah pengkondisian stimulus."
+      },
+      {
+        "id": "B",
+        "text": "Teori Humanistik-Eksistensial (Frankl/Rogers), karena secara tepat menjelaskan krisis makna hidup (existential vacuum) dan inkongruensi antara ego ideal dan pengalaman aktual."
+      },
+      {
+        "id": "C",
+        "text": "Teori Desensitisasi Sistematis."
+      },
+      {
+        "id": "D",
+        "text": "Teori Farmakologi Psikiatri medis."
+      }
+    ],
+    "key": "B",
+    "explanation": "Untuk krisis eksistensial, kehilangan makna hidup (existential vacuum), dan kepenuhan hidup, kerangka Teori Humanistik-Eksistensial paling tepat untuk memberikan konseptualisasi dan diagnosis komprehensif."
+  }
+]

@@ -1,0 +1,1172 @@
+[
+  {
+    "id": "D4_I1.1_Q1",
+    "domainId": 4,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Identifikasi permasalahan/kebutuhan)",
+    "indicatorId": "1.1",
+    "indicatorFullId": "D4-1.1",
+    "indicatorTitle": "Mengetahui cara mengidentifikasi permasalahan/kebutuhan",
+    "caseStudy": {
+      "title": "Studi Kasus 1: Identifikasi Masalah Utama Klien Pasca-Trauma dalam Layanan Konseling (Kasus 1)",
+      "scenario": "Klien Sdri. Rani (25 tahun) mengeluhkan insomnia berat, kecemasan berlebih saat mendengar suara keras, dan penurunan konsentrasi kerja pasca-mengalami kecelakaan lalu lintas 3 bulan lalu. Psikolog hendak mengidentifikasi permasalahan dasar dan kebutuhan intervensi utama klien menggunakan kerangka kerja identifikasi asesmen klinis komprehensif.",
+      "contextTags": [
+        "Identifikasi Masalah",
+        "Intake Assessment",
+        "Trauma",
+        "Kebutuhan Klien"
+      ]
+    },
+    "question": "Langkah prosedural manakah yang HARUS dilakukan Psikolog dalam tahap awal mengidentifikasi permasalahan dan kebutuhan klien?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Langsung memberikan diagnosis skizofrenia tanpa melakukan wawancara intake assessment."
+      },
+      {
+        "id": "B",
+        "text": "Melakukan pemetaan keluhan utama, riwayat onset timbulnya gejala, tingkat keparahan disfungsi harian, dan harapan kebutuhan pemulihan klien."
+      },
+      {
+        "id": "C",
+        "text": "Menolak mendengar keluhan trauma klien dan menyuruh klien langsung minum obat tidur."
+      },
+      {
+        "id": "D",
+        "text": "Mengabaikan keluhan kecemasan dan hanya fokus pada tes kecerdasan IQ."
+      }
+    ],
+    "key": "B",
+    "explanation": "Prinsip identifikasi permasalahan/kebutuhan diawali dengan pemetaan komprehensif terhadap keluhan utama, onset/kronologi timbulnya gejala, dampak disfungsi sistemik harian, serta analisis kebutuhan intervensi."
+  },
+  {
+    "id": "D4_I1.1_Q2",
+    "domainId": 4,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Identifikasi permasalahan/kebutuhan)",
+    "indicatorId": "1.1",
+    "indicatorFullId": "D4-1.1",
+    "indicatorTitle": "Mengetahui cara mengidentifikasi permasalahan/kebutuhan",
+    "caseStudy": {
+      "title": "Studi Kasus 2: Identifikasi Masalah Utama Klien Pasca-Trauma dalam Layanan Konseling (Kasus 2)",
+      "scenario": "Klien Sdri. Rani (25 tahun) mengeluhkan insomnia berat, kecemasan berlebih saat mendengar suara keras, dan penurunan konsentrasi kerja pasca-mengalami kecelakaan lalu lintas 3 bulan lalu. Psikolog hendak mengidentifikasi permasalahan dasar dan kebutuhan intervensi utama klien menggunakan kerangka kerja identifikasi asesmen klinis komprehensif.",
+      "contextTags": [
+        "Identifikasi Masalah",
+        "Intake Assessment",
+        "Trauma",
+        "Kebutuhan Klien"
+      ]
+    },
+    "question": "Langkah prosedural manakah yang HARUS dilakukan Psikolog dalam tahap awal mengidentifikasi permasalahan dan kebutuhan klien?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Langsung memberikan diagnosis skizofrenia tanpa melakukan wawancara intake assessment."
+      },
+      {
+        "id": "B",
+        "text": "Melakukan pemetaan keluhan utama, riwayat onset timbulnya gejala, tingkat keparahan disfungsi harian, dan harapan kebutuhan pemulihan klien."
+      },
+      {
+        "id": "C",
+        "text": "Menolak mendengar keluhan trauma klien dan menyuruh klien langsung minum obat tidur."
+      },
+      {
+        "id": "D",
+        "text": "Mengabaikan keluhan kecemasan dan hanya fokus pada tes kecerdasan IQ."
+      }
+    ],
+    "key": "B",
+    "explanation": "Prinsip identifikasi permasalahan/kebutuhan diawali dengan pemetaan komprehensif terhadap keluhan utama, onset/kronologi timbulnya gejala, dampak disfungsi sistemik harian, serta analisis kebutuhan intervensi."
+  },
+  {
+    "id": "D4_I1.1_Q3",
+    "domainId": 4,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Identifikasi permasalahan/kebutuhan)",
+    "indicatorId": "1.1",
+    "indicatorFullId": "D4-1.1",
+    "indicatorTitle": "Mengetahui cara mengidentifikasi permasalahan/kebutuhan",
+    "caseStudy": {
+      "title": "Studi Kasus 3: Identifikasi Masalah Utama Klien Pasca-Trauma dalam Layanan Konseling (Kasus 3)",
+      "scenario": "Klien Sdri. Rani (25 tahun) mengeluhkan insomnia berat, kecemasan berlebih saat mendengar suara keras, dan penurunan konsentrasi kerja pasca-mengalami kecelakaan lalu lintas 3 bulan lalu. Psikolog hendak mengidentifikasi permasalahan dasar dan kebutuhan intervensi utama klien menggunakan kerangka kerja identifikasi asesmen klinis komprehensif.",
+      "contextTags": [
+        "Identifikasi Masalah",
+        "Intake Assessment",
+        "Trauma",
+        "Kebutuhan Klien"
+      ]
+    },
+    "question": "Langkah prosedural manakah yang HARUS dilakukan Psikolog dalam tahap awal mengidentifikasi permasalahan dan kebutuhan klien?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Langsung memberikan diagnosis skizofrenia tanpa melakukan wawancara intake assessment."
+      },
+      {
+        "id": "B",
+        "text": "Melakukan pemetaan keluhan utama, riwayat onset timbulnya gejala, tingkat keparahan disfungsi harian, dan harapan kebutuhan pemulihan klien."
+      },
+      {
+        "id": "C",
+        "text": "Menolak mendengar keluhan trauma klien dan menyuruh klien langsung minum obat tidur."
+      },
+      {
+        "id": "D",
+        "text": "Mengabaikan keluhan kecemasan dan hanya fokus pada tes kecerdasan IQ."
+      }
+    ],
+    "key": "B",
+    "explanation": "Prinsip identifikasi permasalahan/kebutuhan diawali dengan pemetaan komprehensif terhadap keluhan utama, onset/kronologi timbulnya gejala, dampak disfungsi sistemik harian, serta analisis kebutuhan intervensi."
+  },
+  {
+    "id": "D4_I1.1_Q4",
+    "domainId": 4,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Identifikasi permasalahan/kebutuhan)",
+    "indicatorId": "1.1",
+    "indicatorFullId": "D4-1.1",
+    "indicatorTitle": "Mengetahui cara mengidentifikasi permasalahan/kebutuhan",
+    "caseStudy": {
+      "title": "Studi Kasus 4: Identifikasi Masalah Utama Klien Pasca-Trauma dalam Layanan Konseling (Kasus 4)",
+      "scenario": "Klien Sdri. Rani (25 tahun) mengeluhkan insomnia berat, kecemasan berlebih saat mendengar suara keras, dan penurunan konsentrasi kerja pasca-mengalami kecelakaan lalu lintas 3 bulan lalu. Psikolog hendak mengidentifikasi permasalahan dasar dan kebutuhan intervensi utama klien menggunakan kerangka kerja identifikasi asesmen klinis komprehensif.",
+      "contextTags": [
+        "Identifikasi Masalah",
+        "Intake Assessment",
+        "Trauma",
+        "Kebutuhan Klien"
+      ]
+    },
+    "question": "Langkah prosedural manakah yang HARUS dilakukan Psikolog dalam tahap awal mengidentifikasi permasalahan dan kebutuhan klien?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Langsung memberikan diagnosis skizofrenia tanpa melakukan wawancara intake assessment."
+      },
+      {
+        "id": "B",
+        "text": "Melakukan pemetaan keluhan utama, riwayat onset timbulnya gejala, tingkat keparahan disfungsi harian, dan harapan kebutuhan pemulihan klien."
+      },
+      {
+        "id": "C",
+        "text": "Menolak mendengar keluhan trauma klien dan menyuruh klien langsung minum obat tidur."
+      },
+      {
+        "id": "D",
+        "text": "Mengabaikan keluhan kecemasan dan hanya fokus pada tes kecerdasan IQ."
+      }
+    ],
+    "key": "B",
+    "explanation": "Prinsip identifikasi permasalahan/kebutuhan diawali dengan pemetaan komprehensif terhadap keluhan utama, onset/kronologi timbulnya gejala, dampak disfungsi sistemik harian, serta analisis kebutuhan intervensi."
+  },
+  {
+    "id": "D4_I1.1_Q5",
+    "domainId": 4,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Identifikasi permasalahan/kebutuhan)",
+    "indicatorId": "1.1",
+    "indicatorFullId": "D4-1.1",
+    "indicatorTitle": "Mengetahui cara mengidentifikasi permasalahan/kebutuhan",
+    "caseStudy": {
+      "title": "Studi Kasus 5: Identifikasi Masalah Utama Klien Pasca-Trauma dalam Layanan Konseling (Kasus 5)",
+      "scenario": "Klien Sdri. Rani (25 tahun) mengeluhkan insomnia berat, kecemasan berlebih saat mendengar suara keras, dan penurunan konsentrasi kerja pasca-mengalami kecelakaan lalu lintas 3 bulan lalu. Psikolog hendak mengidentifikasi permasalahan dasar dan kebutuhan intervensi utama klien menggunakan kerangka kerja identifikasi asesmen klinis komprehensif.",
+      "contextTags": [
+        "Identifikasi Masalah",
+        "Intake Assessment",
+        "Trauma",
+        "Kebutuhan Klien"
+      ]
+    },
+    "question": "Langkah prosedural manakah yang HARUS dilakukan Psikolog dalam tahap awal mengidentifikasi permasalahan dan kebutuhan klien?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Langsung memberikan diagnosis skizofrenia tanpa melakukan wawancara intake assessment."
+      },
+      {
+        "id": "B",
+        "text": "Melakukan pemetaan keluhan utama, riwayat onset timbulnya gejala, tingkat keparahan disfungsi harian, dan harapan kebutuhan pemulihan klien."
+      },
+      {
+        "id": "C",
+        "text": "Menolak mendengar keluhan trauma klien dan menyuruh klien langsung minum obat tidur."
+      },
+      {
+        "id": "D",
+        "text": "Mengabaikan keluhan kecemasan dan hanya fokus pada tes kecerdasan IQ."
+      }
+    ],
+    "key": "B",
+    "explanation": "Prinsip identifikasi permasalahan/kebutuhan diawali dengan pemetaan komprehensif terhadap keluhan utama, onset/kronologi timbulnya gejala, dampak disfungsi sistemik harian, serta analisis kebutuhan intervensi."
+  },
+  {
+    "id": "D4_I1.1_Q6",
+    "domainId": 4,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Identifikasi permasalahan/kebutuhan)",
+    "indicatorId": "1.1",
+    "indicatorFullId": "D4-1.1",
+    "indicatorTitle": "Mengetahui cara mengidentifikasi permasalahan/kebutuhan",
+    "caseStudy": {
+      "title": "Studi Kasus 6: Identifikasi Masalah Utama Klien Pasca-Trauma dalam Layanan Konseling (Kasus 6)",
+      "scenario": "Klien Sdri. Rani (25 tahun) mengeluhkan insomnia berat, kecemasan berlebih saat mendengar suara keras, dan penurunan konsentrasi kerja pasca-mengalami kecelakaan lalu lintas 3 bulan lalu. Psikolog hendak mengidentifikasi permasalahan dasar dan kebutuhan intervensi utama klien menggunakan kerangka kerja identifikasi asesmen klinis komprehensif.",
+      "contextTags": [
+        "Identifikasi Masalah",
+        "Intake Assessment",
+        "Trauma",
+        "Kebutuhan Klien"
+      ]
+    },
+    "question": "Langkah prosedural manakah yang HARUS dilakukan Psikolog dalam tahap awal mengidentifikasi permasalahan dan kebutuhan klien?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Langsung memberikan diagnosis skizofrenia tanpa melakukan wawancara intake assessment."
+      },
+      {
+        "id": "B",
+        "text": "Melakukan pemetaan keluhan utama, riwayat onset timbulnya gejala, tingkat keparahan disfungsi harian, dan harapan kebutuhan pemulihan klien."
+      },
+      {
+        "id": "C",
+        "text": "Menolak mendengar keluhan trauma klien dan menyuruh klien langsung minum obat tidur."
+      },
+      {
+        "id": "D",
+        "text": "Mengabaikan keluhan kecemasan dan hanya fokus pada tes kecerdasan IQ."
+      }
+    ],
+    "key": "B",
+    "explanation": "Prinsip identifikasi permasalahan/kebutuhan diawali dengan pemetaan komprehensif terhadap keluhan utama, onset/kronologi timbulnya gejala, dampak disfungsi sistemik harian, serta analisis kebutuhan intervensi."
+  },
+  {
+    "id": "D4_I1.1_Q7",
+    "domainId": 4,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Identifikasi permasalahan/kebutuhan)",
+    "indicatorId": "1.1",
+    "indicatorFullId": "D4-1.1",
+    "indicatorTitle": "Mengetahui cara mengidentifikasi permasalahan/kebutuhan",
+    "caseStudy": {
+      "title": "Studi Kasus 7: Identifikasi Masalah Utama Klien Pasca-Trauma dalam Layanan Konseling (Kasus 7)",
+      "scenario": "Klien Sdri. Rani (25 tahun) mengeluhkan insomnia berat, kecemasan berlebih saat mendengar suara keras, dan penurunan konsentrasi kerja pasca-mengalami kecelakaan lalu lintas 3 bulan lalu. Psikolog hendak mengidentifikasi permasalahan dasar dan kebutuhan intervensi utama klien menggunakan kerangka kerja identifikasi asesmen klinis komprehensif.",
+      "contextTags": [
+        "Identifikasi Masalah",
+        "Intake Assessment",
+        "Trauma",
+        "Kebutuhan Klien"
+      ]
+    },
+    "question": "Langkah prosedural manakah yang HARUS dilakukan Psikolog dalam tahap awal mengidentifikasi permasalahan dan kebutuhan klien?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Langsung memberikan diagnosis skizofrenia tanpa melakukan wawancara intake assessment."
+      },
+      {
+        "id": "B",
+        "text": "Melakukan pemetaan keluhan utama, riwayat onset timbulnya gejala, tingkat keparahan disfungsi harian, dan harapan kebutuhan pemulihan klien."
+      },
+      {
+        "id": "C",
+        "text": "Menolak mendengar keluhan trauma klien dan menyuruh klien langsung minum obat tidur."
+      },
+      {
+        "id": "D",
+        "text": "Mengabaikan keluhan kecemasan dan hanya fokus pada tes kecerdasan IQ."
+      }
+    ],
+    "key": "B",
+    "explanation": "Prinsip identifikasi permasalahan/kebutuhan diawali dengan pemetaan komprehensif terhadap keluhan utama, onset/kronologi timbulnya gejala, dampak disfungsi sistemik harian, serta analisis kebutuhan intervensi."
+  },
+  {
+    "id": "D4_I1.1_Q8",
+    "domainId": 4,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Identifikasi permasalahan/kebutuhan)",
+    "indicatorId": "1.1",
+    "indicatorFullId": "D4-1.1",
+    "indicatorTitle": "Mengetahui cara mengidentifikasi permasalahan/kebutuhan",
+    "caseStudy": {
+      "title": "Studi Kasus 8: Identifikasi Masalah Utama Klien Pasca-Trauma dalam Layanan Konseling (Kasus 8)",
+      "scenario": "Klien Sdri. Rani (25 tahun) mengeluhkan insomnia berat, kecemasan berlebih saat mendengar suara keras, dan penurunan konsentrasi kerja pasca-mengalami kecelakaan lalu lintas 3 bulan lalu. Psikolog hendak mengidentifikasi permasalahan dasar dan kebutuhan intervensi utama klien menggunakan kerangka kerja identifikasi asesmen klinis komprehensif.",
+      "contextTags": [
+        "Identifikasi Masalah",
+        "Intake Assessment",
+        "Trauma",
+        "Kebutuhan Klien"
+      ]
+    },
+    "question": "Langkah prosedural manakah yang HARUS dilakukan Psikolog dalam tahap awal mengidentifikasi permasalahan dan kebutuhan klien?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Langsung memberikan diagnosis skizofrenia tanpa melakukan wawancara intake assessment."
+      },
+      {
+        "id": "B",
+        "text": "Melakukan pemetaan keluhan utama, riwayat onset timbulnya gejala, tingkat keparahan disfungsi harian, dan harapan kebutuhan pemulihan klien."
+      },
+      {
+        "id": "C",
+        "text": "Menolak mendengar keluhan trauma klien dan menyuruh klien langsung minum obat tidur."
+      },
+      {
+        "id": "D",
+        "text": "Mengabaikan keluhan kecemasan dan hanya fokus pada tes kecerdasan IQ."
+      }
+    ],
+    "key": "B",
+    "explanation": "Prinsip identifikasi permasalahan/kebutuhan diawali dengan pemetaan komprehensif terhadap keluhan utama, onset/kronologi timbulnya gejala, dampak disfungsi sistemik harian, serta analisis kebutuhan intervensi."
+  },
+  {
+    "id": "D4_I1.1_Q9",
+    "domainId": 4,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Identifikasi permasalahan/kebutuhan)",
+    "indicatorId": "1.1",
+    "indicatorFullId": "D4-1.1",
+    "indicatorTitle": "Mengetahui cara mengidentifikasi permasalahan/kebutuhan",
+    "caseStudy": {
+      "title": "Studi Kasus 9: Identifikasi Masalah Utama Klien Pasca-Trauma dalam Layanan Konseling (Kasus 9)",
+      "scenario": "Klien Sdri. Rani (25 tahun) mengeluhkan insomnia berat, kecemasan berlebih saat mendengar suara keras, dan penurunan konsentrasi kerja pasca-mengalami kecelakaan lalu lintas 3 bulan lalu. Psikolog hendak mengidentifikasi permasalahan dasar dan kebutuhan intervensi utama klien menggunakan kerangka kerja identifikasi asesmen klinis komprehensif.",
+      "contextTags": [
+        "Identifikasi Masalah",
+        "Intake Assessment",
+        "Trauma",
+        "Kebutuhan Klien"
+      ]
+    },
+    "question": "Langkah prosedural manakah yang HARUS dilakukan Psikolog dalam tahap awal mengidentifikasi permasalahan dan kebutuhan klien?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Langsung memberikan diagnosis skizofrenia tanpa melakukan wawancara intake assessment."
+      },
+      {
+        "id": "B",
+        "text": "Melakukan pemetaan keluhan utama, riwayat onset timbulnya gejala, tingkat keparahan disfungsi harian, dan harapan kebutuhan pemulihan klien."
+      },
+      {
+        "id": "C",
+        "text": "Menolak mendengar keluhan trauma klien dan menyuruh klien langsung minum obat tidur."
+      },
+      {
+        "id": "D",
+        "text": "Mengabaikan keluhan kecemasan dan hanya fokus pada tes kecerdasan IQ."
+      }
+    ],
+    "key": "B",
+    "explanation": "Prinsip identifikasi permasalahan/kebutuhan diawali dengan pemetaan komprehensif terhadap keluhan utama, onset/kronologi timbulnya gejala, dampak disfungsi sistemik harian, serta analisis kebutuhan intervensi."
+  },
+  {
+    "id": "D4_I1.1_Q10",
+    "domainId": 4,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Identifikasi permasalahan/kebutuhan)",
+    "indicatorId": "1.1",
+    "indicatorFullId": "D4-1.1",
+    "indicatorTitle": "Mengetahui cara mengidentifikasi permasalahan/kebutuhan",
+    "caseStudy": {
+      "title": "Studi Kasus 10: Identifikasi Masalah Utama Klien Pasca-Trauma dalam Layanan Konseling (Kasus 10)",
+      "scenario": "Klien Sdri. Rani (25 tahun) mengeluhkan insomnia berat, kecemasan berlebih saat mendengar suara keras, dan penurunan konsentrasi kerja pasca-mengalami kecelakaan lalu lintas 3 bulan lalu. Psikolog hendak mengidentifikasi permasalahan dasar dan kebutuhan intervensi utama klien menggunakan kerangka kerja identifikasi asesmen klinis komprehensif.",
+      "contextTags": [
+        "Identifikasi Masalah",
+        "Intake Assessment",
+        "Trauma",
+        "Kebutuhan Klien"
+      ]
+    },
+    "question": "Langkah prosedural manakah yang HARUS dilakukan Psikolog dalam tahap awal mengidentifikasi permasalahan dan kebutuhan klien?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Langsung memberikan diagnosis skizofrenia tanpa melakukan wawancara intake assessment."
+      },
+      {
+        "id": "B",
+        "text": "Melakukan pemetaan keluhan utama, riwayat onset timbulnya gejala, tingkat keparahan disfungsi harian, dan harapan kebutuhan pemulihan klien."
+      },
+      {
+        "id": "C",
+        "text": "Menolak mendengar keluhan trauma klien dan menyuruh klien langsung minum obat tidur."
+      },
+      {
+        "id": "D",
+        "text": "Mengabaikan keluhan kecemasan dan hanya fokus pada tes kecerdasan IQ."
+      }
+    ],
+    "key": "B",
+    "explanation": "Prinsip identifikasi permasalahan/kebutuhan diawali dengan pemetaan komprehensif terhadap keluhan utama, onset/kronologi timbulnya gejala, dampak disfungsi sistemik harian, serta analisis kebutuhan intervensi."
+  },
+  {
+    "id": "D4_I1.2_Q1",
+    "domainId": 4,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Identifikasi permasalahan/kebutuhan)",
+    "indicatorId": "1.2",
+    "indicatorFullId": "D4-1.2",
+    "indicatorTitle": "Mengidentifikasi permasalahan/kebutuhan dengan mempertimbangkan keluhan dan intake assessment",
+    "caseStudy": {
+      "title": "Studi Kasus 1: Integrasi Keluhan Klien dan Data Intake Assessment pada Kasus Depresi Remaja (Kasus 1)",
+      "scenario": "Seorang remaja Sdr. Fikri (16 tahun) dibawa ibunya dengan keluhan 'menjadi malas dan sering mengurung diri di kamar'. Hasil wawancara intake assessment mengungkap bahwa Fikri mengisolasi diri pasca-perceraian kedua orang tuanya, mengalami penurunan drastis nilai sekolah, dan ada riwayat ideasi menyakiti diri (self-harm). Psikolog mengintegrasikan keluhan orang tua dan data intake assessment individu Fikri.",
+      "contextTags": [
+        "Intake Assessment",
+        "Keluhan Klien",
+        "Depresi Remaja",
+        "Self-Harm"
+      ]
+    },
+    "question": "Bagaimanakah penentuan permasalahan/kebutuhan Fikri yang PALING tepat berdasarkan konsolidasi data intake assessment?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Permasalahan utama adalah kemalasan remaja dan kebutuhan utamanya adalah hukuman disiplin keras dari sekolah."
+      },
+      {
+        "id": "B",
+        "text": "Permasalahan utama adalah reaksi depresi reaktif pasca-krisis keluarga dengan risiko self-harm, sehingga kebutuhan utamanya adalah manajemen krisis emosional dan pendampingan psikoterapi."
+      },
+      {
+        "id": "C",
+        "text": "Permasalahan utama adalah gangguan retardasi mental bawaan sejak lahir."
+      },
+      {
+        "id": "D",
+        "text": "Permasalahan Fikri dianggap sepele dan tidak memerlukan tindakan psikologis apapun."
+      }
+    ],
+    "key": "B",
+    "explanation": "Mengidentifikasi permasalahan berbasis intake assessment memerlukan sintesis antara keluhan kasat mata (mengurung diri) dengan data klinis tersembunyi (depresi reaktif krisis perceraian & risiko self-harm) untuk merumuskan kebutuhan intervensi yang tepat."
+  },
+  {
+    "id": "D4_I1.2_Q2",
+    "domainId": 4,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Identifikasi permasalahan/kebutuhan)",
+    "indicatorId": "1.2",
+    "indicatorFullId": "D4-1.2",
+    "indicatorTitle": "Mengidentifikasi permasalahan/kebutuhan dengan mempertimbangkan keluhan dan intake assessment",
+    "caseStudy": {
+      "title": "Studi Kasus 2: Integrasi Keluhan Klien dan Data Intake Assessment pada Kasus Depresi Remaja (Kasus 2)",
+      "scenario": "Seorang remaja Sdr. Fikri (16 tahun) dibawa ibunya dengan keluhan 'menjadi malas dan sering mengurung diri di kamar'. Hasil wawancara intake assessment mengungkap bahwa Fikri mengisolasi diri pasca-perceraian kedua orang tuanya, mengalami penurunan drastis nilai sekolah, dan ada riwayat ideasi menyakiti diri (self-harm). Psikolog mengintegrasikan keluhan orang tua dan data intake assessment individu Fikri.",
+      "contextTags": [
+        "Intake Assessment",
+        "Keluhan Klien",
+        "Depresi Remaja",
+        "Self-Harm"
+      ]
+    },
+    "question": "Bagaimanakah penentuan permasalahan/kebutuhan Fikri yang PALING tepat berdasarkan konsolidasi data intake assessment?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Permasalahan utama adalah kemalasan remaja dan kebutuhan utamanya adalah hukuman disiplin keras dari sekolah."
+      },
+      {
+        "id": "B",
+        "text": "Permasalahan utama adalah reaksi depresi reaktif pasca-krisis keluarga dengan risiko self-harm, sehingga kebutuhan utamanya adalah manajemen krisis emosional dan pendampingan psikoterapi."
+      },
+      {
+        "id": "C",
+        "text": "Permasalahan utama adalah gangguan retardasi mental bawaan sejak lahir."
+      },
+      {
+        "id": "D",
+        "text": "Permasalahan Fikri dianggap sepele dan tidak memerlukan tindakan psikologis apapun."
+      }
+    ],
+    "key": "B",
+    "explanation": "Mengidentifikasi permasalahan berbasis intake assessment memerlukan sintesis antara keluhan kasat mata (mengurung diri) dengan data klinis tersembunyi (depresi reaktif krisis perceraian & risiko self-harm) untuk merumuskan kebutuhan intervensi yang tepat."
+  },
+  {
+    "id": "D4_I1.2_Q3",
+    "domainId": 4,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Identifikasi permasalahan/kebutuhan)",
+    "indicatorId": "1.2",
+    "indicatorFullId": "D4-1.2",
+    "indicatorTitle": "Mengidentifikasi permasalahan/kebutuhan dengan mempertimbangkan keluhan dan intake assessment",
+    "caseStudy": {
+      "title": "Studi Kasus 3: Integrasi Keluhan Klien dan Data Intake Assessment pada Kasus Depresi Remaja (Kasus 3)",
+      "scenario": "Seorang remaja Sdr. Fikri (16 tahun) dibawa ibunya dengan keluhan 'menjadi malas dan sering mengurung diri di kamar'. Hasil wawancara intake assessment mengungkap bahwa Fikri mengisolasi diri pasca-perceraian kedua orang tuanya, mengalami penurunan drastis nilai sekolah, dan ada riwayat ideasi menyakiti diri (self-harm). Psikolog mengintegrasikan keluhan orang tua dan data intake assessment individu Fikri.",
+      "contextTags": [
+        "Intake Assessment",
+        "Keluhan Klien",
+        "Depresi Remaja",
+        "Self-Harm"
+      ]
+    },
+    "question": "Bagaimanakah penentuan permasalahan/kebutuhan Fikri yang PALING tepat berdasarkan konsolidasi data intake assessment?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Permasalahan utama adalah kemalasan remaja dan kebutuhan utamanya adalah hukuman disiplin keras dari sekolah."
+      },
+      {
+        "id": "B",
+        "text": "Permasalahan utama adalah reaksi depresi reaktif pasca-krisis keluarga dengan risiko self-harm, sehingga kebutuhan utamanya adalah manajemen krisis emosional dan pendampingan psikoterapi."
+      },
+      {
+        "id": "C",
+        "text": "Permasalahan utama adalah gangguan retardasi mental bawaan sejak lahir."
+      },
+      {
+        "id": "D",
+        "text": "Permasalahan Fikri dianggap sepele dan tidak memerlukan tindakan psikologis apapun."
+      }
+    ],
+    "key": "B",
+    "explanation": "Mengidentifikasi permasalahan berbasis intake assessment memerlukan sintesis antara keluhan kasat mata (mengurung diri) dengan data klinis tersembunyi (depresi reaktif krisis perceraian & risiko self-harm) untuk merumuskan kebutuhan intervensi yang tepat."
+  },
+  {
+    "id": "D4_I1.2_Q4",
+    "domainId": 4,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Identifikasi permasalahan/kebutuhan)",
+    "indicatorId": "1.2",
+    "indicatorFullId": "D4-1.2",
+    "indicatorTitle": "Mengidentifikasi permasalahan/kebutuhan dengan mempertimbangkan keluhan dan intake assessment",
+    "caseStudy": {
+      "title": "Studi Kasus 4: Integrasi Keluhan Klien dan Data Intake Assessment pada Kasus Depresi Remaja (Kasus 4)",
+      "scenario": "Seorang remaja Sdr. Fikri (16 tahun) dibawa ibunya dengan keluhan 'menjadi malas dan sering mengurung diri di kamar'. Hasil wawancara intake assessment mengungkap bahwa Fikri mengisolasi diri pasca-perceraian kedua orang tuanya, mengalami penurunan drastis nilai sekolah, dan ada riwayat ideasi menyakiti diri (self-harm). Psikolog mengintegrasikan keluhan orang tua dan data intake assessment individu Fikri.",
+      "contextTags": [
+        "Intake Assessment",
+        "Keluhan Klien",
+        "Depresi Remaja",
+        "Self-Harm"
+      ]
+    },
+    "question": "Bagaimanakah penentuan permasalahan/kebutuhan Fikri yang PALING tepat berdasarkan konsolidasi data intake assessment?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Permasalahan utama adalah kemalasan remaja dan kebutuhan utamanya adalah hukuman disiplin keras dari sekolah."
+      },
+      {
+        "id": "B",
+        "text": "Permasalahan utama adalah reaksi depresi reaktif pasca-krisis keluarga dengan risiko self-harm, sehingga kebutuhan utamanya adalah manajemen krisis emosional dan pendampingan psikoterapi."
+      },
+      {
+        "id": "C",
+        "text": "Permasalahan utama adalah gangguan retardasi mental bawaan sejak lahir."
+      },
+      {
+        "id": "D",
+        "text": "Permasalahan Fikri dianggap sepele dan tidak memerlukan tindakan psikologis apapun."
+      }
+    ],
+    "key": "B",
+    "explanation": "Mengidentifikasi permasalahan berbasis intake assessment memerlukan sintesis antara keluhan kasat mata (mengurung diri) dengan data klinis tersembunyi (depresi reaktif krisis perceraian & risiko self-harm) untuk merumuskan kebutuhan intervensi yang tepat."
+  },
+  {
+    "id": "D4_I1.2_Q5",
+    "domainId": 4,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Identifikasi permasalahan/kebutuhan)",
+    "indicatorId": "1.2",
+    "indicatorFullId": "D4-1.2",
+    "indicatorTitle": "Mengidentifikasi permasalahan/kebutuhan dengan mempertimbangkan keluhan dan intake assessment",
+    "caseStudy": {
+      "title": "Studi Kasus 5: Integrasi Keluhan Klien dan Data Intake Assessment pada Kasus Depresi Remaja (Kasus 5)",
+      "scenario": "Seorang remaja Sdr. Fikri (16 tahun) dibawa ibunya dengan keluhan 'menjadi malas dan sering mengurung diri di kamar'. Hasil wawancara intake assessment mengungkap bahwa Fikri mengisolasi diri pasca-perceraian kedua orang tuanya, mengalami penurunan drastis nilai sekolah, dan ada riwayat ideasi menyakiti diri (self-harm). Psikolog mengintegrasikan keluhan orang tua dan data intake assessment individu Fikri.",
+      "contextTags": [
+        "Intake Assessment",
+        "Keluhan Klien",
+        "Depresi Remaja",
+        "Self-Harm"
+      ]
+    },
+    "question": "Bagaimanakah penentuan permasalahan/kebutuhan Fikri yang PALING tepat berdasarkan konsolidasi data intake assessment?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Permasalahan utama adalah kemalasan remaja dan kebutuhan utamanya adalah hukuman disiplin keras dari sekolah."
+      },
+      {
+        "id": "B",
+        "text": "Permasalahan utama adalah reaksi depresi reaktif pasca-krisis keluarga dengan risiko self-harm, sehingga kebutuhan utamanya adalah manajemen krisis emosional dan pendampingan psikoterapi."
+      },
+      {
+        "id": "C",
+        "text": "Permasalahan utama adalah gangguan retardasi mental bawaan sejak lahir."
+      },
+      {
+        "id": "D",
+        "text": "Permasalahan Fikri dianggap sepele dan tidak memerlukan tindakan psikologis apapun."
+      }
+    ],
+    "key": "B",
+    "explanation": "Mengidentifikasi permasalahan berbasis intake assessment memerlukan sintesis antara keluhan kasat mata (mengurung diri) dengan data klinis tersembunyi (depresi reaktif krisis perceraian & risiko self-harm) untuk merumuskan kebutuhan intervensi yang tepat."
+  },
+  {
+    "id": "D4_I1.2_Q6",
+    "domainId": 4,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Identifikasi permasalahan/kebutuhan)",
+    "indicatorId": "1.2",
+    "indicatorFullId": "D4-1.2",
+    "indicatorTitle": "Mengidentifikasi permasalahan/kebutuhan dengan mempertimbangkan keluhan dan intake assessment",
+    "caseStudy": {
+      "title": "Studi Kasus 6: Integrasi Keluhan Klien dan Data Intake Assessment pada Kasus Depresi Remaja (Kasus 6)",
+      "scenario": "Seorang remaja Sdr. Fikri (16 tahun) dibawa ibunya dengan keluhan 'menjadi malas dan sering mengurung diri di kamar'. Hasil wawancara intake assessment mengungkap bahwa Fikri mengisolasi diri pasca-perceraian kedua orang tuanya, mengalami penurunan drastis nilai sekolah, dan ada riwayat ideasi menyakiti diri (self-harm). Psikolog mengintegrasikan keluhan orang tua dan data intake assessment individu Fikri.",
+      "contextTags": [
+        "Intake Assessment",
+        "Keluhan Klien",
+        "Depresi Remaja",
+        "Self-Harm"
+      ]
+    },
+    "question": "Bagaimanakah penentuan permasalahan/kebutuhan Fikri yang PALING tepat berdasarkan konsolidasi data intake assessment?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Permasalahan utama adalah kemalasan remaja dan kebutuhan utamanya adalah hukuman disiplin keras dari sekolah."
+      },
+      {
+        "id": "B",
+        "text": "Permasalahan utama adalah reaksi depresi reaktif pasca-krisis keluarga dengan risiko self-harm, sehingga kebutuhan utamanya adalah manajemen krisis emosional dan pendampingan psikoterapi."
+      },
+      {
+        "id": "C",
+        "text": "Permasalahan utama adalah gangguan retardasi mental bawaan sejak lahir."
+      },
+      {
+        "id": "D",
+        "text": "Permasalahan Fikri dianggap sepele dan tidak memerlukan tindakan psikologis apapun."
+      }
+    ],
+    "key": "B",
+    "explanation": "Mengidentifikasi permasalahan berbasis intake assessment memerlukan sintesis antara keluhan kasat mata (mengurung diri) dengan data klinis tersembunyi (depresi reaktif krisis perceraian & risiko self-harm) untuk merumuskan kebutuhan intervensi yang tepat."
+  },
+  {
+    "id": "D4_I1.2_Q7",
+    "domainId": 4,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Identifikasi permasalahan/kebutuhan)",
+    "indicatorId": "1.2",
+    "indicatorFullId": "D4-1.2",
+    "indicatorTitle": "Mengidentifikasi permasalahan/kebutuhan dengan mempertimbangkan keluhan dan intake assessment",
+    "caseStudy": {
+      "title": "Studi Kasus 7: Integrasi Keluhan Klien dan Data Intake Assessment pada Kasus Depresi Remaja (Kasus 7)",
+      "scenario": "Seorang remaja Sdr. Fikri (16 tahun) dibawa ibunya dengan keluhan 'menjadi malas dan sering mengurung diri di kamar'. Hasil wawancara intake assessment mengungkap bahwa Fikri mengisolasi diri pasca-perceraian kedua orang tuanya, mengalami penurunan drastis nilai sekolah, dan ada riwayat ideasi menyakiti diri (self-harm). Psikolog mengintegrasikan keluhan orang tua dan data intake assessment individu Fikri.",
+      "contextTags": [
+        "Intake Assessment",
+        "Keluhan Klien",
+        "Depresi Remaja",
+        "Self-Harm"
+      ]
+    },
+    "question": "Bagaimanakah penentuan permasalahan/kebutuhan Fikri yang PALING tepat berdasarkan konsolidasi data intake assessment?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Permasalahan utama adalah kemalasan remaja dan kebutuhan utamanya adalah hukuman disiplin keras dari sekolah."
+      },
+      {
+        "id": "B",
+        "text": "Permasalahan utama adalah reaksi depresi reaktif pasca-krisis keluarga dengan risiko self-harm, sehingga kebutuhan utamanya adalah manajemen krisis emosional dan pendampingan psikoterapi."
+      },
+      {
+        "id": "C",
+        "text": "Permasalahan utama adalah gangguan retardasi mental bawaan sejak lahir."
+      },
+      {
+        "id": "D",
+        "text": "Permasalahan Fikri dianggap sepele dan tidak memerlukan tindakan psikologis apapun."
+      }
+    ],
+    "key": "B",
+    "explanation": "Mengidentifikasi permasalahan berbasis intake assessment memerlukan sintesis antara keluhan kasat mata (mengurung diri) dengan data klinis tersembunyi (depresi reaktif krisis perceraian & risiko self-harm) untuk merumuskan kebutuhan intervensi yang tepat."
+  },
+  {
+    "id": "D4_I1.2_Q8",
+    "domainId": 4,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Identifikasi permasalahan/kebutuhan)",
+    "indicatorId": "1.2",
+    "indicatorFullId": "D4-1.2",
+    "indicatorTitle": "Mengidentifikasi permasalahan/kebutuhan dengan mempertimbangkan keluhan dan intake assessment",
+    "caseStudy": {
+      "title": "Studi Kasus 8: Integrasi Keluhan Klien dan Data Intake Assessment pada Kasus Depresi Remaja (Kasus 8)",
+      "scenario": "Seorang remaja Sdr. Fikri (16 tahun) dibawa ibunya dengan keluhan 'menjadi malas dan sering mengurung diri di kamar'. Hasil wawancara intake assessment mengungkap bahwa Fikri mengisolasi diri pasca-perceraian kedua orang tuanya, mengalami penurunan drastis nilai sekolah, dan ada riwayat ideasi menyakiti diri (self-harm). Psikolog mengintegrasikan keluhan orang tua dan data intake assessment individu Fikri.",
+      "contextTags": [
+        "Intake Assessment",
+        "Keluhan Klien",
+        "Depresi Remaja",
+        "Self-Harm"
+      ]
+    },
+    "question": "Bagaimanakah penentuan permasalahan/kebutuhan Fikri yang PALING tepat berdasarkan konsolidasi data intake assessment?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Permasalahan utama adalah kemalasan remaja dan kebutuhan utamanya adalah hukuman disiplin keras dari sekolah."
+      },
+      {
+        "id": "B",
+        "text": "Permasalahan utama adalah reaksi depresi reaktif pasca-krisis keluarga dengan risiko self-harm, sehingga kebutuhan utamanya adalah manajemen krisis emosional dan pendampingan psikoterapi."
+      },
+      {
+        "id": "C",
+        "text": "Permasalahan utama adalah gangguan retardasi mental bawaan sejak lahir."
+      },
+      {
+        "id": "D",
+        "text": "Permasalahan Fikri dianggap sepele dan tidak memerlukan tindakan psikologis apapun."
+      }
+    ],
+    "key": "B",
+    "explanation": "Mengidentifikasi permasalahan berbasis intake assessment memerlukan sintesis antara keluhan kasat mata (mengurung diri) dengan data klinis tersembunyi (depresi reaktif krisis perceraian & risiko self-harm) untuk merumuskan kebutuhan intervensi yang tepat."
+  },
+  {
+    "id": "D4_I1.2_Q9",
+    "domainId": 4,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Identifikasi permasalahan/kebutuhan)",
+    "indicatorId": "1.2",
+    "indicatorFullId": "D4-1.2",
+    "indicatorTitle": "Mengidentifikasi permasalahan/kebutuhan dengan mempertimbangkan keluhan dan intake assessment",
+    "caseStudy": {
+      "title": "Studi Kasus 9: Integrasi Keluhan Klien dan Data Intake Assessment pada Kasus Depresi Remaja (Kasus 9)",
+      "scenario": "Seorang remaja Sdr. Fikri (16 tahun) dibawa ibunya dengan keluhan 'menjadi malas dan sering mengurung diri di kamar'. Hasil wawancara intake assessment mengungkap bahwa Fikri mengisolasi diri pasca-perceraian kedua orang tuanya, mengalami penurunan drastis nilai sekolah, dan ada riwayat ideasi menyakiti diri (self-harm). Psikolog mengintegrasikan keluhan orang tua dan data intake assessment individu Fikri.",
+      "contextTags": [
+        "Intake Assessment",
+        "Keluhan Klien",
+        "Depresi Remaja",
+        "Self-Harm"
+      ]
+    },
+    "question": "Bagaimanakah penentuan permasalahan/kebutuhan Fikri yang PALING tepat berdasarkan konsolidasi data intake assessment?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Permasalahan utama adalah kemalasan remaja dan kebutuhan utamanya adalah hukuman disiplin keras dari sekolah."
+      },
+      {
+        "id": "B",
+        "text": "Permasalahan utama adalah reaksi depresi reaktif pasca-krisis keluarga dengan risiko self-harm, sehingga kebutuhan utamanya adalah manajemen krisis emosional dan pendampingan psikoterapi."
+      },
+      {
+        "id": "C",
+        "text": "Permasalahan utama adalah gangguan retardasi mental bawaan sejak lahir."
+      },
+      {
+        "id": "D",
+        "text": "Permasalahan Fikri dianggap sepele dan tidak memerlukan tindakan psikologis apapun."
+      }
+    ],
+    "key": "B",
+    "explanation": "Mengidentifikasi permasalahan berbasis intake assessment memerlukan sintesis antara keluhan kasat mata (mengurung diri) dengan data klinis tersembunyi (depresi reaktif krisis perceraian & risiko self-harm) untuk merumuskan kebutuhan intervensi yang tepat."
+  },
+  {
+    "id": "D4_I1.2_Q10",
+    "domainId": 4,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Identifikasi permasalahan/kebutuhan)",
+    "indicatorId": "1.2",
+    "indicatorFullId": "D4-1.2",
+    "indicatorTitle": "Mengidentifikasi permasalahan/kebutuhan dengan mempertimbangkan keluhan dan intake assessment",
+    "caseStudy": {
+      "title": "Studi Kasus 10: Integrasi Keluhan Klien dan Data Intake Assessment pada Kasus Depresi Remaja (Kasus 10)",
+      "scenario": "Seorang remaja Sdr. Fikri (16 tahun) dibawa ibunya dengan keluhan 'menjadi malas dan sering mengurung diri di kamar'. Hasil wawancara intake assessment mengungkap bahwa Fikri mengisolasi diri pasca-perceraian kedua orang tuanya, mengalami penurunan drastis nilai sekolah, dan ada riwayat ideasi menyakiti diri (self-harm). Psikolog mengintegrasikan keluhan orang tua dan data intake assessment individu Fikri.",
+      "contextTags": [
+        "Intake Assessment",
+        "Keluhan Klien",
+        "Depresi Remaja",
+        "Self-Harm"
+      ]
+    },
+    "question": "Bagaimanakah penentuan permasalahan/kebutuhan Fikri yang PALING tepat berdasarkan konsolidasi data intake assessment?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Permasalahan utama adalah kemalasan remaja dan kebutuhan utamanya adalah hukuman disiplin keras dari sekolah."
+      },
+      {
+        "id": "B",
+        "text": "Permasalahan utama adalah reaksi depresi reaktif pasca-krisis keluarga dengan risiko self-harm, sehingga kebutuhan utamanya adalah manajemen krisis emosional dan pendampingan psikoterapi."
+      },
+      {
+        "id": "C",
+        "text": "Permasalahan utama adalah gangguan retardasi mental bawaan sejak lahir."
+      },
+      {
+        "id": "D",
+        "text": "Permasalahan Fikri dianggap sepele dan tidak memerlukan tindakan psikologis apapun."
+      }
+    ],
+    "key": "B",
+    "explanation": "Mengidentifikasi permasalahan berbasis intake assessment memerlukan sintesis antara keluhan kasat mata (mengurung diri) dengan data klinis tersembunyi (depresi reaktif krisis perceraian & risiko self-harm) untuk merumuskan kebutuhan intervensi yang tepat."
+  },
+  {
+    "id": "D4_I1.3_Q1",
+    "domainId": 4,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Identifikasi permasalahan/kebutuhan)",
+    "indicatorId": "1.3",
+    "indicatorFullId": "D4-1.3",
+    "indicatorTitle": "Mengidentifikasi permasalahan/kebutuhan dengan mempertimbangkan hal-hal yang memicu/menyebabkan masalah yang teridentifikasi muncul, atau dengan membandingkan beberapa aspek, penyebab, atau kondisi yang berkaitan",
+    "caseStudy": {
+      "title": "Studi Kasus 1: Pembandingan Faktor Pemicu (Precipitating) dan Faktor Pemelihara (Maintaining Factors) dalam Analisis Kasus Panic Attack (Kasus 1)",
+      "scenario": "Sdr. Gilang (32 tahun) mengalami serangan panik berulang di tempat kerja. Psikolog membandingkan antara Faktor Pemicu Utama (precipitating factors: demosi jabatan mendadak dan beban finansial keluarga) serta Faktor Pemelihara (maintaining factors: persepsi katastropik terhadap detak jantung dan kecenderungan kebiasaan menghindar / avoidance behavior).",
+      "contextTags": [
+        "Precipitating Factors",
+        "Maintaining Factors",
+        "Panic Disorder",
+        "Konseptualisasi"
+      ]
+    },
+    "question": "Dalam menganalisis memicu/penyebab timbulnya masalah Sdr. Gilang, pembedaan manakah yang PALING tepat antara faktor pemicu dan pemelihara?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Demosi jabatan adalah faktor pemelihara internal, sedangkan kecenderungan menghindar adalah faktor pemicu biologis bawaan."
+      },
+      {
+        "id": "B",
+        "text": "Demosi jabatan dan beban finansial bertindak sebagai faktor pemicu (precipitating) munculnya serangan panik, sedangkan penilaian katastropik dan pola avoidance bertindak sebagai faktor pemelihara (maintaining) yang melestarikan gangguan panik."
+      },
+      {
+        "id": "C",
+        "text": "Faktor pemicu dan pemelihara adalah dua istilah yang bertolak belakang dan tidak boleh dipakai bersamaan."
+      },
+      {
+        "id": "D",
+        "text": "Seluruh masalah Gilang dipicu oleh cuaca ruangan AC pabrik yang terlalu dingin."
+      }
+    ],
+    "key": "B",
+    "explanation": "Dalam analisis kebutuhan dan penyebab masalah: Precipitating factors (pemicu) adalah peristiwa eksternal/internal yang mencetuskan timbulnya gejala pertama kali, sedangkan Maintaining factors (pemelihara) adalah proses kognitif/perilaku yang menyebabkan gangguan terus bertahan."
+  },
+  {
+    "id": "D4_I1.3_Q2",
+    "domainId": 4,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Identifikasi permasalahan/kebutuhan)",
+    "indicatorId": "1.3",
+    "indicatorFullId": "D4-1.3",
+    "indicatorTitle": "Mengidentifikasi permasalahan/kebutuhan dengan mempertimbangkan hal-hal yang memicu/menyebabkan masalah yang teridentifikasi muncul, atau dengan membandingkan beberapa aspek, penyebab, atau kondisi yang berkaitan",
+    "caseStudy": {
+      "title": "Studi Kasus 2: Pembandingan Faktor Pemicu (Precipitating) dan Faktor Pemelihara (Maintaining Factors) dalam Analisis Kasus Panic Attack (Kasus 2)",
+      "scenario": "Sdr. Gilang (32 tahun) mengalami serangan panik berulang di tempat kerja. Psikolog membandingkan antara Faktor Pemicu Utama (precipitating factors: demosi jabatan mendadak dan beban finansial keluarga) serta Faktor Pemelihara (maintaining factors: persepsi katastropik terhadap detak jantung dan kecenderungan kebiasaan menghindar / avoidance behavior).",
+      "contextTags": [
+        "Precipitating Factors",
+        "Maintaining Factors",
+        "Panic Disorder",
+        "Konseptualisasi"
+      ]
+    },
+    "question": "Dalam menganalisis memicu/penyebab timbulnya masalah Sdr. Gilang, pembedaan manakah yang PALING tepat antara faktor pemicu dan pemelihara?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Demosi jabatan adalah faktor pemelihara internal, sedangkan kecenderungan menghindar adalah faktor pemicu biologis bawaan."
+      },
+      {
+        "id": "B",
+        "text": "Demosi jabatan dan beban finansial bertindak sebagai faktor pemicu (precipitating) munculnya serangan panik, sedangkan penilaian katastropik dan pola avoidance bertindak sebagai faktor pemelihara (maintaining) yang melestarikan gangguan panik."
+      },
+      {
+        "id": "C",
+        "text": "Faktor pemicu dan pemelihara adalah dua istilah yang bertolak belakang dan tidak boleh dipakai bersamaan."
+      },
+      {
+        "id": "D",
+        "text": "Seluruh masalah Gilang dipicu oleh cuaca ruangan AC pabrik yang terlalu dingin."
+      }
+    ],
+    "key": "B",
+    "explanation": "Dalam analisis kebutuhan dan penyebab masalah: Precipitating factors (pemicu) adalah peristiwa eksternal/internal yang mencetuskan timbulnya gejala pertama kali, sedangkan Maintaining factors (pemelihara) adalah proses kognitif/perilaku yang menyebabkan gangguan terus bertahan."
+  },
+  {
+    "id": "D4_I1.3_Q3",
+    "domainId": 4,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Identifikasi permasalahan/kebutuhan)",
+    "indicatorId": "1.3",
+    "indicatorFullId": "D4-1.3",
+    "indicatorTitle": "Mengidentifikasi permasalahan/kebutuhan dengan mempertimbangkan hal-hal yang memicu/menyebabkan masalah yang teridentifikasi muncul, atau dengan membandingkan beberapa aspek, penyebab, atau kondisi yang berkaitan",
+    "caseStudy": {
+      "title": "Studi Kasus 3: Pembandingan Faktor Pemicu (Precipitating) dan Faktor Pemelihara (Maintaining Factors) dalam Analisis Kasus Panic Attack (Kasus 3)",
+      "scenario": "Sdr. Gilang (32 tahun) mengalami serangan panik berulang di tempat kerja. Psikolog membandingkan antara Faktor Pemicu Utama (precipitating factors: demosi jabatan mendadak dan beban finansial keluarga) serta Faktor Pemelihara (maintaining factors: persepsi katastropik terhadap detak jantung dan kecenderungan kebiasaan menghindar / avoidance behavior).",
+      "contextTags": [
+        "Precipitating Factors",
+        "Maintaining Factors",
+        "Panic Disorder",
+        "Konseptualisasi"
+      ]
+    },
+    "question": "Dalam menganalisis memicu/penyebab timbulnya masalah Sdr. Gilang, pembedaan manakah yang PALING tepat antara faktor pemicu dan pemelihara?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Demosi jabatan adalah faktor pemelihara internal, sedangkan kecenderungan menghindar adalah faktor pemicu biologis bawaan."
+      },
+      {
+        "id": "B",
+        "text": "Demosi jabatan dan beban finansial bertindak sebagai faktor pemicu (precipitating) munculnya serangan panik, sedangkan penilaian katastropik dan pola avoidance bertindak sebagai faktor pemelihara (maintaining) yang melestarikan gangguan panik."
+      },
+      {
+        "id": "C",
+        "text": "Faktor pemicu dan pemelihara adalah dua istilah yang bertolak belakang dan tidak boleh dipakai bersamaan."
+      },
+      {
+        "id": "D",
+        "text": "Seluruh masalah Gilang dipicu oleh cuaca ruangan AC pabrik yang terlalu dingin."
+      }
+    ],
+    "key": "B",
+    "explanation": "Dalam analisis kebutuhan dan penyebab masalah: Precipitating factors (pemicu) adalah peristiwa eksternal/internal yang mencetuskan timbulnya gejala pertama kali, sedangkan Maintaining factors (pemelihara) adalah proses kognitif/perilaku yang menyebabkan gangguan terus bertahan."
+  },
+  {
+    "id": "D4_I1.3_Q4",
+    "domainId": 4,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Identifikasi permasalahan/kebutuhan)",
+    "indicatorId": "1.3",
+    "indicatorFullId": "D4-1.3",
+    "indicatorTitle": "Mengidentifikasi permasalahan/kebutuhan dengan mempertimbangkan hal-hal yang memicu/menyebabkan masalah yang teridentifikasi muncul, atau dengan membandingkan beberapa aspek, penyebab, atau kondisi yang berkaitan",
+    "caseStudy": {
+      "title": "Studi Kasus 4: Pembandingan Faktor Pemicu (Precipitating) dan Faktor Pemelihara (Maintaining Factors) dalam Analisis Kasus Panic Attack (Kasus 4)",
+      "scenario": "Sdr. Gilang (32 tahun) mengalami serangan panik berulang di tempat kerja. Psikolog membandingkan antara Faktor Pemicu Utama (precipitating factors: demosi jabatan mendadak dan beban finansial keluarga) serta Faktor Pemelihara (maintaining factors: persepsi katastropik terhadap detak jantung dan kecenderungan kebiasaan menghindar / avoidance behavior).",
+      "contextTags": [
+        "Precipitating Factors",
+        "Maintaining Factors",
+        "Panic Disorder",
+        "Konseptualisasi"
+      ]
+    },
+    "question": "Dalam menganalisis memicu/penyebab timbulnya masalah Sdr. Gilang, pembedaan manakah yang PALING tepat antara faktor pemicu dan pemelihara?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Demosi jabatan adalah faktor pemelihara internal, sedangkan kecenderungan menghindar adalah faktor pemicu biologis bawaan."
+      },
+      {
+        "id": "B",
+        "text": "Demosi jabatan dan beban finansial bertindak sebagai faktor pemicu (precipitating) munculnya serangan panik, sedangkan penilaian katastropik dan pola avoidance bertindak sebagai faktor pemelihara (maintaining) yang melestarikan gangguan panik."
+      },
+      {
+        "id": "C",
+        "text": "Faktor pemicu dan pemelihara adalah dua istilah yang bertolak belakang dan tidak boleh dipakai bersamaan."
+      },
+      {
+        "id": "D",
+        "text": "Seluruh masalah Gilang dipicu oleh cuaca ruangan AC pabrik yang terlalu dingin."
+      }
+    ],
+    "key": "B",
+    "explanation": "Dalam analisis kebutuhan dan penyebab masalah: Precipitating factors (pemicu) adalah peristiwa eksternal/internal yang mencetuskan timbulnya gejala pertama kali, sedangkan Maintaining factors (pemelihara) adalah proses kognitif/perilaku yang menyebabkan gangguan terus bertahan."
+  },
+  {
+    "id": "D4_I1.3_Q5",
+    "domainId": 4,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Identifikasi permasalahan/kebutuhan)",
+    "indicatorId": "1.3",
+    "indicatorFullId": "D4-1.3",
+    "indicatorTitle": "Mengidentifikasi permasalahan/kebutuhan dengan mempertimbangkan hal-hal yang memicu/menyebabkan masalah yang teridentifikasi muncul, atau dengan membandingkan beberapa aspek, penyebab, atau kondisi yang berkaitan",
+    "caseStudy": {
+      "title": "Studi Kasus 5: Pembandingan Faktor Pemicu (Precipitating) dan Faktor Pemelihara (Maintaining Factors) dalam Analisis Kasus Panic Attack (Kasus 5)",
+      "scenario": "Sdr. Gilang (32 tahun) mengalami serangan panik berulang di tempat kerja. Psikolog membandingkan antara Faktor Pemicu Utama (precipitating factors: demosi jabatan mendadak dan beban finansial keluarga) serta Faktor Pemelihara (maintaining factors: persepsi katastropik terhadap detak jantung dan kecenderungan kebiasaan menghindar / avoidance behavior).",
+      "contextTags": [
+        "Precipitating Factors",
+        "Maintaining Factors",
+        "Panic Disorder",
+        "Konseptualisasi"
+      ]
+    },
+    "question": "Dalam menganalisis memicu/penyebab timbulnya masalah Sdr. Gilang, pembedaan manakah yang PALING tepat antara faktor pemicu dan pemelihara?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Demosi jabatan adalah faktor pemelihara internal, sedangkan kecenderungan menghindar adalah faktor pemicu biologis bawaan."
+      },
+      {
+        "id": "B",
+        "text": "Demosi jabatan dan beban finansial bertindak sebagai faktor pemicu (precipitating) munculnya serangan panik, sedangkan penilaian katastropik dan pola avoidance bertindak sebagai faktor pemelihara (maintaining) yang melestarikan gangguan panik."
+      },
+      {
+        "id": "C",
+        "text": "Faktor pemicu dan pemelihara adalah dua istilah yang bertolak belakang dan tidak boleh dipakai bersamaan."
+      },
+      {
+        "id": "D",
+        "text": "Seluruh masalah Gilang dipicu oleh cuaca ruangan AC pabrik yang terlalu dingin."
+      }
+    ],
+    "key": "B",
+    "explanation": "Dalam analisis kebutuhan dan penyebab masalah: Precipitating factors (pemicu) adalah peristiwa eksternal/internal yang mencetuskan timbulnya gejala pertama kali, sedangkan Maintaining factors (pemelihara) adalah proses kognitif/perilaku yang menyebabkan gangguan terus bertahan."
+  },
+  {
+    "id": "D4_I1.3_Q6",
+    "domainId": 4,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Identifikasi permasalahan/kebutuhan)",
+    "indicatorId": "1.3",
+    "indicatorFullId": "D4-1.3",
+    "indicatorTitle": "Mengidentifikasi permasalahan/kebutuhan dengan mempertimbangkan hal-hal yang memicu/menyebabkan masalah yang teridentifikasi muncul, atau dengan membandingkan beberapa aspek, penyebab, atau kondisi yang berkaitan",
+    "caseStudy": {
+      "title": "Studi Kasus 6: Pembandingan Faktor Pemicu (Precipitating) dan Faktor Pemelihara (Maintaining Factors) dalam Analisis Kasus Panic Attack (Kasus 6)",
+      "scenario": "Sdr. Gilang (32 tahun) mengalami serangan panik berulang di tempat kerja. Psikolog membandingkan antara Faktor Pemicu Utama (precipitating factors: demosi jabatan mendadak dan beban finansial keluarga) serta Faktor Pemelihara (maintaining factors: persepsi katastropik terhadap detak jantung dan kecenderungan kebiasaan menghindar / avoidance behavior).",
+      "contextTags": [
+        "Precipitating Factors",
+        "Maintaining Factors",
+        "Panic Disorder",
+        "Konseptualisasi"
+      ]
+    },
+    "question": "Dalam menganalisis memicu/penyebab timbulnya masalah Sdr. Gilang, pembedaan manakah yang PALING tepat antara faktor pemicu dan pemelihara?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Demosi jabatan adalah faktor pemelihara internal, sedangkan kecenderungan menghindar adalah faktor pemicu biologis bawaan."
+      },
+      {
+        "id": "B",
+        "text": "Demosi jabatan dan beban finansial bertindak sebagai faktor pemicu (precipitating) munculnya serangan panik, sedangkan penilaian katastropik dan pola avoidance bertindak sebagai faktor pemelihara (maintaining) yang melestarikan gangguan panik."
+      },
+      {
+        "id": "C",
+        "text": "Faktor pemicu dan pemelihara adalah dua istilah yang bertolak belakang dan tidak boleh dipakai bersamaan."
+      },
+      {
+        "id": "D",
+        "text": "Seluruh masalah Gilang dipicu oleh cuaca ruangan AC pabrik yang terlalu dingin."
+      }
+    ],
+    "key": "B",
+    "explanation": "Dalam analisis kebutuhan dan penyebab masalah: Precipitating factors (pemicu) adalah peristiwa eksternal/internal yang mencetuskan timbulnya gejala pertama kali, sedangkan Maintaining factors (pemelihara) adalah proses kognitif/perilaku yang menyebabkan gangguan terus bertahan."
+  },
+  {
+    "id": "D4_I1.3_Q7",
+    "domainId": 4,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Identifikasi permasalahan/kebutuhan)",
+    "indicatorId": "1.3",
+    "indicatorFullId": "D4-1.3",
+    "indicatorTitle": "Mengidentifikasi permasalahan/kebutuhan dengan mempertimbangkan hal-hal yang memicu/menyebabkan masalah yang teridentifikasi muncul, atau dengan membandingkan beberapa aspek, penyebab, atau kondisi yang berkaitan",
+    "caseStudy": {
+      "title": "Studi Kasus 7: Pembandingan Faktor Pemicu (Precipitating) dan Faktor Pemelihara (Maintaining Factors) dalam Analisis Kasus Panic Attack (Kasus 7)",
+      "scenario": "Sdr. Gilang (32 tahun) mengalami serangan panik berulang di tempat kerja. Psikolog membandingkan antara Faktor Pemicu Utama (precipitating factors: demosi jabatan mendadak dan beban finansial keluarga) serta Faktor Pemelihara (maintaining factors: persepsi katastropik terhadap detak jantung dan kecenderungan kebiasaan menghindar / avoidance behavior).",
+      "contextTags": [
+        "Precipitating Factors",
+        "Maintaining Factors",
+        "Panic Disorder",
+        "Konseptualisasi"
+      ]
+    },
+    "question": "Dalam menganalisis memicu/penyebab timbulnya masalah Sdr. Gilang, pembedaan manakah yang PALING tepat antara faktor pemicu dan pemelihara?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Demosi jabatan adalah faktor pemelihara internal, sedangkan kecenderungan menghindar adalah faktor pemicu biologis bawaan."
+      },
+      {
+        "id": "B",
+        "text": "Demosi jabatan dan beban finansial bertindak sebagai faktor pemicu (precipitating) munculnya serangan panik, sedangkan penilaian katastropik dan pola avoidance bertindak sebagai faktor pemelihara (maintaining) yang melestarikan gangguan panik."
+      },
+      {
+        "id": "C",
+        "text": "Faktor pemicu dan pemelihara adalah dua istilah yang bertolak belakang dan tidak boleh dipakai bersamaan."
+      },
+      {
+        "id": "D",
+        "text": "Seluruh masalah Gilang dipicu oleh cuaca ruangan AC pabrik yang terlalu dingin."
+      }
+    ],
+    "key": "B",
+    "explanation": "Dalam analisis kebutuhan dan penyebab masalah: Precipitating factors (pemicu) adalah peristiwa eksternal/internal yang mencetuskan timbulnya gejala pertama kali, sedangkan Maintaining factors (pemelihara) adalah proses kognitif/perilaku yang menyebabkan gangguan terus bertahan."
+  },
+  {
+    "id": "D4_I1.3_Q8",
+    "domainId": 4,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Identifikasi permasalahan/kebutuhan)",
+    "indicatorId": "1.3",
+    "indicatorFullId": "D4-1.3",
+    "indicatorTitle": "Mengidentifikasi permasalahan/kebutuhan dengan mempertimbangkan hal-hal yang memicu/menyebabkan masalah yang teridentifikasi muncul, atau dengan membandingkan beberapa aspek, penyebab, atau kondisi yang berkaitan",
+    "caseStudy": {
+      "title": "Studi Kasus 8: Pembandingan Faktor Pemicu (Precipitating) dan Faktor Pemelihara (Maintaining Factors) dalam Analisis Kasus Panic Attack (Kasus 8)",
+      "scenario": "Sdr. Gilang (32 tahun) mengalami serangan panik berulang di tempat kerja. Psikolog membandingkan antara Faktor Pemicu Utama (precipitating factors: demosi jabatan mendadak dan beban finansial keluarga) serta Faktor Pemelihara (maintaining factors: persepsi katastropik terhadap detak jantung dan kecenderungan kebiasaan menghindar / avoidance behavior).",
+      "contextTags": [
+        "Precipitating Factors",
+        "Maintaining Factors",
+        "Panic Disorder",
+        "Konseptualisasi"
+      ]
+    },
+    "question": "Dalam menganalisis memicu/penyebab timbulnya masalah Sdr. Gilang, pembedaan manakah yang PALING tepat antara faktor pemicu dan pemelihara?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Demosi jabatan adalah faktor pemelihara internal, sedangkan kecenderungan menghindar adalah faktor pemicu biologis bawaan."
+      },
+      {
+        "id": "B",
+        "text": "Demosi jabatan dan beban finansial bertindak sebagai faktor pemicu (precipitating) munculnya serangan panik, sedangkan penilaian katastropik dan pola avoidance bertindak sebagai faktor pemelihara (maintaining) yang melestarikan gangguan panik."
+      },
+      {
+        "id": "C",
+        "text": "Faktor pemicu dan pemelihara adalah dua istilah yang bertolak belakang dan tidak boleh dipakai bersamaan."
+      },
+      {
+        "id": "D",
+        "text": "Seluruh masalah Gilang dipicu oleh cuaca ruangan AC pabrik yang terlalu dingin."
+      }
+    ],
+    "key": "B",
+    "explanation": "Dalam analisis kebutuhan dan penyebab masalah: Precipitating factors (pemicu) adalah peristiwa eksternal/internal yang mencetuskan timbulnya gejala pertama kali, sedangkan Maintaining factors (pemelihara) adalah proses kognitif/perilaku yang menyebabkan gangguan terus bertahan."
+  },
+  {
+    "id": "D4_I1.3_Q9",
+    "domainId": 4,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Identifikasi permasalahan/kebutuhan)",
+    "indicatorId": "1.3",
+    "indicatorFullId": "D4-1.3",
+    "indicatorTitle": "Mengidentifikasi permasalahan/kebutuhan dengan mempertimbangkan hal-hal yang memicu/menyebabkan masalah yang teridentifikasi muncul, atau dengan membandingkan beberapa aspek, penyebab, atau kondisi yang berkaitan",
+    "caseStudy": {
+      "title": "Studi Kasus 9: Pembandingan Faktor Pemicu (Precipitating) dan Faktor Pemelihara (Maintaining Factors) dalam Analisis Kasus Panic Attack (Kasus 9)",
+      "scenario": "Sdr. Gilang (32 tahun) mengalami serangan panik berulang di tempat kerja. Psikolog membandingkan antara Faktor Pemicu Utama (precipitating factors: demosi jabatan mendadak dan beban finansial keluarga) serta Faktor Pemelihara (maintaining factors: persepsi katastropik terhadap detak jantung dan kecenderungan kebiasaan menghindar / avoidance behavior).",
+      "contextTags": [
+        "Precipitating Factors",
+        "Maintaining Factors",
+        "Panic Disorder",
+        "Konseptualisasi"
+      ]
+    },
+    "question": "Dalam menganalisis memicu/penyebab timbulnya masalah Sdr. Gilang, pembedaan manakah yang PALING tepat antara faktor pemicu dan pemelihara?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Demosi jabatan adalah faktor pemelihara internal, sedangkan kecenderungan menghindar adalah faktor pemicu biologis bawaan."
+      },
+      {
+        "id": "B",
+        "text": "Demosi jabatan dan beban finansial bertindak sebagai faktor pemicu (precipitating) munculnya serangan panik, sedangkan penilaian katastropik dan pola avoidance bertindak sebagai faktor pemelihara (maintaining) yang melestarikan gangguan panik."
+      },
+      {
+        "id": "C",
+        "text": "Faktor pemicu dan pemelihara adalah dua istilah yang bertolak belakang dan tidak boleh dipakai bersamaan."
+      },
+      {
+        "id": "D",
+        "text": "Seluruh masalah Gilang dipicu oleh cuaca ruangan AC pabrik yang terlalu dingin."
+      }
+    ],
+    "key": "B",
+    "explanation": "Dalam analisis kebutuhan dan penyebab masalah: Precipitating factors (pemicu) adalah peristiwa eksternal/internal yang mencetuskan timbulnya gejala pertama kali, sedangkan Maintaining factors (pemelihara) adalah proses kognitif/perilaku yang menyebabkan gangguan terus bertahan."
+  },
+  {
+    "id": "D4_I1.3_Q10",
+    "domainId": 4,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Identifikasi permasalahan/kebutuhan)",
+    "indicatorId": "1.3",
+    "indicatorFullId": "D4-1.3",
+    "indicatorTitle": "Mengidentifikasi permasalahan/kebutuhan dengan mempertimbangkan hal-hal yang memicu/menyebabkan masalah yang teridentifikasi muncul, atau dengan membandingkan beberapa aspek, penyebab, atau kondisi yang berkaitan",
+    "caseStudy": {
+      "title": "Studi Kasus 10: Pembandingan Faktor Pemicu (Precipitating) dan Faktor Pemelihara (Maintaining Factors) dalam Analisis Kasus Panic Attack (Kasus 10)",
+      "scenario": "Sdr. Gilang (32 tahun) mengalami serangan panik berulang di tempat kerja. Psikolog membandingkan antara Faktor Pemicu Utama (precipitating factors: demosi jabatan mendadak dan beban finansial keluarga) serta Faktor Pemelihara (maintaining factors: persepsi katastropik terhadap detak jantung dan kecenderungan kebiasaan menghindar / avoidance behavior).",
+      "contextTags": [
+        "Precipitating Factors",
+        "Maintaining Factors",
+        "Panic Disorder",
+        "Konseptualisasi"
+      ]
+    },
+    "question": "Dalam menganalisis memicu/penyebab timbulnya masalah Sdr. Gilang, pembedaan manakah yang PALING tepat antara faktor pemicu dan pemelihara?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Demosi jabatan adalah faktor pemelihara internal, sedangkan kecenderungan menghindar adalah faktor pemicu biologis bawaan."
+      },
+      {
+        "id": "B",
+        "text": "Demosi jabatan dan beban finansial bertindak sebagai faktor pemicu (precipitating) munculnya serangan panik, sedangkan penilaian katastropik dan pola avoidance bertindak sebagai faktor pemelihara (maintaining) yang melestarikan gangguan panik."
+      },
+      {
+        "id": "C",
+        "text": "Faktor pemicu dan pemelihara adalah dua istilah yang bertolak belakang dan tidak boleh dipakai bersamaan."
+      },
+      {
+        "id": "D",
+        "text": "Seluruh masalah Gilang dipicu oleh cuaca ruangan AC pabrik yang terlalu dingin."
+      }
+    ],
+    "key": "B",
+    "explanation": "Dalam analisis kebutuhan dan penyebab masalah: Precipitating factors (pemicu) adalah peristiwa eksternal/internal yang mencetuskan timbulnya gejala pertama kali, sedangkan Maintaining factors (pemelihara) adalah proses kognitif/perilaku yang menyebabkan gangguan terus bertahan."
+  }
+]
