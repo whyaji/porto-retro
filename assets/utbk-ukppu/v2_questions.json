@@ -1,0 +1,1726 @@
+[
+  {
+    "id": "V2_Q01",
+    "domainId": 1,
+    "domainTitle": "Sikap (Etika, Moral, Pluralitas, dan Empati) & Kegiatan Profesional Psikologi",
+    "indicatorId": "1.3",
+    "indicatorFullId": "D1-1.3",
+    "indicatorTitle": "Kemampuan melakukan rujukan",
+    "caseStudy": {
+      "title": "Studi Kasus 1: Dilema Batasan Kompetensi dan Penanganan Klien dengan Indikasi Gangguan Disosiatif Kronis",
+      "scenario": "Psikolog K, seorang psikolog umum yang berpraktek mandiri di kota kabupaten, menerima klien Ny. S (32 tahun) yang diantar oleh suaminya. Klien datang dengan keluhan awal 'kecemasan hebat dan sering lupa ingatan mendadak'. Setelah tiga sesi konseling suportif awal, suami klien membawa rekaman video di rumah yang memperlihatkan Ny. S kerap berbicara dengan intonasi anak kecil berusia 5 tahun yang mengaku bernama 'Mimi', dan di waktu lain bersikap sangat agresif serta mengaku sebagai 'Bram' yang ingin mencelakai suaminya. Ny. S mengaku sama sekali tidak mengingat peristiwa-peristiwa tersebut (amnesia disosiatif). Ny. S dan suami menyatakan bahwa mereka sudah sangat mempercayai Psikolog K karena Psikolog K adalah satu-satunya praktisi mental di kota mereka yang ramah dan mau mendengarkan. Mereka memohon agar Psikolog K terus menangani Ny. S hingga tuntas dan menolak secara tegas bila diarahkan ke rumah sakit jiwa di ibu kota provinsi karena takut akan stigma masyarakat. Psikolog K sendiri belum pernah mendapatkan pelatihan klinis mendalam, sertifikasi, ataupun supervisi klinis terstruktur mengenai penanganan Gangguan Identitas Disosiatif (Dissociative Identity Disorder).",
+      "contextTags": [
+        "Batasan Kompetensi",
+        "Prosedur Rujukan",
+        "Beneficence and Non-Maleficence",
+        "Kode Etik HIMPSI"
+      ]
+    },
+    "question": "Menghadapi situasi dilematis tersebut, langkah manakah yang PALING tepat dan etis dilakukan oleh Psikolog K berdasarkan Kode Etik Psikologi Indonesia?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Melanjutkan intervensi mandiri dengan mempelajari buku panduan terapi disosiatif secara otodidak, demi menghormati hak otonomi klien dan keluarga yang menolak dipindahkan ke faskes lain."
+      },
+      {
+        "id": "B",
+        "text": "Langsung memutuskan kontrak layanan secara sepihak dan menolak melayani sesi berikutnya agar Psikolog K terbebas dari tuntutan malpraktik hukum di kemudian hari."
+      },
+      {
+        "id": "C",
+        "text": "Menjelaskan secara jujur batasan kompetensinya kepada klien dan suami, memberikan psikoedukasi tentang perlunya penanganan multidisipliner spesialis, serta memfasilitasi proses rujukan aktif ke psikolog klinis spesialis/psikiater sambil mendampingi masa transisi secara suportif."
+      },
+      {
+        "id": "D",
+        "text": "Mengabaikan gejala kepribadian ganda tersebut dan tetap berfokus semata-mata pada keluhan kecemasan awalnya agar tidak melampaui batas kewenangan psikolog umum."
+      },
+      {
+        "id": "E",
+        "text": "Menyarankan suami klien untuk melakukan terapi alternatif non-medis terlebih dahulu di daerah setempat sebelum mempertimbangkan penanganan medis ke luar kota."
+      }
+    ],
+    "key": "C",
+    "explanation": "Berdasarkan Kode Etik Psikologi Indonesia Bab I & Bab III (Batasan Kompetensi dan Rujukan), psikolog wajib menyadari batas-batas kompetensinya dan tidak boleh memberikan layanan di luar kapasitas keilmuan serta pelatihan yang telah disupervisi. Ketika kondisi klien membutuhkan keahlian khusus dan berisiko tinggi, psikolog wajib merujuk klien kepada profesional yang kompeten (psikolog klinis spesialis atau psikiater). Rujukan harus dilakukan dengan empati, memberikan psikoedukasi untuk meredakan stigma, dan memastikan keselamatan klien (duty of care) selama masa transisi rujukan, bukan dengan penelantaran klien."
+  },
+  {
+    "id": "V2_Q02",
+    "domainId": 1,
+    "domainTitle": "Sikap (Etika, Moral, Pluralitas, dan Empati) & Kegiatan Profesional Psikologi",
+    "indicatorId": "1.4",
+    "indicatorFullId": "D1-1.4",
+    "indicatorTitle": "Kemampuan melakukan kegiatan bersama profesi lain",
+    "caseStudy": {
+      "title": "Studi Kasus 2: Kolaborasi Interprofesional dalam Tim Penanganan Gagal Tumbuh Anak di Fasilitas Kesehatan",
+      "scenario": "Psikolog H bertugas di sebuah Rumah Sakit Umum Daerah sebagai bagian dari tim terpadu penanganan Stunting dan Gagal Tumbuh (Failure to Thrive) pada balita, yang terdiri dari Dokter Spesialis Anak (Sp.A), Ahli Gizi Klinis, Perawat, dan Pekerja Sosial. Pada kasus balita A (20 bulan) yang berat badannya tidak kunjung naik selama 4 bulan berturut-turut, hasil pemeriksaan medis dan biokimiawi oleh dr. Sp.A menunjukkan tidak adanya kelainan organ mayor. Berdasarkan asesmen psikologis yang dilakukan Psikolog H, ditemukan bahwa ibu sang balita mengalami depresi pascapersalinan berkepanjangan yang tidak terdiagnosis, menyebabkan interaksi pemberian makan (feeding dynamics) diwarnai tekanan emosional, penolakan terselubung, dan minimnya stimulasi afektif. Saat rapat koordinasi tim, dr. Sp.A bersikukuh bahwa masalah balita A murni karena ketidakpatuhan jadwal susu formula berkalori tinggi dan mengabaikan temuan psikologis Psikolog H sebagai 'faktor sekunder yang kurang penting'. Dokter tersebut meminta agar Psikolog H tidak perlu memasukkan dinamika depresi ibu ke dalam ringkasan medis bersama.",
+      "contextTags": [
+        "Kolaborasi Interprofesional",
+        "Advokasi Klien",
+        "Biopsikososial",
+        "Standar Pelayanan Terpadu"
+      ]
+    },
+    "question": "Bagaimanakah sikap dan tindakan profesional yang PALING tepat ditunjukkan oleh Psikolog H dalam forum interdisipliner tersebut?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Menyampaikan bukti empiris mengenai korelasi kuat antara depresi maternal, interaksi responsive feeding, dan penyerapan nutrisi anak secara asertif, serta mengusulkan rencana intervensi komprehensif yang mengintegrasikan terapi nutrisi medis dengan penanganan psikologis bagi ibu balita."
+      },
+      {
+        "id": "B",
+        "text": "Secara terbuka menegur dokter spesialis anak di hadapan seluruh anggota tim dan menuduhnya tidak memahami pendekatan biopsikososial modern."
+      },
+      {
+        "id": "C",
+        "text": "Menerima pandangan dokter spesialis anak sepenuhnya dan menarik kembali laporan asesmen psikologis demi menjaga keharmonisan hubungan kolegial antarprofesi di rumah sakit."
+      },
+      {
+        "id": "D",
+        "text": "Menghubungi keluarga balita secara diam-diam di luar jam dinas untuk menyarankan mereka berpindah ke rumah sakit lain yang lebih menghargai psikolog."
+      },
+      {
+        "id": "E",
+        "text": "Membiarkan dokter menjalankan rencananya terlebih dahulu hingga gagal, baru kemudian mengajukan kembali temuan psikologisnya saat evaluasi triwulan berikutnya."
+      }
+    ],
+    "key": "A",
+    "explanation": "Dalam kolaborasi interprofesional (SK AP2TPI No. 002/AP2TPI/SI/1/2024 dan Kode Etik Psikologi), psikolog harus mampu berkomunikasi secara asertif, ilmiah, dan berbasis bukti (evidence-based) dengan tetap menghormati disiplin ilmu lain. Menjelaskan keterkaitan ilmiah antara kesehatan mental ibu (maternal mental health) dan respon asupan balita (feeding dynamics) merupakan bentuk advokasi klinis demi kesejahteraan pasien (best interest of the patient), tanpa memicu friksi destruktif."
+  },
+  {
+    "id": "V2_Q03",
+    "domainId": 2,
+    "domainTitle": "Penguasaan Pengetahuan/Keilmuan (Konsep dan Teori Psikologi - Individu sebagai bagian dari sistem ekologis)",
+    "indicatorId": "1.2",
+    "indicatorFullId": "D2-1.2",
+    "indicatorTitle": "Menerapkan berbagai teori sistem ekologis dalam menjelaskan potensi, karakteristik, dan proses mental individu",
+    "caseStudy": {
+      "title": "Studi Kasus 3: Analisis Perubahan Perilaku Remaja Berprestasi Berdasarkan Model Bioekologis Bronfenbrenner",
+      "scenario": "F (16 tahun) adalah siswi kelas XI SMA unggulan berasrama yang sebelumnya menduduki peringkat tiga besar dan aktif dalam dewan siswa. Dalam enam bulan terakhir, F menunjukkan penurunan drastis pada nilai rapor, sering mangkir dari kegiatan asrama, dan dua kali kedapatan melukai diri sendiri secara superfisial (nonsuicidal self-injury). Konselor asrama menduga F hanya 'mencari perhatian sebaya'. Psikolog sekolah melakukan asesmen mendalam dan mengidentifikasi beberapa faktor lintas level:\n1. Di tingkat keluarga: ayah F mengalami pemutusan hubungan kerja (PHK) massal akibat penutupan pabrik manufaktur multinasional oleh regulasi pasar global, memicu pertengkaran hebat antara kedua orang tua mengenai biaya sekolah.\n2. Di tingkat sekolah-keluarga: pihak sekolah tidak pernah mengadakan dialog berkala dengan orang tua murid asrama terkait kendala finansial dan hanya mengirimkan surat peringatan tunggakan SPP secara kaku.\n3. Di tingkat kelompok sebaya: kamar asrama F didominasi siswi dari keluarga sangat mapan yang sering memamerkan barang bermerek dan mengejek siswa yang orang tuanya menunggak SPP.\n4. Di tingkat budaya makro: F dibesarkan dalam narasi kultural keluarga besar bahwa kegagalan akademik anak adalah aib terbesar yang meruntuhkan martabat keluarga.",
+      "contextTags": [
+        "Teori Bronfenbrenner",
+        "Mikrosistem",
+        "Mesosistem",
+        "Eksosistem",
+        "Makrosistem"
+      ]
+    },
+    "question": "Berdasarkan Model Bioekologis Bronfenbrenner, peristiwa 'kebijakan PHK massal pada perusahaan ayah yang berimbas pada krisis ekonomi rumah tangga dan penunggakan biaya sekolah' diklasifikasikan ke dalam sistem...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Mikrosistem (Microsystem), karena dampaknya langsung dirasakan secara emosional oleh F di dalam kamar asramanya."
+      },
+      {
+        "id": "B",
+        "text": "Mesosistem (Mesosystem), karena mencerminkan interaksi langsung antara wali kelas F dengan bagian keuangan sekolah asrama."
+      },
+      {
+        "id": "C",
+        "text": "Makrosistem (Macrosystem), karena pemutusan hubungan kerja merupakan fenomena umum dalam perekonomian kapitalistik global tanpa memandang status individu."
+      },
+      {
+        "id": "D",
+        "text": "Eksosistem (Exosystem), karena melibatkan lingkungan tempat kerja ayah di mana F tidak aktif berpartisipasi secara langsung, namun kebijakan lingkungan tersebut berdampak nyata pada mikrosistem keluarga F."
+      },
+      {
+        "id": "E",
+        "text": "Kronosistem (Chronosystem), karena peristiwa tersebut hanya terjadi dalam kurun waktu satu kali seumur hidup keluarga F."
+      }
+    ],
+    "key": "D",
+    "explanation": "Dalam teori bioekologis Bronfenbrenner, Eksosistem (Exosystem) merujuk pada setting sosial atau lingkungan di mana individu yang berkembang tidak terlibat langsung sebagai partisipan aktif (misalnya lingkungan kantor ayah atau regulasi korporasi), namun peristiwa di dalam setting tersebut sangat mempengaruhi lingkungan terdekat (mikrosistem keluarga) di mana individu berada."
+  },
+  {
+    "id": "V2_Q04",
+    "domainId": 2,
+    "domainTitle": "Penguasaan Pengetahuan/Keilmuan (Konsep dan Teori Psikologi - Individu sebagai bagian dari sistem ekologis)",
+    "indicatorId": "2.1",
+    "indicatorFullId": "D2-2.1",
+    "indicatorTitle": "Menelaah permasalahan individu beserta potensi, karakteristik, dan proses mental berdasarkan teori sistem ekologis",
+    "caseStudy": {
+      "title": "Studi Kasus 4: Dinamika Hambatan Adaptasi Manajer Baru dalam Perspektif Teori Medan (Field Theory) Kurt Lewin",
+      "scenario": "B (34 tahun) baru saja dipromosikan menjadi Manajer Operasional di sebuah Badan Usaha Milik Daerah (BUMD). Sebelumnya, B dikenal sebagai staf lapangan yang sangat cerdas, loyal, dan berkinerja unggul. Namun setelah tiga bulan menduduki jabatan manajerial, B mengeluh sering mengalami serangan panik, insomnia, dan kebimbangan parah saat harus menandatangani keputusan strategis. Dari penelaahan psikologis terungkap dinamika 'ruang hidup' (life space) B:\n- Gaya kepemimpinan B didorong oleh aspirasi kuat untuk membuktikan kapasitas diri dan modernisasi sistem birokrasi (driving force).\n- Di sisi lain, B menghadapi resistensi pasif dari staf senior yang masih memiliki hubungan kekerabatan dengan direksi lama, adanya norma budaya organisasi informal 'jangan terlalu vokal bila ingin selamat', serta kekhawatiran B bahwa keputusannya akan merugikan rekan-rekan lamanya di lapangan (restraining forces).\n- Di luar kantor, B baru saja dikaruniai anak pertama dan orang tuanya menuntut B tetap menjadi tumpuan ekonomi keluarga besar.",
+      "contextTags": [
+        "Teori Medan Kurt Lewin",
+        "Life Space",
+        "Driving Forces",
+        "Restraining Forces",
+        "Keseimbangan Kuasi-Stasioner"
+      ]
+    },
+    "question": "Berdasarkan Teori Medan (Field Theory) Kurt Lewin, intervensi psikologis yang PALING efektif untuk memulihkan keberfungsian mental dan kapasitas pengambilan keputusan B adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Terus meningkatkan driving force B dengan menetapkan target kinerja pribadi yang jauh lebih ambisius dan memaksa diri bekerja lembur tanpa jeda."
+      },
+      {
+        "id": "B",
+        "text": "Mengidentifikasi dan mereduksi restraining forces (daya hambat) utama dalam ruang hidup B, seperti mengelola kecemasan konflik relasional dan memetakan batasan ekspektasi organisasi, guna mencapai keseimbangan kuasi-stasioner yang baru dengan tingkat tegangan (tension) yang lebih rendah."
+      },
+      {
+        "id": "C",
+        "text": "Menyarankan B untuk segera mengundurkan diri dari posisi manajerial agar ruang hidupnya kembali ke kondisi ekuilibrium masa lalu yang stabil."
+      },
+      {
+        "id": "D",
+        "text": "Mengisolasi B dari seluruh pengaruh keluarga besar dan lingkungan kerja dengan memberikan cuti medis jangka panjang."
+      },
+      {
+        "id": "E",
+        "text": "Fokus melatih B teknik memanipulasi psikologis bawahan senior agar mereka tunduk pada otoritas formal B tanpa mempedulikan dinamika medan psikologis."
+      }
+    ],
+    "key": "B",
+    "explanation": "Dalam Teori Medan Kurt Lewin, perilaku adalah fungsi dari orang dalam lingkungannya (B = f(P, E)). Menambah driving forces ketika restraining forces masih sangat tinggi hanya akan melipatgandakan ketegangan psikologis (tension) dalam life space individu dan memperparah kecemasan/konflik. Strategi perubahan yang paling efektif dan stabil menurut Lewin adalah mengidentifikasi serta mengurangi atau melarutkan daya hambat (restraining forces)."
+  },
+  {
+    "id": "V2_Q05",
+    "domainId": 3,
+    "domainTitle": "Penguasaan Pengetahuan/Keilmuan (Konsep dan Teori Psikologi - Fungsi dan perubahan perilaku manusia sepanjang hayat)",
+    "indicatorId": "1.1",
+    "indicatorFullId": "D3-1.1",
+    "indicatorTitle": "Membedakan tiga pendekatan utama dalam memahami perilaku manusia",
+    "caseStudy": {
+      "title": "Studi Kasus 5: Analisis Komparatif Kasus Imposter Syndrome pada Profesional Muda Melalui Tiga Pendekatan Teori Utama",
+      "scenario": "D (28 tahun), seorang arsitek perancang gedung bertingkat yang baru saja memenangkan kompetisi nasional, mendatangi biro psikologi. Meskipun prestasinya diakui secara luas oleh asosiasi profesi dan atasannya, D diliputi ketakutan konstan bahwa ia sebenarnya 'tidak berbakat, hanya beruntung, dan suatu saat kebodohannya akan terbongkar' (Imposter Phenomenon). Hal ini membuatnya bekerja hingga 18 jam sehari untuk memeriksa ulang setiap draf berulang kali hingga mengalami kelelahan fisik ekstrem.\n\nDalam sidang kasus, tiga orang psikolog magang memberikan pandangan etiologis yang berbeda:\n- Calon Psikolog 1 berpendapat: Masalah D berakar dari pola pembiasaan klasik dan operan di mana kerja berlebihan secara terus menerus diperkuat secara negatif (negative reinforcement) oleh hilangnya rasa cemas sesaat setiap kali gambar selesai diperiksa.\n- Calon Psikolog 2 berpendapat: Masalah D bersumber dari distorsi kognitif 'semua atau tidak sama sekali' (all-or-nothing thinking) dan skema keyakinan inti (core belief) 'Saya pada dasarnya tidak kompeten' yang memicu pikiran otomatis otomatis setiap kali menerima pujian.\n- Calon Psikolog 3 berpendapat: Masalah D bersumber dari inkongruensi antara 'diri ideal' (ideal self) dengan 'pengalaman diri nyata' (real self) yang terhambat oleh kondisi penghargaan bersyarat (conditions of worth) yang diinternalisasikannya sejak masa kanak-kanak.",
+      "contextTags": [
+        "Pendekatan Perilakuan",
+        "Pendekatan Kognitif Perilakuan",
+        "Pendekatan Humanistik",
+        "Teori Psikologi"
+      ]
+    },
+    "question": "Berdasarkan rincian pandangan di atas, urutan identifikasi pendekatan teori yang tepat dari Calon Psikolog 1, 2, dan 3 adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "1: Pendekatan Kognitif Perilakuan; 2: Pendekatan Perilakuan; 3: Pendekatan Humanistik"
+      },
+      {
+        "id": "B",
+        "text": "1: Pendekatan Kognitif Perilakuan; 2: Pendekatan Humanistik; 3: Pendekatan Perilakuan"
+      },
+      {
+        "id": "C",
+        "text": "1: Pendekatan Humanistik; 2: Pendekatan Perilakuan; 3: Pendekatan Kognitif Perilakuan"
+      },
+      {
+        "id": "D",
+        "text": "1: Pendekatan Perilakuan; 2: Pendekatan Humanistik; 3: Pendekatan Kognitif Perilakuan"
+      },
+      {
+        "id": "E",
+        "text": "1: Pendekatan Perilakuan; 2: Pendekatan Kognitif Perilakuan; 3: Pendekatan Humanistik"
+      }
+    ],
+    "key": "E",
+    "explanation": "Pandangan 1 menyoroti penguatan negatif dan pengondisian perilaku (Pendekatan Perilakuan murni). Pandangan 2 berfokus pada core beliefs, distorsi kognitif, dan skema kognitif (Pendekatan Kognitif Perilakuan). Pandangan 3 menekankan inkongruensi self, ideal vs real self, dan conditions of worth ala Carl Rogers (Pendekatan Humanistik)."
+  },
+  {
+    "id": "V2_Q06",
+    "domainId": 3,
+    "domainTitle": "Penguasaan Pengetahuan/Keilmuan (Konsep dan Teori Psikologi - Fungsi dan perubahan perilaku manusia sepanjang hayat)",
+    "indicatorId": "2.1",
+    "indicatorFullId": "D3-2.1",
+    "indicatorTitle": "Merinci fungsi dan perubahan perilaku manusia berdasarkan aspek perkembangan fisik, kognitif, sosial, emosi, moral, spiritual",
+    "caseStudy": {
+      "title": "Studi Kasus 6: Krisis Paruh Baya dan Integrasi Perkembangan Dewasa Madya Pasca Kepergian Anak dari Rumah",
+      "scenario": "Ny. M (53 tahun) datang ke psikolog dengan keluhan merasa hampa, kehilangan makna eksistensi diri, dan kerap merasa sedih tanpa sebab yang jelas. Tiga bulan lalu, anak bungsunya menyelesaikan kuliah dan memutuskan menetap bekerja di luar negeri (Empty Nest Stage). Ny. M yang sebelumnya mendedikasikan 25 tahun hidupnya sebagai ibu rumah tangga yang sangat aktif mengurus seluruh kebutuhan keluarga, kini merasa 'tidak lagi dibutuhkan oleh siapa pun'. Pada saat yang sama, ia mulai mengalami gejala fisik menopause berupa hot flashes, gangguan tidur, dan penurunan energi fisik. Suaminya masih sangat sibuk dengan puncak karier birokrasi dan menganggap keluhan Ny. M hanya 'kurang bersyukur'. Namun, dalam sesi wawancara, Ny. M memperlihatkan kemampuan kognitif kristal (crystallized intelligence) yang sangat baik, kebijaksanaan reflektif tentang kehidupan masa lalu, serta keinginan terpendam untuk mendirikan sanggar keterampilan bagi anak-anak jalanan di lingkungannya.",
+      "contextTags": [
+        "Dewasa Madya",
+        "Generativity vs Stagnation",
+        "Empty Nest Syndrome",
+        "Kognitif Kristal",
+        "Perkembangan Sepanjang Hayat"
+      ]
+    },
+    "question": "Berdasarkan teori perkembangan psikososial Erikson dan konsep kognitif sepanjang hayat, formulasi paling tepat mengenai tahap perkembangan dan dinamika Ny. M adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Ny. M berada pada tahap Integritas vs Keputusasaan (Integrity vs Despair) dan menunjukkan tanda-tanda kemunduran demensia awal karena kehilangan memori peran ibu."
+      },
+      {
+        "id": "B",
+        "text": "Ny. M berada pada krisis Generativitas vs Stagnasi (Generativity vs Stagnation), di mana kehilangan peran pengasuhan anak kandung berisiko memicu stagnasi batin, namun kapasitas kognitif kristal dan kepedulian sosialnya merupakan modalitas kuat untuk menyalurkan generativitas baru melalui kontribusi komunitas."
+      },
+      {
+        "id": "C",
+        "text": "Kondisi Ny. M murni merupakan gangguan disforia pra-menopause biologis sehingga aspek perkembangan emosi dan sosial tidak relevan untuk dipertimbangkan."
+      },
+      {
+        "id": "D",
+        "text": "Penurunan fungsi fisik Ny. M menandakan bahwa kecerdasan cair (fluid intelligence) dan kecerdasan kristalnya telah terdegradasi permanen sehingga ia tidak mampu mengemban peran sosial baru."
+      },
+      {
+        "id": "E",
+        "text": "Ny. M mengalami regresi ke tahap Identitas vs Kebingungan Peran (Identity vs Role Confusion) layaknya remaja karena tidak siap menjadi tua."
+      }
+    ],
+    "key": "B",
+    "explanation": "Pada usia 53 tahun (dewasa madya), tugas perkembangan utama menurut Erik Erikson adalah Generativity vs Stagnation. Ketika anak-anak meninggalkan rumah (empty nest), individu dituntut memperluas komitmen kepedulian di luar lingkup keluarga inti (generativitas). Kecerdasan kristal (pengetahuan terakumulasi dan kebijaksanaan) pada usia ini tetap stabil bahkan meningkat, menyediakan sumber daya psikologis berharga bagi aktualisasi peran sosial kemasyarakatan."
+  },
+  {
+    "id": "V2_Q07",
+    "domainId": 4,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Identifikasi permasalahan/kebutuhan)",
+    "indicatorId": "1.2",
+    "indicatorFullId": "D4-1.2",
+    "indicatorTitle": "Mengidentifikasi permasalahan/kebutuhan dengan mempertimbangkan keluhan dan intake assessment",
+    "caseStudy": {
+      "title": "Studi Kasus 7: Identifikasi Permasalahan Laten Melalui Intake Assessment pada Karyawan Korporasi Finansial",
+      "scenario": "Sdr. T (29 tahun), seorang analis risiko keuangan di bank terkemuka, datang berkonsultasi atas rujukan divisi People & Culture (HRD). Keluhan utama yang dilaporkan T adalah 'sering mengalami sakit kepala tegang saat jam makan siang dan merasa lelah terus-menerus'. HRD merujuk T karena beberapa dokumen audit penting yang dikerjakannya terlambat diunggah dalam dua pekan terakhir. Dalam lembar intake assessment mandiri, T memberi skor 4/10 untuk kepuasan kerja dan mencentang opsi 'merasa tertekan dengan tenggat waktu'.\nNamun, pada saat dilakukan wawancara klinis mendalam dan pemeriksaan riwayat latar belakang, Psikolog menemukan data penting berikut: T baru saja dipindahkan ke divisi kepatuhan anti-pencucian uang 3 bulan lalu. Ia menyaksikan adanya kejanggalan transaksi yang diinstruksikan oleh atasan langsungnya untuk 'diabaikan saja'. T merasa nilai moral dan integritas pribadinya terkoyak hebat; ia takut dilaporkan membangkang bila menolak perintah atasan, tetapi juga takut terseret masalah hukum bila menandatangani dokumen tersebut. Setiap kali memikirkan situasi ini di kantor, otot lehernya menegang dan ia mengalami pusing berat.",
+      "contextTags": [
+        "Intake Assessment",
+        "Keluhan Utama vs Masalah Laten",
+        "Konflik Moral",
+        "Psikosomatis"
+      ]
+    },
+    "question": "Berdasarkan data intake assessment dan wawancara klinis tersebut, kesimpulan identifikasi permasalahan yang PALING mendasar dan tepat pada Sdr. T adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Sdr. T mengalami sindrom kelelahan kerja (burnout) murni akibat volume beban kerja analisis data keuangan yang melampaui kapasitas kognitifnya."
+      },
+      {
+        "id": "B",
+        "text": "Sdr. T mengalami fobia sosial terhadap interaksi dengan atasannya karena kurangnya keterampilan komunikasi asertif dasar."
+      },
+      {
+        "id": "C",
+        "text": "Permasalahan utama Sdr. T adalah gangguan migrain medis yang tidak ada kaitannya dengan faktor psikologis tempat kerja sehingga harus langsung diserahkan ke dokter saraf."
+      },
+      {
+        "id": "D",
+        "text": "Sdr. T menunjukkan motivasi kerja yang rendah dan kecenderungan prokrastinasi tugas yang disengaja untuk menghindari tanggung jawab divisi."
+      },
+      {
+        "id": "E",
+        "text": "Sdr. T mengalami distres psikosomatis yang berakar dari dilema moral akut (moral injury) dan ketidakberdayaan psikologis akibat benturan antara nilai integritas personal dengan tekanan pelanggaran etika institusional di tempat kerjanya."
+      }
+    ],
+    "key": "E",
+    "explanation": "Intake assessment yang komprehensif membedakan keluhan simtomatik di permukaan (sakit kepala, lelah, keterlambatan tugas) dengan akar masalah laten (underlying issue). Dalam kasus ini, ketegangan fisik dan penurunan performa merupakan manifestasi psikosomatis dari distres moral akut (moral injury) akibat tekanan melakukan pembiaran kejanggalan transaksi di tempat kerjanya."
+  },
+  {
+    "id": "V2_Q08",
+    "domainId": 4,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Identifikasi permasalahan/kebutuhan)",
+    "indicatorId": "1.3",
+    "indicatorFullId": "D4-1.3",
+    "indicatorTitle": "Mengidentifikasi permasalahan/kebutuhan dengan mempertimbangkan hal-hal yang memicu/menyebabkan masalah yang teridentifikasi muncul, atau dengan membandingkan beberapa aspek, penyebab, atau kondisi yang berkaitan",
+    "caseStudy": {
+      "title": "Studi Kasus 8: Analisis Formulasi 4P (Predisposing, Precipitating, Perpetuating, Protective) pada Kasus Kecemasan Akademik Mahasiswa Kedokteran",
+      "scenario": "Psikolog U melakukan asesmen terhadap K (21 tahun), mahasiswa tingkat akhir fakultas kedokteran yang datang dengan keluhan serangan panik setiap kali menghadapi ujian Objective Structured Clinical Examination (OSCE). Dalam proses asesmen, Psikolog U mengumpulkan data riwayat hidup:\n1. K dibesarkan oleh orang tua dokter spesialis yang menerapkan standar akademik mutlak dan perfeksionis; kesalahan kecil sejak SD selalu dihukum secara emosional (Data 1).\n2. Enam bulan lalu, saat pertama kali gagal di stase keterampilan resusitasi jantung, dosen penguji menegur K di depan puluhan mahasiswa lain dengan nada merendahkan: 'Kamu tidak berbakat jadi dokter' (Data 2).\n3. Sejak kejadian itu, K selalu belajar hingga larut malam tanpa tidur cukup, meminum 5 cangkir kopi pekat per hari, dan menolak berdiskusi dengan teman kelompok karena takut dinilai bodoh (Data 3).\n4. Di samping itu, K memiliki tunangan yang selalu suportif, memiliki riwayat akademik pra-klinis yang sangat solid, serta memiliki tekad pribadi yang tulus untuk mengabdi bagi kesehatan masyarakat pedalaman (Data 4).",
+      "contextTags": [
+        "Formulasi Kasus 4P",
+        "Faktor Presipitasi",
+        "Faktor Predisposisi",
+        "Faktor Pemelihara",
+        "Faktor Protektif"
+      ]
+    },
+    "question": "Dalam konseptualisasi kasus psikologi berbasis model 4P, kategorisasi yang PALING tepat untuk Data 2 dan Data 3 adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Data 2 adalah Faktor Presipitasi/Pemicu (Precipitating), sedangkan Data 3 adalah Faktor Pemelihara (Perpetuating)."
+      },
+      {
+        "id": "B",
+        "text": "Data 2 adalah Faktor Predisposisi (Predisposing), sedangkan Data 3 adalah Faktor Protektif (Protective)."
+      },
+      {
+        "id": "C",
+        "text": "Data 2 adalah Faktor Pemelihara (Perpetuating), sedangkan Data 3 adalah Faktor Pemicu (Precipitating)."
+      },
+      {
+        "id": "D",
+        "text": "Data 2 adalah Faktor Predisposisi (Predisposing), sedangkan Data 3 adalah Faktor Pemicu (Precipitating)."
+      },
+      {
+        "id": "E",
+        "text": "Data 2 adalah Faktor Pemicu (Precipitating), sedangkan Data 3 adalah Faktor Predisposisi (Predisposing)."
+      }
+    ],
+    "key": "A",
+    "explanation": "Faktor Presipitasi (Precipitating/Pemicu) adalah peristiwa pemicu langsung yang mengawali munculnya gejala klinis (Data 2: insiden dipermalukan dosen saat gagal OSCE). Faktor Pemelihara (Perpetuating) adalah kondisi atau perilaku yang mempertahankan dan memperparah masalah (Data 3: kurang tidur, konsumsi kafein berlebihan, isolasi diri, kognisi maladaptif). Sementara Data 1 adalah Predisposing dan Data 4 adalah Protective."
+  },
+  {
+    "id": "V2_Q09",
+    "domainId": 4,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Identifikasi permasalahan/kebutuhan)",
+    "indicatorId": "1.1",
+    "indicatorFullId": "D4-1.1",
+    "indicatorTitle": "Mengetahui cara mengidentifikasi permasalahan/kebutuhan",
+    "caseStudy": {
+      "title": "Studi Kasus 9: Asesmen Cepat Kebutuhan Psikososial (Rapid Psychosocial Needs Assessment) pada Komunitas Korban Bencana Hidrometeorologi",
+      "scenario": "Sebuah wilayah pesisir baru saja diterjang banjir bandang dan tanah longsor besar yang meratakan ratusan rumah dan menewaskan puluhan warga. Psikolog Y ditugaskan oleh badan penanggulangan bencana untuk memimpin tim asesmen kebutuhan psikososial dalam 72 jam pertama (fase tanggap darurat akut). Di posko pengungsian induk yang menampung lebih dari 800 jiwa dengan tenda-tenda darurat yang padat, beberapa sukarelawan menyarankan agar tim psikolog langsung menyebarkan kuesioner skala depresi dan PTSD standar (seperti BDI dan PCL-5) kepada seluruh pengungsi yang ada.",
+      "contextTags": [
+        "Rapid Needs Assessment",
+        "Fase Tanggap Darurat",
+        "IASC Guidelines",
+        "Psikologi Kebencanaan"
+      ]
+    },
+    "question": "Menimbang kaidah asesmen psikososial bencana yang beretika dan berbasis bukti (IASC Guidelines on Mental Health and Psychosocial Support in Emergency Settings), langkah identifikasi kebutuhan yang PALING tepat dilakukan oleh Psikolog Y adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Menyetujui saran sukarelawan untuk menyebarkan kuesioner diagnostik PTSD secara masal kepada seluruh pengungsi agar diperoleh data angka prevalensi gangguan mental formal secepatnya."
+      },
+      {
+        "id": "B",
+        "text": "Menunggu hingga 6 bulan pasca-bencana selesai dan para pengungsi kembali ke rumah masing-masing sebelum memulai proses asesmen apa pun."
+      },
+      {
+        "id": "C",
+        "text": "Melakukan rapid assessment berbasis observasi sistemik lingkungan posko, diskusi kelompok terarah (FGD) dengan tokoh masyarakat dan kader kesehatan, serta memetakan kebutuhan dasar rasa aman, akses informasi keluarga yang hilang, kelompok rentan (anak, lansia, difabel), dan kapasitas sumber daya koping komunitas yang masih bertahan."
+      },
+      {
+        "id": "D",
+        "text": "Meminta setiap pengungsi untuk secara bergantian diwawancarai secara mendalam selama 60 menit mengenai ingatan traumatik saat air bah datang."
+      },
+      {
+        "id": "E",
+        "text": "Hanya mengidentifikasi kebutuhan logistik makanan dan menolak melakukan pemetaan psikososial karena hal itu dinilai bukan tugas psikolog pada masa tanggap darurat."
+      }
+    ],
+    "key": "C",
+    "explanation": "Dalam situasi bencana akut (72 jam pertama), panduan global IASC melarang penggunaan tes inventori diagnostik trauma individual secara masal karena patologisasi reaksi stres wajar dan membebani korban. Langkah yang tepat adalah Rapid Psychosocial Needs Assessment yang berfokus pada pemetaan kebutuhan dasar, rasa aman, keterhubungan keluarga, identifikasi kelompok rentan, serta ketersediaan sistem pendukung komunitas yang ada."
+  },
+  {
+    "id": "V2_Q10",
+    "domainId": 5,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Tujuan asesmen)",
+    "indicatorId": "1.2",
+    "indicatorFullId": "D5-1.2",
+    "indicatorTitle": "Memformulasikan tujuan asesmen dengan mempertimbangkan keluhan",
+    "caseStudy": {
+      "title": "Studi Kasus 10: Formulasi Tujuan Asesmen Terhadap Rujukan Sekolah Mengenai Dugaan Defisit Intelektual",
+      "scenario": "W (9 tahun, kelas III SD) dirujuk oleh wali kelasnya ke biro psikologi anak. Dalam surat rujukan resmi sekolah tertulis keluhan: 'Anak lamban memahami instruksi guru, tidak pernah menyelesaikan lembar kerja mandiri, dan diduga mengalami disabilitas intelektual (retardasi mental ringan)'. Guru meminta psikolog menguji IQ W untuk memastikan apakah ia harus dipindahkan ke Sekolah Luar Biasa (SLB).\nSaat sesi wawancara awal dengan orang tua, ibunya mengungkapkan bahwa W di rumah sangat terampil merakit miniatur balok rumit tiga dimensi tanpa melihat petunjuk, mampu mengingat rute jalan raya dengan sangat detail, dan fasih berbahasa daerah. Namun, bahasa ibu W adalah bahasa daerah, sedangkan di sekolah seluruh pengantar menggunakan bahasa Indonesia baku dengan tempo cepat. Orang tua juga melaporkan bahwa W sering mengeluh matanya perih dan buram saat melihat tulisan di papan tulis kelas.",
+      "contextTags": [
+        "Formulasi Tujuan Asesmen",
+        "Keluhan Rujukan",
+        "Diferensiasi Bahasa & Sensorik",
+        "Hambatan Belajar"
+      ]
+    },
+    "question": "Bagaimanakah formulasi tujuan asesmen yang PALING komprehensif dan objektif yang harus ditetapkan oleh Psikolog?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Menetapkan tujuan asesmen semata-mata untuk mengonfirmasi dugaan disabilitas intelektual guru agar surat rekomendasi pemindahan ke SLB dapat segera diterbitkan."
+      },
+      {
+        "id": "B",
+        "text": "Menetapkan tujuan asesmen hanya untuk mengukur tingkat kepatuhan moral anak terhadap aturan kelas di sekolah."
+      },
+      {
+        "id": "C",
+        "text": "Menolak surat rujukan sekolah dan menetapkan tujuan asesmen hanya untuk menguji kepribadian guru yang dinilai diskriminatif terhadap siswa daerah."
+      },
+      {
+        "id": "D",
+        "text": "Merumuskan tujuan asesmen untuk mengevaluasi profil kemampuan kognitif komprehensif W secara adil budaya/bahasa, memetakan potensi fungsi visual-spasial, serta mengidentifikasi faktor kontributor non-intelektual seperti penguasaan bahasa pengantar dan fungsi sensorik visual terhadap kesulitan belajar di kelas."
+      },
+      {
+        "id": "E",
+        "text": "Menetapkan tujuan asesmen untuk memberikan terapi bermain tanpa perlu melakukan pemeriksaan kognitif apa pun."
+      }
+    ],
+    "key": "D",
+    "explanation": "Tujuan asesmen tidak boleh disubordinasi secara buta oleh label praduga rujukan (label disabilitas intelektual). Psikolog harus merumuskan tujuan asesmen komprehensif yang menguji hipotesis alternatif (kemampuan bahasa, hambatan penglihatan sensorik, profil kognitif non-verbal) untuk memberikan gambaran kekuatan dan kebutuhan belajar anak secara objektif."
+  },
+  {
+    "id": "V2_Q11",
+    "domainId": 5,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Tujuan asesmen)",
+    "indicatorId": "1.3",
+    "indicatorFullId": "D5-1.3",
+    "indicatorTitle": "Memformulasikan tujuan asesmen dengan mempertimbangkan dugaan sementara",
+    "caseStudy": {
+      "title": "Studi Kasus 11: Penetapan Tujuan Asesmen Diferensial pada Kasus Fluktuasi Mood Ekstrem Dewasa Muda",
+      "scenario": "Klien R (24 tahun) dibawa oleh kakaknya ke klinik psikologi. Kakaknya melaporkan bahwa selama 10 hari terakhir, R tampak tidak tidur lebih dari 2 jam per malam namun energik luar biasa, berbicara sangat cepat melompat-lompat (flight of ideas), menghabiskan tabungannya untuk membeli 4 sepeda motor secara impulsif, dan mengaku mendapat 'wahyu' bahwa ia akan menjadi menteri keuangan. Namun dua bulan sebelum periode ini, R mengurung diri di kamar selama 6 minggu, tidak mau makan, dan berkali-kali menyatakan ingin mati.\nBerdasarkan anamnesis awal, Psikolog memiliki dugaan sementara antara Episode Manik dengan Gejala Psikotik pada Gangguan Bipolar I versus Gangguan Siklotimik versus Intoksikasi Zat Stimulan terselubung.",
+      "contextTags": [
+        "Tujuan Asesmen",
+        "Dugaan Sementara",
+        "Diferensial Diagnosis",
+        "Episode Manik"
+      ]
+    },
+    "question": "Berdasarkan dugaan sementara tersebut, formulasi tujuan asesmen klinis yang PALING tepat adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Menetapkan tujuan asesmen untuk langsung melatih teknik relaksasi napas dalam guna meredakan cara berbicara klien yang cepat."
+      },
+      {
+        "id": "B",
+        "text": "Menetapkan tujuan asesmen untuk menguji kecocokan minat dan bakat karier R agar pembelian motornya dapat diubah menjadi modal usaha kurir."
+      },
+      {
+        "id": "C",
+        "text": "Menetapkan tujuan asesmen untuk mengungkap trauma masa balita melalui teknik asosiasi bebas dan analisis mimpi."
+      },
+      {
+        "id": "D",
+        "text": "Memformulasikan tujuan asesmen guna memverifikasi durasi, intensitas, dan polaritas episode afektif, menilai keparahan hendaya uji realitas (reality testing), menapis riwayat penggunaan zat atau kondisi medis umum, serta menentukan tingkat risiko keselamatan diri dan orang lain guna kebutuhan rujukan psikiatri segera."
+      },
+      {
+        "id": "E",
+        "text": "Menetapkan tujuan asesmen untuk mengukur tingkat kecerdasan emosional klien menggunakan tes inventori daring."
+      }
+    ],
+    "key": "D",
+    "explanation": "Ketika psikolog menghadapi dugaan sementara kondisi klinis afektif berat dengan gejala manik dan ide kebesaran/wahyu, tujuan asesmen diformulasikan untuk mengonfirmasi diagnosis banding (diferensial diagnosis), menilai reality testing ability, menapis faktor zat/medis organik, serta mengevaluasi safety risk untuk penanganan kegawatdaruratan dan rujukan psikiatrik."
+  },
+  {
+    "id": "V2_Q12",
+    "domainId": 5,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Tujuan asesmen)",
+    "indicatorId": "1.4",
+    "indicatorFullId": "D5-1.4",
+    "indicatorTitle": "Memformulasikan tujuan asesmen dengan mempertimbangkan keluhan, kebutuhan pengguna layanan, dan/atau dugaan sementara secara komprehensif",
+    "caseStudy": {
+      "title": "Studi Kasus 12: Harmonisasi Tujuan Asesmen Seleksi Promosi Jabatan Berisiko Tinggi dengan Batasan Etika Profesi",
+      "scenario": "Manajemen PT Kereta Cepat Indonesia mengontrak biro psikologi untuk menyelenggarakan asesmen kompetensi dan kesiapan psikologis terhadap 20 kandidat Masinis Senior yang akan ditugaskan mengemudikan armada rute baru. Kebutuhan organisasi adalah memastikan masinis memiliki konsentrasi tinggi, ketahanan terhadap kebosanan (monotony resistance), kecepatan reaksi, dan stabilitas emosi di bawah tekanan darurat. Di sisi lain, serikat pekerja masinis menyampaikan kekhawatiran bahwa hasil asesmen akan disalahgunakan manajemen untuk memutus hubungan kerja masinis senior yang kritis terhadap jam lembur.\nPsikolog Penanggung Jawab diminta menyusun Term of Reference (TOR) dan formulasi tujuan asesmen yang akan dipresentasikan kepada manajemen dan perwakilan serikat masinis.",
+      "contextTags": [
+        "Formulasi Tujuan Komprehensif",
+        "Psikologi Industri & Organisasi",
+        "Informed Consent",
+        "Keselamatan Kerja"
+      ]
+    },
+    "question": "Formulasi tujuan asesmen manakah yang PALING komprehensif, etis, dan akuntabel dalam mengakomodasi seluruh pemangku kepentingan tersebut?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Memformulasikan tujuan asesmen secara rahasia yang hanya diketahui oleh direksi manajemen untuk mempermudah perampingan staf yang menolak jam kerja lembur."
+      },
+      {
+        "id": "B",
+        "text": "Menyerahkan formulasi tujuan asesmen sepenuhnya kepada serikat pekerja sehingga alat tes yang digunakan hanya kuesioner wawancara kepuasan upah kerja."
+      },
+      {
+        "id": "C",
+        "text": "Merumuskan tujuan asesmen secara transparan untuk memetakan profil neurokognitif (reaksi, atensi berkelanjutan), regulasi emosi di bawah stres, dan kesesuaian keselamatan kerja (safety-critical fit), disertai batasan jelas bahwa data hanya digunakan untuk rekomendasi sertifikasi laik jalan dan program pelatihan pengembangan, bukan sebagai instrumen pemutusan hubungan kerja sepihak."
+      },
+      {
+        "id": "D",
+        "text": "Menetapkan tujuan asesmen hanya untuk mengukur tingkat kepatuhan mutlak bawahan kepada setiap perintah manajemen tanpa mempertimbangkan faktor kelelahan sirkadian."
+      },
+      {
+        "id": "E",
+        "text": "Menghapuskan tujuan pemeriksaan fungsi kognitif dan hanya memfokuskan asesmen pada tes kepribadian proyektif grafis."
+      }
+    ],
+    "key": "C",
+    "explanation": "Formulasi tujuan asesmen komprehensif pada setting tempat kerja berisiko tinggi harus mengintegrasikan kebutuhan standar keselamatan organisasi (safety-critical competencies), kebutuhan subjek asesmen atas rasa aman dan perlindungan etis terhadap penyalahgunaan data, serta transparansi informed consent mengenai tujuan spesifik pemanfaatan hasil pemeriksaan psikologis."
+  },
+  {
+    "id": "V2_Q13",
+    "domainId": 6,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Menentukan metode asesmen)",
+    "indicatorId": "1.2",
+    "indicatorFullId": "D6-1.2",
+    "indicatorTitle": "Membedakan metode asesmen yang tepat berdasarkan pertimbangan karakteristik klien dan permasalahannya",
+    "caseStudy": {
+      "title": "Studi Kasus 13: Pemilihan Metode Asesmen pada Klien Anak dengan Dugaan Mutisme Selektif dan Hambatan Komunikasi",
+      "scenario": "Anak B (5 tahun 8 bulan) dibawa ibunya karena tidak pernah bersuara sepatah kata pun di sekolah PAUD sejak 6 bulan lalu, meskipun di rumah bersama ibu dan adik bayinya anak berbicara lancar dan aktif bercerita. Guru sekolah menduga B mengalami autisme atau disabilitas wicara. Saat memasuki ruang praktik psikolog, B tampak sangat tegang, menunduk, mencengkeram erat rok ibunya, dan membeku saat disapa oleh psikolog. Psikolog bermaksud mengevaluasi kemampuan kognitif dan dinamika emosional anak.",
+      "contextTags": [
+        "Mutisme Selektif",
+        "Metode Asesmen Anak",
+        "Play-Based Assessment",
+        "Karakteristik Klien"
+      ]
+    },
+    "question": "Metode asesmen manakah yang PALING tepat dipilih oleh psikolog dengan mempertimbangkan karakteristik kondisi B?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Memaksa anak menjalani tes intelegensi verbal standar individual (seperti WPPSI Subtes Informasi dan Kosakata) dan mengancam tidak boleh pulang bila tidak menjawab secara lisan."
+      },
+      {
+        "id": "B",
+        "text": "Langsung menyimpulkan anak mengalami autisme masa kanak-kanak tanpa memerlukan metode asesmen lanjutan karena anak tidak menjawab sapaan psikolog."
+      },
+      {
+        "id": "C",
+        "text": "Memberikan tes kepribadian kuesioner tertulis 200 butir untuk dibaca dan diisi sendiri oleh anak di sudut ruangan."
+      },
+      {
+        "id": "D",
+        "text": "Hanya mengandalkan laporan verbal dari guru kelas tanpa perlu bertemu langsung dengan anak ataupun orang tuanya."
+      },
+      {
+        "id": "E",
+        "text": "Mengombinasikan observasi perilaku bermain terstruktur (play-based assessment) dengan media boneka atau miniatur, penggunaan tes non-verbal performance, rekaman video interaksi wajar anak di rumah dari orang tua, serta wawancara riwayat perkembangan mendalam dengan ibu."
+      }
+    ],
+    "key": "E",
+    "explanation": "Pada anak dengan mutisme selektif (selective mutism), tuntutan berbicara langsung di lingkungan asing akan memicu kecemasan hebat dan pembekuan perilaku. Metode asesmen yang tepat harus bersifat non-verbal, memanfaatkan observasi bermain (play observation), menggunakan data kolateral video interaksi di rumah, serta wawancara perkembangan orang tua untuk membuktikan kemampuan bahasa ekspresif anak di setting yang aman."
+  },
+  {
+    "id": "V2_Q14",
+    "domainId": 6,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Menentukan metode asesmen)",
+    "indicatorId": "1.3",
+    "indicatorFullId": "D6-1.3",
+    "indicatorTitle": "Membedakan metode asesmen yang tepat berdasarkan pertimbangan konteks atau latar layanan",
+    "caseStudy": {
+      "title": "Studi Kasus 14: Seleksi Asesmen Kepemimpinan Manajerial pada Sektor Industri Perbankan",
+      "scenario": "Sebuah bank BUMN berskala nasional membuka seleksi untuk posisi Group Head of Digital Banking. Posisi ini menuntut kompetensi strategic thinking, collaborative leadership, pemecahan masalah kompleks di bawah ketidakpastian regulasi, dan integritas tinggi. Manajemen bank mengalokasikan anggaran dan meminta psikolog konsultan menyusun rancangan metode asesmen yang memiliki validitas prediktif kinerja kerja tertinggi.",
+      "contextTags": [
+        "Assessment Center",
+        "Validitas Prediktif",
+        "Latar Industri & Organisasi",
+        "Seleksi Eksekutif"
+      ]
+    },
+    "question": "Menimbang konteks latar layanan industri-organisasi dan bukti validitas psikometri, metodologi asesmen manakah yang PALING tepat direkomendasikan?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Menggunakan metodologi Assessment Center multi-metode dan multi-asesor, yang mencakup Business Case Analysis & Presentation, Leaderless Group Discussion (LGD), Behavioral Event Interview (BEI) berbasis kompetensi, serta inventori kepribadian kerja standar industri."
+      },
+      {
+        "id": "B",
+        "text": "Hanya menyelenggarakan tes grafis kepribadian (Wartegg, BAUM, DAP) dan tes proyektif Rorschach untuk menganalisis konflik bawah sadar kandidat."
+      },
+      {
+        "id": "C",
+        "text": "Menyelenggarakan tes kecerdasan umum klasikal berbasis kertas yang hanya mengukur hitungan aritmatika dasar selama 15 menit."
+      },
+      {
+        "id": "D",
+        "text": "Melakukan wawancara bebas tanpa panduan terstruktur selama 10 menit sambil minum kopi santai dengan manajer HRD."
+      },
+      {
+        "id": "E",
+        "text": "Menggunakan analisis astrologi dan sidik jari biometrik karena biayanya lebih hemat dan cepat."
+      }
+    ],
+    "key": "A",
+    "explanation": "Dalam konteks Psikologi Industri dan Organisasi (PIO) untuk level eksekutif, metodologi Assessment Center memiliki validitas prediktif tertinggi terhadap kinerja manajerial riil karena mengamati simulasi perilaku kerja nyata (work samples, case studies, LGD, in-basket) yang dievaluasi secara terstandar oleh multi-asesor, dilengkapi BEI dan tes psikometri terstandar."
+  },
+  {
+    "id": "V2_Q15",
+    "domainId": 6,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Menentukan metode asesmen)",
+    "indicatorId": "1.4",
+    "indicatorFullId": "D6-1.4",
+    "indicatorTitle": "Membandingkan dan memilih metode asesmen yang sesuai dengan karakteristik klien dan permasalahannya",
+    "caseStudy": {
+      "title": "Studi Kasus 15: Pemilihan Baterai Asesmen Dugaan Gangguan Pemusatan Perhatian dan Hiperaktivitas (ADHD) pada Dewasa",
+      "scenario": "Klien L (27 tahun), seorang software engineer berbakat, datang ke psikolog dengan keluhan sering lupa instruksi teknis dari klien, kesulitan mempertahankan fokus pada pengkodean rutin, sering berpindah-pindah tugas sebelum selesai, dan menumpuk pekerjaan hingga menit-menit terakhir. L membaca di media sosial bahwa gejalanya cocok dengan ADHD Dewasa dan meminta konfirmasi psikologis. Psikolog perlu menyusun baterai pemeriksaan yang komprehensif untuk menghindari misdiagnosis dengan gangguan kecemasan atau depresi terselubung.",
+      "contextTags": [
+        "ADHD Dewasa",
+        "Baterai Asesmen Komprehensif",
+        "Continuous Performance Test",
+        "Triangulasi Data"
+      ]
+    },
+    "question": "Kombinasi metode asesmen manakah yang PALING tepat dan valid untuk menginvestigasi dugaan ADHD dewasa pada Klien L?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Cukup memberikan kuesioner ASRS (Adult ADHD Self-Report Scale) 6 butir yang diisi klien selama 2 menit, lalu langsung menegakkan diagnosis ADHD bila skornya tinggi."
+      },
+      {
+        "id": "B",
+        "text": "Mengombinasikan wawancara diagnostik terstruktur riwayat masa kanak-kanak (misal DIVA-5) untuk membuktikan onset gejala sebelum usia 12 tahun, laporan kolateral dari pasangan atau orang tua, tes neuropsikologis fungsi eksekutif/Continuous Performance Test (CPT), serta penapisan simtom afektif/kecemasan."
+      },
+      {
+        "id": "C",
+        "text": "Memberikan tes kepribadian MMPI-2 saja tanpa perlu mengevaluasi riwayat masa kecil atau fungsi atensi objektif."
+      },
+      {
+        "id": "D",
+        "text": "Meminta klien menghafal 20 kata acak di ruang tunggu dan menyimpulkan tidak mengalami ADHD bila klien mampu mengingat 15 kata."
+      },
+      {
+        "id": "E",
+        "text": "Melakukan tes gambar pohon (BAUM test) untuk melihat apakah ada cabang yang terputus sebagai simbol defisit perhatian."
+      }
+    ],
+    "key": "B",
+    "explanation": "Diagnosis ADHD pada orang dewasa memerlukan pembuktian kriteria onset sebelum usia 12 tahun (DSM-5/ICD-11), cross-situational impairment (di rumah dan di tempat kerja), triangulasi informasi kolateral (karena self-report dewasa rentan bias recall), serta diferensial diagnosis terhadap gangguan kecemasan/afektif melalui instrumen terstruktur seperti DIVA-5 dan tes fungsi eksekutif."
+  },
+  {
+    "id": "V2_Q16",
+    "domainId": 6,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Menentukan metode asesmen)",
+    "indicatorId": "1.6",
+    "indicatorFullId": "D6-1.6",
+    "indicatorTitle": "Melakukan evaluasi terhadap satu atau beberapa metode asesmen berdasarkan kesesuaian dengan karakteristik klien dan permasalahannya",
+    "caseStudy": {
+      "title": "Studi Kasus 16: Evaluasi Keterbatasan Self-Report Inventory Terhadap Respon Faking Good pada Asesmen Promosi",
+      "scenario": "Dalam seleksi internal Direktur Kepatuhan di sebuah BUMN, salah seorang kandidat internal, Bapak Z (45 tahun), memperoleh skor 'Stabilitas Emosi Sangat Tinggi', 'Neurotisisme Rendah Sempurna', dan 'Keramahan 99%' pada kuesioner inventori kepribadian laporan diri (Self-Report Personality Inventory). Namun, skala validitas (Lie Scale / Social Desirability Scale) pada instrumen tersebut menunjukkan skor yang melampaui batas batas normal (Cut-off T-score > 70), mengindikasikan kecenderungan faking good yang ekstrem. Di sisi lain, rekan kerja dalam 360-degree feedback informal menyebutkan Z sering membentak bawahan saat berada di bawah tekanan audit.",
+      "contextTags": [
+        "Evaluasi Metode Asesmen",
+        "Self-Report Biases",
+        "Social Desirability",
+        "Skala Validitas"
+      ]
+    },
+    "question": "Bagaimanakah evaluasi metodologis yang PALING tepat terhadap instrumen inventori laporan diri dalam kasus Bapak Z tersebut?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Mengabaikan skor skala kebohongan karena dalam seleksi kerja wajar jika kandidat menampilkan sisi terbaiknya, sehingga hasil kepribadian tetap dinyatakan valid 100%."
+      },
+      {
+        "id": "B",
+        "text": "Mengganti seluruh tes dengan tes proyektif grafis karena tes grafis tidak memiliki potensi bias sama sekali."
+      },
+      {
+        "id": "C",
+        "text": "Langsung mendiskualifikasi Bapak Z dari perusahaan dan menuntutnya secara pidana atas pemalsuan data kuesioner psikologi."
+      },
+      {
+        "id": "D",
+        "text": "Menyuruh Bapak Z mengisi kuesioner yang sama sepuluh kali berturut-turut hingga skor skala kebohongannya menurun secara alami."
+      },
+      {
+        "id": "E",
+        "text": "Mengakui keterbatasan metode self-report yang sangat rentan terhadap manipulasi impresi (impression management), mendeklarasikan profil tes tersebut tidak dapat diinterpretasi secara berdiri sendiri (invalid), dan melengkapi asesmen dengan metode berbasis perilaku seperti Behavioral Event Interview (BEI) dengan teknik probing mendalam serta simulasi peran krisis (role-play)."
+      }
+    ],
+    "key": "E",
+    "explanation": "Keterbatasan utama self-report inventory adalah kerentanannya terhadap social desirability dan faking good, terutama dalam konteks high-stakes assessment (seleksi promosi). Ketika skala validitas membuktikan adanya manipulasi impresi yang signifikan, profil tidak dapat dijadikan landasan keputusan tunggal. Metode harus dievaluasi dan dilengkapi dengan cross-validation metode observasional/behavioral (seperti BEI dan simulasi krisis)."
+  },
+  {
+    "id": "V2_Q17",
+    "domainId": 6,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Menentukan metode asesmen)",
+    "indicatorId": "1.7",
+    "indicatorFullId": "D6-1.7",
+    "indicatorTitle": "Melakukan evaluasi terhadap satu atau beberapa metode asesmen berdasarkan pertimbangan konteks atau latar layanan",
+    "caseStudy": {
+      "title": "Studi Kasus 17: Evaluasi Tele-Assessment Kognitif pada Komunitas Pedalaman dengan Kendala Infrastruktur",
+      "scenario": "Sebuah LSM internasional bermaksud melakukan asesmen kesiapan sekolah dan skrining kognitif pada 100 anak usia dini di desa terpencil kepulauan Maluku. Karena keterbatasan anggaran perjalanan, konsultan psikolog di Jakarta mengusulkan untuk menggunakan platform aplikasi tele-assessment online berbasis video call dan tes kognitif digital interaktif layar sentuh. Namun saat uji coba di satu posyandu, koneksi internet mengalami putus-nyambung berkali-kali, gawai yang tersedia hanya ponsel dengan layar kecil milik kepala desa, dan anak-anak tampak ketakutan serta tidak terbiasa mengoperasikan layar sentuh.",
+      "contextTags": [
+        "Evaluasi Tele-Assessment",
+        "Standarisasi Tes",
+        "Kesenjangan Digital",
+        "Konteks Latar Layanan"
+      ]
+    },
+    "question": "Menimbang evaluasi kesesuaian konteks latar layanan dan etika penegakan standarisasi tes, rekomendasi metodologis manakah yang PALING etis dan tepat?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Tetap memaksakan tele-assessment online hingga selesai dan mengabaikan nilai anak yang rendah akibat terputusnya koneksi sebagai cerminan kecerdasan mereka."
+      },
+      {
+        "id": "B",
+        "text": "Mengevaluasi bahwa tele-assessment kognitif digital melanggar standarisasi reliabilitas dan keadilan tes akibat kesenjangan digital (digital divide), serta merekomendasikan penggantian metode dengan asesmen berbasis instrumen luring terstandar lokal yang diadministrasikan langsung melalui pelatihan kader lokal atau kunjungan tim psikolog lapangan."
+      },
+      {
+        "id": "C",
+        "text": "Membatalkan seluruh kegiatan pendampingan anak selamanya karena masyarakat pedalaman dinilai belum layak mendapatkan layanan psikologi."
+      },
+      {
+        "id": "D",
+        "text": "Meminta anak-anak menghafal kunci jawaban tes kognitif secara daring sebelum koneksi terputus."
+      },
+      {
+        "id": "E",
+        "text": "Mengganti tes kognitif dengan tes kemampuan mengetik keyboard komputer secara daring."
+      }
+    ],
+    "key": "B",
+    "explanation": "Tele-assessment menuntut terpenuhinya syarat ekologis, teknis (koneksi stabil, gawai terstandar), dan familiaritas subjek terhadap teknologi. Pada komunitas terpencil dengan kesenjangan digital, pemaksaan tele-assessment merusak reliabilitas instrumen dan melanggar prinsip keadilan tes psikologi (fairness in testing). Evaluasi konteks mewajibkan adaptasi metode luring yang ramah budaya dan infrastruktur setempat."
+  },
+  {
+    "id": "V2_Q18",
+    "domainId": 7,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Integrasi Data)",
+    "indicatorId": "1.2",
+    "indicatorFullId": "D7-1.2",
+    "indicatorTitle": "Menginterpretasikan data asesmen untuk menyusun dinamika psikologis",
+    "caseStudy": {
+      "title": "Studi Kasus 18: Resolusi Diskrepansi Antara Kapasitas Intelektual Tinggi dan Kegagalan Performa Kerja Nyata",
+      "scenario": "Sdr. P (26 tahun) bekerja sebagai staf peneliti yunior di lembaga riset kebijakan. Hasil tes intelegensi WAIS-IV menunjukkan Full Scale IQ (FSIQ) berada pada kategori Sangat Cerdas / Superior (Skor 128), dengan Indeks Pemahaman Verbal (VCI = 135) dan Indeks Penalaran Perseptual (PRI = 130) yang sangat tinggi. Namun, Indeks Memori Kerja (WMI = 88) dan Indeks Kecepatan Pemrosesan (PSI = 84) berada pada kategori Rata-rata Bawah.\nAtasan P mengeluhkan bahwa P sangat brilian saat sesi curah pendapat ide penelitian, namun laporan tertulisnya selalu melewati tenggat waktu berbulan-bulan, drafnya penuh salah ketik angka statistik, dan P sering tampak linglung saat diberi instruksi kerja lisan yang bertahap.",
+      "contextTags": [
+        "Diskrepansi Indeks WAIS-IV",
+        "Fungsi Eksekutif",
+        "Dinamika Psikologis",
+        "Integrasi Data"
+      ]
+    },
+    "question": "Bagaimanakah integrasi interpretasi data psikometri dan observasi perilaku yang PALING tepat untuk menyusun dinamika psikologis Sdr. P?",
+    "options": [
+      {
+        "id": "A",
+        "text": "FSIQ 128 membuktikan P sebenarnya sengaja malas dan membangkang terhadap atasan karena kapasitas otaknya di atas rata-rata."
+      },
+      {
+        "id": "B",
+        "text": "Skor WMI dan PSI yang rendah membuktikan bahwa hasil tes intelegensi P salah total akibat kesalahan hitung psikolog."
+      },
+      {
+        "id": "C",
+        "text": "Terdapat diskrepansi kognitif signifikan (Cognitive Discrepancy) di mana kapasitas penalaran abstrak dan konseptual tingkat tinggi P tidak didukung oleh kapasitas memori kerja aktif dan kecepatan pemrosesan mental, menciptakan hambatan 'bottleneck' kognitif yang memicu kelelahan mental saat menyelesaikan tugas detail rutin di bawah tekanan waktu."
+      },
+      {
+        "id": "D",
+        "text": "P mengalami demensia vaskular dini sehingga kemampuan memorinya runtuh permanen."
+      },
+      {
+        "id": "E",
+        "text": "P harus segera diberhentikan karena orang cerdas tidak boleh memiliki indeks memori kerja di bawah rata-rata."
+      }
+    ],
+    "key": "C",
+    "explanation": "Dalam interpretasi psikodiagnostik modern (WAIS-IV), angka FSIQ tunggal menjadi tidak representatif jika terdapat diskrepansi tajam antar-indeks (misal GAI tinggi vs CPI rendah). Integrasi data menunjukkan adanya 'bottleneck' pemrosesan: kemampuan konseptualisasi dan abstraksi P luar biasa, namun kapasitas eksekutif memori kerja dan kecepatan eksekusi grafomotoriknya terbatas, menjelaskan mengapa performa kerjanya timpang pada tugas rutin yang menuntut kecepatan eksekusi detail."
+  },
+  {
+    "id": "V2_Q19",
+    "domainId": 7,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Integrasi Data)",
+    "indicatorId": "1.3",
+    "indicatorFullId": "D7-1.3",
+    "indicatorTitle": "Mengidentifikasi data asesmen yang tepat untuk menyusun dinamika psikologis",
+    "caseStudy": {
+      "title": "Studi Kasus 19: Triangulasi Bukti Ilmiah dan Eliminasi Data Noise pada Kasus Penurunan Minat Hidup Remaja",
+      "scenario": "Seorang remaja, G (17 tahun), dibawa ke psikolog setelah ditemukan sering melamun dan nilai sekolahnya merosot. Klien membawa berkas tebal yang berisi: (1) Hasil tes kepribadian astrologi zodiak dari majalah daring, (2) Hasil tes kepribadian MBTI gratis dari situs web tanpa validasi ilmiah, (3) Analisis tulisan tangan (grafologi) dari kenalan keluarga, (4) Lembar hasil tes intelegensi terstandar WISC yang dilakukan 3 bulan lalu oleh psikolog sekolah, (5) Catatan harian emosi yang ditulis klien selama 2 minggu terakhir, dan (6) Catatan observasi klinis serta wawancara riwayat keluarga oleh psikolog saat ini yang mengungkap adanya perceraian orang tua yang penuh konflik verbal.",
+      "contextTags": [
+        "Triangulasi Ilmiah",
+        "Pseudosains",
+        "Data Noise",
+        "Dinamika Kasus"
+      ]
+    },
+    "question": "Dalam menyusun dinamika psikologis yang ilmiah dan akuntabel sesuai Kode Etik Psikologi, gugus data manakah yang HARUS dipilih dan diintegrasikan oleh psikolog, serta gugus mana yang harus dieliminasi sebagai 'noise'?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Menggunakan data (1), (2), dan (3) sebagai sumber utama karena langsung mencerminkan kepribadian unik klien, dan mengabaikan data (4), (5), (6)."
+      },
+      {
+        "id": "B",
+        "text": "Hanya menggunakan data (1) zodiak karena terbukti paling mudah dipahami oleh remaja masa kini."
+      },
+      {
+        "id": "C",
+        "text": "Memadukan semua data (1) hingga (6) secara setara tanpa membedakan validitas ilmiah instrumen demi menghargai seluruh berkas yang dibawa klien."
+      },
+      {
+        "id": "D",
+        "text": "Mengintegrasikan data (4) tes WISC terstandar, (5) catatan harian emosi klien, dan (6) data wawancara-observasi klinis sebagai data valid empiris, serta mengeliminasi data (1), (2), dan (3) karena tidak memenuhi standar psikometri dan validitas ilmiah."
+      },
+      {
+        "id": "E",
+        "text": "Membuang seluruh data (1) sampai (6) dan hanya mendasarkan dinamika psikologis pada firasat subjektif psikolog."
+      }
+    ],
+    "key": "D",
+    "explanation": "Kode Etik Psikologi Indonesia Pasal 62 & 63 mewajibkan psikolog mendasarkan asesmen dan dinamika kasus pada instrumen serta data yang memiliki dasar ilmiah, reliabilitas, dan validitas psikometri yang teruji. Astrologi, tes MBTI tidak tervalidasi online, dan grafologi non-ilmiah merupakan data noise yang tidak boleh dijadikan rujukan formulasi klinis profesional."
+  },
+  {
+    "id": "V2_Q20",
+    "domainId": 7,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Integrasi Data)",
+    "indicatorId": "1.4",
+    "indicatorFullId": "D7-1.4",
+    "indicatorTitle": "Mengintegrasikan data asesmen untuk menyusun dinamika psikologis",
+    "caseStudy": {
+      "title": "Studi Kasus 20: Sintesis Model Biopsikososial pada Pasien Sindrom Nyeri Somatik Kronis Pasca-Trauma",
+      "scenario": "Ny. E (41 tahun) dirujuk oleh dokter spesialis saraf ke biro psikologi. Selama setahun terakhir, Ny. E mengalami nyeri punggung bawah kronis yang melemahkan aktivitas fisiknya pasca kecelakaan mobil ringan. Hasil MRI, rontgen, dan pemeriksaan neurologis komprehensif membuktikan bahwa jaringan tulang dan saraf telah sembuh sempurna tanpa kelainan organik aktif.\nPsikolog menghimpun data multi-sumber:\n- Biologis: Riwayat sensitivitas sistem saraf simpatik tinggi, pola tidur terfragmentasi, dan kelelahan kronis.\n- Psikologis: Adanya keyakinan bencana (pain catastrophizing) 'Jika punggung saya sedikit sakit, tulang saya akan patah permanen', perilaku menghindar dari segala aktivitas fisik (fear-avoidance behavior), dan represi emosi marah terhadap suaminya yang berselingkuh saat ia dirawat di RS.\n- Sosial: Keluarga besar memberikan perhatian dan melayani seluruh kebutuhan Ny. E hanya ketika ia mengeluhkan nyeri punggung (secondary gain), sementara tuntutan kerja kantor yang menumpuk terhindarkan.",
+      "contextTags": [
+        "Integrasi Biopsikososial",
+        "Pain Catastrophizing",
+        "Secondary Gain",
+        "Dinamika Kausalitas"
+      ]
+    },
+    "question": "Bagaimanakah integrasi dinamika psikologis kausal-fungsional yang PALING tepat dalam menjelaskan bertahannya keluhan somatik Ny. E?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Kondisi Ny. E dipelihara oleh interaksi lingkaran setan (vicious cycle) biopsikososial: sensasi fisik ringan diinterpretasikan secara katastropik oleh skema kognitifnya, memicu ketakutan bergerak dan dekondisi otot secara biologis, yang kemudian diperkuat secara sosial oleh secondary gain berupa perhatian keluarga dan pelarian dari konflik rumah tangga/pekerjaan."
+      },
+      {
+        "id": "B",
+        "text": "Keluhan Ny. E murni merupakan rekayasa bohong (malingering) yang direncanakan secara sadar untuk memeras uang asuransi kecelakaan."
+      },
+      {
+        "id": "C",
+        "text": "Nyeri Ny. E membuktikan dokter saraf salah mendiagnosis hasil MRI dan harus dilakukan operasi tulang belakang ulang."
+      },
+      {
+        "id": "D",
+        "text": "Dinamika psikologis Ny. E semata-mata disebabkan oleh takdir genetik yang tidak dapat dimodifikasi melalui intervensi perilaku."
+      },
+      {
+        "id": "E",
+        "text": "Ny. E mengalami gangguan kepribadian antisosial yang sengaja merepotkan seluruh anggota keluarganya."
+      }
+    ],
+    "key": "A",
+    "explanation": "Dinamika psikologis yang integratif memadukan dimensi biologis (sensitisasi nyeri & dekondisi otot), psikologis (pain catastrophizing, kognisi ancaman, represi kemarahan), dan sosial (secondary gain & penghindaran interpersonal). Penjelasan ini menghubungkan bagaimana faktor predisposisi, pemicu, dan pemelihara saling mengunci dalam lingkaran setan yang mempertahankan gangguan somatoform/nyeri kronis."
+  },
+  {
+    "id": "V2_Q21",
+    "domainId": 7,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Integrasi Data)",
+    "indicatorId": "1.1",
+    "indicatorFullId": "D7-1.1",
+    "indicatorTitle": "Mengetahui prinsip dasar dalam menyusun dinamika psikologis",
+    "caseStudy": {
+      "title": "Studi Kasus 21: Prinsip Triangulasi dan Pembuktian Hipotesis Klinis pada Dugaan Malingering",
+      "scenario": "Terdakwa kasus korupsi, Tn. J (58 tahun), diajukan oleh kuasa hukumnya untuk menjalani pemeriksaan psikologis dengan klaim 'mengalami amnesia retrograd dan demensia akut mendadak sehingga tidak cakap menjalani persidangan hukum' (unfit to stand trial). Kuasa hukum melampirkan surat dari dokter umum keluarga yang menyatakan Tn. J sering lupa nama cucunya.\nPsikolog forensik/klinis ditugaskan menyusun dinamika psikologis yang objektif. Dalam pemeriksaan, saat ditanya pertanyaan sederhana seperti 'Berapa kaki seekor sapi?', Tn. J menjawab 'Lima', dan saat diminta menghafal 3 kata mudah, Tn. J menjawab salah pada seluruh kata dengan skor performa jauh di bawah probabilitas tebakan acak (below chance performance) pada tes Memory Validity Profile.",
+      "contextTags": [
+        "Prinsip Dinamika Psikologis",
+        "Symptom Validity Test",
+        "Malingering",
+        "Pembuktian Hipotesis"
+      ]
+    },
+    "question": "Menimbang prinsip dasar integrasi data dan pengujian hipotesis klinis, kesimpulan dinamika yang PALING akurat ditegakkan adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Pola respons salah yang konsisten berada di bawah probabilitas tebakan acak (below chance level) pada tes validitas gejala dan inkonsistensi perilaku sehari-hari mengindikasikan adanya upaya fabrikasi gejala kognitif secara disengaja (malingering) untuk menghindari konsekuensi hukum."
+      },
+      {
+        "id": "B",
+        "text": "Tn. J terbukti mengalami demensia stadium terminal yang sangat langka karena skor memorinya lebih buruk daripada pasien Alzheimer berat."
+      },
+      {
+        "id": "C",
+        "text": "Psikolog harus langsung menghentikan pemeriksaan dan mempercayai surat dokter umum keluarga tanpa melakukan pengujian validitas performa."
+      },
+      {
+        "id": "D",
+        "text": "Tn. J mengalami cedera otak traumatik supranatural yang tidak dapat dideteksi oleh ilmu psikologi barat."
+      },
+      {
+        "id": "E",
+        "text": "Hasil tes membuktikan Tn. J memiliki kecerdasan superior yang mencoba menguji keahlian psikolog."
+      }
+    ],
+    "key": "A",
+    "explanation": "Prinsip dasar penyusunan dinamika psikologis pada kasus medikolegal adalah melakukan pengujian hipotesis tandingan (competing hypotheses) dan triangulasi data menggunakan Symptom/Performance Validity Tests (SVT/PVT). Pola performa yang berada di bawah peluang acak (below chance level) secara ilmiah merupakan bukti kuat adanya motivasi eksternal untuk memalsukan defisit kognitif (malingering)."
+  },
+  {
+    "id": "V2_Q22",
+    "domainId": 8,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Membuat kesimpulan/menegakkan diagnosis)",
+    "indicatorId": "1.2",
+    "indicatorFullId": "D8-1.2",
+    "indicatorTitle": "Membuat kesimpulan atau menegakkan diagnosis berdasarkan hasil asesmen dan teori psikologi yang sesuai",
+    "caseStudy": {
+      "title": "Studi Kasus 22: Penegakan Formulasi Kognitif Kasus Gangguan Kecemasan Kesehatan (Illness Anxiety Disorder)",
+      "scenario": "Tn. K (31 tahun), seorang eksekutif muda, datang dengan ketakutan luar biasa bahwa dirinya mengidap penyakit jantung koroner stadium akhir. Setiap kali merasakan dada sedikit berdebar atau otot rusuknya kram setelah berolahraga, muncul pikiran seketika: 'Ini serangan jantung, saya akan mati mendadak sekarang juga!'. Pikiran ini segera memicu lonjakan adrenalin, keringat dingin, dan detak jantung yang semakin kencang, yang oleh K dianggap sebagai 'bukti sahih' bahwa ia benar-benar sekarat. K telah mendatangi 6 dokter spesialis jantung dalam 4 bulan terakhir, menjalani 5 kali EKG, CT-scan jantung, dan tes darah enzim troponin, yang seluruhnya menunjukkan hasil organ jantung normal dan sehat prima. Untuk menenangkan dirinya, K berkali-kali mengecek denyut nadinya di jam pintar setiap 10 menit dan mencari artikel penyakit langka di internet selama 4 jam sehari.",
+      "contextTags": [
+        "Kognitif Perilakuan",
+        "Catastrophic Misinterpretation",
+        "Safety Behavior",
+        "Illness Anxiety"
+      ]
+    },
+    "question": "Berdasarkan pendekatan Kognitif Perilakuan (Beck & Clark), kesimpulan konseptualisasi kasus yang PALING tepat mengenai mekanisme gangguan Tn. K adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Tn. K mengalami gangguan kepribadian narsistik yang sengaja mencari perhatian dari para dokter spesialis jantung."
+      },
+      {
+        "id": "B",
+        "text": "Kondisi Tn. K murni merupakan kekurangan kalsium biologis yang memicu kram otot dada tanpa keterlibatan proses berpikir."
+      },
+      {
+        "id": "C",
+        "text": "Tn. K mengalami histeria konversi masa kanak-kanak akibat dorongan id yang tidak disalurkan melalui mekanisme sublimasi."
+      },
+      {
+        "id": "D",
+        "text": "Gangguan dipelihara oleh misinterpretasi katastropik (catastrophic misinterpretation) terhadap sensasi somatis fisiologis normal tubuh, yang memicu lingkaran kecemasan otonom dan dipertahankan oleh perilaku mencari kepastian semu (safety behaviors) yang justru memperkuat keyakinan ancaman pada skema kognitifnya."
+      },
+      {
+        "id": "E",
+        "text": "Tn. K tidak mengalami masalah psikologis apa pun dan hanya membutuhkan dokter jantung ke-7 yang lebih canggih."
+      }
+    ],
+    "key": "D",
+    "explanation": "Dalam model Kognitif Perilakuan (CBT) untuk Health Anxiety / Panic, inti patologinya adalah 'catastrophic misinterpretation' terhadap sensasi fisik normal tubuh. Siklus ini diperparah oleh 'safety behaviors' (mengecek nadi terus-menerus, browsing penyakit, mencari reassurance medis) yang mencegah terjadinya proses diskonfirmasi kognitif alami dan memperkuat hipervigilansi tubuh."
+  },
+  {
+    "id": "V2_Q23",
+    "domainId": 8,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Membuat kesimpulan/menegakkan diagnosis)",
+    "indicatorId": "1.3",
+    "indicatorFullId": "D8-1.3",
+    "indicatorTitle": "Membandingkan berbagai gejala dan fungsi psikologis untuk membuat kesimpulan atau menegakkan diagnosis",
+    "caseStudy": {
+      "title": "Studi Kasus 23: Diferensial Diagnosis Antara Gangguan Depresi Mayor dan Gangguan Penyesuaian dengan Mood Depresi",
+      "scenario": "Ny. V (35 tahun) mendatangi psikolog 5 minggu setelah cabang toko rotinya terpaksa ditutup akibat kebakaran ruko di sebelahnya. Ny. V mengeluh sering menangis bila teringat usahanya, nafsu makannya menurun 2 kg dalam sebulan, dan merasa masa depannya suram. Namun, pada saat bermain bersama anak balitanya di akhir pekan, Ny. V masih mampu tertawa lepas dan menikmati waktu kebersamaan (anhedonia tidak pervasif). Ia tidak mengalami perlambatan psikomotor yang nyata, tidak memiliki ide bunuh diri, dan dalam wawancara menyatakan: 'Saya sedih modal saya habis terbakar, tetapi saya tahu saya masih punya keterampilan membuat kue dan keluarga yang mencintai saya' (perasaan keberhargaan diri dan self-esteem utuh).",
+      "contextTags": [
+        "Diferensial Diagnosis",
+        "Major Depressive Disorder",
+        "Adjustment Disorder",
+        "DSM-5 Criteria"
+      ]
+    },
+    "question": "Menimbang perbandingan gejala klinis dan derajat hendaya fungsi sesuai kriteria diagnostik baku (DSM-5 / ICD), kesimpulan diagnosis kerja yang PALING tepat adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Gangguan Depresi Mayor Episode Tunggal Berat dengan Ciri Psikotik, karena telah berlangsung lebih dari 2 minggu dan melibatkan penurunan nafsu makan."
+      },
+      {
+        "id": "B",
+        "text": "Gangguan Penyesuaian dengan Afek Depresi (Adjustment Disorder with Depressed Mood), karena kemunculan gejala secara jelas dipicu oleh stresor psikososial spesifik yang dapat diidentifikasi, tidak memenuhi kriteria penuh Episode Depresi Mayor (masih reaktif terhadap stimulus positif, tidak ada anhedonia pervasif, self-esteem utuh, dan tidak ada ide bunuh diri)."
+      },
+      {
+        "id": "C",
+        "text": "Gangguan Bipolar II Fase Manik, karena klien masih mampu tertawa lepas bersama anaknya."
+      },
+      {
+        "id": "D",
+        "text": "Skizofrenia Residual, karena klien mengalami trauma akibat kebakaran ruko."
+      },
+      {
+        "id": "E",
+        "text": "Klien sepenuhnya normal tanpa distres klinis sehingga tidak memerlukan intervensi psikologis apa pun."
+      }
+    ],
+    "key": "B",
+    "explanation": "Diferensial diagnosis antara Gangguan Depresi Mayor (MDD) dan Gangguan Penyesuaian (Adjustment Disorder) berpusat pada: pemenuhan ambang batas sindromik (kriteria A DSM-5). Pada Ny. V, afek sedihnya reaktif terhadap stresor kebakaran yang nyata, mood-nya masih dapat membaik sementara (mood reactivity), anhedonia tidak menyeluruh, harga diri (self-esteem) tidak runtuh, dan tidak ada retardasi psikomotor/keinginan bunuh diri. Oleh karena itu, diagnosis yang tepat adalah Gangguan Penyesuaian dengan Afek Depresi."
+  },
+  {
+    "id": "V2_Q24",
+    "domainId": 8,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Membuat kesimpulan/menegakkan diagnosis)",
+    "indicatorId": "1.4",
+    "indicatorFullId": "D8-1.4",
+    "indicatorTitle": "Membandingkan dan memilih teori psikologi yang sesuai untuk menjelaskan gejala dan fungsi psikologis klien dalam rangka membuat kesimpulan atau menegakkan diagnosis",
+    "caseStudy": {
+      "title": "Studi Kasus 24: Eksplanasi Gejala Kehampaan Eksistensial Mahasiswa Tingkat Akhir Berprestasi Tinggi",
+      "scenario": "Mahasiswa S (22 tahun) menempuh semester akhir di jurusan teknik informatika dengan IPK 3.95, telah menerima tawaran kerja dari perusahaan rintisan ternama, dan memiliki keluarga yang utuh. Namun, S datang ke biro konseling dengan keluhan merasa hampa mendalam: 'Saya merasa hidup saya seperti robot yang disetel otomatis. Semua yang saya capai adalah keinginan ayah saya yang ingin anaknya sukses di bidang teknologi. Saya sendiri tidak pernah tahu apa yang sebenarnya saya inginkan, siapa diri saya, dan mengapa saya ada di dunia ini'. Tidak ditemukan riwayat trauma fisik, tidak ada defisit kognitif, dan fungsi adaptif akademiknya sangat prima.",
+      "contextTags": [
+        "Humanistik-Eksistensial",
+        "Alienasi Diri",
+        "Conditions of Worth",
+        "Inkongruensi Rogers"
+      ]
+    },
+    "question": "Teori psikologi manakah yang memiliki daya eksplanasi (explanatory power) PALING tajam dan komprehensif untuk menjelaskan kondisi S?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Teori Kondisioning Operan Skinner, karena S hanya mengalami kekurangan jadwal penguatan positif berkala dari dosen pembimbingnya."
+      },
+      {
+        "id": "B",
+        "text": "Teori Perkembangan Motorik Kasar Piaget, karena S jarang berolahraga di luar ruangan."
+      },
+      {
+        "id": "C",
+        "text": "Teori Biologis Neurotransmitter Dopamin, karena perasaan hampa murni diakibatkan oleh mutasi genetik reseptor D2 di otak."
+      },
+      {
+        "id": "D",
+        "text": "Teori Belajar Sosial Bandura murni mengenai kurangnya model peniruan figur sebaya di media sosial."
+      },
+      {
+        "id": "E",
+        "text": "Teori Humanistik-Eksistensial (Carl Rogers & Viktor Frankl), yang membedah krisis eksistensial dan keterasingan diri (alienation) akibat inkongruensi tajam antara 'diri sejati' (real self) dengan 'tuntutan diri ideal/penghargaan bersyarat' (conditions of worth) orang tua, serta kekosongan makna hidup personal (existential vacuum)."
+      }
+    ],
+    "key": "E",
+    "explanation": "Gejala kehilangan makna, perasaan menjadi 'robot' yang memenuhi ekspektasi figur otoritas, dan ketiadaan kontak dengan kebutuhan diri sejati paling tepat dijelaskan oleh Teori Humanistik-Eksistensial (Rogers & Frankl). S mengadopsi 'conditions of worth' orang tuanya sehingga kehilangan 'organismic valuing process' dan mengalami krisis eksistensial mengenai makna eksistensinya."
+  },
+  {
+    "id": "V2_Q25",
+    "domainId": 8,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Membuat kesimpulan/menegakkan diagnosis)",
+    "indicatorId": "1.1",
+    "indicatorFullId": "D8-1.1",
+    "indicatorTitle": "Mengetahui prinsip dasar dalam membuat kesimpulan atau menegakkan diagnosis",
+    "caseStudy": {
+      "title": "Studi Kasus 25: Batasan Penegakan Diagnosis Psikologis Fungsional Non-Medis oleh Psikolog Umum",
+      "scenario": "Seorang klien datang membawa surat dari tempat kerjanya yang meminta 'Diagnosis Medis Resmi Skizofrenia Paranoid beserta Resep Obat Antipsikotik' agar klien dapat mengajukan pensiun dini dengan pesangon medis penuh dari instansi pemerintah. Klien menceritakan bahwa ia sering merasa curiga tetangga membicarakan dirinya, namun ia tetap dapat mengurus diri sendiri, tidak memiliki halusinasi auditorik perintah, dan fungsi kognitifnya utuh.",
+      "contextTags": [
+        "Standar Kewenangan Diagnosis",
+        "Diagnosis Psikologis Fungsional",
+        "Kode Etik HIMPSI",
+        "Batas Kompetensi Medis"
+      ]
+    },
+    "question": "Menimbang regulasi kewenangan profesi psikolog di Indonesia dan Kode Etik Psikologi, prinsip dasar penegakan diagnosis manakah yang HARUS ditegakkan oleh Psikolog Umum?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Menuruti permintaan klien dengan menuliskan diagnosis medis skizofrenia paranoid dan membuat resep obat antipsikotik palsu demi membantu pencairan pesangon pensiun dini klien."
+      },
+      {
+        "id": "B",
+        "text": "Menolak memberikan layanan apa pun dan langsung mengusir klien dari ruang praktik dengan tuduhan penipuan."
+      },
+      {
+        "id": "C",
+        "text": "Menjelaskan bahwa kewenangan psikolog umum berada pada ranah penegakan kesimpulan/diagnosis psikologis fungsional (bukan diagnosis medis psikiatri dan bukan pemberian terapi farmakoterapi/resep obat), serta merujuk klien ke dokter spesialis kedokteran jiwa (psikiater) apabila dibutuhkan penetapan diagnosis medikolegal formal untuk keperluan ketenagakerjaan."
+      },
+      {
+        "id": "D",
+        "text": "Menuliskan diagnosis gangguan kepribadian psikotik tanpa perlu melakukan asesmen psikologis terstandar."
+      },
+      {
+        "id": "E",
+        "text": "Menyarankan klien membeli obat penenang dosis tinggi di apotek daring tanpa resep dokter."
+      }
+    ],
+    "key": "C",
+    "explanation": "Psikolog umum memiliki kewenangan menegakkan kesimpulan dan diagnosis psikologis fungsional (analisis proses mental, perilaku adaptif, dan dinamika psikologis), namun tidak memiliki kewenangan yuridis maupun klinis untuk menegakkan diagnosis medis nosologis untuk klaim hukum pensiun atau meresepkan farmakoterapi/obat. Kasus yang membutuhkan diagnosis medis wajib dirujuk ke psikiater."
+  },
+  {
+    "id": "V2_Q26",
+    "domainId": 9,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Intervensi Psikologi - Menetapkan tujuan dan teknik intervensi)",
+    "indicatorId": "1.2",
+    "indicatorFullId": "D9-1.2",
+    "indicatorTitle": "Memformulasikan tujuan intervensi dengan mempertimbangkan diagnosis/kesimpulan dan dinamika psikologis",
+    "caseStudy": {
+      "title": "Studi Kasus 26: Formulasi Tujuan Intervensi Bertahap Berbasis SMART pada Kasus Fobia Spesifik Ketinggian",
+      "scenario": "Tn. A (29 tahun), seorang inspektur keselamatan menara telekomunikasi seluler, mengalami Fobia Spesifik (Akrofobia) setelah menyaksikan rekaman kecelakaan kerja rekan sekerjanya di media sosial 4 bulan lalu. Saat ini, Tn. A tidak sanggup menaiki tangga di atas ketinggian 3 meter tanpa mengalami hiperventilasi, gemetar hebat, dan ketakutan ekstrem akan jatuh. Kondisi ini mengancam kelangsungan kariernya karena ia dijadwalkan memimpin inspeksi menara setinggi 40 meter dalam waktu 8 minggu ke depan.",
+      "contextTags": [
+        "Formulasi Tujuan Intervensi",
+        "SMART Goals",
+        "Fobia Spesifik",
+        "Hierarki Desensitisasi"
+      ]
+    },
+    "question": "Formulasi tujuan intervensi kuratif bertahap manakah yang PALING tepat, realistis, dan terukur secara klinis bagi Tn. A?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Menargetkan Tn. A langsung dipaksa terjun payung dari pesawat pada sesi terapi pertama agar ketakutannya hilang seketika (flooding ekstrem)."
+      },
+      {
+        "id": "B",
+        "text": "Menetapkan tujuan abstrak bahwa Tn. A harus 'selamanya tidak boleh merasakan rasa takut apa pun dalam hidupnya'."
+      },
+      {
+        "id": "C",
+        "text": "Menyusun tujuan intervensi terukur (SMART): dalam 6 sesi, menurunkan tingkat Subjective Units of Distress (SUDS) dari skala 90 ke bawah 30 melalui latihan regulasi napas diafragma dan restrukturisasi kognitif, diikuti paparan bertahap (graded in-vivo exposure) dari ketinggian 3 meter, 10 meter, hingga mampu menaiki platform menara 25 meter dengan peralatan pengaman penuh secara mandiri tanpa serangan panik."
+      },
+      {
+        "id": "D",
+        "text": "Menyarankan Tn. A pindah profesi menjadi nelayan agar tidak perlu lagi berurusan dengan ketinggian."
+      },
+      {
+        "id": "E",
+        "text": "Fokus pada tujuan mengungkap memori kehidupan masa lalu (past-life regression) tanpa melatih keterampilan koping menghadapi ketinggian."
+      }
+    ],
+    "key": "C",
+    "explanation": "Tujuan intervensi klinis yang baik harus memenuhi kaidah SMART (Specific, Measurable, Achievable, Relevant, Time-bound) dan selaras dengan dinamika kasus (fobia spesifik). Penggunaan skala SUDS (Subjective Units of Distress Scale) dan paparan bertahap (graded in-vivo exposure) yang dikombinasikan dengan keterampilan regulasi fisiologis terbukti secara empiris paling efektif untuk fobia spesifik."
+  },
+  {
+    "id": "V2_Q27",
+    "domainId": 9,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Intervensi Psikologi - Menetapkan tujuan dan teknik intervensi)",
+    "indicatorId": "2.1",
+    "indicatorFullId": "D9-2.1",
+    "indicatorTitle": "Memformulasikan tujuan intervensi dengan mempertimbangkan kesesuaian kewenangan",
+    "caseStudy": {
+      "title": "Studi Kasus 27: Penentuan Batas Kewenangan Intervensi Psikolog Umum pada Kasus Trauma Kompleks dan Disosiatif Berat",
+      "scenario": "Nn. Y (23 tahun) dirujuk ke ruang konsultasi psikolog umum di Puskesmas. Klien memiliki riwayat kekerasan seksual berat berulang di masa kanak-kanak oleh orang terdekat (Complex PTSD) dan sering mengalami episode kilas balik traumatik (flashbacks) intens, histeria konversi (tangan lumpuh mendadak saat cemas), serta kecenderungan memotong lengan (self-harm). Klien meminta psikolog umum melakukan teknik terapi hipnotis regresi trauma mendalam dan terapi pembongkaran memori masa kecil dalam 2 kali pertemuan.",
+      "contextTags": [
+        "Batas Kewenangan Intervensi",
+        "Kompleks PTSD",
+        "Stabilisasi Emosi",
+        "Duty of Care"
+      ]
+    },
+    "question": "Menimbang kesesuaian kewenangan profesional psikolog umum, rumusan tujuan intervensi awal yang PALING tepat adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Menyetujui permintaan klien untuk langsung membongkar seluruh detail memori traumatik melalui hipnoterapi tanpa melakukan fase stabilisasi keamanan."
+      },
+      {
+        "id": "B",
+        "text": "Menetapkan tujuan intervensi awal sebatas stabilisasi keamanan fisik dan psikologis: psikoedukasi trauma, melatih keterampilan grounding 5-4-3-2-1, membuat safety plan pencegahan self-harm, dan meregulasi krisis emosional, sebelum memfasilitasi rujukan ke psikolog klinis spesialis trauma atau psikiater untuk psikoterapi trauma intensif lanjutan."
+      },
+      {
+        "id": "C",
+        "text": "Memberikan resep obat penenang dosis tinggi kepada klien secara mandiri di Puskesmas."
+      },
+      {
+        "id": "D",
+        "text": "Menolak melayani klien sama sekali sejak menit pertama dan menyuruhnya keluar dari Puskesmas karena kasusnya dinilai terlalu berbahaya."
+      },
+      {
+        "id": "E",
+        "text": "Menjamin kepada klien bahwa dalam 2 sesi konseling umum masalah trauma masa kecilnya akan sembuh total 100%."
+      }
+    ],
+    "key": "B",
+    "explanation": "Sesuai Standar Kompetensi dan Kewenangan Psikolog Umum (AP2TPI & HIMPSI), pada kasus trauma kompleks berat dengan risiko self-harm dan disosiasi, kewenangan psikolog umum adalah melakukan stabilisasi psikologis awal (safety planning, grounding techniques, psikoedukasi, regulasi emosi dasar) dan manajemen krisis. Intervensi trauma mendalam (seperti EMDR, TF-CBT lanjutan, atau psikoterapi analitik) membutuhkan kompetensi spesialis dan wajib dirujuk."
+  },
+  {
+    "id": "V2_Q28",
+    "domainId": 9,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Intervensi Psikologi - Menetapkan tujuan dan teknik intervensi)",
+    "indicatorId": "2.2",
+    "indicatorFullId": "D9-2.2",
+    "indicatorTitle": "Mengidentifikasi teknik intervensi yang tepat dengan mempertimbangkan kesesuaian antara pendekatan yang dipilih dan kondisi/karakteristik klien",
+    "caseStudy": {
+      "title": "Studi Kasus 28: Pemilihan Teknik Intervensi Behavioral Activation vs Restrukturisasi Kognitif pada Klien Depresi dengan Retardasi Psikomotor Berat",
+      "scenario": "Tn. R (48 tahun) mengalami depresi sedang-berat pasca kehilangan pekerjaan. Selama 3 minggu terakhir, R menghabiskan 20 jam sehari hanya berbaring di tempat tidur di kamar gelap, berhenti mandi teratur, dan mengalami retardasi psikomotor yang nyata. Saat diajak berbicara, R memerlukan waktu lama untuk merespons dan mengeluh otaknya 'kosong dan tidak sanggup berpikir rumit'. Psikolog magang ingin memberikan lembar kerja pencatatan pikiran otomatis 7 kolom (Thought Record) untuk mendebat keyakinan irasional klien.",
+      "contextTags": [
+        "Behavioral Activation",
+        "Restrukturisasi Kognitif",
+        "Retardasi Psikomotor",
+        "Depresi Akut"
+      ]
+    },
+    "question": "Menimbang kondisi keterbatasan energi dan kapasitas pemrosesan kognitif klien saat ini, teknik intervensi manakah yang PALING tepat diprioritaskan sebagai langkah awal?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Memaksa klien mengisi tabel restrukturisasi kognitif 7 kolom yang rumit dengan menuliskan distorsi logika pemikirannya setiap hari."
+      },
+      {
+        "id": "B",
+        "text": "Memberikan pelatihan debat publik untuk mengasah keterampilan berargumentasi klien."
+      },
+      {
+        "id": "C",
+        "text": "Mengabaikan kondisi fisik klien dan langsung melakukan konfrontasi emosional agresif untuk memaksa klien bangkit dari kasur."
+      },
+      {
+        "id": "D",
+        "text": "Menyuruh keluarga membiarkan klien tidur di kasur selama beberapa bulan ke depan tanpa intervensi apa pun."
+      },
+      {
+        "id": "E",
+        "text": "Menerapkan Aktivasi Perilaku (Behavioral Activation) bertahap: membuat jadwal aktivitas terstruktur sederhana dari tingkat paling ringan (seperti duduk di teras selama 10 menit, mandi air hangat, dan menyiram tanaman) yang memberikan rasa penguasaan (mastery) dan kenikmatan (pleasure) bertahap sebelum beralih ke modifikasi kognitif."
+      }
+    ],
+    "key": "E",
+    "explanation": "Pada pasien depresi akut dengan retardasi psikomotor dan kelelahan kognitif berat, intervensi berbasis kognitif analitik yang rumit (seperti Thought Records) akan membuat pasien merasa semakin tidak berdaya karena kapasitas fungsi eksekutifnya sedang tertekan. Behavioral Activation (aktivasi perilaku bertahap berfokus pada rating mastery & pleasure) adalah teknik lini pertama berbasis bukti yang paling cocok untuk membangkitkan kembali motivasi dan memecah siklus kelembaman (inertia) depresi."
+  },
+  {
+    "id": "V2_Q29",
+    "domainId": 9,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Intervensi Psikologi - Menetapkan tujuan dan teknik intervensi)",
+    "indicatorId": "3.3",
+    "indicatorFullId": "D9-3.3",
+    "indicatorTitle": "Membandingkan dan memilih jenis intervensi yang tepat sesuai dengan dinamika permasalahan dan psikologis/konseptualisasi kasus yang ditangani",
+    "caseStudy": {
+      "title": "Studi Kasus 29: Pemilihan Jenis Intervensi Organisasi: Psikoedukasi Kelompok Terstruktur vs Konseling Individual Masal",
+      "scenario": "Sebuah pabrik garmen mengalami penurunan produktivitas tajam dan lonjakan absensi sakit pada 150 operator mesin jahit di bagian perakitan pasca penerapan sistem target digital baru. Hasil asesmen ringkas psikolog industri menunjukkan bahwa sebagian besar operator mengalami kelelahan otot, kecemasan terhadap sistem komputasi baru yang belum dipahami, dan miskomunikasi masal dengan para supervisor lantai pabrik. Manajemen meminta psikolog menangani seluruh 150 operator dalam waktu 2 pekan.",
+      "contextTags": [
+        "Intervensi Organisasional",
+        "Psikoedukasi Kelompok",
+        "Manajemen Stres Kerja",
+        "Efektivitas Intervensi"
+      ]
+    },
+    "question": "Menimbang dinamika permasalahan sistemik dan kendala waktu organisasi, rancangan jenis intervensi manakah yang PALING tepat dan efisien dipilih oleh Psikolog?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Menyelenggarakan intervensi terpadu tingkat kelompok/organisasi: modul psikoedukasi manajemen stres kerja dan peregangan ergonomis berkelompok (stretching breaks), pelatihan komunikasi suportif bagi supervisor, serta fasilitasi forum dialog bersama manajemen untuk klarifikasi SOP target digital."
+      },
+      {
+        "id": "B",
+        "text": "Memaksakan konseling individual one-on-one berdurasi 60 menit untuk setiap operator secara bergantian yang membutuhkan waktu 6 bulan penyelesaian."
+      },
+      {
+        "id": "C",
+        "text": "Hanya memberikan vitamin penambah stamina tanpa melakukan intervensi psikologis apa pun."
+      },
+      {
+        "id": "D",
+        "text": "Mengadakan sesi hipnoterapi masal selama 5 menit di aula pabrik sambil memutar musik santai."
+      },
+      {
+        "id": "E",
+        "text": "Menyarankan manajemen memecat seluruh 150 operator dan menggantinya dengan pekerja baru."
+      }
+    ],
+    "key": "A",
+    "explanation": "Ketika dinamika permasalahan berakar pada stresor sistemik lingkungan kerja (sistem target baru, kelelahan ergonomis, gap komunikasi hierarkis), intervensi yang tepat adalah intervensi tingkat kelompok/sistemik (psikoedukasi ergonomis, manajemen stres kelompok, dan pelatihan komunikasi bagi supervisor). Melakukan konseling individual satu per satu tidak menyelesaikan akar masalah sistemik dan tidak efisien secara waktu organisasi."
+  },
+  {
+    "id": "V2_Q30",
+    "domainId": 9,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Intervensi Psikologi - Menetapkan tujuan dan teknik intervensi)",
+    "indicatorId": "4.1",
+    "indicatorFullId": "D9-4.1",
+    "indicatorTitle": "Melakukan evaluasi terhadap satu atau beberapa teknik intervensi sesuai dengan kondisi/karakteristik klien dan pendekatan",
+    "caseStudy": {
+      "title": "Studi Kasus 30: Evaluasi Penggunaan Teknik Relaksasi Napas Sebagai Safety Behavior pada Klien Gangguan Panik",
+      "scenario": "Ny. D (30 tahun) telah menjalani 5 sesi konseling dengan psikolog sebelumnya untuk mengatasi Gangguan Panik dengan Agorafobia. Psikolog terdahulu mengajarkan teknik pernapasan lambat (slow diaphragmatic breathing). Namun, Ny. D melaporkan bahwa serangan paniknya kini tidak berkurang; bahkan setiap kali jantungnya sedikit berdebar di tempat umum, ia langsung bernapas dalam-dalam secara panik dan mencengkeram botol minyak aromaterapi dengan keyakinan: 'Kalau saya tidak langsung menarik napas dalam sekarang, saya pasti pingsan atau terkena henti jantung'. Teknik relaksasi tersebut kini berubah fungsi menjadi perilaku pengaman (safety behavior) yang menghambat proses kepunahan (extinction) ketakutannya.",
+      "contextTags": [
+        "Evaluasi Teknik Intervensi",
+        "Safety Behaviors",
+        "Gangguan Panik",
+        "Interoceptive Exposure"
+      ]
+    },
+    "question": "Berdasarkan evaluasi kritis terhadap dinamika tersebut, penyesuaian teknik intervensi manakah yang PALING tepat dilakukan oleh psikolog saat ini?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Menyuruh klien meningkatkan durasi latihan napas dalam menjadi 4 jam sehari agar tidak sempat mengalami panik."
+      },
+      {
+        "id": "B",
+        "text": "Menyalahkan klien karena dinilai tidak berbakat melakukan meditasi pernapasan."
+      },
+      {
+        "id": "C",
+        "text": "Menyuruh klien mengonsumsi obat tidur setiap kali keluar rumah."
+      },
+      {
+        "id": "D",
+        "text": "Mengevaluasi bahwa teknik relaksasi telah menjadi perilaku pengaman maladaptif yang memelihara kecemasan, dan mengalihkannya secara bertahap ke teknik Paparan Sensasi Tubuh Internal (Interoceptive Exposure)—seperti memutar kursi atau hiperventilasi terkontrol—untuk membuktikan kepada klien bahwa sensasi tubuh panik tidak berbahaya dan dapat ditoleransi tanpa ketergantungan pada ritual pernapasan pengaman."
+      },
+      {
+        "id": "E",
+        "text": "Melarang klien bernapas sama sekali saat serangan panik terjadi."
+      }
+    ],
+    "key": "D",
+    "explanation": "Dalam penanganan Gangguan Panik (Panic Disorder), teknik relaksasi yang digunakan secara kompulsif sebagai 'penangkal bahaya imajiner' dapat bermutasi menjadi safety behavior yang justru memperkuat keyakinan katastropik klien bahwa sensasi panik itu mematikan jika tidak segera diredakan. Evaluasi klinis mengharuskan pengalihan ke Interoceptive Exposure (paparan sensasi somatik internal) agar klien belajar mentoleransi sensasi otonom dan memutus ketergantungan pada perilaku pengaman."
+  },
+  {
+    "id": "V2_Q31",
+    "domainId": 10,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Intervensi Psikologi - Merencanakan intervensi)",
+    "indicatorId": "1.1",
+    "indicatorFullId": "D10-1.1",
+    "indicatorTitle": "Mengetahui prinsip dasar dalam menyusun rencana intervensi sesuai dengan jenis intervensi dan pendekatan yang digunakan",
+    "caseStudy": {
+      "title": "Studi Kasus 31: Perancangan Program Intervensi Preventif Sekunder bagi Remaja Berisiko Kenakalan Jalanan",
+      "scenario": "Pemerintah Kota mengontrak tim psikolog untuk merancang program intervensi psikologis bagi 30 remaja siswa SMP yang telah terjaring razia nongkrong malam dan terindikasi mulai mencoba merokok dan tawuran antarlorong, namun belum memiliki catatan tindak pidana formal. Tim diminta membedakan secara tegas rancangan intervensi preventif primer, preventif sekunder, dan intervensi kuratif/rehabilitatif.",
+      "contextTags": [
+        "Intervensi Preventif Sekunder",
+        "Tingkat Pencegahan",
+        "Remaja Berisiko",
+        "Desain Intervensi"
+      ]
+    },
+    "question": "Menimbang prinsip dasar rancangan intervensi preventif sekunder (secondary prevention), fokus utama dari rancangan program yang disusun adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Memberikan psikoedukasi umum tentang gaya hidup sehat kepada seluruh siswa sekolah se-kota tanpa menargetkan kelompok tertentu (Preventif Primer)."
+      },
+      {
+        "id": "B",
+        "text": "Menghapuskan status kependudukan remaja tersebut dari data kependudukan kota."
+      },
+      {
+        "id": "C",
+        "text": "Menempatkan remaja tersebut di dalam sel penjara tertutup bersama narapidana dewasa residivis agar jera (Kuratif Represif)."
+      },
+      {
+        "id": "D",
+        "text": "Memberikan terapi psikoterapi individual mendalam di klinik rawat inap jiwa selama 12 bulan."
+      },
+      {
+        "id": "E",
+        "text": "Menargetkan secara spesifik kelompok remaja yang telah menunjukkan tanda-tanda peringatan dini (early warning signs) dan faktor risiko kenakalan, melalui pelatihan regulasi emosi, keterampilan asertif menolak tekanan teman sebaya (peer refusal skills), bimbingan minat bakat terarah, dan penguatan keterlibatan positif orang tua guna mencegah eskalasi masalah menjadi kriminalitas nyata."
+      }
+    ],
+    "key": "E",
+    "explanation": "Pencegahan sekunder (Secondary Prevention) berfokus pada deteksi dini dan intervensi terarah pada kelompok populasi yang telah teridentifikasi memiliki faktor risiko atau menunjukkan gejala awal (early signs) masalah, dengan tujuan mencegah memburuknya atau berlanjutnya masalah menjadi gangguan yang lebih parah/kriminalitas formal."
+  },
+  {
+    "id": "V2_Q32",
+    "domainId": 10,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Intervensi Psikologi - Merencanakan intervensi)",
+    "indicatorId": "2.1",
+    "indicatorFullId": "D10-2.1",
+    "indicatorTitle": "Mengetahui prinsip dasar dalam menyusun rencana intervensi berdasarkan pemahaman terhadap masing-masing pendekatan",
+    "caseStudy": {
+      "title": "Studi Kasus 32: Rancangan Kerangka Kerja Intervensi Berbasis Pendekatan Person-Centered (Carl Rogers)",
+      "scenario": "Klien Ibu T (38 tahun) datang dengan perasaan sangat tertekan karena merasa hidupnya selalu diatur secara otoriter oleh mertua dan suaminya. Ia merasa suaranya tidak pernah didengar dan merasa diri tidak berharga. Psikolog memilih menggunakan pendekatan Humanistik Person-Centered Therapy (PCT) dalam menyusun rancangan konseling.",
+      "contextTags": [
+        "Person-Centered Therapy",
+        "Prinsip Fasilitatif Rogers",
+        "Unconditional Positive Regard",
+        "Kongruensi"
+      ]
+    },
+    "question": "Prinsip dasar manakah yang HARUS menjadi fondasi utama dalam rancangan rencana intervensi Person-Centered tersebut?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Psikolog bertindak sebagai ahli otoriter yang mendiktekan setiap langkah keputusan hidup yang harus diambil oleh klien setiap minggunya."
+      },
+      {
+        "id": "B",
+        "text": "Menggunakan teknik hukuman dan token ekonomi untuk mengubah perilaku verbal klien di rumah."
+      },
+      {
+        "id": "C",
+        "text": "Menciptakan iklim hubungan terapeutik fasilitatif melalui tiga kondisi esensial terapis: Penerimaan Positif Tanpa Syarat (Unconditional Positive Regard), Empati yang Akurat dan Mendalam (Accurate Empathic Understanding), serta Keaslian/Kongruensi (Congruence/Genuineness), guna memberdayakan kapasitas aktualisasi diri klien dalam menemukan arah hidupnya sendiri."
+      },
+      {
+        "id": "D",
+        "text": "Memberikan interpretasi psikoanalitik mendalam mengenai fiksasi psikoseksual fase oral klien."
+      },
+      {
+        "id": "E",
+        "text": "Menyuruh klien membaca buku motivasi tanpa perlu menjalin relasi terapeutik empatik di ruang sesi."
+      }
+    ],
+    "key": "C",
+    "explanation": "Fondasi dari pendekatan Person-Centered Carl Rogers adalah keyakinan bahwa individu memiliki kecenderungan aktualisasi diri bawaan. Terapi tidak diarahkan secara direktif oleh psikolog, melainkan difasilitasi oleh tiga kondisi inti terapis: congruence (keaslian diri), unconditional positive regard (penerimaan tanpa syarat), dan accurate empathic understanding (pemahaman empati akurat)."
+  },
+  {
+    "id": "V2_Q33",
+    "domainId": 10,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Intervensi Psikologi - Merencanakan intervensi)",
+    "indicatorId": "3.1",
+    "indicatorFullId": "D10-3.1",
+    "indicatorTitle": "Menjelaskan makna intervensi psikologi berbasis bukti (evidence-based practice)",
+    "caseStudy": {
+      "title": "Studi Kasus 33: Integrasi Tiga Pilar Evidence-Based Practice in Psychology (EBPP) dalam Rencana Intervensi",
+      "scenario": "Seorang psikolog yang bekerja di klinik universitas diminta oleh pimpinan klinik menyusun Standar Operasional Prosedur (SOP) perencanaan intervensi psikologis berbasis bukti (Evidence-Based Practice in Psychology - EBPP). Beberapa praktisi senior berpendapat bahwa EBP hanyalah sekadar mengikuti manual terapi penelitian di jurnal Barat secara kaku tanpa mempedulikan budaya klien, sementara yang lain menganggap EBP semata-mata bergantung pada intuisi pengalaman pribadi praktisi.",
+      "contextTags": [
+        "Evidence-Based Practice",
+        "Tiga Pilar EBPP",
+        "Karakteristik Klien",
+        "Integrasi Klinis"
+      ]
+    },
+    "question": "Berdasarkan definisi resmi American Psychological Association (APA) dan panduan kode etik profesi, definisi dan penerapan Evidence-Based Practice in Psychology yang PALING tepat adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Integrasi harmonis antara bukti riset ilmiah terbaik yang tersedia (best available research evidence), keahlian klinis praktisi (clinical expertise), serta karakteristik, budaya, nilai-nilai, dan preferensi unik dari pengguna layanan (client characteristics, culture, and preferences)."
+      },
+      {
+        "id": "B",
+        "text": "Penerapan manual terapi laboratorium secara kaku 100% tanpa boleh memodifikasi kata atau bahasa sesuai konteks budaya setempat."
+      },
+      {
+        "id": "C",
+        "text": "Penggunaan teknik apa pun yang sedang viral di media sosial selama klien merasa terhibur saat sesi berlangsung."
+      },
+      {
+        "id": "D",
+        "text": "Menyerahkan seluruh keputusan intervensi kepada intuisi subjektif praktisi tanpa perlu membaca literatur ilmiah."
+      },
+      {
+        "id": "E",
+        "text": "Hanya menggunakan metode tradisional lokal kuno dan menolak seluruh perkembangan metode ilmiah psikologi."
+      }
+    ],
+    "key": "A",
+    "explanation": "Berdasarkan rumusan APA Policy Statement on Evidence-Based Practice in Psychology (EBPP), praktik berbasis bukti adalah integrasi dari tiga pilar yang setara: (1) Bukti penelitian empiris terbaik yang ada, (2) Keahlian klinis praktisi, dan (3) Karakteristik, budaya, latar belakang, serta preferensi individual klien."
+  },
+  {
+    "id": "V2_Q34",
+    "domainId": 10,
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Intervensi Psikologi - Merencanakan intervensi)",
+    "indicatorId": "3.4",
+    "indicatorFullId": "D10-3.4",
+    "indicatorTitle": "Melakukan evaluasi terhadap satu atau beberapa teknik intervensi berbasis bukti yang sesuai dengan permasalahan, karakteristik klien, dan konteks",
+    "caseStudy": {
+      "title": "Studi Kasus 34: Evaluasi Kritis Risiko Iatrogenik Teknik Debriefing Trauma vs Dukungan Psikologis Awal (PFA) Pasca Bencana",
+      "scenario": "Pasca terjadinya tragedi kebakaran dahsyat di sebuah pemukiman padat yang menelan korban jiwa anak-anak, sebuah komunitas relawan bermaksud mengadakan sesi 'Critical Incident Stress Debriefing (CISD) Wajib' dalam kurun waktu 24 jam pertama, di mana seluruh keluarga korban yang sedang berduka dipaksa berkumpul di aula dan diminta menceritakan kembali secara detail sensasi kengerian saat mencium asap dan melihat kobaran api. Psikolog yang bertugas sebagai koordinator respon tanggap darurat diminta mengevaluasi rancangan intervensi tersebut.",
+      "contextTags": [
+        "Evaluasi EBP",
+        "Psychological First Aid (PFA)",
+        "Critical Incident Stress Debriefing",
+        "Bahaya Iatrogenik"
+      ]
+    },
+    "question": "Menimbang bukti riset empiris mutakhir (evidence-based trauma intervention) dan prinsip do-no-harm, evaluasi dan rekomendasi yang PALING tepat dari Psikolog adalah...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Mendukung penuh rencana tersebut karena memaksa korban menceritakan kembali horor kejadian secara detail dalam 24 jam pertama terbukti menghapus memori trauma."
+      },
+      {
+        "id": "B",
+        "text": "Membiarkan saja kegiatan tersebut berjalan karena yang menyelenggarakan adalah donatur utama posko pengungsian."
+      },
+      {
+        "id": "C",
+        "text": "Mengganti debriefing dengan memberikan hipnoterapi massal di lapangan terbuka."
+      },
+      {
+        "id": "D",
+        "text": "Menolak tegas pelaksanaan CISD mandatori karena riset meta-analisis membuktikan teknik tersebut berisiko iatrogenik (memperparah retraumatisasi dan meningkatkan angka kejadian PTSD), serta merekomendasikan penggantian dengan Psychological First Aid (PFA) yang berfokus pada penyediaan rasa aman, stabilisasi emosi dasar, pemenuhan kebutuhan fisik mendesak, dan penguatan jejaring sosial wajar tanpa pemaksaan ventilasi emosi traumatik."
+      },
+      {
+        "id": "E",
+        "text": "Menyuruh para korban langsung kembali bekerja membersihkan puing-puing tanpa pendampingan apa pun."
+      }
+    ],
+    "key": "D",
+    "explanation": "Studi berbasis bukti (EBP) dan pedoman WHO/IASC telah menegaskan bahwa Single-session Critical Incident Stress Debriefing (CISD) wajib bagi korban bencana akut tidak lagi direkomendasikan karena dapat menimbulkan bahaya iatrogenik (retraumatisasi sekunder). Intervensi lini pertama berbasis bukti yang divalidasi secara internasional adalah Psychological First Aid (PFA), yang memberikan dukungan suportif, rasa aman, koneksi sosial, dan bantuan praktis tanpa memaksa korban merekonstruksi horor trauma."
+  },
+  {
+    "id": "V2_Q35",
+    "domainId": 11,
+    "domainTitle": "Keterampilan Kerja Khusus - Etika Psikologi dan Hukum (Pemahaman dan Penerapan Kode Etik Psikologi Indonesia)",
+    "indicatorId": "2.1",
+    "indicatorFullId": "D11-2.1",
+    "indicatorTitle": "Menerapkan standar perilaku profesional berdasarkan Kode Etik Psikologi Indonesia yang berlaku",
+    "caseStudy": {
+      "title": "Studi Kasus 35: Penanganan Benturan Kepentingan dan Hubungan Majemuk dalam Konteks Korporasi",
+      "scenario": "Psikolog B bekerja sebagai staf tetap bagian People Development di sebuah perusahaan manufaktur swasta. Direktur SDM (atasan langsung Psikolog B) memanggil Psikolog B ke ruang kerjanya dan meminta agar Psikolog B melakukan sesi terapi psikologis intensif rahasia untuk istri sang Direktur yang sedang mengalami depresi berat dan kecanduan belanja. Direktur menjanjikan rekomendasi promosi jabatan dan kenaikan bonus tahunan jika Psikolog B bersedia merawat istrinya di ruang kerja kantor setiap akhir pekan.",
+      "contextTags": [
+        "Hubungan Majemuk",
+        "Benturan Kepentingan",
+        "Kode Etik HIMPSI Pasal 16",
+        "Objektivitas Profesional"
+      ]
+    },
+    "question": "Berdasarkan Kode Etik Psikologi Indonesia (HIMPSI) mengenai Hubungan Majemuk (Multiple Relationships) dan Konflik Kepentingan, tindakan manakah yang WAJIB diambil oleh Psikolog B?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Menerima tawaran Direktur demi mendapatkan promosi jabatan dan melaksanakan konseling di ruang kantor secara sembunyi-sembunyi."
+      },
+      {
+        "id": "B",
+        "text": "Secara sopan dan tegas menolak permintaan tersebut dengan menjelaskan bahwa memberikan layanan terapi klinis kepada keluarga atasan langsung akan menciptakan hubungan majemuk (multiple relationship) yang merusak objektivitas profesional dan memicu benturan kepentingan, serta menawarkan bantuan untuk mencarikan rujukan psikolog klinis eksternal yang kompeten dan independen."
+      },
+      {
+        "id": "C",
+        "text": "Menerima permintaan tersebut asalkan istri Direktur bersedia membayar biaya sesi dua kali lipat dari tarif biasa."
+      },
+      {
+        "id": "D",
+        "text": "Menyetujui tawaran tersebut namun menceritakan rahasia perselingkuhan istri direktur kepada rekan-rekan staf lain di kantin."
+      },
+      {
+        "id": "E",
+        "text": "Langsung mengajukan surat pengunduran diri dari perusahaan saat itu juga tanpa memberikan penjelasan apa pun."
+      }
+    ],
+    "key": "B",
+    "explanation": "Berdasarkan Kode Etik Psikologi Indonesia Bab IV Pasal 16 & 17, psikolog harus menghindari hubungan majemuk apabila hubungan tersebut secara wajar dapat diperkirakan merusak objektivitas, kompetensi, atau efektivitas dalam menjalankan fungsinya, atau berisiko mengeksploitasi pihak lain. Menangani istri dari atasan langsung yang memegang kendali karier psikolog adalah benturan kepentingan nyata. Psikolog wajib menolak dan memfasilitasi rujukan profesional independen."
+  },
+  {
+    "id": "V2_Q36",
+    "domainId": 11,
+    "domainTitle": "Keterampilan Kerja Khusus - Etika Psikologi dan Hukum (Pemahaman dan Penerapan Kode Etik Psikologi Indonesia)",
+    "indicatorId": "2.2",
+    "indicatorFullId": "D11-2.2",
+    "indicatorTitle": "Mendeteksi perilaku profesional dan tidak profesional berdasarkan Kode Etik Psikologi Indonesia yang berlaku",
+    "caseStudy": {
+      "title": "Studi Kasus 36: Batas Pengecualian Kerahasiaan (Duty to Protect / Duty to Warn) pada Ancaman Kejahatan Nyata",
+      "scenario": "Klien Sdr. M (25 tahun) menjalani sesi konseling mandiri karena rasa sakit hati yang mendalam pasca diputuskan oleh mantan tunangannya, Sdri. L. Pada sesi ke-4, M datang dengan tatapan mata sangat dingin, membawa sebilah pisau komando yang diperlihatkannya kepada psikolog dari dalam jaketnya, dan dengan tenang berkata: 'Malam ini tepat jam 9 saat L pulang kerja dari tokonya, saya sudah menyewa sepeda motor dan akan menusuknya di jalan sepi dekat halte. Saya sudah merencanakan ini selama dua pekan dan tidak ada yang bisa menghentikan saya'. Psikolog mencoba melakukan teknik penenangan dan de-eskalasi verbal, namun M tetap bersikukuh dan langsung bergegas keluar dari ruang praktik menuju lokasi target.",
+      "contextTags": [
+        "Pengecualian Kerahasiaan",
+        "Duty to Warn / Protect",
+        "Tarasoff Rule",
+        "Kode Etik HIMPSI Pasal 24"
+      ]
+    },
+    "question": "Dalam situasi ancaman bahaya fatal yang nyata, terencana, dan iminen terhadap pihak ketiga tersebut, tindakan manakah yang PALING profesional dan sah secara etika?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Tetap memegang teguh asas kerahasiaan 100% dan tidak memberitahu siapa pun karena kode etik melarang pembukaan rahasia klien dalam keadaan apa pun tanpa izin tertulis klien."
+      },
+      {
+        "id": "B",
+        "text": "Segera menerapkan pengecualian kerahasiaan (duty to protect/warn): menghubungi pihak kepolisian setempat serta memperingatkan calon korban (Sdri. L) secara langsung guna mencegah terjadinya pembunuhan, dengan hanya membeberkan informasi yang relevan demi keselamatan jiwa."
+      },
+      {
+        "id": "C",
+        "text": "Mengunggah rekaman video pengakuan klien ke akun media sosial pribadi psikolog agar menjadi viral."
+      },
+      {
+        "id": "D",
+        "text": "Menunggu hingga besok pagi untuk melihat apakah penusukan tersebut benar-benar terjadi di berita kriminal televisi."
+      },
+      {
+        "id": "E",
+        "text": "Mengejar klien sendirian ke jalan raya untuk mencoba merebut pisau komando dengan perkelahian fisik."
+      }
+    ],
+    "key": "B",
+    "explanation": "Kode Etik Psikologi Indonesia Pasal 24 (Mempertahankan Kerahasiaan) mengatur batasan kerahasiaan yang sah dibuka tanpa persetujuan klien, yaitu demi melindungi pengguna layanan atau pihak ketiga dari ancaman bahaya fisik nyata yang fatal dan iminen (prinsip Tarasoff / Duty to Protect and Warn). Psikolog wajib segera mengambil langkah perlindungan dengan mengabari aparat berwenang dan pihak terancam dengan proporsional."
+  },
+  {
+    "id": "V2_Q37",
+    "domainId": 12,
+    "domainTitle": "Keterampilan Kerja Khusus - Etika Psikologi dan Hukum (Hak dan Kewenangan Kompetensi)",
+    "indicatorId": "1.2",
+    "indicatorFullId": "D12-1.2",
+    "indicatorTitle": "Menerapkan tindakan dalam layanan psikologis yang sesuai dengan hak dan kewenangan psikolog umum berdasarkan Kode Etik Psikologi, Standar Layanan, dan Standar Kewenangan",
+    "caseStudy": {
+      "title": "Studi Kasus 37: Batas Kewenangan Psikolog Umum dalam Penanganan Kegawatdaruratan Psikotik Akut",
+      "scenario": "Tn. W (28 tahun) dibawa oleh keluarganya ke tempat praktik mandiri Psikolog Umum D. Saat tiba di ruang tunggu, Tn. W berteriak-teriak histeris, meyakini ada chip pemancar di dalam kepalanya yang dikendalikan oleh alien, merusak kursi ruang tunggu, dan tidak tidur selama 6 hari berturut-turut. Keluarga memohon agar Psikolog D melakukan 'terapi hipnotis penenang atau psikoterapi tuntas' di ruang praktiknya dan menolak dibawa ke rumah sakit jiwa karena menganggap psikiater hanya akan meracuni otak anaknya dengan obat kimia.",
+      "contextTags": [
+        "Kewenangan Psikolog Umum",
+        "Psikotik Akut",
+        "Kegawatdaruratan Jiwa",
+        "Rujukan Psikiatri"
+      ]
+    },
+    "question": "Tindakan manakah yang PALING sesuai dengan standar kewenangan psikolog umum dalam menangani situasi kegawatdaruratan klinis tersebut?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Menyetujui permintaan keluarga untuk melakukan sesi terapi hipnosis mandiri di ruang praktik tanpa pengawasan medis."
+      },
+      {
+        "id": "B",
+        "text": "Memberikan suntikan obat penenang sendiri meskipun psikolog tidak memiliki izin medis keperawatan."
+      },
+      {
+        "id": "C",
+        "text": "Mengunci pintu ruang praktik dan meninggalkan klien sendirian di dalam hingga klien tenang dengan sendirinya."
+      },
+      {
+        "id": "D",
+        "text": "Menyadari batas kewenangan bahwa kondisi gaduh gelisah psikotik akut membutuhkan intervensi medis emergensi untuk stabilisasi neurokimiawi otak, memberikan de-eskalasi verbal dan psikoedukasi empatik kepada keluarga tentang perlunya rujukan segera ke Instalasi Gawat Darurat (IGD) Rumah Sakit Jiwa/Umum terdekat, serta memfasilitasi proses transportasi yang aman."
+      },
+      {
+        "id": "E",
+        "text": "Menyatakan bahwa Tn. W hanya mengalami stres biasa akibat beban tugas skripsi yang tertunda."
+      }
+    ],
+    "key": "D",
+    "explanation": "Standar kewenangan psikolog umum membatasi penanganan mandiri pada kasus psikotik akut dengan kegaduhan dan ancaman keselamatan. Kasus ini tergolong kegawatdaruratan psikiatri yang membutuhkan penanganan medis segera di fasilitas kesehatan (IGD RSJ/RSU). Kewenangan psikolog adalah melakukan stabilisasi lingkungan, de-eskalasi awal, psikoedukasi keluarga untuk mengatasi stigma obat, dan memfasilitasi rujukan darurat."
+  },
+  {
+    "id": "V2_Q38",
+    "domainId": 12,
+    "domainTitle": "Keterampilan Kerja Khusus - Etika Psikologi dan Hukum (Hak dan Kewenangan Kompetensi)",
+    "indicatorId": "1.1",
+    "indicatorFullId": "D12-1.1",
+    "indicatorTitle": "Menjelaskan tindakan dalam layanan psikologis yang sesuai dengan hak dan kewenangan psikolog umum berdasarkan Kode Etik Psikologi, Standar Layanan, dan Standar Kewenangan",
+    "caseStudy": {
+      "title": "Studi Kasus 38: Legalitas Penandatanganan Laporan Hasil Pemeriksaan Psikologis (LHP) dan Tanggung Jawab SIPP/STR",
+      "scenario": "Sebuah biro konsultan sumber daya manusia menerima proyek asesmen psikologis untuk 500 calon pegawai BUMN. Karena keterbatasan tenaga psikolog berlisensi, pemilik biro meminta seorang Sarjana Psikologi (S.Psi) yang baru lulus untuk mengadministrasikan tes, menginterpretasikan data, dan menyusun Laporan Hasil Pemeriksaan Psikologis (LHP). Pemilik biro kemudian meminta Psikolog G (yang memiliki Surat Izin Praktik Psikologi - SIPP aktif) untuk sekadar menandatangani dan membubuhkan stempel resmi pada seluruh 500 berkas LHP tersebut tanpa memeriksa lembar jawaban atau mengonfirmasi proses asesmen.",
+      "contextTags": [
+        "Kewenangan Penandatanganan LHP",
+        "SIPP dan STR",
+        "Integritas Asesmen",
+        "Kode Etik HIMPSI"
+      ]
+    },
+    "question": "Bagaimanakah ketentuan etika dan regulasi kewenangan yang BENAR mengenai penandatanganan LHP tersebut?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Psikolog G boleh menandatangani seluruh berkas secara langsung demi keuntungan finansial biro karena Sarjana Psikologi tersebut bekerja di bawah naungan perusahaannya."
+      },
+      {
+        "id": "B",
+        "text": "Sarjana Psikologi (S.Psi) memiliki kewenangan yang sama persis dengan Psikolog ber-SIPP untuk menandatangani LHP mandiri tanpa supervisi."
+      },
+      {
+        "id": "C",
+        "text": "Psikolog yang memiliki SIPP/STR bertanggung jawab penuh secara hukum dan etika atas setiap laporan yang ditandatanganinya; meminjamkan tanda tangan tanpa melakukan supervisi langsung, verifikasi data mentah, dan penjaminan kualitas interpretasi adalah pelanggaran berat kode etik profesi psikologi."
+      },
+      {
+        "id": "D",
+        "text": "Penandatanganan laporan psikologis tidak memiliki konsekuensi hukum apa pun di Indonesia."
+      },
+      {
+        "id": "E",
+        "text": "Psikolog G cukup memeriksa 1 dari 500 berkas dan mengabaikan 499 berkas lainnya."
+      }
+    ],
+    "key": "C",
+    "explanation": "Kode Etik Psikologi Indonesia dan peraturan perundang-undangan tenaga kesehatan/psikologi menegaskan bahwa penandatanganan LHP merupakan representasi legalitas keahlian dan tanggung jawab profesional pemegang SIPP/STR. Praktik 'jual tanda tangan' atau menandatangani laporan tanpa supervisi langsung dan verifikasi integritas data merupakan pelanggaran berat standar kewenangan dan etika profesi."
+  },
+  {
+    "id": "V2_Q39",
+    "domainId": 13,
+    "domainTitle": "Keterampilan Kerja Khusus - Etika Psikologi dan Hukum (Pengetahuan hukum)",
+    "indicatorId": "1.1",
+    "indicatorFullId": "D13-1.1",
+    "indicatorTitle": "Menunjukkan peraturan perundangan yang relevan dengan layanan psikologis yang dilakukan sesuai dengan permasalahan dan latar layanan",
+    "caseStudy": {
+      "title": "Studi Kasus 39: Penerapan UU Perlindungan Anak dan UU Tindak Pidana Kekerasan Seksual (TPKS) pada Kasus Konseling Korban Anak",
+      "scenario": "Dalam sesi konseling individual di ruang bimbingan konseling, seorang siswi SMP, Melati (13 tahun), menangis tersedu-sedu dan akhirnya menceritakan kepada Psikolog Sekolah bahwa ia telah berulang kali dipaksa melakukan hubungan seksual oleh ayah tirinya di rumah selama 6 bulan terakhir saat ibunya bekerja di luar negeri. Melati menunjukkan memar di pahanya dan memohon dengan sangat agar psikolog merahasiakan hal ini dari siapa pun karena diancam akan dibunuh oleh ayah tirinya jika bercerita.",
+      "contextTags": [
+        "UU Perlindungan Anak",
+        "UU TPKS",
+        "Best Interest of the Child",
+        "Kewajiban Hukum Pelaporan"
+      ]
+    },
+    "question": "Menimbang harmonisasi antara Kode Etik Psikologi, UU No. 35 Tahun 2014 tentang Perlindungan Anak, dan UU No. 12 Tahun 2022 tentang Tindak Pidana Kekerasan Seksual (TPKS), kewajiban hukum manakah yang HARUS dijalankan oleh Psikolog?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Menjaga kerahasiaan mutlak selamanya dan tidak melaporkan kepada siapa pun demi memenuhi janji kepada anak, meskipun anak terus berada di bawah ancaman kekerasan seksual setiap malam."
+      },
+      {
+        "id": "B",
+        "text": "Menyuruh siswi kabur sendirian menjadi anak jalanan tanpa tempat tinggal."
+      },
+      {
+        "id": "C",
+        "text": "Memanggil ayah tiri korban ke sekolah sendirian untuk diajak berdebat secara kekeluargaan tanpa melibatkan aparat penegak hukum."
+      },
+      {
+        "id": "D",
+        "text": "Menyalahkan siswi karena dinilai tidak mampu menjaga kehormatan dirinya di rumah."
+      },
+      {
+        "id": "E",
+        "text": "Menjalankan mandat undang-undang (UU Perlindungan Anak & UU TPKS) dan prinsip kepentingan terbaik bagi anak (best interest of the child) dengan segera berkoordinasi secara aman dan rahasia bersama Unit Pelaksana Teknis Daerah Perlindungan Perempuan dan Anak (UPTD PPA) / Unit PPA Kepolisian untuk memberikan perlindungan fisik darurat dan penegakan hukum, sambil tetap mendampingi kondisi psikologis anak secara suportif."
+      }
+    ],
+    "key": "E",
+    "explanation": "Dalam hukum Indonesia (UU No. 35/2014 jo UU No. 23/2002 tentang Perlindungan Anak dan UU No. 12/2022 tentang TPKS), setiap orang termasuk tenaga profesional yang mengetahui adanya kekerasan seksual terhadap anak wajib melaporkannya kepada pihak berwenang. Asas 'Best Interest of the Child' dan klausul perlindungan nyawa mengatasi klausul kerahasiaan umum demi menghentikan bahaya kejahatan yang sedang berlangsung."
+  },
+  {
+    "id": "V2_Q40",
+    "domainId": 13,
+    "domainTitle": "Keterampilan Kerja Khusus - Etika Psikologi dan Hukum (Pengetahuan hukum)",
+    "indicatorId": "2.2",
+    "indicatorFullId": "D13-2.2",
+    "indicatorTitle": "Mencontohkan peraturan perundangan yang relevan dengan permasalahan psikologis yang terkait hukum sesuai dengan latar layanan",
+    "caseStudy": {
+      "title": "Studi Kasus 40: Prosedur Pemanggilan Pengadilan (Subpoena) Terkait Rekam Psikologis Klien Sengketa Hak Asuh Anak",
+      "scenario": "Psikolog T pernah memberikan layanan konseling perkawinan selama 4 sesi kepada pasangan suami-istri, Tn. B dan Ny. C. Enam bulan kemudian, pasangan tersebut menjalani proses perceraian sengit di Pengadilan Agama memperebutkan hak asuh anak tunggal mereka. Kuasa hukum Tn. B secara sepihak mengirimkan surat somasi kepada Psikolog T, menuntut agar Psikolog T menyerahkan seluruh berkas catatan konseling rahasia Ny. C dan bersedia hadir di persidangan untuk memberikan kesaksian yang membuktikan bahwa Ny. C mengalami depresi dan 'tidak layak mengasuh anak'. Kuasa hukum mengancam akan menuntut Psikolog T secara pidana jika menolak menyerahkan berkas.",
+      "contextTags": [
+        "Hukum Acara Perdata",
+        "Subpoena vs Penetapan Hakim",
+        "Privileged Communication",
+        "Etika Rekam Psikologis"
+      ]
+    },
+    "question": "Bagaimanakah respons profesional dan prosedural hukum yang PALING tepat dilakukan oleh Psikolog T?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Menjelaskan secara tertulis bahwa catatan konseling merupakan rekam psikologis rahasia (privileged communication) yang dilindungi kode etik dan undang-undang, menolak permintaan sepihak pengacara tanpa adanya persetujuan tertulis (informed consent) dari Ny. C atau tanpa adanya Perintah/Penetapan Resmi tertulis dari Majelis Hakim Pengadilan yang memeriksa perkara, serta berkonsultasi dengan lembaga bantuan hukum profesi (HIMPSI)."
+      },
+      {
+        "id": "B",
+        "text": "Segera menyerahkan seluruh berkas rahasia konseling kepada pengacara Tn. B karena takut dituntut pidana."
+      },
+      {
+        "id": "C",
+        "text": "Membakar seluruh berkas rekam psikologis di halaman klinik agar pengadilan tidak bisa membacanya."
+      },
+      {
+        "id": "D",
+        "text": "Membuat keterangan palsu yang memojokkan kedua belah pihak agar hak asuh anak diserahkan ke panti asuhan."
+      },
+      {
+        "id": "E",
+        "text": "Hadir di persidangan dan menceritakan seluruh aib seksual pasangan tersebut di depan wartawan."
+      }
+    ],
+    "key": "A",
+    "explanation": "Dalam hukum acara dan etika profesi psikologi, surat tuntutan sepihak dari pengacara salah satu pihak (adversarial lawyer) BUKANLAH perintah pengadilan yang berkekuatan hukum tetap. Rekam konseling dilindungi kerahasiaannya. Psikolog hanya dapat membuka data jika ada persetujuan kedua pihak atau adanya Penetapan Resmi/Surat Perintah langsung dari Majelis Hakim Pengadilan demi kepentingan keadilan. Psikolog berhak menolak somasi pengacara dan mengamankan integritas rekam psikologis klien."
+  }
+]

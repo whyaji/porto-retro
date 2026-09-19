@@ -1,8 +1,8 @@
 "use client";
 
-import React, { useState, useEffect } from "react";
-import { allQuestions } from "@/assets/utbk-ukppu";
-import { Question, UserSession } from "@/types/utbk-ukppu";
+import React, { useState, useEffect, useMemo } from "react";
+import { getQuestionsByVersion } from "@/assets/utbk-ukppu";
+import { Question, QuestionVersion, UserSession } from "@/types/utbk-ukppu";
 import {
   getStoredSession,
   saveStoredSession,
@@ -19,11 +19,13 @@ import { QuestionGridDrawer } from "@/components/utbk-ukppu/QuestionGridDrawer";
 import { ResultReview } from "@/components/utbk-ukppu/ResultReview";
 
 export default function CBTUtbkUkppuPage() {
-  const questions = allQuestions;
-
   const [session, setSession] = useState<UserSession | null>(null);
   const [currentIndex, setCurrentIndex] = useState(0);
   const [theme, setTheme] = useState<"light" | "dark">("light");
+
+  // Dynamic question set based on active session's questionVersion (default newest: "v2")
+  const activeVersion: QuestionVersion = session?.questionVersion || "v2";
+  const questions: Question[] = useMemo(() => getQuestionsByVersion(activeVersion), [activeVersion]);
 
   // Modals & Drawers state
   const [isNameModalOpen, setIsNameModalOpen] = useState(false);
@@ -59,14 +61,23 @@ export default function CBTUtbkUkppuPage() {
 
     const existing = getStoredSession();
     if (existing) {
-      setSession(existing);
-      if (typeof existing.currentQuestionIndex === "number" && existing.currentQuestionIndex < questions.length) {
-        setCurrentIndex(existing.currentQuestionIndex);
+      const normalizedExisting: UserSession = {
+        ...existing,
+        questionVersion: existing.questionVersion || "v2",
+      };
+      setSession(normalizedExisting);
+      saveStoredSession(normalizedExisting);
+      const targetQuestions = getQuestionsByVersion(normalizedExisting.questionVersion);
+      if (
+        typeof normalizedExisting.currentQuestionIndex === "number" &&
+        normalizedExisting.currentQuestionIndex < targetQuestions.length
+      ) {
+        setCurrentIndex(normalizedExisting.currentQuestionIndex);
       }
     } else {
       setIsNameModalOpen(true);
     }
-  }, [questions.length]);
+  }, []);
 
   const handleToggleTheme = () => {
     const nextTheme = theme === "light" ? "dark" : "light";
@@ -105,8 +116,8 @@ export default function CBTUtbkUkppuPage() {
     return () => clearInterval(timer);
   }, [session?.userName, session?.isSubmitted]);
 
-  // Start brand new session
-  const handleStartSession = (userName: string) => {
+  // Start brand new session with selected question version
+  const handleStartSession = (userName: string, version: QuestionVersion = "v2") => {
     const newSession: UserSession = {
       userName,
       createdAt: new Date().toISOString(),
@@ -116,20 +127,52 @@ export default function CBTUtbkUkppuPage() {
       timeElapsed: 0,
       isSubmitted: false,
       currentQuestionIndex: 0,
+      questionVersion: version,
     };
     saveStoredSession(newSession);
     setSession(newSession);
+    setCurrentIndex(0);
     setIsNameModalOpen(false);
   };
 
   // Handle imported session
   const handleImportSession = (importedSession: UserSession) => {
-    saveStoredSession(importedSession);
-    setSession(importedSession);
-    if (typeof importedSession.currentQuestionIndex === "number") {
-      setCurrentIndex(importedSession.currentQuestionIndex);
+    const normalized: UserSession = {
+      ...importedSession,
+      questionVersion: importedSession.questionVersion || "v2",
+    };
+    saveStoredSession(normalized);
+    setSession(normalized);
+    const targetQuestions = getQuestionsByVersion(normalized.questionVersion);
+    if (
+      typeof normalized.currentQuestionIndex === "number" &&
+      normalized.currentQuestionIndex < targetQuestions.length
+    ) {
+      setCurrentIndex(normalized.currentQuestionIndex);
+    } else {
+      setCurrentIndex(0);
     }
     setIsNameModalOpen(false);
+  };
+
+  // Switch between question versions (V1 <-> V2)
+  const handlePromptSwitchVersion = () => {
+    if (!session) return;
+    const targetVersion: QuestionVersion = session.questionVersion === "v1" ? "v2" : "v1";
+    const targetName = targetVersion === "v2" ? "Paket V2 (Terbaru 40 Soal HOTS)" : "Paket V1 (Klasik 610 Soal)";
+
+    setConfirmModalState({
+      isOpen: true,
+      type: "reset",
+      title: "Ganti Paket Soal Ujian?",
+      message: `Anda akan beralih ke ${targetName}. Jawaban pada sesi saat ini akan diatur ulang untuk paket baru. Lanjutkan?`,
+      confirmText: `Ya, Beralih ke ${targetVersion.toUpperCase()}`,
+      cancelText: "Batal",
+      onConfirm: () => {
+        setConfirmModalState((prev) => ({ ...prev, isOpen: false }));
+        handleStartSession(session.userName, targetVersion);
+      },
+    });
   };
 
   const showAlert = (message: string, title = "Informasi") => {
@@ -138,6 +181,7 @@ export default function CBTUtbkUkppuPage() {
       type: "alert",
       title,
       message,
+
       confirmText: "Mengerti",
       onConfirm: () => setConfirmModalState((prev) => ({ ...prev, isOpen: false })),
     });
@@ -332,7 +376,9 @@ export default function CBTUtbkUkppuPage() {
               totalQuestions={questions.length}
               theme={theme}
               onToggleTheme={handleToggleTheme}
+              onSwitchVersion={handlePromptSwitchVersion}
             />
+
 
             {/* Question Grid Navigation Drawer */}
             {!session.isSubmitted && (

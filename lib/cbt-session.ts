@@ -80,6 +80,7 @@ export function parseAndValidateImportedSession(jsonString: string): UserSession
     isSubmitted: Boolean(parsed.isSubmitted),
     score: typeof parsed.score === "number" ? parsed.score : undefined,
     currentQuestionIndex: typeof parsed.currentQuestionIndex === "number" ? parsed.currentQuestionIndex : undefined,
+    questionVersion: parsed.questionVersion === "v1" ? "v1" : "v2",
   };
   
   return session;

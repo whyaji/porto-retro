@@ -7,13 +7,14 @@ import { FiUser, FiUpload, FiPlay, FiShield } from "react-icons/fi";
 
 interface Props {
   isOpen: boolean;
-  onStartSession: (userName: string) => void;
+  onStartSession: (userName: string, version: "v1" | "v2") => void;
   onImportSession: (session: UserSession) => void;
   onError: (msg: string) => void;
 }
 
 export function NamePromptModal({ isOpen, onStartSession, onImportSession, onError }: Props) {
   const [nameInput, setNameInput] = useState("");
+  const [version, setVersion] = useState<"v1" | "v2">("v2");
   const [errorMsg, setErrorMsg] = useState("");
 
   if (!isOpen) return null;
@@ -25,7 +26,7 @@ export function NamePromptModal({ isOpen, onStartSession, onImportSession, onErr
       return;
     }
     setErrorMsg("");
-    onStartSession(nameInput.trim());
+    onStartSession(nameInput.trim(), version);
   };
 
   const handleFileUpload = (e: React.ChangeEvent<HTMLInputElement>) => {
@@ -49,8 +50,8 @@ export function NamePromptModal({ isOpen, onStartSession, onImportSession, onErr
   };
 
   return (
-    <div className="fixed inset-0 z-50 flex items-center justify-center bg-slate-950/75 backdrop-blur-xs p-4 animate-fade-in">
-      <div className="w-full max-w-lg bg-white dark:bg-slate-900 rounded-2xl shadow-2xl border border-slate-200 dark:border-slate-800 overflow-hidden">
+    <div className="fixed inset-0 z-50 flex items-center justify-center bg-slate-950/75 backdrop-blur-xs p-4 animate-fade-in overflow-y-auto">
+      <div className="w-full max-w-lg bg-white dark:bg-slate-900 rounded-2xl shadow-2xl border border-slate-200 dark:border-slate-800 overflow-hidden my-6">
         {/* Header */}
         <div className="bg-slate-900 dark:bg-slate-950 p-6 text-white text-center relative border-b border-slate-800">
           <div className="mx-auto w-12 h-12 bg-white/10 rounded-2xl flex items-center justify-center mb-3 backdrop-blur-md border border-white/20">
@@ -64,7 +65,7 @@ export function NamePromptModal({ isOpen, onStartSession, onImportSession, onErr
 
         {/* Content */}
         <div className="p-6 space-y-6">
-          <form onSubmit={handleSubmit} className="space-y-4">
+          <form onSubmit={handleSubmit} className="space-y-5">
             <div>
               <label className="block text-xs font-bold uppercase tracking-wider text-slate-700 dark:text-slate-300 mb-2">
                 Nama Lengkap Peserta Asesmen
@@ -84,6 +85,74 @@ export function NamePromptModal({ isOpen, onStartSession, onImportSession, onErr
               </div>
             </div>
 
+            {/* Version Selection */}
+            <div>
+              <label className="block text-xs font-bold uppercase tracking-wider text-slate-700 dark:text-slate-300 mb-2">
+                Pilih Paket Soal Ujian
+              </label>
+              <div className="grid grid-cols-1 sm:grid-cols-2 gap-3">
+                {/* Version 2 Option (Default Newest) */}
+                <div
+                  onClick={() => setVersion("v2")}
+                  className={`p-3.5 rounded-xl border-2 cursor-pointer transition-all ${
+                    version === "v2"
+                      ? "border-emerald-600 dark:border-emerald-500 bg-emerald-50/70 dark:bg-emerald-950/40 shadow-xs ring-1 ring-emerald-500"
+                      : "border-slate-200 dark:border-slate-800 hover:border-slate-300 dark:hover:border-slate-700 bg-white dark:bg-slate-800/40"
+                  }`}
+                >
+                  <div className="flex items-center justify-between mb-1.5">
+                    <span className="text-xs font-bold text-slate-900 dark:text-slate-100 flex items-center gap-1.5">
+                      <span className={`w-3 h-3 rounded-full border-2 flex items-center justify-center ${
+                        version === "v2" ? "border-emerald-600 bg-emerald-600" : "border-slate-400"
+                      }`}>
+                        {version === "v2" && <span className="w-1 h-1 bg-white rounded-full"></span>}
+                      </span>
+                      Paket V2 (Terbaru)
+                    </span>
+                    <span className="px-2 py-0.5 bg-emerald-600 text-white rounded text-[10px] font-black uppercase tracking-wider">
+                      Default
+                    </span>
+                  </div>
+                  <p className="text-[11px] text-slate-600 dark:text-slate-300 font-medium leading-snug">
+                    <strong>40 Soal HOTS</strong> • 5 Opsi (A–E)
+                  </p>
+                  <p className="text-[10px] text-slate-500 dark:text-slate-400 mt-1 leading-tight">
+                    Skenario kasus panjang & SJT dilematis. Bobot 70% Asesmen & Intervensi.
+                  </p>
+                </div>
+
+                {/* Version 1 Option */}
+                <div
+                  onClick={() => setVersion("v1")}
+                  className={`p-3.5 rounded-xl border-2 cursor-pointer transition-all ${
+                    version === "v1"
+                      ? "border-emerald-600 dark:border-emerald-500 bg-emerald-50/70 dark:bg-emerald-950/40 shadow-xs ring-1 ring-emerald-500"
+                      : "border-slate-200 dark:border-slate-800 hover:border-slate-300 dark:hover:border-slate-700 bg-white dark:bg-slate-800/40"
+                  }`}
+                >
+                  <div className="flex items-center justify-between mb-1.5">
+                    <span className="text-xs font-bold text-slate-900 dark:text-slate-100 flex items-center gap-1.5">
+                      <span className={`w-3 h-3 rounded-full border-2 flex items-center justify-center ${
+                        version === "v1" ? "border-emerald-600 bg-emerald-600" : "border-slate-400"
+                      }`}>
+                        {version === "v1" && <span className="w-1 h-1 bg-white rounded-full"></span>}
+                      </span>
+                      Paket V1 (Klasik)
+                    </span>
+                    <span className="px-2 py-0.5 bg-slate-200 dark:bg-slate-700 text-slate-700 dark:text-slate-300 rounded text-[10px] font-bold">
+                      Bank Arsip
+                    </span>
+                  </div>
+                  <p className="text-[11px] text-slate-600 dark:text-slate-300 font-medium leading-snug">
+                    <strong>610 Soal Lengkap</strong> • 4 Opsi (A–D)
+                  </p>
+                  <p className="text-[10px] text-slate-500 dark:text-slate-400 mt-1 leading-tight">
+                    Bank soal komprehensif mencakup 13 domain secara luas.
+                  </p>
+                </div>
+              </div>
+            </div>
+
             {errorMsg && (
               <div className="p-3 text-xs font-semibold text-rose-700 dark:text-rose-400 bg-rose-50 dark:bg-rose-950/40 rounded-xl border border-rose-200 dark:border-rose-900">
                 {errorMsg}
@@ -95,9 +164,10 @@ export function NamePromptModal({ isOpen, onStartSession, onImportSession, onErr
               className="w-full flex items-center justify-center gap-2 py-3.5 px-4 bg-slate-900 hover:bg-slate-800 dark:bg-emerald-600 dark:hover:bg-emerald-500 text-white font-bold rounded-xl shadow-lg shadow-slate-900/10 dark:shadow-emerald-900/30 text-sm transition-all duration-200 active:scale-[0.99]"
             >
               <FiPlay className="w-4 h-4 text-emerald-400 dark:text-white" />
-              <span>Mulai Sesi Ujian</span>
+              <span>Mulai Sesi Ujian ({version.toUpperCase()})</span>
             </button>
           </form>
+
 
           <div className="relative flex items-center justify-center my-4">
             <div className="border-t border-slate-200 dark:border-slate-800 w-full"></div>

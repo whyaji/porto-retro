@@ -22,6 +22,8 @@ export interface Question {
   explanation: string;
 }
 
+export type QuestionVersion = "v1" | "v2";
+
 export interface UserSession {
   userName: string;
   createdAt: string;
@@ -32,5 +34,6 @@ export interface UserSession {
   isSubmitted: boolean;
   score?: number;
   currentQuestionIndex?: number;
+  questionVersion?: QuestionVersion;
 }
 
