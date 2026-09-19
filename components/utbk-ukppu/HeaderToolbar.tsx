@@ -1,6 +1,6 @@
 "use client";
 
-import React, { useState, useRef, useEffect } from "react";
+import React, { useState, useEffect } from "react";
 import {
   FiUser,
   FiChevronDown,
@@ -44,20 +44,22 @@ export function HeaderToolbar({
   onSwitchVersion,
 }: Props) {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
-  const menuRef = useRef<HTMLDivElement>(null);
 
   // Close user dropdown menu when clicking outside
   useEffect(() => {
-    function handleClickOutside(event: MouseEvent) {
-      if (menuRef.current && !menuRef.current.contains(event.target as Node)) {
+    function handleClickOutside(event: MouseEvent | TouchEvent) {
+      const target = event.target as Element;
+      if (!target.closest('.user-dropdown-container')) {
         setIsMenuOpen(false);
       }
     }
     if (isMenuOpen) {
       document.addEventListener("mousedown", handleClickOutside);
+      document.addEventListener("touchstart", handleClickOutside, { passive: true });
     }
     return () => {
       document.removeEventListener("mousedown", handleClickOutside);
+      document.removeEventListener("touchstart", handleClickOutside);
     };
   }, [isMenuOpen]);
 
@@ -83,7 +85,7 @@ export function HeaderToolbar({
   const versionLabel = currentMeta.label;
 
   const renderUserDropdown = () => (
-    <div className="relative" ref={menuRef}>
+    <div className="relative user-dropdown-container">
       <button
         type="button"
         onClick={() => setIsMenuOpen((prev) => !prev)}

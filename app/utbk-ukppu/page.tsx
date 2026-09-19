@@ -95,6 +95,7 @@ export default function CBTUtbkUkppuPage() {
       setSession(updatedSession);
       saveStoredSession(updatedSession);
     }
+    window.scrollTo({ top: 0, behavior: "smooth" });
   };
 
   // Timer interval effect

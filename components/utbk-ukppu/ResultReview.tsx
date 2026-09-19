@@ -11,7 +11,6 @@ import {
   FiRotateCcw,
   FiClock,
   FiFileText,
-  FiLayers,
   FiFilter,
   FiChevronLeft,
   FiChevronRight,
@@ -25,20 +24,13 @@ interface Props {
   onResetExam: () => void;
 }
 
-interface GroupedIndicatorReview {
-  fullId: string;
-  domainId: number;
-  domainTitle: string;
-  indicatorId: string;
-  indicatorTitle: string;
-  items: { question: Question; globalIndex: number; isCorrect: boolean }[];
-  correctCount: number;
-}
 
 export function ResultReview({ session, questions, onResetExam }: Props) {
   const [activeQuestionIdx, setActiveQuestionIdx] = useState(0);
   const [statusFilter, setStatusFilter] = useState<"all" | "correct" | "incorrect">("all");
-  const [selectedIndicatorFilter, setSelectedIndicatorFilter] = useState<string>("all");
+  const [showFilters, setShowFilters] = useState(false);
+  const [domainFilter, setDomainFilter] = useState<string>("all");
+  const [indicatorFilter, setIndicatorFilter] = useState<string>("all");
 
   // Overall Score Calculation
   const correctCount = useMemo(() => {
@@ -60,65 +52,42 @@ export function ResultReview({ session, questions, onResetExam }: Props) {
     return `${mins} menit ${remainingSecs} detik`;
   };
 
-  // Group questions by Domain & Indicator for scalable review navigation
-  const groupedIndicators = useMemo(() => {
-    const groups: GroupedIndicatorReview[] = [];
-    questions.forEach((q, idx) => {
-      const fullId = q.indicatorFullId || `D${q.domainId}-${q.indicatorId}`;
+  // Flat list of questions with correct status
+  const flatQuestions = useMemo(() => {
+    return questions.map((q, idx) => {
       const isCorrect = session.selectedAnswers[q.id] === q.key;
-
-      let group = groups.find((g) => g.fullId === fullId);
-      if (!group) {
-        group = {
-          fullId,
-          domainId: q.domainId,
-          domainTitle: q.domainTitle,
-          indicatorId: q.indicatorId,
-          indicatorTitle: q.indicatorTitle,
-          items: [],
-          correctCount: 0,
-        };
-        groups.push(group);
-      }
-      group.items.push({ question: q, globalIndex: idx, isCorrect });
-      if (isCorrect) {
-        group.correctCount++;
-      }
+      return { question: q, globalIndex: idx, isCorrect };
     });
-    return groups;
   }, [questions, session.selectedAnswers]);
 
-  // List of unique indicators for filter dropdown
-  const indicatorOptions = useMemo(() => {
-    return groupedIndicators.map((g) => ({
-      fullId: g.fullId,
-      label: `Domain ${g.domainId} • Indikator ${g.indicatorId}: ${g.indicatorTitle}`,
-    }));
-  }, [groupedIndicators]);
+  const availableDomains = useMemo(() => {
+    return Array.from(new Set(questions.map((q) => String(q.domainId)))).sort();
+  }, [questions]);
 
-  // Filtered grouped items based on active filter selections
-  const filteredGroupedIndicators = useMemo(() => {
-    return groupedIndicators
-      .map((g) => {
-        if (selectedIndicatorFilter !== "all" && g.fullId !== selectedIndicatorFilter) {
-          return null;
-        }
+  const availableIndicators = useMemo(() => {
+    if (domainFilter === "all") {
+      return Array.from(new Set(questions.map((q) => String(q.indicatorId)))).sort();
+    }
+    return Array.from(
+      new Set(
+        questions
+          .filter((q) => String(q.domainId) === domainFilter)
+          .map((q) => String(q.indicatorId))
+      )
+    ).sort();
+  }, [questions, domainFilter]);
 
-        const filteredItems = g.items.filter((item) => {
-          if (statusFilter === "correct") return item.isCorrect;
-          if (statusFilter === "incorrect") return !item.isCorrect;
-          return true;
-        });
+  const filteredQuestions = useMemo(() => {
+    return flatQuestions.filter((item) => {
+      if (statusFilter === "correct" && !item.isCorrect) return false;
+      if (statusFilter === "incorrect" && item.isCorrect) return false;
+      
+      if (domainFilter !== "all" && String(item.question.domainId) !== domainFilter) return false;
+      if (indicatorFilter !== "all" && String(item.question.indicatorId) !== indicatorFilter) return false;
 
-        if (filteredItems.length === 0) return null;
-
-        return {
-          ...g,
-          items: filteredItems,
-        };
-      })
-      .filter(Boolean) as GroupedIndicatorReview[];
-  }, [groupedIndicators, selectedIndicatorFilter, statusFilter]);
+      return true;
+    });
+  }, [flatQuestions, statusFilter, domainFilter, indicatorFilter]);
 
   const currentQ = questions[activeQuestionIdx];
   const userAnswer = session.selectedAnswers[currentQ?.id];
@@ -227,7 +196,8 @@ export function ResultReview({ session, questions, onResetExam }: Props) {
           </div>
 
           {/* Filter Status (All, Correct, Incorrect) */}
-          <div className="flex items-center gap-1 bg-slate-200/80 dark:bg-slate-800 p-1 rounded-xl text-xs font-bold flex-shrink-0">
+          <div className="flex flex-wrap items-center justify-end gap-2">
+            <div className="flex items-center gap-1 bg-slate-200/80 dark:bg-slate-800 p-1 rounded-xl text-xs font-bold flex-shrink-0">
             <button
               onClick={() => setStatusFilter("all")}
               className={`px-3 py-1.5 rounded-lg transition-all ${
@@ -261,86 +231,106 @@ export function ResultReview({ session, questions, onResetExam }: Props) {
               <span>Salah ({totalQuestions - correctCount})</span>
             </button>
           </div>
+          
+          <button
+            onClick={() => setShowFilters(!showFilters)}
+            className={`p-2 rounded-xl transition-all ${
+              showFilters
+                ? "bg-emerald-100 text-emerald-700 dark:bg-emerald-900/40 dark:text-emerald-400"
+                : "bg-slate-200/80 dark:bg-slate-800 text-slate-600 dark:text-slate-400"
+            }`}
+            title="Filter by Domain & Indicator"
+          >
+            <FiFilter className="w-5 h-5" />
+          </button>
+          </div>
         </div>
 
-        {/* Filter Indicator Dropdown */}
-        {indicatorOptions.length > 1 && (
-          <div className="flex items-center gap-2">
-            <FiFilter className="w-4 h-4 text-slate-400 flex-shrink-0" />
-            <select
-              value={selectedIndicatorFilter}
-              onChange={(e) => setSelectedIndicatorFilter(e.target.value)}
-              className="w-full sm:w-auto px-3.5 py-2 bg-white dark:bg-slate-800 border border-slate-200 dark:border-slate-700 rounded-xl text-xs font-semibold text-slate-800 dark:text-slate-200 focus:outline-none focus:ring-2 focus:ring-slate-900 dark:focus:ring-emerald-500"
-            >
-              <option value="all">Tampilkan Semua Indikator Soal</option>
-              {indicatorOptions.map((opt) => (
-                <option key={opt.fullId} value={opt.fullId}>
-                  {opt.label}
-                </option>
-              ))}
-            </select>
+        {/* Domain & Indicator Filters (Optional) */}
+        {showFilters && (
+          <div className="flex flex-col sm:flex-row sm:items-end gap-3 pt-3 border-t border-slate-200 dark:border-slate-800 animate-fade-in">
+            <div className="flex-1 space-y-1">
+              <label className="text-[10px] font-bold text-slate-500 uppercase tracking-wider">Domain</label>
+              <select
+                value={domainFilter}
+                onChange={(e) => {
+                  setDomainFilter(e.target.value);
+                  setIndicatorFilter("all");
+                }}
+                className="w-full bg-slate-50 dark:bg-slate-900 border border-slate-200 dark:border-slate-700 rounded-lg px-3 py-2 text-xs font-medium text-slate-800 dark:text-slate-200 outline-none focus:ring-2 focus:ring-emerald-500/50"
+              >
+                <option value="all">Semua Domain</option>
+                {availableDomains.map((d) => (
+                  <option key={d} value={d}>
+                    Domain {d}
+                  </option>
+                ))}
+              </select>
+            </div>
+            
+            <div className="flex-1 space-y-1">
+              <label className="text-[10px] font-bold text-slate-500 uppercase tracking-wider">Indikator</label>
+              <select
+                value={indicatorFilter}
+                onChange={(e) => {
+                  setIndicatorFilter(e.target.value);
+                }}
+                className="w-full bg-slate-50 dark:bg-slate-900 border border-slate-200 dark:border-slate-700 rounded-lg px-3 py-2 text-xs font-medium text-slate-800 dark:text-slate-200 outline-none focus:ring-2 focus:ring-emerald-500/50"
+              >
+                <option value="all">Semua Indikator</option>
+                {availableIndicators.map((ind) => (
+                  <option key={ind} value={ind}>
+                    Indikator {ind}
+                  </option>
+                ))}
+              </select>
+            </div>
+
+            {(domainFilter !== "all" || indicatorFilter !== "all") && (
+              <button
+                onClick={() => {
+                  setDomainFilter("all");
+                  setIndicatorFilter("all");
+                }}
+                className="flex items-center justify-center gap-1.5 px-4 h-[38px] mt-auto bg-rose-50 hover:bg-rose-100 text-rose-600 dark:bg-rose-950/40 dark:hover:bg-rose-950/60 dark:text-rose-400 rounded-lg text-xs font-bold transition-all border border-rose-200 dark:border-rose-900"
+                title="Hapus Filter"
+              >
+                <FiXCircle className="w-4 h-4" />
+                <span className="sm:hidden lg:inline">Reset</span>
+              </button>
+            )}
           </div>
         )}
       </div>
-
-      {/* Grouped Scalable Review Question Navigation Grid */}
-      <div className="bg-white dark:bg-slate-900 rounded-2xl border border-slate-200 dark:border-slate-800 p-5 space-y-6 shadow-sm">
-        {filteredGroupedIndicators.length === 0 ? (
+      {/* Compact Question Navigation Grid */}
+      <div className="bg-white dark:bg-slate-900 rounded-2xl border border-slate-200 dark:border-slate-800 p-5 shadow-sm">
+        {filteredQuestions.length === 0 ? (
           <div className="text-center py-8 text-xs text-slate-500 dark:text-slate-400">
             Tidak ada soal yang sesuai dengan filter yang dipilih.
           </div>
         ) : (
-          filteredGroupedIndicators.map((group) => (
-            <div key={group.fullId} className="space-y-3 pt-3 border-t border-slate-100 dark:border-slate-800 first:border-t-0 first:pt-0">
-              {/* Group Section Header */}
-              <div className="flex flex-wrap items-center justify-between gap-2">
-                <div className="flex items-center gap-2">
-                  <span className="px-2.5 py-0.5 bg-slate-900 text-white dark:bg-slate-100 dark:text-slate-900 text-[10px] font-black rounded uppercase tracking-wider">
-                    Domain {group.domainId}
-                  </span>
-                  <span className="px-2.5 py-0.5 bg-slate-100 dark:bg-slate-800 text-slate-800 dark:text-slate-200 border border-slate-200 dark:border-slate-700 text-[10px] font-bold rounded">
-                    Indikator {group.indicatorId} ({group.fullId})
-                  </span>
-                  <h4 className="text-xs font-bold text-slate-900 dark:text-slate-100 flex items-center gap-1.5">
-                    <FiLayers className="w-3.5 h-3.5 text-emerald-600 dark:text-emerald-400 flex-shrink-0" />
-                    <span>{group.indicatorTitle}</span>
-                  </h4>
-                </div>
+          <div className="flex flex-wrap gap-2">
+            {filteredQuestions.map(({ question: q, globalIndex, isCorrect }) => {
+              const isActive = globalIndex === activeQuestionIdx;
 
-                <span className="text-[11px] font-bold text-slate-600 dark:text-slate-400">
-                  Akurasi: <strong className="text-emerald-700 dark:text-emerald-400">{group.correctCount}</strong>/{group.items.length} Benar
-                </span>
-              </div>
-
-              {/* Group Question Buttons Grid */}
-              <div className="flex flex-wrap gap-2">
-                {group.items.map(({ question: q, globalIndex, isCorrect }) => {
-                  const isActive = globalIndex === activeQuestionIdx;
-
-                  return (
-                    <button
-                      key={q.id}
-                      onClick={() => setActiveQuestionIdx(globalIndex)}
-                      className={`flex items-center gap-1.5 px-3 py-1.5 rounded-xl text-xs font-bold transition-all border ${
-                        isActive
-                          ? "bg-slate-900 text-white dark:bg-emerald-600 dark:text-white border-slate-900 dark:border-emerald-500 shadow-md ring-2 ring-slate-900 dark:ring-emerald-400 ring-offset-2 dark:ring-offset-slate-900 scale-105 z-10"
-                          : isCorrect
-                          ? "bg-emerald-50 dark:bg-emerald-950/40 text-emerald-800 dark:text-emerald-300 border-emerald-200 dark:border-emerald-900 hover:bg-emerald-100"
-                          : "bg-rose-50 dark:bg-rose-950/40 text-rose-800 dark:text-rose-300 border-rose-200 dark:border-rose-900 hover:bg-rose-100"
-                      }`}
-                    >
-                      <span>Soal #{globalIndex + 1}</span>
-                      {isCorrect ? (
-                        <FiCheckCircle className="w-3.5 h-3.5 text-emerald-600 dark:text-emerald-400" />
-                      ) : (
-                        <FiXCircle className="w-3.5 h-3.5 text-rose-600 dark:text-rose-400" />
-                      )}
-                    </button>
-                  );
-                })}
-              </div>
-            </div>
-          ))
+              return (
+                <button
+                  key={q.id}
+                  onClick={() => setActiveQuestionIdx(globalIndex)}
+                  className={`w-10 h-10 flex items-center justify-center rounded-xl text-xs font-bold transition-all border ${
+                    isActive
+                      ? "bg-slate-900 text-white dark:bg-emerald-600 dark:text-white border-slate-900 dark:border-emerald-500 shadow-md ring-2 ring-slate-900 dark:ring-emerald-400 ring-offset-2 dark:ring-offset-slate-900 scale-105 z-10"
+                      : isCorrect
+                      ? "bg-emerald-50 dark:bg-emerald-950/40 text-emerald-800 dark:text-emerald-300 border-emerald-200 dark:border-emerald-900 hover:bg-emerald-100"
+                      : "bg-rose-50 dark:bg-rose-950/40 text-rose-800 dark:text-rose-300 border-rose-200 dark:border-rose-900 hover:bg-rose-100"
+                  }`}
+                  title={`Soal #${globalIndex + 1}`}
+                >
+                  {globalIndex + 1}
+                </button>
+              );
+            })}
+          </div>
         )}
       </div>
 
@@ -484,3 +474,4 @@ export function ResultReview({ session, questions, onResetExam }: Props) {
     </div>
   );
 }
+
