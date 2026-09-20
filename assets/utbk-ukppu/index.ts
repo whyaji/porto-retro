@@ -13,6 +13,7 @@ import domain12 from "./domain_12.json";
 import domain13 from "./domain_13.json";
 import v2Data from "./v2_questions.json";
 import v3Data from "./v3_questions.json";
+import v4Data from "./v4_questions.json";
 import { Question } from "@/types/utbk-ukppu";
 
 export const domain1Questions = domain1 as Question[];
@@ -47,6 +48,7 @@ const v1Questions: Question[] = [
 
 const v2Questions = v2Data as Question[];
 const v3Questions = v3Data as Question[];
+const v4Questions = v4Data as Question[];
 
 /**
  * ─────────────────────────────────────────────────────────────────
@@ -81,13 +83,23 @@ export interface QuestionVersionMeta {
 export const QUESTION_VERSIONS: QuestionVersionMeta[] = [
   // ── add newest versions at the TOP of this array ──────────────
   {
-    id: "v3",
-    label: "V3",
-    name: "Paket V3 (Terbaru)",
+    id: "v4",
+    label: "V4",
+    name: "Paket V4 (Terbaru)",
     badge: "Default",
     isDefault: true,
+    description: "40 Soal HOTS • 5 Opsi (A–E) • Skenario Lebih Panjang & Dilematis",
+    detail: "Fokus kuat pada Kode Etik HIMPSI & kisi-kisi UKPPU. Skenario narasi 150–300 kata.",
+    questions: v4Questions,
+  },
+  {
+    id: "v3",
+    label: "V3",
+    name: "Paket V3",
+    badge: "Arsip",
+    isDefault: false,
     description: "40 Soal HOTS • 5 Opsi (A–E) • Semua terlihat benar",
-    detail: "Dilematis SJT terbaru. Bobot lebih banyak di Domain 4–10 (Asesmen & Intervensi).",
+    detail: "Dilematis SJT versi sebelumnya. Bobot lebih banyak di Domain 4–10.",
     questions: v3Questions,
   },
   {
