@@ -25,7 +25,6 @@ export const SkillsMatrix: React.FC<{ isFullPage?: boolean }> = ({
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <SectionHeader
           number="03"
-          badge={t.skills.badge}
           title={t.skills.title}
           subtitle={t.skills.subtitle}
         />
@@ -43,9 +42,9 @@ export const SkillsMatrix: React.FC<{ isFullPage?: boolean }> = ({
                     {categoryIcons[category.id] || <FiCode className="w-5 h-5" />}
                   </div>
                   <div>
-                    <h3 className="font-display font-extrabold text-base sm:text-lg text-[var(--navy)]">
+                    <p className="font-display font-extrabold text-base sm:text-lg text-[var(--navy)]">
                       {category.name[locale] || category.name.en}
-                    </h3>
+                    </p>
                   </div>
                 </div>
 

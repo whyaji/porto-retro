@@ -17,7 +17,6 @@ export const TestimonialsSection: React.FC = () => {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <SectionHeader
           number="05"
-          badge={t.testimonials.badge}
           title={t.testimonials.title}
           subtitle={t.testimonials.subtitle}
           align="center"
@@ -59,7 +58,7 @@ export const TestimonialsSection: React.FC = () => {
 
                     <span className="inline-flex items-center gap-1 text-xs font-mono font-bold text-[var(--green)] bg-[var(--green-muted)] px-2.5 py-1 border border-[var(--green)]">
                       <FiCheckCircle className="w-3.5 h-3.5" />
-                      {t.testimonials.verifiedBadge}
+                      Endorsement
                     </span>
                   </div>
 
@@ -83,9 +82,9 @@ export const TestimonialsSection: React.FC = () => {
                     </div>
                   )}
                   <div>
-                    <h4 className="font-display font-extrabold text-base text-[var(--navy)]">
+                    <p className="font-display font-extrabold text-base text-[var(--navy)]">
                       {item.name}
-                    </h4>
+                    </p>
                     <p className="text-xs font-mono text-[var(--navy)]/70">
                       {item.role[locale as "id" | "en"] || item.role.en} &bull;{" "}
                       <span className="font-bold text-[var(--navy)]">{item.company}</span>

@@ -17,7 +17,6 @@ export const AchievementsSection: React.FC<{ isFullPage?: boolean }> = ({
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <SectionHeader
           number="06"
-          badge={t.achievements.badge}
           title={t.achievements.title}
           subtitle={t.achievements.subtitle}
         />
@@ -36,9 +35,9 @@ export const AchievementsSection: React.FC<{ isFullPage?: boolean }> = ({
                       {idx === 0 ? <FiBookOpen className="w-5 h-5" /> : <FiAward className="w-5 h-5" />}
                     </div>
                     <div>
-                      <h3 className="font-display font-extrabold text-lg text-[var(--navy)] leading-snug">
+                      <p className="font-display font-extrabold text-lg text-[var(--navy)] leading-snug">
                         {edu.institution}
-                      </h3>
+                      </p>
                       <p className="text-xs font-mono text-[var(--green)] font-bold mt-1">
                         {edu.degree}
                       </p>

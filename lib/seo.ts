@@ -5,14 +5,14 @@ import type { ProjectMeta } from "@/types/project";
 export const SITE_URL =
   process.env.NEXT_PUBLIC_SITE_URL ?? "https://patrialabs.vercel.app";
 
-export const SITE_NAME = "Wahyu Patriaji Portfolio";
+export const SITE_NAME = "Wahyu Patriaji — PatriaLabs";
 export const AUTHOR_NAME = "Wahyu Patriaji";
 
 export const DEFAULT_TITLE =
-  "Wahyu Patriaji | Full-Stack & Mobile Software Engineer";
+  "Wahyu Patriaji | Full-Stack & Mobile Software Engineer | PatriaLabs";
 
 export const DEFAULT_DESCRIPTION =
-  "Professional portfolio and resume of Wahyu Patriaji — Full-Stack & Mobile Software Engineer at PT Sawit Sumbermas Sarana Tbk. Specializing in Node.js, Hono, React, React Native, Flutter, and Geospatial GIS applications.";
+  "Software Engineering Portfolio of Wahyu Patriaji (PatriaLabs). Full-Stack & Mobile Engineer building web, mobile, and distributed backend systems.";
 
 export const SEO_KEYWORDS = [
   "Wahyu Patriaji",
@@ -26,9 +26,6 @@ export const SEO_KEYWORDS = [
   "React Native",
   "Hono",
   "Node.js",
-  "GIS",
-  "Leaflet",
-  "MapLibre",
   "Indonesia Programmer",
   "Portfolio",
   "Resume",

@@ -1,21 +1,47 @@
 import type { Metadata } from "next";
+import dynamic from "next/dynamic";
 import { HeroSection } from "@/components/sections/HeroSection";
 import { MarqueeTicker } from "@/components/ui/MarqueeTicker";
 import { FeaturedProjects } from "@/components/sections/FeaturedProjects";
 import { ExperienceSection } from "@/components/sections/ExperienceSection";
 import { SkillsMatrix } from "@/components/sections/SkillsMatrix";
-import { TrustedBySection } from "@/components/sections/TrustedBySection";
-import { TestimonialsSection } from "@/components/sections/TestimonialsSection";
-import { AchievementsSection } from "@/components/sections/AchievementsSection";
-import { ContactCTA } from "@/components/sections/ContactCTA";
 import { ScrollReveal } from "@/components/ui/ScrollReveal";
 import { createPageMetadata, DEFAULT_TITLE } from "@/lib/seo";
+
+// Dynamically import below-the-fold sections for optimal initial bundle size
+const TrustedBySection = dynamic(
+  () =>
+    import("@/components/sections/TrustedBySection").then(
+      (mod) => mod.TrustedBySection
+    )
+);
+
+const TestimonialsSection = dynamic(
+  () =>
+    import("@/components/sections/TestimonialsSection").then(
+      (mod) => mod.TestimonialsSection
+    )
+);
+
+const AchievementsSection = dynamic(
+  () =>
+    import("@/components/sections/AchievementsSection").then(
+      (mod) => mod.AchievementsSection
+    )
+);
+
+const ContactCTA = dynamic(
+  () =>
+    import("@/components/sections/ContactCTA").then(
+      (mod) => mod.ContactCTA
+    )
+);
 
 export const metadata: Metadata = {
   ...createPageMetadata({
     title: "Home",
     description:
-      "Production portfolio of Wahyu Patriaji — Full-Stack & Mobile Software Engineer at PT Sawit Sumbermas Sarana Tbk. Specializing in Node.js, Hono, React, React Native, Flutter, and Geospatial GIS applications.",
+      "Software Engineering Portfolio of Wahyu Patriaji (PatriaLabs). Full-Stack & Mobile Engineer building web, mobile, and distributed backend systems.",
     path: "/",
   }),
   title: { absolute: DEFAULT_TITLE },

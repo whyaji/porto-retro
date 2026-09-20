@@ -13,7 +13,6 @@ import {
   FiLayers,
   FiSmartphone,
   FiCpu,
-  FiCheck,
 } from "react-icons/fi";
 
 export const HeroSection: React.FC = () => {
@@ -25,22 +24,17 @@ export const HeroSection: React.FC = () => {
         <div className="grid grid-cols-1 lg:grid-cols-12 gap-8 lg:gap-12 items-center">
           {/* Left / Main Hero Column */}
           <div className="lg:col-span-8 space-y-6">
-            {/* Retro Monospace Status Pill */}
-            <div className="flex flex-wrap items-center gap-2 animate-in fade-in slide-in-from-top-4 duration-500">
-              <span className="inline-flex items-center gap-2 px-3 py-1 bg-[var(--navy)] text-[var(--surface)] text-xs font-mono font-bold retro-shadow-sm">
-                <span className="w-2 h-2 rounded-full bg-[#27c93f] inline-block animate-pulse"></span>
-                <span>{t.hero.terminalStatus}</span>
-              </span>
-              <Badge variant="gold" size="md">
-                {t.hero.badge}
-              </Badge>
-            </div>
-
             {/* Main Headline */}
-            <div className="space-y-2 animate-in fade-in slide-in-from-bottom-4 duration-700">
-              <p className="text-sm sm:text-base font-mono font-bold text-[var(--green)]">
-                &gt; {t.hero.greeting} <span className="underline decoration-wavy decoration-[var(--gold)]">{resumeData.name}</span>
-              </p>
+            <div className="space-y-3 animate-in fade-in slide-in-from-bottom-4 duration-700">
+              <div className="inline-flex items-center gap-2 font-mono text-xs sm:text-sm font-bold text-[var(--green)]">
+                <span className="w-2 h-2 rounded-full bg-[#27c93f] shrink-0"></span>
+                <span>
+                  {t.hero.greeting}{" "}
+                  <span className="underline decoration-2 underline-offset-4 decoration-[var(--gold)] text-[var(--navy)] font-extrabold">
+                    {resumeData.name}
+                  </span>
+                </span>
+              </div>
               <h1 className="text-3xl sm:text-5xl lg:text-6xl font-extrabold font-display text-[var(--navy)] tracking-tight leading-[1.08]">
                 {t.hero.tagline}
               </h1>
@@ -81,58 +75,49 @@ export const HeroSection: React.FC = () => {
             </div>
           </div>
 
-          {/* Right Column: Retro Blueprint / System Info Card */}
+          {/* Right Column: Developer Summary Card */}
           <div className="lg:col-span-4">
             <div className="bg-[var(--card)] border-2 border-[var(--navy)] retro-shadow-lg overflow-hidden transition-transform duration-300 hover:-translate-y-1">
-              <div className="px-4 py-2 bg-[var(--navy)] text-[var(--surface)] font-mono text-xs flex items-center justify-between border-b-2 border-[var(--navy)]">
-                <div className="flex items-center gap-1.5">
-                  <span className="w-2 h-2 rounded-full bg-[#ff5f56]"></span>
-                  <span className="w-2 h-2 rounded-full bg-[#ffbd2e]"></span>
-                  <span className="w-2 h-2 rounded-full bg-[#27c93f]"></span>
-                </div>
-                <span className="font-bold text-[var(--gold)]">SYS_SPEC_2026</span>
+              <div className="px-4 py-2.5 bg-[var(--navy)] text-[var(--surface)] font-mono text-xs flex items-center justify-between border-b-2 border-[var(--navy)]">
+                <span className="font-bold text-[var(--gold)]">Developer Profile</span>
+                <span className="text-[10px] text-white/70">PT SSMS Tbk</span>
               </div>
 
               <div className="p-5 space-y-4 font-mono text-xs text-[var(--navy)]">
                 <div>
-                  <span className="text-[var(--navy)]/50 block text-[10px]">CURRENT ROLE</span>
-                  <span className="font-bold text-sm text-[var(--green)]">
+                  <span className="text-[var(--navy)]/60 block text-[10px] font-bold">CURRENT ROLE</span>
+                  <span className="font-bold text-sm text-[var(--navy)]">
                     Programmer @ PT Sawit Sumbermas Sarana Tbk
                   </span>
                 </div>
 
                 <div className="border-t border-[var(--navy)]/10 pt-3">
-                  <span className="text-[var(--navy)]/50 block text-[10px]">CORE ARCHITECTURE</span>
-                  <div className="flex flex-wrap gap-1 mt-1">
-                    <Badge variant="navy" size="sm">Hono / Node</Badge>
-                    <Badge variant="navy" size="sm">React / Next</Badge>
-                    <Badge variant="navy" size="sm">Flutter</Badge>
-                    <Badge variant="navy" size="sm">MapLibre GIS</Badge>
-                    <Badge variant="navy" size="sm">Redis / Queue</Badge>
+                  <span className="text-[var(--navy)]/60 block text-[10px] font-bold">CORE TECH</span>
+                  <div className="flex flex-wrap gap-1 mt-1.5">
+                    <Badge variant="navy" size="sm">Node.js / Hono</Badge>
+                    <Badge variant="navy" size="sm">React / Next.js</Badge>
+                    <Badge variant="navy" size="sm">Flutter / React Native</Badge>
+                    <Badge variant="navy" size="sm">PostgreSQL / Redis</Badge>
+                    <Badge variant="navy" size="sm">System Architecture</Badge>
                   </div>
                 </div>
 
                 <div className="border-t border-[var(--navy)]/10 pt-3">
-                  <span className="text-[var(--navy)]/50 block text-[10px]">PRODUCTION STATS</span>
-                  <div className="grid grid-cols-2 gap-2 mt-1">
+                  <span className="text-[var(--navy)]/60 block text-[10px] font-bold">KEY METRICS</span>
+                  <div className="grid grid-cols-2 gap-2 mt-1.5">
                     <div className="p-2 bg-[var(--surface-light)] border border-[var(--navy)]/20">
                       <span className="font-display font-black text-lg text-[var(--navy)] block">
                         16+
                       </span>
-                      <span className="text-[10px] text-[var(--navy)]/70">Projects Built</span>
+                      <span className="text-[10px] text-[var(--navy)]/70">Production Apps</span>
                     </div>
                     <div className="p-2 bg-[var(--surface-light)] border border-[var(--navy)]/20">
                       <span className="font-display font-black text-lg text-[var(--green)] block">
                         2+ Yrs
                       </span>
-                      <span className="text-[10px] text-[var(--navy)]/70">Production Exp</span>
+                      <span className="text-[10px] text-[var(--navy)]/70">Engineering Exp</span>
                     </div>
                   </div>
-                </div>
-
-                <div className="border-t border-[var(--navy)]/10 pt-3 text-[11px] text-[var(--navy)]/70 flex items-center gap-1.5">
-                  <FiCheck className="w-3.5 h-3.5 text-[var(--green)] shrink-0" />
-                  <span>{t.hero.verifiedTrackRecord}</span>
                 </div>
               </div>
             </div>

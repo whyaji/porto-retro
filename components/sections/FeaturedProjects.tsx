@@ -18,7 +18,6 @@ export const FeaturedProjects: React.FC = () => {
         <div className="flex flex-col md:flex-row md:items-end justify-between mb-10 gap-4">
           <SectionHeader
             number="01"
-            badge={t.projects.badge}
             title={t.projects.title}
             subtitle={t.projects.subtitle}
             className="mb-0 md:mb-0"

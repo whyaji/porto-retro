@@ -26,7 +26,6 @@ export default function ContactPage() {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 space-y-12">
         <SectionHeader
           number="05"
-          badge={t.contact.badge}
           title={t.contact.title}
           subtitle={t.contact.subtitle}
         />
@@ -97,7 +96,7 @@ export default function ContactPage() {
                       TIMEZONE / RESPONSE
                     </span>
                     <span className="font-bold text-[var(--navy)]">
-                      UTC+7 (WIB) — 24h Response SLA
+                      UTC+7 (WIB) / 24h Response Time
                     </span>
                   </div>
                 </div>

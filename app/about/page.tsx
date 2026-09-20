@@ -28,7 +28,6 @@ export default function AboutPage() {
         {/* Header */}
         <SectionHeader
           number="00"
-          badge={t.about.badge}
           title={t.about.title}
           subtitle={t.about.subtitle}
         />

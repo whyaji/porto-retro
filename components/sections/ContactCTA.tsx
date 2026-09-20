@@ -16,7 +16,7 @@ export const ContactCTA: React.FC = () => {
           <div className="grid grid-cols-1 lg:grid-cols-12 gap-8 items-center">
             <div className="lg:col-span-8 space-y-4">
               <div className="inline-flex items-center gap-2 px-3 py-1 bg-[var(--gold)] text-[var(--navy)] font-mono text-xs font-bold">
-                <span>{"// READY_FOR_DISPATCH"}</span>
+                <span>{t.hero.statusBadge}</span>
               </div>
               <h2 className="text-2xl sm:text-4xl font-extrabold font-display text-white tracking-tight leading-tight">
                 {t.contact.title}

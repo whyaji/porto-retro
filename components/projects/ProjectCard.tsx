@@ -91,9 +91,9 @@ export const ProjectCard: React.FC<ProjectCardProps> = ({
               href={`/projects/${project.slug}`}
               className="block group-hover:text-[var(--green)] transition-colors focus:outline-none"
             >
-              <h3 className="text-lg sm:text-xl font-extrabold text-[var(--navy)] font-display tracking-tight leading-snug">
+              <p className="text-lg sm:text-xl font-extrabold text-[var(--navy)] font-display tracking-tight leading-snug">
                 {project.name}
-              </h3>
+              </p>
             </Link>
             <p className="mt-2 text-xs sm:text-sm text-[var(--navy)]/80 font-sans leading-relaxed line-clamp-2">
               {shortDesc}
@@ -121,8 +121,10 @@ export const ProjectCard: React.FC<ProjectCardProps> = ({
         <Link
           href={`/projects/${project.slug}`}
           className="inline-flex items-center gap-1.5 text-xs font-mono font-bold text-[var(--navy)] hover:text-[var(--green)] transition-colors group-hover:translate-x-0.5"
+          aria-label={`View details for ${project.name}`}
         >
           <span>{t.projects.viewDetail}</span>
+          <span className="sr-only"> for {project.name}</span>
           <FiArrowRight className="w-3.5 h-3.5" />
         </Link>
 
@@ -135,6 +137,7 @@ export const ProjectCard: React.FC<ProjectCardProps> = ({
             aria-label={`Visit live site for ${project.name}`}
           >
             <span>{t.projects.visitLive}</span>
+            <span className="sr-only"> for {project.name}</span>
             <FiExternalLink className="w-3.5 h-3.5" />
           </a>
         )}

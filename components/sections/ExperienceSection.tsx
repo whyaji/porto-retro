@@ -18,7 +18,6 @@ export const ExperienceSection: React.FC<{ isFullPage?: boolean }> = ({
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <SectionHeader
           number="02"
-          badge={t.experience.badge}
           title={t.experience.title}
           subtitle={t.experience.subtitle}
         />
@@ -34,9 +33,9 @@ export const ExperienceSection: React.FC<{ isFullPage?: boolean }> = ({
               {/* Company Header */}
               <div className="bg-[var(--navy)] text-[var(--surface)] p-4 sm:p-5 border-2 border-[var(--navy)] retro-shadow flex flex-col sm:flex-row sm:items-center justify-between gap-2">
                 <div>
-                  <h3 className="text-lg sm:text-xl font-extrabold font-display text-white tracking-tight">
+                  <p className="text-lg sm:text-xl font-extrabold font-display text-white tracking-tight">
                     {companyItem.company}
-                  </h3>
+                  </p>
                   <div className="flex items-center gap-2 text-xs font-mono text-[var(--gold)] mt-1">
                     <FiMapPin className="w-3.5 h-3.5 shrink-0" />
                     <span>{companyItem.location}</span>
@@ -56,9 +55,9 @@ export const ExperienceSection: React.FC<{ isFullPage?: boolean }> = ({
                   >
                     <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-2 pb-3 border-b border-[var(--navy)]/10">
                       <div>
-                        <h4 className="text-base sm:text-lg font-extrabold font-display text-[var(--navy)]">
+                        <p className="text-base sm:text-lg font-extrabold font-display text-[var(--navy)]">
                           {role.title}
-                        </h4>
+                        </p>
                       </div>
                       <div className="inline-flex items-center gap-1.5 px-3 py-1 bg-[var(--surface-light)] border border-[var(--navy)] text-xs font-mono font-bold text-[var(--green)]">
                         <FiCalendar className="w-3.5 h-3.5" />

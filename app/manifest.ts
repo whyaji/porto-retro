@@ -2,10 +2,10 @@ import type { MetadataRoute } from "next";
 
 export default function manifest(): MetadataRoute.Manifest {
   return {
-    name: "Wahyu Patriaji — Full-Stack & Mobile Software Engineer",
-    short_name: "PatriaLabs",
+    name: "Wahyu Patriaji, Full-Stack & Mobile Software Engineer",
+    short_name: "Wahyu Patriaji",
     description:
-      "Professional portfolio of Wahyu Patriaji — Full-Stack & Mobile Software Engineer.",
+      "Professional portfolio of Wahyu Patriaji, Full-Stack & Mobile Software Engineer.",
     start_url: "/",
     display: "standalone",
     background_color: "#EBEDE3",

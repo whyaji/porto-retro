@@ -44,25 +44,24 @@ export const Navbar: React.FC = () => {
 
   return (
     <header
-      className={`sticky top-0 z-50 w-full transition-all duration-200 ${
+      className={`sticky top-0 z-50 w-full transition-all duration-300 ${
         scrolled
-          ? "bg-[var(--surface)]/95 backdrop-blur-sm border-b-2 border-[var(--navy)] shadow-md"
+          ? "bg-[var(--surface)]/95 backdrop-blur-md border-b-2 border-[var(--navy)] shadow-lg"
           : "bg-[var(--surface)] border-b-2 border-[var(--navy)]"
       }`}
     >
-      {/* Top micro-bar for system status */}
-      <div className="hidden md:flex items-center justify-between px-4 lg:px-8 py-1 bg-[var(--navy)] text-[var(--surface)] text-[11px] font-mono border-b border-[var(--surface)]/20">
+      {/* Top Microbar */}
+      <div className="hidden md:flex items-center justify-between px-4 lg:px-8 py-1.5 bg-[var(--navy)] text-[var(--surface)] text-[11px] font-mono border-b border-[var(--surface)]/20">
         <div className="flex items-center gap-3">
           <span className="flex items-center gap-1.5">
             <span className="w-2 h-2 rounded-full bg-[#27c93f] inline-block animate-pulse"></span>
-            <span className="text-[var(--gold)] font-bold">PATRIALABS V1.3</span>
+            <span className="text-[var(--gold)] font-bold tracking-wider">PATRIALABS</span>
           </span>
-          <span className="text-white/40">|</span>
-          <span className="text-white/80">{t.nav.availableForWork}</span>
+          <span className="text-white/30">|</span>
+          <span className="text-white/90">{t.nav.availableForWork}</span>
         </div>
-        <div className="flex items-center gap-4 text-white/80">
-          <span>{t.nav.officialPortfolio}</span>
-          <span>{t.nav.verifiedProfile}</span>
+        <div className="flex items-center gap-2 text-white/70">
+          <span>Wahyu Patriaji</span>
         </div>
       </div>
 
@@ -70,18 +69,18 @@ export const Navbar: React.FC = () => {
         {/* Brand Logo */}
         <Link
           href="/"
-          className="flex items-center gap-2 group focus:outline-none"
-          aria-label="Wahyu Patriaji Homepage"
+          className="flex items-center gap-2.5 group focus:outline-none"
+          aria-label="Wahyu Patriaji — PatriaLabs Homepage"
         >
           <div className="w-9 h-9 bg-[var(--navy)] text-[var(--gold)] border-2 border-[var(--navy)] flex items-center justify-center font-mono font-black text-base retro-shadow-sm group-hover:bg-[var(--navy-light)] transition-all">
-            <FiTerminal className="w-5 h-5" />
+            <FiTerminal className="w-5 h-5 group-hover:scale-110 transition-transform" />
           </div>
           <div className="flex flex-col">
-            <span className="font-display font-extrabold text-lg sm:text-xl text-[var(--navy)] tracking-tight leading-none group-hover:text-[var(--green)] transition-colors">
+            <span className="font-display font-black text-lg sm:text-xl text-[var(--navy)] tracking-tight leading-none group-hover:text-[var(--green)] transition-colors">
               WAHYU PATRIAJI
             </span>
-            <span className="font-mono text-[10px] font-bold text-[var(--green)] tracking-wider uppercase">
-              Full-Stack & Mobile
+            <span className="font-mono text-[10px] font-bold text-[var(--green)] tracking-wider uppercase mt-0.5">
+              Full-Stack & Mobile Engineer
             </span>
           </div>
         </Link>
@@ -97,7 +96,7 @@ export const Navbar: React.FC = () => {
               <Link
                 key={link.href}
                 href={link.href}
-                className={`relative px-3 py-1.5 text-xs lg:text-sm font-bold font-mono transition-colors ${
+                className={`px-3 py-1.5 text-xs lg:text-sm font-bold font-mono transition-colors ${
                   active
                     ? "bg-[var(--navy)] text-[var(--surface)] border border-[var(--navy)] retro-shadow-sm"
                     : "text-[var(--navy)] hover:bg-[var(--surface-dark)] hover:text-[var(--navy)] border border-transparent"

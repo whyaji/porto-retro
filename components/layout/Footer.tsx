@@ -38,7 +38,7 @@ export const Footer: React.FC = () => {
           <div className="flex items-center gap-2">
             <span className="w-2 h-2 rounded-full bg-[var(--gold)]"></span>
             <span className="text-[var(--gold)] font-bold">
-              {t.footer.systemTag}
+              Wahyu Patriaji Portfolio
             </span>
           </div>
           <button
@@ -122,14 +122,15 @@ export const Footer: React.FC = () => {
 
           {/* Col 2: Navigation Links */}
           <div className="space-y-3">
-            <h4 className="font-mono text-xs font-bold text-[var(--gold)] uppercase tracking-wider border-b border-[var(--surface)]/20 pb-1">
+            <p className="font-mono text-xs font-bold text-[var(--gold)] uppercase tracking-wider border-b border-[var(--surface)]/20 pb-1">
               Navigation
-            </h4>
+            </p>
             <ul className="space-y-2 text-xs font-mono text-white/80">
               <li>
                 <Link
                   href="/"
                   className="hover:text-[var(--gold)] transition-colors"
+                  aria-label="Footer Home link"
                 >
                   &gt; {t.nav.home}
                 </Link>
@@ -138,6 +139,7 @@ export const Footer: React.FC = () => {
                 <Link
                   href="/about"
                   className="hover:text-[var(--gold)] transition-colors"
+                  aria-label="Footer About link"
                 >
                   &gt; {t.nav.about}
                 </Link>
@@ -146,6 +148,7 @@ export const Footer: React.FC = () => {
                 <Link
                   href="/experience"
                   className="hover:text-[var(--gold)] transition-colors"
+                  aria-label="Footer Experience link"
                 >
                   &gt; {t.nav.experience}
                 </Link>
@@ -154,6 +157,7 @@ export const Footer: React.FC = () => {
                 <Link
                   href="/skills"
                   className="hover:text-[var(--gold)] transition-colors"
+                  aria-label="Footer Skills link"
                 >
                   &gt; {t.nav.skills}
                 </Link>
@@ -162,6 +166,7 @@ export const Footer: React.FC = () => {
                 <Link
                   href="/projects"
                   className="hover:text-[var(--gold)] transition-colors"
+                  aria-label="Footer Projects link"
                 >
                   &gt; {t.nav.projects}
                 </Link>
@@ -170,6 +175,7 @@ export const Footer: React.FC = () => {
                 <Link
                   href="/contact"
                   className="hover:text-[var(--gold)] transition-colors"
+                  aria-label="Footer Contact link"
                 >
                   &gt; {t.nav.contact}
                 </Link>
@@ -179,9 +185,9 @@ export const Footer: React.FC = () => {
 
           {/* Col 3: Direct Contact */}
           <div className="space-y-3">
-            <h4 className="font-mono text-xs font-bold text-[var(--gold)] uppercase tracking-wider border-b border-[var(--surface)]/20 pb-1">
+            <p className="font-mono text-xs font-bold text-[var(--gold)] uppercase tracking-wider border-b border-[var(--surface)]/20 pb-1">
               Contact Specs
-            </h4>
+            </p>
             <div className="space-y-2 text-xs font-mono text-white/80">
               <div>
                 <span className="text-white/40 block text-[10px]">EMAIL</span>

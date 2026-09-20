@@ -4,7 +4,7 @@ import { createPageMetadata } from "@/lib/seo";
 export const metadata: Metadata = createPageMetadata({
   title: "About",
   description:
-    "Learn about Wahyu Patriaji — background, engineering focus, education, and professional achievements as a Full-Stack & Mobile Software Engineer.",
+    "Learn about Wahyu Patriaji: background, engineering focus, education, and professional achievements as a Full-Stack & Mobile Software Engineer.",
   path: "/about",
 });
 

@@ -73,7 +73,6 @@ export const TrustedBySection: React.FC = () => {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <SectionHeader
           number="04"
-          badge={t.trustedBy.badge}
           title={t.trustedBy.title}
           subtitle={t.trustedBy.subtitle}
           align="center"
@@ -164,12 +163,12 @@ export const TrustedBySection: React.FC = () => {
                     />
                   </div>
                   <div className="text-center sm:text-left space-y-2">
-                    <h3
+                    <p
                       id="modal-title"
                       className="font-display font-extrabold text-xl sm:text-2xl text-[var(--navy)]"
                     >
                       {selectedItem.name}
-                    </h3>
+                    </p>
 
                     <div className="flex flex-wrap items-center justify-center sm:justify-start gap-2">
                       <span className="inline-flex items-center gap-1 px-2.5 py-1 text-xs font-mono font-bold text-[var(--green)] bg-[var(--green-muted)] border border-[var(--green)]">
