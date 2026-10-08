@@ -2,7 +2,7 @@ I want you to **completely build a production-ready personal resume and portfoli
 
 The final website will be deployed to:
 
-**https://patrialabs.vercel.app**
+**https://patriaworks.my.id**
 
 This is not just a simple portfolio landing page. Build it as a **premium, modern, retro, distinctive software engineer portfolio** with excellent UI/UX, animation, performance, SEO, multilingual support, security, and maintainable architecture.
 
@@ -677,7 +677,7 @@ Use appropriate schemas such as:
 Production URL:
 
 ```text
-https://patrialabs.vercel.app
+https://patriaworks.my.id
 ```
 
 SEO must work correctly for both:
@@ -809,7 +809,7 @@ Include every required environment variable.
 For example:
 
 ```env
-NEXT_PUBLIC_SITE_URL=https://patrialabs.vercel.app
+NEXT_PUBLIC_SITE_URL=https://patriaworks.my.id
 
 SMTP_HOST=
 SMTP_PORT=

@@ -110,7 +110,7 @@ export async function POST(req: Request) {
     const smtpSecure = process.env.SMTP_SECURE === "true" || smtpPort === 465;
     const smtpFrom =
       process.env.SMTP_FROM ||
-      `"Wahyu Patriaji Portfolio" <no-reply@patrialabs.vercel.app>`;
+      `"Wahyu Patriaji Portfolio" <no-reply@patriaworks.my.id>`;
 
     if (!smtpHost || !smtpUser || !smtpPass) {
       logger.warn(
@@ -149,7 +149,7 @@ export async function POST(req: Request) {
           <p><strong>From:</strong> ${sanitizedName} (&lt;${sanitizedEmail}&gt;)</p>
           <p><strong>Subject:</strong> ${sanitizedSubject}</p>
           <div style="background-color: #ebede3; padding: 16px; border-left: 4px solid #124d1c; margin-top: 16px; white-space: pre-wrap;">${message}</div>
-          <p style="font-size: 12px; color: #777; margin-top: 24px;">Sent via patrialabs.vercel.app</p>
+          <p style="font-size: 12px; color: #777; margin-top: 24px;">Sent via patriaworks.my.id</p>
         </div>
       `,
     };

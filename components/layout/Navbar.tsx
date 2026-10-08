@@ -55,7 +55,7 @@ export const Navbar: React.FC = () => {
         <div className="flex items-center gap-3">
           <span className="flex items-center gap-1.5">
             <span className="w-2 h-2 rounded-full bg-[#27c93f] inline-block animate-pulse"></span>
-            <span className="text-[var(--gold)] font-bold tracking-wider">PATRIALABS</span>
+            <span className="text-[var(--gold)] font-bold tracking-wider">PATRIAWORKS</span>
           </span>
           <span className="text-white/30">|</span>
           <span className="text-white/90">{t.nav.availableForWork}</span>
@@ -70,7 +70,7 @@ export const Navbar: React.FC = () => {
         <Link
           href="/"
           className="flex items-center gap-2.5 group focus:outline-none"
-          aria-label="Wahyu Patriaji — PatriaLabs Homepage"
+          aria-label="Wahyu Patriaji — PatriaWorks Homepage"
         >
           <div className="w-9 h-9 bg-[var(--navy)] text-[var(--gold)] border-2 border-[var(--navy)] flex items-center justify-center font-mono font-black text-base retro-shadow-sm group-hover:bg-[var(--navy-light)] transition-all">
             <FiTerminal className="w-5 h-5 group-hover:scale-110 transition-transform" />

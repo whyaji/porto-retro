@@ -41,7 +41,7 @@ export const metadata: Metadata = {
   ...createPageMetadata({
     title: "Home",
     description:
-      "Software Engineering Portfolio of Wahyu Patriaji (PatriaLabs). Full-Stack & Mobile Engineer building web, mobile, and distributed backend systems.",
+      "Software Engineering Portfolio of Wahyu Patriaji (PatriaWorks). Full-Stack & Mobile Engineer building web, mobile, and distributed backend systems.",
     path: "/",
   }),
   title: { absolute: DEFAULT_TITLE },

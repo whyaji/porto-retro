@@ -14,14 +14,14 @@ interface I18nContextType {
 
 const I18nContext = createContext<I18nContextType | undefined>(undefined);
 
-const LOCAL_STORAGE_KEY = "patrialabs_locale";
+const LOCAL_STORAGE_KEY = "patriaworks_locale";
 
 function subscribe(callback: () => void) {
   window.addEventListener("storage", callback);
-  window.addEventListener("patrialabs_locale_change", callback);
+  window.addEventListener("patriaworks_locale_change", callback);
   return () => {
     window.removeEventListener("storage", callback);
-    window.removeEventListener("patrialabs_locale_change", callback);
+    window.removeEventListener("patriaworks_locale_change", callback);
   };
 }
 
@@ -45,7 +45,7 @@ export function I18nProvider({ children }: { children: React.ReactNode }) {
     try {
       localStorage.setItem(LOCAL_STORAGE_KEY, newLocale);
       document.documentElement.lang = newLocale;
-      window.dispatchEvent(new Event("patrialabs_locale_change"));
+      window.dispatchEvent(new Event("patriaworks_locale_change"));
     } catch {
       // ignore in restricted envs
     }

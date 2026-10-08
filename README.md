@@ -1,6 +1,6 @@
 # Wahyu Patriaji — Personal Resume & Engineering Portfolio
 
-[![Production Site](https://img.shields.io/badge/Production-patrialabs.vercel.app-0b1849?style=flat-square&logo=vercel)](https://patrialabs.vercel.app)
+[![Production Site](https://img.shields.io/badge/Production-patriaworks.my.id-0b1849?style=flat-square&logo=vercel)](https://patriaworks.my.id)
 [![Next.js](https://img.shields.io/badge/Next.js-16.3.3-black?style=flat-square&logo=next.js)](https://nextjs.org/)
 [![React](https://img.shields.io/badge/React-19.2.8-blue?style=flat-square&logo=react)](https://react.dev/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue?style=flat-square&logo=typescript)](https://www.typescriptlang.org/)
@@ -8,7 +8,7 @@
 
 A modern-retro personal resume and portfolio website engineered for **Wahyu Patriaji** — Full-Stack & Mobile Software Engineer at PT Sawit Sumbermas Sarana Tbk.
 
-Deployed live to [https://patrialabs.vercel.app](https://patrialabs.vercel.app).
+Deployed live to [https://patriaworks.my.id](https://patriaworks.my.id).
 
 ---
 
@@ -29,6 +29,7 @@ Deployed live to [https://patrialabs.vercel.app](https://patrialabs.vercel.app).
 ## 🏛 Architecture & SSOT (Single Source of Truth)
 
 All resume and project details are strictly driven by JSON data files:
+
 1. `assets/resume.json` — Experience, roles, education, contacts, and personal summary.
 2. `assets/project-detail.json` — 16 enterprise web GIS, mobile, and backend systems with bilingual short descriptions, full descriptions, and detailed feature breakdowns (`general` vs `nerd`).
 
@@ -51,6 +52,7 @@ app/ (Static & Dynamic SSR/SSG Routes)
 ## 🌐 Multilingual (i18n)
 
 The application natively supports **Indonesian (`id`, default)** and **English (`en`)**:
+
 - Centralized UI translation dictionaries in `i18n/id.ts` and `i18n/en.ts`.
 - Multilingual context provider with persistent localStorage syncing and zero hydration mismatches.
 - Bilingual project data (`project-detail.json`) rendered reactively.
@@ -101,6 +103,7 @@ The application natively supports **Indonesian (`id`, default)** and **English (
 ## 🚀 Getting Started
 
 ### 1. Clone & Install Dependencies
+
 ```bash
 git clone https://github.com/whyaji/my-resume-porto.git
 cd my-resume-porto
@@ -108,14 +111,17 @@ npm install
 ```
 
 ### 2. Environment Variables
+
 Copy `.env.example` to `.env.local`:
+
 ```bash
 cp .env.example .env.local
 ```
 
 Configure your SMTP credentials:
+
 ```env
-NEXT_PUBLIC_SITE_URL=https://patrialabs.vercel.app
+NEXT_PUBLIC_SITE_URL=https://patriaworks.my.id
 CONTACT_EMAIL=wahyupatriaji@gmail.com
 
 SMTP_HOST=smtp.gmail.com
@@ -123,17 +129,21 @@ SMTP_PORT=465
 SMTP_SECURE=true
 SMTP_USER=your-email@gmail.com
 SMTP_PASSWORD=your-app-password
-SMTP_FROM="Wahyu Patriaji Portfolio" <no-reply@patrialabs.vercel.app>
+SMTP_FROM="Wahyu Patriaji Portfolio" <no-reply@patriaworks.my.id>
 ```
-*(If SMTP credentials are not set, the contact form safely logs the message in development mode without crashing).*
+
+_(If SMTP credentials are not set, the contact form safely logs the message in development mode without crashing)._
 
 ### 3. Run Locally
+
 ```bash
 npm run dev
 ```
+
 Open [http://localhost:3000](http://localhost:3000) in your browser.
 
 ### 4. Build for Production
+
 ```bash
 npm run build
 npm run start

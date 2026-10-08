@@ -3,20 +3,20 @@ import { resumeData } from "@/lib/data/resume";
 import type { ProjectMeta } from "@/types/project";
 
 export const SITE_URL =
-  process.env.NEXT_PUBLIC_SITE_URL ?? "https://patrialabs.vercel.app";
+  process.env.NEXT_PUBLIC_SITE_URL ?? "https://patriaworks.my.id";
 
-export const SITE_NAME = "Wahyu Patriaji — PatriaLabs";
+export const SITE_NAME = "Wahyu Patriaji — PatriaWorks";
 export const AUTHOR_NAME = "Wahyu Patriaji";
 
 export const DEFAULT_TITLE =
-  "Wahyu Patriaji | Full-Stack & Mobile Software Engineer | PatriaLabs";
+  "Wahyu Patriaji | Full-Stack & Mobile Software Engineer | PatriaWorks";
 
 export const DEFAULT_DESCRIPTION =
-  "Software Engineering Portfolio of Wahyu Patriaji (PatriaLabs). Full-Stack & Mobile Engineer building web, mobile, and distributed backend systems.";
+  "Software Engineering Portfolio of Wahyu Patriaji (PatriaWorks). Full-Stack & Mobile Engineer building web, mobile, and distributed backend systems.";
 
 export const SEO_KEYWORDS = [
   "Wahyu Patriaji",
-  "PatriaLabs",
+  "PatriaWorks",
   "Software Engineer",
   "Full-Stack Developer",
   "Mobile Developer",
@@ -35,7 +35,7 @@ export const OG_IMAGE = {
   url: "/opengraph-image.jpg",
   width: 1200,
   height: 630,
-  alt: "Wahyu Patriaji — Full-Stack & Mobile Software Engineer | PatriaLabs",
+  alt: "Wahyu Patriaji — Full-Stack & Mobile Software Engineer | PatriaWorks",
 } as const;
 
 /** Optional — only needed for Facebook Login, Insights, or SDK features */
@@ -150,7 +150,7 @@ export function getWebSiteJsonLd() {
     "@type": "WebSite",
     "@id": `${SITE_URL}/#website`,
     name: SITE_NAME,
-    alternateName: "PatriaLabs",
+    alternateName: "PatriaWorks",
     url: SITE_URL,
     description: DEFAULT_DESCRIPTION,
     inLanguage: ["id-ID", "en-US"],
