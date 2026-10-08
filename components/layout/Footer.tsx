@@ -4,7 +4,9 @@ import React from "react";
 import Link from "next/link";
 import { usePathname } from "next/navigation";
 import { useI18n } from "@/context/i18n-context";
-import { getResume, getWhatsAppUrl } from "@/lib/data/resume";
+import { getWhatsAppUrl } from "@/lib/data/resume";
+import { getSiteIdentity } from "@/lib/data/site";
+import { IS_COMPANY_MODE } from "@/lib/site-mode";
 import {
   FiGithub,
   FiLinkedin,
@@ -23,7 +25,7 @@ export const Footer: React.FC = () => {
     return null;
   }
 
-  const resume = getResume(locale);
+  const identity = getSiteIdentity(locale);
 
 
   const scrollToTop = () => {
@@ -38,7 +40,9 @@ export const Footer: React.FC = () => {
           <div className="flex items-center gap-2">
             <span className="w-2 h-2 rounded-full bg-[var(--gold)]"></span>
             <span className="text-[var(--gold)] font-bold">
-              Wahyu Patriaji Portfolio
+              {IS_COMPANY_MODE
+                ? `${identity.name} · ${identity.role}`
+                : "Wahyu Patriaji Portfolio"}
             </span>
           </div>
           <button
@@ -57,18 +61,18 @@ export const Footer: React.FC = () => {
           <div className="md:col-span-2 space-y-4">
             <div className="flex items-center gap-2">
               <div className="w-7 h-7 bg-[var(--gold)] text-[var(--navy)] border border-[var(--surface)] flex items-center justify-center font-mono font-black text-sm">
-                WP
+                {identity.initials}
               </div>
               <span className="font-display font-black text-xl text-white tracking-tight">
-                {resume.name}
+                {identity.name}
               </span>
             </div>
             <p className="text-xs sm:text-sm text-white/80 font-sans leading-relaxed max-w-md">
-              {resume.summary}
+              {identity.summary}
             </p>
             <div className="flex items-center gap-3 pt-2">
               <a
-                href={resume.contact.github}
+                href={identity.contact.github}
                 target="_blank"
                 rel="noopener noreferrer"
                 className="p-2 bg-[var(--navy-light)] border border-[var(--surface)]/30 text-white hover:text-[var(--gold)] hover:border-[var(--gold)] transition-colors"
@@ -78,7 +82,7 @@ export const Footer: React.FC = () => {
                 <span className="sr-only">GitHub Profile</span>
               </a>
               <a
-                href={resume.contact.linkedin}
+                href={identity.contact.linkedin}
                 target="_blank"
                 rel="noopener noreferrer"
                 className="p-2 bg-[var(--navy-light)] border border-[var(--surface)]/30 text-white hover:text-[var(--gold)] hover:border-[var(--gold)] transition-colors"
@@ -88,7 +92,7 @@ export const Footer: React.FC = () => {
                 <span className="sr-only">LinkedIn Profile</span>
               </a>
               <a
-                href={resume.contact.instagram}
+                href={identity.contact.instagram}
                 target="_blank"
                 rel="noopener noreferrer"
                 className="p-2 bg-[var(--navy-light)] border border-[var(--surface)]/30 text-white hover:text-[var(--gold)] hover:border-[var(--gold)] transition-colors"
@@ -108,7 +112,7 @@ export const Footer: React.FC = () => {
                 <span className="sr-only">Chat on WhatsApp</span>
               </a>
               <a
-                href={`mailto:${resume.contact.email}`}
+                href={`mailto:${identity.contact.email}`}
                 className="p-2 bg-[var(--navy-light)] border border-[var(--surface)]/30 text-white hover:text-[var(--gold)] hover:border-[var(--gold)] transition-colors"
                 aria-label="Send Email"
               >
@@ -116,7 +120,7 @@ export const Footer: React.FC = () => {
                 <span className="sr-only">Send Email</span>
               </a>
               <a
-                href={`tel:${resume.contact.phone}`}
+                href={`tel:${identity.contact.phone}`}
                 className="p-2 bg-[var(--navy-light)] border border-[var(--surface)]/30 text-white hover:text-[var(--gold)] hover:border-[var(--gold)] transition-colors"
                 aria-label="Call Phone"
               >
@@ -198,10 +202,10 @@ export const Footer: React.FC = () => {
               <div>
                 <span className="text-white/40 block text-[10px]">EMAIL</span>
                 <a
-                  href={`mailto:${resume.contact.email}`}
+                  href={`mailto:${identity.contact.email}`}
                   className="hover:text-[var(--gold)] underline transition-colors"
                 >
-                  {resume.contact.email}
+                  {identity.contact.email}
                 </a>
               </div>
               <div>
@@ -209,17 +213,17 @@ export const Footer: React.FC = () => {
                   PHONE / WA
                 </span>
                 <a
-                  href={`tel:${resume.contact.phone}`}
+                  href={`tel:${identity.contact.phone}`}
                   className="hover:text-[var(--gold)] transition-colors"
                 >
-                  {resume.contact.phone}
+                  {identity.contact.phone}
                 </a>
               </div>
               <div>
                 <span className="text-white/40 block text-[10px]">
-                  CURRENT ROLE
+                  {IS_COMPANY_MODE ? "STUDIO" : "CURRENT ROLE"}
                 </span>
-                <span className="text-white">{resume.title}</span>
+                <span className="text-white">{identity.role}</span>
               </div>
             </div>
           </div>
@@ -228,7 +232,7 @@ export const Footer: React.FC = () => {
         {/* Bottom Bar */}
         <div className="border-t border-[var(--surface)]/20 mt-10 pt-6 flex flex-col sm:flex-row items-center justify-between gap-4 text-xs font-mono text-white/60">
           <div>
-            © {new Date().getFullYear()} {resume.name}. {t.footer.rights}
+            © {new Date().getFullYear()} {identity.name}. {t.footer.rights}
           </div>
           <div>{t.footer.sourceCodeNote}</div>
         </div>

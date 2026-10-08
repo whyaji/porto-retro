@@ -1,41 +1,85 @@
 import type { Metadata } from "next";
-import { resumeData } from "@/lib/data/resume";
+import { getSiteIdentity } from "@/lib/data/site";
+import { companyData } from "@/lib/data/company";
+import { IS_COMPANY_MODE } from "@/lib/site-mode";
 import type { ProjectMeta } from "@/types/project";
 
 export const SITE_URL =
   process.env.NEXT_PUBLIC_SITE_URL ?? "https://patriaworks.my.id";
 
-export const SITE_NAME = "Wahyu Patriaji — PatriaWorks";
-export const AUTHOR_NAME = "Wahyu Patriaji";
+const PERSON = {
+  siteName: "Wahyu Patriaji — PatriaWorks",
+  authorName: "Wahyu Patriaji",
+  title: "Wahyu Patriaji | Full-Stack Software Engineer",
+  description:
+    "Software Engineering Portfolio of Wahyu Patriaji (PatriaWorks). Full-Stack & Mobile Engineer building web, mobile, and distributed backend systems.",
+  ogDescription:
+    "Explore software systems, web GIS platforms, and cross-platform mobile apps engineered by Wahyu Patriaji.",
+  twitterDescription:
+    "Full-Stack & Mobile Software Engineer specializing in scalable web, backend, and cross-platform mobile apps.",
+  keywords: [
+    "Wahyu Patriaji",
+    "PatriaWorks",
+    "Software Engineer",
+    "Full-Stack Developer",
+    "Mobile Developer",
+    "React",
+    "Next.js",
+    "Flutter",
+    "React Native",
+    "Hono",
+    "Node.js",
+    "Indonesia Programmer",
+    "Portfolio",
+    "Resume",
+  ],
+  ogAlt: "Wahyu Patriaji — Full-Stack & Mobile Software Engineer | PatriaWorks",
+} as const;
 
-export const DEFAULT_TITLE =
-  "Wahyu Patriaji | Full-Stack Software Engineer";
+const COMPANY = {
+  siteName: "Patriaworks — Software House",
+  authorName: "Patriaworks",
+  title: "Patriaworks | Custom Web, Mobile & Backend Systems",
+  description:
+    "Patriaworks is an independent software house building web platforms, offline-first field apps, and backend systems for operations that have outgrown spreadsheets and off-the-shelf tools.",
+  ogDescription:
+    "Custom software from Patriaworks: web GIS platforms, offline-first field apps, SSO, and the backends that keep operations running.",
+  twitterDescription:
+    "Independent software house building custom web platforms, field mobile apps, and backend systems for real operations.",
+  keywords: [
+    "Patriaworks",
+    "Software House Indonesia",
+    "Custom Software Development",
+    "Web GIS Development",
+    "Mobile App Development",
+    "Backend Development",
+    "Node.js",
+    "React",
+    "Flutter",
+    "Systems Integration",
+    "Legacy Modernization",
+    "Portfolio",
+  ],
+  ogAlt: "Patriaworks — Independent Software House | Custom Web & Mobile Systems",
+} as const;
 
-export const DEFAULT_DESCRIPTION =
-  "Software Engineering Portfolio of Wahyu Patriaji (PatriaWorks). Full-Stack & Mobile Engineer building web, mobile, and distributed backend systems.";
+const ACTIVE = IS_COMPANY_MODE ? COMPANY : PERSON;
 
-export const SEO_KEYWORDS = [
-  "Wahyu Patriaji",
-  "PatriaWorks",
-  "Software Engineer",
-  "Full-Stack Developer",
-  "Mobile Developer",
-  "React",
-  "Next.js",
-  "Flutter",
-  "React Native",
-  "Hono",
-  "Node.js",
-  "Indonesia Programmer",
-  "Portfolio",
-  "Resume",
-] as const;
+export const SITE_NAME = ACTIVE.siteName;
+export const AUTHOR_NAME = ACTIVE.authorName;
+
+export const DEFAULT_TITLE = ACTIVE.title;
+export const DEFAULT_DESCRIPTION = ACTIVE.description;
+export const OG_DESCRIPTION = ACTIVE.ogDescription;
+export const TWITTER_DESCRIPTION = ACTIVE.twitterDescription;
+
+export const SEO_KEYWORDS = ACTIVE.keywords;
 
 export const OG_IMAGE = {
   url: "/opengraph-image.jpg",
   width: 1200,
   height: 630,
-  alt: "Wahyu Patriaji — Full-Stack & Mobile Software Engineer | PatriaWorks",
+  alt: ACTIVE.ogAlt,
 } as const;
 
 /** Optional — only needed for Facebook Login, Insights, or SDK features */
@@ -96,23 +140,41 @@ export function createPageMetadata({
   };
 }
 
+type PageCopy = {
+  title: string;
+  description: string;
+  path: string;
+  ogType?: "website" | "article";
+  images?: NonNullable<Metadata["openGraph"]>["images"];
+};
+
+/**
+ * Resolves page metadata for the active site mode, so the personal resume and
+ * the company site never ship each other's copy.
+ */
+export function pageMetadata(personal: PageCopy, company: PageCopy): Metadata {
+  return createPageMetadata(IS_COMPANY_MODE ? company : personal);
+}
+
 function getSocialProfiles(): string[] {
-  const { github, linkedin, instagram } = resumeData.contact;
+  const { github, linkedin, instagram } = getSiteIdentity("en").contact;
   return [github, linkedin, instagram];
 }
 
 export function getPersonJsonLd() {
+  const identity = getSiteIdentity("en");
+
   return {
     "@context": "https://schema.org",
     "@type": "Person",
     "@id": `${SITE_URL}/#person`,
-    name: AUTHOR_NAME,
+    name: identity.name,
     jobTitle: "Full-Stack & Mobile Software Engineer",
     description: DEFAULT_DESCRIPTION,
     image: absoluteUrl(OG_IMAGE.url),
     url: SITE_URL,
-    email: resumeData.contact.email,
-    telephone: resumeData.contact.phone,
+    email: identity.contact.email,
+    telephone: identity.contact.phone,
     worksFor: {
       "@type": "Organization",
       name: "PT Sawit Sumbermas Sarana, Tbk.",
@@ -144,6 +206,45 @@ export function getPersonJsonLd() {
   };
 }
 
+export function getOrganizationJsonLd() {
+  const identity = getSiteIdentity("en");
+
+  return {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "@id": `${SITE_URL}/#organization`,
+    name: companyData.name,
+    alternateName: "PatriaWorks",
+    description: DEFAULT_DESCRIPTION,
+    image: absoluteUrl(OG_IMAGE.url),
+    url: SITE_URL,
+    email: identity.contact.email,
+    telephone: identity.contact.phone,
+    founder: {
+      "@type": "Person",
+      name: companyData.founder,
+      url: SITE_URL,
+      sameAs: getSocialProfiles(),
+    },
+    areaServed: "Indonesia",
+    sameAs: getSocialProfiles(),
+    knowsAbout: [
+      "Custom Web Development",
+      "Web GIS",
+      "Mobile Application Development",
+      "Backend Development",
+      "Systems Integration",
+      "Single Sign-On",
+      "Legacy Modernization",
+    ],
+  };
+}
+
+/** Structured data for the identity the site is currently speaking as. */
+export function getPrimaryJsonLd() {
+  return IS_COMPANY_MODE ? getOrganizationJsonLd() : getPersonJsonLd();
+}
+
 export function getWebSiteJsonLd() {
   return {
     "@context": "https://schema.org",
@@ -155,7 +256,7 @@ export function getWebSiteJsonLd() {
     description: DEFAULT_DESCRIPTION,
     inLanguage: ["id-ID", "en-US"],
     publisher: {
-      "@id": `${SITE_URL}/#person`,
+      "@id": IS_COMPANY_MODE ? `${SITE_URL}/#organization` : `${SITE_URL}/#person`,
     },
   };
 }
@@ -176,7 +277,7 @@ export function getProjectJsonLd(project: ProjectMeta) {
     applicationCategory: "DeveloperApplication",
     operatingSystem: "Web, Android, iOS",
     author: {
-      "@type": "Person",
+      "@type": IS_COMPANY_MODE ? "Organization" : "Person",
       name: AUTHOR_NAME,
       url: SITE_URL,
     },

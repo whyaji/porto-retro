@@ -3,6 +3,7 @@ import nodemailer from "nodemailer";
 import { validateTurnstileToken } from "next-turnstile";
 import { contactFormSchema } from "@/lib/validation/contact";
 import { logger } from "@/lib/logger";
+import { IS_COMPANY_MODE } from "@/lib/site-mode";
 
 // Simple in-memory rate limiting map (IP -> timestamp[])
 const rateLimitMap = new Map<string, number[]>();
@@ -100,17 +101,22 @@ export async function POST(req: Request) {
     const sanitizedEmail = sanitizeHeader(email);
     const sanitizedSubject = sanitizeHeader(subject);
 
-    const recipientEmail =
-      process.env.CONTACT_EMAIL || "wahyupatriaji@gmail.com";
+    const defaultRecipient = IS_COMPANY_MODE
+      ? "inbox@patriaworks.my.id"
+      : "wahyupatriaji@gmail.com";
+    const recipientEmail = process.env.CONTACT_EMAIL || defaultRecipient;
 
     const smtpHost = process.env.SMTP_HOST;
     const smtpUser = process.env.SMTP_USER;
     const smtpPass = process.env.SMTP_PASSWORD;
     const smtpPort = Number(process.env.SMTP_PORT) || 465;
     const smtpSecure = process.env.SMTP_SECURE === "true" || smtpPort === 465;
+    const defaultFromName = IS_COMPANY_MODE
+      ? "Patriaworks"
+      : "Wahyu Patriaji Portfolio";
     const smtpFrom =
       process.env.SMTP_FROM ||
-      `"Wahyu Patriaji Portfolio" <no-reply@patriaworks.my.id>`;
+      `"${defaultFromName}" <no-reply@patriaworks.my.id>`;
 
     if (!smtpHost || !smtpUser || !smtpPass) {
       logger.warn(
@@ -139,12 +145,12 @@ export async function POST(req: Request) {
     const mailOptions = {
       from: smtpFrom,
       to: recipientEmail,
-      subject: `[Portfolio Inquiry] ${sanitizedSubject}`,
+      subject: `[${IS_COMPANY_MODE ? "Project Brief" : "Portfolio Inquiry"}] ${sanitizedSubject}`,
       text: `Name: ${sanitizedName}\nEmail: ${sanitizedEmail}\nSubject: ${sanitizedSubject}\n\nMessage:\n${message}`,
       html: `
         <div style="font-family: Arial, sans-serif; padding: 20px; color: #0b1849; line-height: 1.6;">
           <h2 style="color: #0b1849; border-bottom: 2px solid #e4b028; padding-bottom: 8px;">
-            New Portfolio Inquiry
+            ${IS_COMPANY_MODE ? "New Project Brief" : "New Portfolio Inquiry"}
           </h2>
           <p><strong>From:</strong> ${sanitizedName} (&lt;${sanitizedEmail}&gt;)</p>
           <p><strong>Subject:</strong> ${sanitizedSubject}</p>

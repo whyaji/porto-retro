@@ -2,7 +2,7 @@
 
 import React from "react";
 import { Question } from "@/types/utbk-ukppu";
-import { FiChevronLeft, FiChevronRight, FiFlag, FiCheckCircle, FiSend } from "react-icons/fi";
+import { FiChevronLeft, FiChevronRight, FiFlag, FiSend } from "react-icons/fi";
 
 interface Props {
   question: Question;

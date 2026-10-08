@@ -2,12 +2,14 @@
 
 import React from "react";
 import { useI18n } from "@/context/i18n-context";
-import { resumeData } from "@/lib/data/resume";
+import { getSiteIdentity } from "@/lib/data/site";
+import { IS_COMPANY_MODE } from "@/lib/site-mode";
 import { Button } from "@/components/ui/Button";
-import { FiDownload, FiArrowRight } from "react-icons/fi";
+import { FiDownload, FiArrowRight, FiMail } from "react-icons/fi";
 
 export const ContactCTA: React.FC = () => {
   const { t } = useI18n();
+  const identity = getSiteIdentity("en");
 
   return (
     <section className="w-full py-16 md:py-24 bg-[var(--navy)] text-[var(--surface)] border-b-2 border-[var(--navy)] relative overflow-hidden bg-dots-pattern-dark">
@@ -25,9 +27,9 @@ export const ContactCTA: React.FC = () => {
                 {t.contact.subtitle}
               </p>
               <div className="flex flex-wrap items-center gap-4 text-xs font-mono text-white/70 pt-2">
-                <span>📧 {resumeData.contact.email}</span>
+                <span>📧 {identity.contact.email}</span>
                 <span>•</span>
-                <span>📱 {resumeData.contact.phone}</span>
+                <span>📱 {identity.contact.phone}</span>
               </div>
             </div>
 
@@ -41,17 +43,30 @@ export const ContactCTA: React.FC = () => {
               >
                 {t.hero.contactMe}
               </Button>
-              <Button
-                href="/cv/cv-wahyu-patriaji.pdf"
-                external
-                variant="outline"
-                size="lg"
-                fullWidth
-                leftIcon={<FiDownload className="w-4 h-4" />}
-                className="bg-transparent text-white border-white hover:bg-white hover:text-[var(--navy)]"
-              >
-                {t.hero.downloadCV}
-              </Button>
+              {IS_COMPANY_MODE ? (
+                <Button
+                  href="/projects"
+                  variant="outline"
+                  size="lg"
+                  fullWidth
+                  leftIcon={<FiMail className="w-4 h-4" />}
+                  className="bg-transparent text-white border-white hover:bg-white hover:text-[var(--navy)]"
+                >
+                  {t.hero.viewProjects}
+                </Button>
+              ) : (
+                <Button
+                  href="/cv/cv-wahyu-patriaji.pdf"
+                  external
+                  variant="outline"
+                  size="lg"
+                  fullWidth
+                  leftIcon={<FiDownload className="w-4 h-4" />}
+                  className="bg-transparent text-white border-white hover:bg-white hover:text-[var(--navy)]"
+                >
+                  {t.hero.downloadCV}
+                </Button>
+              )}
             </div>
           </div>
         </div>

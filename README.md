@@ -122,7 +122,11 @@ Configure your SMTP credentials:
 
 ```env
 NEXT_PUBLIC_SITE_URL=https://patriaworks.my.id
+# company mode -> inbox@patriaworks.my.id | personal mode -> wahyupatriaji@gmail.com
 CONTACT_EMAIL=wahyupatriaji@gmail.com
+
+# Site mode: "personal" (Wahyu's resume) or "company" (Patriaworks studio)
+NEXT_PUBLIC_SITE_MODE=personal
 
 SMTP_HOST=smtp.gmail.com
 SMTP_PORT=465

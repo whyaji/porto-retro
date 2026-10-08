@@ -8,8 +8,10 @@ import {
   AUTHOR_NAME,
   DEFAULT_DESCRIPTION,
   DEFAULT_TITLE,
+  OG_DESCRIPTION,
+  TWITTER_DESCRIPTION,
   getFacebookMeta,
-  getPersonJsonLd,
+  getPrimaryJsonLd,
   getWebSiteJsonLd,
   OG_IMAGE,
   SEO_KEYWORDS,
@@ -73,15 +75,13 @@ export const metadata: Metadata = {
     url: SITE_URL,
     siteName: SITE_NAME,
     title: DEFAULT_TITLE,
-    description:
-      "Explore software systems, web GIS platforms, and cross-platform mobile apps engineered by Wahyu Patriaji.",
+    description: OG_DESCRIPTION,
     images: [OG_IMAGE],
   },
   twitter: {
     card: "summary_large_image",
     title: DEFAULT_TITLE,
-    description:
-      "Full-Stack & Mobile Software Engineer specializing in scalable web, backend, and cross-platform mobile apps.",
+    description: TWITTER_DESCRIPTION,
     images: [OG_IMAGE.url],
   },
   other: getFacebookMeta(),
@@ -103,7 +103,7 @@ export default function RootLayout({
 }: {
   children: React.ReactNode;
 }) {
-  const jsonLd = [getPersonJsonLd(), getWebSiteJsonLd()];
+  const jsonLd = [getPrimaryJsonLd(), getWebSiteJsonLd()];
 
   return (
     <html

@@ -1,16 +1,24 @@
 import type { Metadata } from "next";
 import { getAllProjects } from "@/lib/data/projects";
 import { ProjectFilter } from "@/components/projects/ProjectFilter";
-import { SectionHeader } from "@/components/ui/SectionHeader";
+import { ProjectsPageHeader } from "@/components/projects/ProjectsPageHeader";
 import { ContactCTA } from "@/components/sections/ContactCTA";
-import { createPageMetadata } from "@/lib/seo";
+import { pageMetadata } from "@/lib/seo";
 
-export const metadata: Metadata = createPageMetadata({
-  title: "Projects & Systems Catalogue",
-  description:
-    "Explore 16 production web GIS platforms, cross-platform mobile apps, and distributed backend systems designed and built by Wahyu Patriaji.",
-  path: "/projects",
-});
+export const metadata: Metadata = pageMetadata(
+  {
+    title: "Projects & Systems Catalogue",
+    description:
+      "Explore 16 production web GIS platforms, cross-platform mobile apps, and distributed backend systems designed and built by Wahyu Patriaji.",
+    path: "/projects",
+  },
+  {
+    title: "Selected Work",
+    description:
+      "Systems built by Patriaworks: web GIS platforms, offline-first field apps, SSO services, and backend systems running in production.",
+    path: "/projects",
+  }
+);
 
 export default function ProjectsPage() {
   const projects = getAllProjects();
@@ -18,12 +26,7 @@ export default function ProjectsPage() {
   return (
     <div className="w-full py-12 md:py-20">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 space-y-12">
-        <SectionHeader
-          number="01"
-          badge="PORTFOLIO REPOSITORY"
-          title="Project Catalog & Engineering Systems"
-          subtitle="Explore 16 production systems spanning geospatial GIS platforms, offline-first mobile apps, and enterprise backends."
-        />
+        <ProjectsPageHeader />
 
         <ProjectFilter projects={projects} />
       </div>

@@ -115,6 +115,7 @@ export default function CBTUtbkUkppuPage() {
     }, 1000);
 
     return () => clearInterval(timer);
+  // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [session?.userName, session?.isSubmitted]);
 
   // Start brand new session with selected question version

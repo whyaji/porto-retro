@@ -5,8 +5,10 @@ import { MarqueeTicker } from "@/components/ui/MarqueeTicker";
 import { FeaturedProjects } from "@/components/sections/FeaturedProjects";
 import { ExperienceSection } from "@/components/sections/ExperienceSection";
 import { SkillsMatrix } from "@/components/sections/SkillsMatrix";
+import { ServicesSection } from "@/components/sections/ServicesSection";
 import { ScrollReveal } from "@/components/ui/ScrollReveal";
-import { createPageMetadata, DEFAULT_TITLE } from "@/lib/seo";
+import { IS_COMPANY_MODE } from "@/lib/site-mode";
+import { pageMetadata, DEFAULT_TITLE } from "@/lib/seo";
 
 // Dynamically import below-the-fold sections for optimal initial bundle size
 const TrustedBySection = dynamic(
@@ -38,12 +40,20 @@ const ContactCTA = dynamic(
 );
 
 export const metadata: Metadata = {
-  ...createPageMetadata({
-    title: "Home",
-    description:
-      "Software Engineering Portfolio of Wahyu Patriaji (PatriaWorks). Full-Stack & Mobile Engineer building web, mobile, and distributed backend systems.",
-    path: "/",
-  }),
+  ...pageMetadata(
+    {
+      title: "Home",
+      description:
+        "Software Engineering Portfolio of Wahyu Patriaji (PatriaWorks). Full-Stack & Mobile Engineer building web, mobile, and distributed backend systems.",
+      path: "/",
+    },
+    {
+      title: "Home",
+      description:
+        "Patriaworks is an independent software house building custom web platforms, offline-first field apps, and backend systems for operations that have outgrown spreadsheets.",
+      path: "/",
+    }
+  ),
   title: { absolute: DEFAULT_TITLE },
 };
 
@@ -52,6 +62,12 @@ export default function HomePage() {
     <div className="flex flex-col w-full">
       <HeroSection />
       <MarqueeTicker />
+
+      {IS_COMPANY_MODE && (
+        <ScrollReveal direction="up">
+          <ServicesSection />
+        </ScrollReveal>
+      )}
 
       <ScrollReveal direction="up">
         <FeaturedProjects />

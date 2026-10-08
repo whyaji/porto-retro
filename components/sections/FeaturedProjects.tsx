@@ -3,6 +3,7 @@
 import React from "react";
 import { useI18n } from "@/context/i18n-context";
 import { getFeaturedProjects, getAllProjects } from "@/lib/data/projects";
+import { IS_COMPANY_MODE } from "@/lib/site-mode";
 import { SectionHeader } from "@/components/ui/SectionHeader";
 import { ProjectCard } from "@/components/projects/ProjectCard";
 import { Button } from "@/components/ui/Button";
@@ -51,7 +52,7 @@ export const FeaturedProjects: React.FC = () => {
             size="lg"
             rightIcon={<FiArrowRight className="w-4 h-4" />}
           >
-            Explore Complete Project Catalog
+            {IS_COMPANY_MODE ? t.projects.viewAll : "Explore Complete Project Catalog"}
           </Button>
         </div>
       </div>

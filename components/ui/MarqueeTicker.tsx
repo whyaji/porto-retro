@@ -1,27 +1,38 @@
 "use client";
 
 import React from "react";
+import { useI18n } from "@/context/i18n-context";
+import { companyData, pickList } from "@/lib/data/company";
+import { IS_COMPANY_MODE } from "@/lib/site-mode";
 
 interface MarqueeTickerProps {
   items?: string[];
   className?: string;
 }
 
+const PERSONAL_ITEMS = [
+  "FULL-STACK ENGINEERING",
+  "GEOSPATIAL GIS",
+  "CROSS-PLATFORM MOBILE",
+  "HONO / NODE.JS",
+  "FLUTTER & REACT NATIVE",
+  "ENTERPRISE SSO",
+  "REDIS & BULLMQ",
+  "MAPLIBRE GL",
+  "HIGH-PERFORMANCE ARCHITECTURE",
+];
+
 export const MarqueeTicker: React.FC<MarqueeTickerProps> = ({
-  items = [
-    "FULL-STACK ENGINEERING",
-    "GEOSPATIAL GIS",
-    "CROSS-PLATFORM MOBILE",
-    "HONO / NODE.JS",
-    "FLUTTER & REACT NATIVE",
-    "ENTERPRISE SSO",
-    "REDIS & BULLMQ",
-    "MAPLIBRE GL",
-    "HIGH-PERFORMANCE ARCHITECTURE",
-  ],
+  items,
   className = "",
 }) => {
-  const displayList = [...items, ...items];
+  const { locale } = useI18n();
+  const resolvedItems =
+    items ??
+    (IS_COMPANY_MODE
+      ? pickList(companyData.ticker, locale)
+      : PERSONAL_ITEMS);
+  const displayList = [...resolvedItems, ...resolvedItems];
 
   return (
     <div

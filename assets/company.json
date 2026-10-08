@@ -1,0 +1,409 @@
+{
+  "name": "Patriaworks",
+  "initials": "PW",
+  "founder": "Wahyu Patriaji",
+  "role": {
+    "en": "Independent Software House",
+    "id": "Software House Independen"
+  },
+  "location": {
+    "en": "Central Kalimantan, Indonesia",
+    "id": "Kalimantan Tengah, Indonesia"
+  },
+  "summary": {
+    "en": "Patriaworks is a software house that builds web, mobile, and backend systems for operations that have outgrown spreadsheets and off-the-shelf tools. Geospatial platforms, offline-first field apps, internal portals, and the integrations that hold them together — designed, built, and maintained by one engineer who stays on the project from the first scoping call to the release after launch.",
+    "id": "Patriaworks adalah software house yang membangun sistem web, mobile, dan backend untuk operasi yang sudah tumbuh melewati spreadsheet dan aplikasi jadi. Platform geospasial, aplikasi lapangan offline-first, portal internal, serta integrasi yang menyatukan semuanya — dirancang, dibangun, dan dirawat oleh satu orang engineer yang tetap bertahan di proyek sejak sesi pemetaan pertama sampai rilis setelah peluncuran."
+  },
+  "intro": {
+    "en": [
+      "Patriaworks exists because most operational software fails for a boring reason: it was built for a generic company instead of the one actually using it. We build the opposite — systems shaped around a specific workflow, the people who run it, and the constraints they work under, whether that is no signal in the middle of a plantation or a legacy system nobody is allowed to take offline.",
+      "The studio is deliberately small. The person who scopes your project is the person who writes it, deploys it, and answers when something breaks on a Friday evening. That keeps decisions fast and accountability unambiguous. Most of our work comes from plantation and agri-tech operators, research groups, certification bodies, and internal teams who need software their daily work can actually depend on."
+    ],
+    "id": [
+      "Patriaworks ada karena sebagian besar software operasional gagal karena alasan yang membosankan: software itu dibuat untuk perusahaan generik, bukan untuk perusahaan yang benar-benar memakainya. Kami membangun sebaliknya — sistem yang dibentuk mengikuti alur kerja nyata, orang yang menjalankannya, dan kendala yang mereka hadapi, entah itu sinyal hilang di tengah kebun atau sistem lama yang tidak boleh dimatikan.",
+      "Studio ini sengaja dibuat kecil. Orang yang memetakan kebutuhan proyek Anda adalah orang yang menulis kodenya, menerapkannya, dan mengangkat telepon ketika ada masalah di hari Jumat sore. Keputusan jadi cepat dan tanggung jawab tidak kabur. Sebagian besar pekerjaan kami datang dari operator perkebunan dan agri-tech, kelompok riset, lembaga sertifikasi, dan tim internal yang butuh software yang benar-benar bisa diandalkan sehari-hari."
+    ]
+  },
+  "contact": {
+    "phone": "+6282237420539",
+    "email": "inbox@patriaworks.my.id",
+    "linkedin": "https://linkedin.com/in/wahyupatriaji",
+    "github": "https://github.com/whyaji",
+    "instagram": "https://www.instagram.com/wahyu.patriaji/"
+  },
+  "ticker": {
+    "en": [
+      "WEB & MOBILE SYSTEMS",
+      "WEB GIS & MAPPING",
+      "OFFLINE-FIRST FIELD APPS",
+      "APIS & INTEGRATIONS",
+      "SSO FOR INTERNAL TOOLS",
+      "LEGACY MODERNIZATION",
+      "PLAY STORE RELEASES",
+      "DEPLOYMENT & SUPPORT"
+    ],
+    "id": [
+      "SISTEM WEB & MOBILE",
+      "WEB GIS & PETA",
+      "APLIKASI LAPANGAN OFFLINE-FIRST",
+      "API & INTEGRASI",
+      "SSO UNTUK ALAT INTERNAL",
+      "MODERNISASI SISTEM LAMA",
+      "RILIS PLAY STORE",
+      "DEPLOYMENT & DUKUNGAN"
+    ]
+  },
+  "stats": [
+    {
+      "id": "track-record",
+      "overline": { "en": "TRACK RECORD", "id": "REKAM JEJAK" },
+      "value": { "en": "2+ Yrs", "id": "2+ Tahun" },
+      "caption": {
+        "en": "Shipping and maintaining production systems since 2024.",
+        "id": "Mengirim dan merawat sistem produksi sejak 2024."
+      }
+    },
+    {
+      "id": "delivery",
+      "overline": { "en": "DELIVERY", "id": "PENGIRIMAN" },
+      "value": { "en": "16 Projects", "id": "16 Proyek" },
+      "caption": {
+        "en": "Web, mobile, and backend work taken from scope to release.",
+        "id": "Pekerjaan web, mobile, dan backend dari pemetaan sampai rilis."
+      }
+    },
+    {
+      "id": "platforms",
+      "overline": { "en": "PLATFORMS", "id": "PLATFORM" },
+      "value": { "en": "Web & Mobile", "id": "Web & Mobile" },
+      "caption": {
+        "en": "Browsers, Android, and iOS out of one delivery pipeline.",
+        "id": "Browser, Android, dan iOS dari satu jalur pengiriman."
+      }
+    },
+    {
+      "id": "engagement",
+      "overline": { "en": "ENGAGEMENT", "id": "MODEL KERJA" },
+      "value": { "en": "End to End", "id": "Ujung ke Ujung" },
+      "caption": {
+        "en": "Scoping, build, deployment, and support stay with one team.",
+        "id": "Pemetaan, pembangunan, deployment, dan dukungan tetap satu tim."
+      }
+    }
+  ],
+  "card": {
+    "label": { "en": "STUDIO PROFILE", "id": "PROFIL STUDIO" },
+    "rows": [
+      {
+        "label": { "en": "BASED IN", "id": "BERLOKASI DI" },
+        "value": {
+          "en": "Central Kalimantan, Indonesia",
+          "id": "Kalimantan Tengah, Indonesia"
+        }
+      },
+      {
+        "label": { "en": "MODEL", "id": "MODEL" },
+        "value": {
+          "en": "Founder-led studio",
+          "id": "Studio yang dipimpin founder"
+        }
+      }
+    ],
+    "focusLabel": { "en": "WHAT WE BUILD", "id": "YANG KAMI BANGUN" },
+    "focus": [
+      "Web Platforms",
+      "Web GIS & Mapping",
+      "Field & Mobile Apps",
+      "Backend & APIs",
+      "SSO & Integrations"
+    ],
+    "metricsLabel": { "en": "KEY METRICS", "id": "ANGKA KUNCI" },
+    "metrics": [
+      { "value": "16", "label": { "en": "Projects shipped", "id": "Proyek terkirim" } },
+      {
+        "value": "2+ Yrs",
+        "label": { "en": "Live in production", "id": "Berjalan di produksi" }
+      }
+    ]
+  },
+  "services": [
+    {
+      "id": "web",
+      "title": { "en": "Custom Web Platforms", "id": "Platform Web Kustom" },
+      "summary": {
+        "en": "Business tools shaped around your process, not a template's.",
+        "id": "Peralatan bisnis yang mengikuti proses Anda, bukan mengikuti template."
+      },
+      "points": {
+        "en": [
+          "Internal dashboards, portals, and admin systems",
+          "Interactive maps: heatmaps, clustering, layer toggling",
+          "Role-based access, SSO, and audit trails",
+          "Scheduled reports and Excel or PDF export"
+        ],
+        "id": [
+          "Dashboard internal, portal, dan sistem admin",
+          "Peta interaktif: heatmap, clustering, dan pengaturan layer",
+          "Akses berbasis peran, SSO, serta jejak audit",
+          "Laporan terjadwal dan ekspor Excel atau PDF"
+        ]
+      }
+    },
+    {
+      "id": "mobile",
+      "title": { "en": "Mobile & Field Apps", "id": "Aplikasi Mobile & Lapangan" },
+      "summary": {
+        "en": "Apps that keep working when the signal doesn't.",
+        "id": "Aplikasi yang tetap jalan saat sinyal tidak ada."
+      },
+      "points": {
+        "en": [
+          "Offline-first data capture with background sync",
+          "GPS tracking, routes, and coordinate validation",
+          "Camera capture compressed before it leaves the device",
+          "Play Store builds, staged rollouts, and version updates"
+        ],
+        "id": [
+          "Input data offline-first dengan sinkronisasi di latar belakang",
+          "Pelacakan GPS, rute, dan validasi koordinat",
+          "Hasil kamera dikompresi sebelum dikirim dari perangkat",
+          "Build Play Store, rilis bertahap, dan pembaruan versi"
+        ]
+      }
+    },
+    {
+      "id": "backend",
+      "title": { "en": "Backend & Integrations", "id": "Backend & Integrasi" },
+      "summary": {
+        "en": "The layer your users never see and never stop needing.",
+        "id": "Lapisan yang tidak pernah dilihat pengguna, tapi tidak pernah berhenti dibutuhkan."
+      },
+      "points": {
+        "en": [
+          "REST APIs in Node.js and Hono with strict schema validation",
+          "Payment gateways, webhooks, and scheduled jobs",
+          "Redis caching and background queues for heavy work",
+          "Wiring new systems into what you already run"
+        ],
+        "id": [
+          "REST API dengan Node.js dan Hono serta validasi skema ketat",
+          "Payment gateway, webhook, dan pekerjaan terjadwal",
+          "Cache Redis dan antrean latar belakang untuk pekerjaan berat",
+          "Menyambungkan sistem baru ke apa yang sudah Anda jalankan"
+        ]
+      }
+    },
+    {
+      "id": "legacy",
+      "title": { "en": "Legacy Modernization", "id": "Modernisasi Sistem Lama" },
+      "summary": {
+        "en": "Keep the part that works. Replace the part that hurts.",
+        "id": "Pertahankan yang sudah jalan. Ganti yang sudah menyusahkan."
+      },
+      "points": {
+        "en": [
+          "Laravel and PHP feature work, fixes, and tuning",
+          "Slow queries and bottlenecks traced and removed",
+          "Incremental refactors instead of risky rewrites",
+          "Documentation your team can actually take over"
+        ],
+        "id": [
+          "Pengembangan fitur, perbaikan, dan optimalisasi Laravel serta PHP",
+          "Query lambat dan bottleneck ditelusuri lalu dihilangkan",
+          "Refactor bertahap alih-alih menulis ulang yang berisiko",
+          "Dokumentasi yang benar-benar bisa dilanjutkan tim Anda"
+        ]
+      }
+    },
+    {
+      "id": "care",
+      "title": { "en": "Deployment & Care", "id": "Deployment & Perawatan" },
+      "summary": {
+        "en": "We stay on after launch, when the real usage starts.",
+        "id": "Kami tetap ada setelah rilis, saat pemakaian sebenarnya dimulai."
+      },
+      "points": {
+        "en": [
+          "VPS setup, SSL, backups, and deploy pipelines",
+          "Monitoring, log review, and incident fixes",
+          "Retainer hours for features and maintenance",
+          "Handover with repo, credentials, and runbooks"
+        ],
+        "id": [
+          "Setup VPS, SSL, backup, dan pipeline deployment",
+          "Monitoring, tinjauan log, serta perbaikan insiden",
+          "Jam retainer untuk fitur dan pemeliharaan",
+          "Serah terima berupa repo, kredensial, dan runbook"
+        ]
+      }
+    }
+  ],
+  "process": [
+    {
+      "id": "scope",
+      "step": "01",
+      "title": { "en": "Scope", "id": "Pemetaan" },
+      "description": {
+        "en": "We start from your actual workflow — who uses the system, what they do today, and where it breaks. You get the scope in writing before a single line of code exists.",
+        "id": "Kami mulai dari alur kerja Anda sendiri — siapa yang memakai sistem, apa yang mereka lakukan hari ini, dan di mana titik putusnya. Anda menerima cakupan kerja tertulis sebelum satu baris kode pun ditulis."
+      },
+      "deliverable": {
+        "en": "Written scope, price, and timeline",
+        "id": "Cakupan kerja, harga, dan tenggat tertulis"
+      }
+    },
+    {
+      "id": "design",
+      "step": "02",
+      "title": { "en": "Design", "id": "Desain" },
+      "description": {
+        "en": "Clickable screens first, so the disagreements happen while they are still cheap to fix. The data model is designed alongside them, not bolted on afterwards.",
+        "id": "Layar yang bisa diklik lebih dulu, supaya perbedaan pendapat muncul saat perbaikannya masih murah. Model datanya dirancang berbarengan, bukan dipasang belakangan."
+      },
+      "deliverable": { "en": "Prototype and data model", "id": "Prototipe dan model data" }
+    },
+    {
+      "id": "build",
+      "step": "03",
+      "title": { "en": "Build", "id": "Pembangunan" },
+      "description": {
+        "en": "You get a working build every week — something you can open and click, not a progress percentage. Feedback goes into the next build, not a backlog nobody reads.",
+        "id": "Anda menerima build yang bisa dipakai setiap minggu — sesuatu yang bisa dibuka dan diklik, bukan angka persentase. Masukan Anda masuk ke build berikutnya, bukan ke antrean yang tak pernah dibaca."
+      },
+      "deliverable": {
+        "en": "A working build each week",
+        "id": "Build yang bisa dipakai tiap minggu"
+      }
+    },
+    {
+      "id": "ship",
+      "step": "04",
+      "title": { "en": "Ship", "id": "Rilis" },
+      "description": {
+        "en": "Deployed to your server or the Play Store with a staged rollout, monitoring on, and a rollback path you know about before you need it.",
+        "id": "Diterapkan ke server Anda atau Play Store dengan rilis bertahap, monitoring aktif, dan jalur rollback yang Anda ketahui sebelum benar-benar membutuhkannya."
+      },
+      "deliverable": { "en": "Production release and access", "id": "Rilis produksi dan akses" }
+    },
+    {
+      "id": "support",
+      "step": "05",
+      "title": { "en": "Support", "id": "Dukungan" },
+      "description": {
+        "en": "After launch the same engineer stays reachable. Fixes and improvements run on a retainer or per request — either way, the terms are agreed before launch, not after the first invoice.",
+        "id": "Setelah rilis, engineer yang sama tetap bisa dihubungi. Perbaikan dan peningkatan berjalan lewat retainer atau permintaan langsung — apa pun pilihannya, ketentuannya disepakati sebelum rilis, bukan setelah tagihan pertama."
+      },
+      "deliverable": {
+        "en": "Support terms agreed before launch",
+        "id": "Ketentuan dukungan disepakati sebelum rilis"
+      }
+    }
+  ],
+  "engagements": [
+    {
+      "id": "fixed",
+      "title": { "en": "Fixed-Scope Project", "id": "Proyek Cakupan Tetap" },
+      "summary": {
+        "en": "A defined system, a defined price, a defined date.",
+        "id": "Sistem yang jelas, harga yang jelas, tanggal yang jelas."
+      },
+      "points": {
+        "en": [
+          "Best for portals, apps, and migrations with clear edges",
+          "Estimate agreed after the scoping session",
+          "Change requests quoted separately, never absorbed quietly"
+        ],
+        "id": [
+          "Paling cocok untuk portal, aplikasi, dan migrasi yang batasnya jelas",
+          "Estimasi disepakati setelah sesi pemetaan",
+          "Permintaan perubahan dihitung terpisah, tidak pernah diam-diam ditelan"
+        ]
+      }
+    },
+    {
+      "id": "retainer",
+      "title": { "en": "Monthly Retainer", "id": "Retainer Bulanan" },
+      "summary": {
+        "en": "Reserved hours for software you already depend on.",
+        "id": "Jam yang dipesan untuk software yang sudah Anda andalkan."
+      },
+      "points": {
+        "en": [
+          "Features, fixes, and updates on a predictable budget",
+          "Priority response for whatever breaks",
+          "Monthly note on what shipped and what is next"
+        ],
+        "id": [
+          "Fitur, perbaikan, dan pembaruan dengan anggaran yang bisa diprediksi",
+          "Respons prioritas saat ada yang rusak",
+          "Catatan bulanan tentang yang sudah terkirim dan yang berikutnya"
+        ]
+      }
+    },
+    {
+      "id": "embedded",
+      "title": { "en": "Embedded Engineer", "id": "Engineer Terintegrasi" },
+      "summary": {
+        "en": "A developer inside your team, for as long as you need one.",
+        "id": "Satu developer di dalam tim Anda, selama Anda membutuhkannya."
+      },
+      "points": {
+        "en": [
+          "Works in your standups, board, and code review",
+          "Greenfield builds or Laravel and legacy maintenance",
+          "Weekly or monthly, renewable without renegotiation"
+        ],
+        "id": [
+          "Ikut standup, papan kerja, dan code review tim Anda",
+          "Proyek baru atau pemeliharaan Laravel dan sistem lama",
+          "Mingguan atau bulanan, bisa diperpanjang tanpa negosiasi ulang"
+        ]
+      }
+    }
+  ],
+  "proofs": [
+    {
+      "id": "portfolio",
+      "label": { "en": "PORTFOLIO", "id": "PORTOFOLIO" },
+      "title": { "en": "16 systems in production", "id": "16 sistem berjalan di produksi" },
+      "description": {
+        "en": "Web GIS platforms, field-data apps, SSO, payments, and backends running for real operations — built against live data and real users, not a demo environment.",
+        "id": "Platform Web GIS, aplikasi data lapangan, SSO, pembayaran, dan backend yang berjalan untuk operasi nyata — dibangun menghadapi data sungguhan dan pengguna sungguhan, bukan lingkungan demo."
+      },
+      "tag": { "en": "IN PRODUCTION", "id": "DI PRODUKSI" }
+    },
+    {
+      "id": "field",
+      "label": { "en": "FIELD", "id": "LAPANGAN" },
+      "title": { "en": "Offline-first field apps", "id": "Aplikasi lapangan offline-first" },
+      "description": {
+        "en": "Data collection designed for plantations and forests where signal drops for hours. Work is saved on the device and synced the moment the connection returns.",
+        "id": "Pengumpulan data yang dirancang untuk kebun dan hutan tempat sinyal hilang berjam-jam. Pekerjaan disimpan di perangkat lalu disinkronkan begitu koneksi kembali."
+      },
+      "tag": { "en": "OFFLINE-FIRST", "id": "OFFLINE-FIRST" }
+    },
+    {
+      "id": "identity",
+      "label": { "en": "IDENTITY", "id": "IDENTITAS" },
+      "title": {
+        "en": "One login across internal tools",
+        "id": "Satu login untuk semua alat internal"
+      },
+      "description": {
+        "en": "A central SSO service so employees authenticate once and reach every application they are allowed into, instead of keeping six passwords in six places.",
+        "id": "Layanan SSO terpusat agar karyawan cukup sekali autentikasi dan masuk ke semua aplikasi yang berhak mereka akses, alih-alih menyimpan enam password di enam tempat."
+      },
+      "tag": { "en": "SSO", "id": "SSO" }
+    },
+    {
+      "id": "release",
+      "label": { "en": "RELEASE", "id": "RILIS" },
+      "title": { "en": "The whole mobile release cycle", "id": "Siklus rilis mobile yang utuh" },
+      "description": {
+        "en": "Builds, device testing, staged Play Store rollouts, and version updates handled end to end, so shipping a fix never stalls on someone else's queue.",
+        "id": "Build, pengujian perangkat, rilis bertahap ke Play Store, dan pembaruan versi ditangani dari awal sampai akhir, supaya pengiriman perbaikan tidak pernah macet di antrean orang lain."
+      },
+      "tag": { "en": "PLAY STORE", "id": "PLAY STORE" }
+    }
+  ]
+}

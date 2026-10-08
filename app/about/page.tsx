@@ -1,7 +1,10 @@
 "use client";
 
 import { useI18n } from "@/context/i18n-context";
-import { getResume, getWhatsAppUrl } from "@/lib/data/resume";
+import { getWhatsAppUrl } from "@/lib/data/resume";
+import { getSiteIdentity } from "@/lib/data/site";
+import { companyData, pick } from "@/lib/data/company";
+import { IS_COMPANY_MODE } from "@/lib/site-mode";
 import { SectionHeader } from "@/components/ui/SectionHeader";
 import { Badge } from "@/components/ui/Badge";
 import { Button } from "@/components/ui/Button";
@@ -15,12 +18,20 @@ import {
   FiGithub,
   FiLinkedin,
   FiInstagram,
+  FiArrowRight,
 } from "react-icons/fi";
 import { FaWhatsapp } from "react-icons/fa";
 
+const PERSONAL_FOCUS = [
+  "Geospatial GIS & Interactive Map Visualizers",
+  "Cross-Platform Flutter & React Native Mobile Apps",
+  "Distributed RESTful APIs with Hono & Node.js",
+  "Enterprise SSO & Caching Optimization",
+];
+
 export default function AboutPage() {
   const { t, locale } = useI18n();
-  const resume = getResume(locale);
+  const identity = getSiteIdentity(locale);
 
   return (
     <div className="w-full py-12 md:py-20">
@@ -46,7 +57,7 @@ export default function AboutPage() {
                   </h3>
                 </div>
                 <p className="text-sm sm:text-base text-[var(--navy)]/90 font-sans leading-relaxed">
-                  {resume.summary}
+                  {identity.summary}
                 </p>
               </div>
 
@@ -69,27 +80,23 @@ export default function AboutPage() {
               {/* Key Focus Highlights */}
               <div className="bg-[var(--surface-light)] border-2 border-[var(--navy)] p-6 sm:p-8 space-y-4">
                 <h4 className="font-mono text-xs font-bold text-[var(--navy)] uppercase tracking-wider">
-                  {"// Core Architectural Competencies"}
+                  {IS_COMPANY_MODE
+                    ? "// " + pick(companyData.card.focusLabel, locale)
+                    : "// Core Architectural Competencies"}
                 </h4>
                 <div className="grid grid-cols-1 sm:grid-cols-2 gap-3 text-xs sm:text-sm">
-                  <div className="flex items-start gap-2 p-3 bg-white border border-[var(--navy)]/20">
-                    <FiCheckCircle className="w-4 h-4 text-[var(--green)] shrink-0 mt-0.5" />
-                    <span>Geospatial GIS & Interactive Map Visualizers</span>
-                  </div>
-                  <div className="flex items-start gap-2 p-3 bg-white border border-[var(--navy)]/20">
-                    <FiCheckCircle className="w-4 h-4 text-[var(--green)] shrink-0 mt-0.5" />
-                    <span>
-                      Cross-Platform Flutter & React Native Mobile Apps
-                    </span>
-                  </div>
-                  <div className="flex items-start gap-2 p-3 bg-white border border-[var(--navy)]/20">
-                    <FiCheckCircle className="w-4 h-4 text-[var(--green)] shrink-0 mt-0.5" />
-                    <span>Distributed RESTful APIs with Hono & Node.js</span>
-                  </div>
-                  <div className="flex items-start gap-2 p-3 bg-white border border-[var(--navy)]/20">
-                    <FiCheckCircle className="w-4 h-4 text-[var(--green)] shrink-0 mt-0.5" />
-                    <span>Enterprise SSO & Caching Optimization</span>
-                  </div>
+                  {(IS_COMPANY_MODE
+                    ? companyData.card.focus
+                    : PERSONAL_FOCUS
+                  ).map((focusItem) => (
+                    <div
+                      key={focusItem}
+                      className="flex items-start gap-2 p-3 bg-white border border-[var(--navy)]/20"
+                    >
+                      <FiCheckCircle className="w-4 h-4 text-[var(--green)] shrink-0 mt-0.5" />
+                      <span>{focusItem}</span>
+                    </div>
+                  ))}
                 </div>
               </div>
             </div>
@@ -99,14 +106,14 @@ export default function AboutPage() {
               <div className="bg-[var(--card)] border-2 border-[var(--navy)] retro-shadow-lg p-6 space-y-5">
                 <div className="flex items-center gap-3 pb-4 border-b-2 border-[var(--navy)]">
                   <div className="w-12 h-12 bg-[var(--navy)] text-[var(--gold)] border-2 border-[var(--navy)] flex items-center justify-center font-display font-black text-xl retro-shadow-sm">
-                    WP
+                    {identity.initials}
                   </div>
                   <div>
                     <h3 className="font-display font-extrabold text-lg text-[var(--navy)]">
-                      {resume.name}
+                      {identity.name}
                     </h3>
                     <Badge variant="green" size="sm">
-                      Active Engineer
+                      {IS_COMPANY_MODE ? identity.role : "Active Engineer"}
                     </Badge>
                   </div>
                 </div>
@@ -114,10 +121,12 @@ export default function AboutPage() {
                 <div className="space-y-3 font-mono text-xs text-[var(--navy)]">
                   <div>
                     <span className="text-[var(--navy)]/50 block text-[10px]">
-                      ORGANIZATION
+                      {IS_COMPANY_MODE ? "FOUNDER" : "ORGANIZATION"}
                     </span>
                     <span className="font-bold">
-                      PT Sawit Sumbermas Sarana, Tbk.
+                      {IS_COMPANY_MODE
+                        ? companyData.founder
+                        : "PT Sawit Sumbermas Sarana, Tbk."}
                     </span>
                   </div>
                   <div>
@@ -126,7 +135,11 @@ export default function AboutPage() {
                     </span>
                     <div className="flex items-center gap-1 mt-0.5">
                       <FiMapPin className="w-3 h-3 text-[var(--green)]" />
-                      <span>Kotawaringin Barat, Indonesia</span>
+                      <span>
+                        {IS_COMPANY_MODE
+                          ? pick(companyData.location, locale)
+                          : "Kotawaringin Barat, Indonesia"}
+                      </span>
                     </div>
                   </div>
                   <div>
@@ -134,10 +147,10 @@ export default function AboutPage() {
                       EMAIL CONTACT
                     </span>
                     <a
-                      href={`mailto:${resume.contact.email}`}
+                      href={`mailto:${identity.contact.email}`}
                       className="text-[var(--green)] underline font-bold"
                     >
-                      {resume.contact.email}
+                      {identity.contact.email}
                     </a>
                   </div>
                   <div>
@@ -150,7 +163,7 @@ export default function AboutPage() {
                       rel="noopener noreferrer"
                       className="text-[var(--green)] underline font-bold"
                     >
-                      {resume.contact.phone}
+                      {identity.contact.phone}
                     </a>
                   </div>
                 </div>
@@ -158,7 +171,7 @@ export default function AboutPage() {
                 {/* Social Channels */}
                 <div className="pt-3 border-t border-[var(--navy)]/20 grid grid-cols-2 gap-2">
                   <Button
-                    href={resume.contact.github}
+                    href={identity.contact.github}
                     external
                     variant="outline"
                     size="sm"
@@ -168,7 +181,7 @@ export default function AboutPage() {
                     GitHub
                   </Button>
                   <Button
-                    href={resume.contact.linkedin}
+                    href={identity.contact.linkedin}
                     external
                     variant="outline"
                     size="sm"
@@ -178,7 +191,7 @@ export default function AboutPage() {
                     LinkedIn
                   </Button>
                   <Button
-                    href={resume.contact.instagram}
+                    href={identity.contact.instagram}
                     external
                     variant="outline"
                     size="sm"
@@ -201,16 +214,28 @@ export default function AboutPage() {
 
                 {/* Download CV CTA */}
                 <div className="pt-3">
-                  <Button
-                    href="/cv/cv-wahyu-patriaji.pdf"
-                    external
-                    variant="gold"
-                    size="md"
-                    fullWidth
-                    leftIcon={<FiDownload className="w-4 h-4" />}
-                  >
-                    {t.nav.downloadCV} (PDF)
-                  </Button>
+                  {IS_COMPANY_MODE ? (
+                    <Button
+                      href="/contact"
+                      variant="gold"
+                      size="md"
+                      fullWidth
+                      leftIcon={<FiArrowRight className="w-4 h-4" />}
+                    >
+                      {t.nav.downloadCV}
+                    </Button>
+                  ) : (
+                    <Button
+                      href="/cv/cv-wahyu-patriaji.pdf"
+                      external
+                      variant="gold"
+                      size="md"
+                      fullWidth
+                      leftIcon={<FiDownload className="w-4 h-4" />}
+                    >
+                      {t.nav.downloadCV} (PDF)
+                    </Button>
+                  )}
                 </div>
               </div>
             </div>

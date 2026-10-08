@@ -2,7 +2,9 @@
 
 import React from "react";
 import { useI18n } from "@/context/i18n-context";
-import { resumeData, getWhatsAppUrl } from "@/lib/data/resume";
+import { getWhatsAppUrl } from "@/lib/data/resume";
+import { getSiteIdentity } from "@/lib/data/site";
+import { IS_COMPANY_MODE } from "@/lib/site-mode";
 import { SectionHeader } from "@/components/ui/SectionHeader";
 import { ContactForm } from "@/components/contact/ContactForm";
 import { Button } from "@/components/ui/Button";
@@ -19,7 +21,8 @@ import {
 import { FaWhatsapp } from "react-icons/fa";
 
 export default function ContactPage() {
-  const { t } = useI18n();
+  const { t, locale } = useI18n();
+  const identity = getSiteIdentity(locale);
 
   return (
     <div className="w-full py-12 md:py-20">
@@ -52,10 +55,10 @@ export default function ContactPage() {
                       EMAIL ADDRESS
                     </span>
                     <a
-                      href={`mailto:${resumeData.contact.email}`}
+                      href={`mailto:${identity.contact.email}`}
                       className="font-bold text-[var(--navy)] hover:text-[var(--green)] underline"
                     >
-                      {resumeData.contact.email}
+                      {identity.contact.email}
                     </a>
                   </div>
                 </div>
@@ -72,7 +75,7 @@ export default function ContactPage() {
                       rel="noopener noreferrer"
                       className="font-bold text-[var(--navy)] hover:text-[var(--green)]"
                     >
-                      {resumeData.contact.phone}
+                      {identity.contact.phone}
                     </a>
                   </div>
                 </div>
@@ -109,7 +112,7 @@ export default function ContactPage() {
                 </span>
                 <div className="grid grid-cols-2 sm:grid-cols-4 gap-2">
                   <Button
-                    href={resumeData.contact.github}
+                    href={identity.contact.github}
                     external
                     variant="outline"
                     size="sm"
@@ -119,7 +122,7 @@ export default function ContactPage() {
                     GitHub
                   </Button>
                   <Button
-                    href={resumeData.contact.linkedin}
+                    href={identity.contact.linkedin}
                     external
                     variant="outline"
                     size="sm"
@@ -129,7 +132,7 @@ export default function ContactPage() {
                     LinkedIn
                   </Button>
                   <Button
-                    href={resumeData.contact.instagram}
+                    href={identity.contact.instagram}
                     external
                     variant="outline"
                     size="sm"
@@ -152,18 +155,20 @@ export default function ContactPage() {
               </div>
 
               {/* CV Download button */}
-              <div className="pt-2 border-t border-[var(--navy)]/10">
-                <Button
-                  href="/cv/cv-wahyu-patriaji.pdf"
-                  external
-                  variant="gold"
-                  size="md"
-                  fullWidth
-                  leftIcon={<FiDownload className="w-4 h-4" />}
-                >
-                  {t.hero.downloadCV}
-                </Button>
-              </div>
+              {!IS_COMPANY_MODE && (
+                <div className="pt-2 border-t border-[var(--navy)]/10">
+                  <Button
+                    href="/cv/cv-wahyu-patriaji.pdf"
+                    external
+                    variant="gold"
+                    size="md"
+                    fullWidth
+                    leftIcon={<FiDownload className="w-4 h-4" />}
+                  >
+                    {t.hero.downloadCV}
+                  </Button>
+                </div>
+              )}
             </div>
           </div>
         </div>

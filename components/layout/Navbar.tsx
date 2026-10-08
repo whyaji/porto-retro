@@ -6,11 +6,15 @@ import { usePathname } from "next/navigation";
 import { useI18n } from "@/context/i18n-context";
 import { LanguageToggle } from "@/components/ui/LanguageToggle";
 import { Button } from "@/components/ui/Button";
-import { FiMenu, FiX, FiDownload, FiTerminal } from "react-icons/fi";
+import { getSiteIdentity } from "@/lib/data/site";
+import { companyData, pick } from "@/lib/data/company";
+import { IS_COMPANY_MODE } from "@/lib/site-mode";
+import { FiMenu, FiX, FiDownload, FiTerminal, FiArrowRight } from "react-icons/fi";
 
 export const Navbar: React.FC = () => {
   const pathname = usePathname();
-  const { t } = useI18n();
+  const { t, locale } = useI18n();
+  const identity = getSiteIdentity(locale);
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
   const [scrolled, setScrolled] = useState(false);
 
@@ -60,7 +64,7 @@ export const Navbar: React.FC = () => {
           <span className="text-white/90">{t.nav.availableForWork}</span>
         </div>
         <div className="flex items-center gap-2 text-white/70">
-          <span>Wahyu Patriaji</span>
+          <span>{IS_COMPANY_MODE ? pick(companyData.location, locale) : "Wahyu Patriaji"}</span>
         </div>
       </div>
 
@@ -69,17 +73,21 @@ export const Navbar: React.FC = () => {
         <Link
           href="/"
           className="flex items-center gap-2.5 group focus:outline-none"
-          aria-label="Wahyu Patriaji — PatriaWorks Homepage"
+          aria-label={
+            IS_COMPANY_MODE
+              ? `${identity.name} — Homepage`
+              : "Wahyu Patriaji — PatriaWorks Homepage"
+          }
         >
           <div className="w-9 h-9 bg-[var(--navy)] text-[var(--gold)] border-2 border-[var(--navy)] flex items-center justify-center font-mono font-black text-base retro-shadow-sm group-hover:bg-[var(--navy-light)] transition-all">
             <FiTerminal className="w-5 h-5 group-hover:scale-110 transition-transform" />
           </div>
           <div className="flex flex-col">
             <span className="font-display font-black text-lg sm:text-xl text-[var(--navy)] tracking-tight leading-none group-hover:text-[var(--green)] transition-colors">
-              WAHYU PATRIAJI
+              {IS_COMPANY_MODE ? "PATRIAWORKS" : "WAHYU PATRIAJI"}
             </span>
             <span className="font-mono text-[10px] font-bold text-[var(--green)] tracking-wider uppercase mt-0.5">
-              Full-Stack & Mobile Engineer
+              {IS_COMPANY_MODE ? identity.role : "Full-Stack & Mobile Engineer"}
             </span>
           </div>
         </Link>
@@ -111,11 +119,17 @@ export const Navbar: React.FC = () => {
         <div className="hidden md:flex items-center gap-3">
           <LanguageToggle />
           <Button
-            href="/cv/cv-wahyu-patriaji.pdf"
-            external
+            href={IS_COMPANY_MODE ? "/contact" : "/cv/cv-wahyu-patriaji.pdf"}
+            external={!IS_COMPANY_MODE}
             variant="gold"
             size="sm"
-            leftIcon={<FiDownload className="w-3.5 h-3.5" />}
+            leftIcon={
+              IS_COMPANY_MODE ? (
+                <FiArrowRight className="w-3.5 h-3.5" />
+              ) : (
+                <FiDownload className="w-3.5 h-3.5" />
+              )
+            }
           >
             {t.nav.downloadCV}
           </Button>
@@ -164,12 +178,18 @@ export const Navbar: React.FC = () => {
           </nav>
           <div className="pt-2">
             <Button
-              href="/cv/cv-wahyu-patriaji.pdf"
-              external
+              href={IS_COMPANY_MODE ? "/contact" : "/cv/cv-wahyu-patriaji.pdf"}
+              external={!IS_COMPANY_MODE}
               variant="gold"
               size="md"
               fullWidth
-              leftIcon={<FiDownload className="w-4 h-4" />}
+              leftIcon={
+                IS_COMPANY_MODE ? (
+                  <FiArrowRight className="w-4 h-4" />
+                ) : (
+                  <FiDownload className="w-4 h-4" />
+                )
+              }
             >
               {t.nav.downloadCV}
             </Button>

@@ -1,14 +1,14 @@
 "use client";
 
-import React, { createContext, useContext, useSyncExternalStore, useCallback } from "react";
+import React, { createContext, useContext, useSyncExternalStore, useCallback, useMemo } from "react";
 import type { Locale } from "@/types/project";
-import { idTranslations } from "@/i18n/id";
-import { enTranslations } from "@/i18n/en";
+import { resolveTranslations, type Translations } from "@/i18n/company";
+import { SITE_MODE } from "@/lib/site-mode";
 
 interface I18nContextType {
   locale: Locale;
   setLocale: (locale: Locale) => void;
-  t: typeof enTranslations;
+  t: Translations;
   toggleLocale: () => void;
 }
 
@@ -55,7 +55,7 @@ export function I18nProvider({ children }: { children: React.ReactNode }) {
     setLocale(locale === "en" ? "id" : "en");
   }, [locale, setLocale]);
 
-  const t = locale === "id" ? idTranslations : enTranslations;
+  const t = useMemo(() => resolveTranslations(SITE_MODE, locale), [locale]);
 
   return (
     <I18nContext.Provider value={{ locale, setLocale, t, toggleLocale }}>
@@ -70,7 +70,7 @@ export function useI18n() {
     return {
       locale: "en" as Locale,
       setLocale: () => {},
-      t: enTranslations,
+      t: resolveTranslations(SITE_MODE, "en"),
       toggleLocale: () => {},
     };
   }
