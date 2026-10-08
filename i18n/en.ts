@@ -15,7 +15,7 @@ export const enTranslations = {
     tagline:
       "Engineering scalable web applications, distributed backends, & cross-platform mobile apps.",
     subtagline:
-      "Software Engineer at PT Sawit Sumbermas Sarana Tbk. Experienced in Node.js & Hono backend architecture, React & Next.js web systems, and Flutter & React Native mobile development.",
+      "Software Engineer at PT Sawit Sumbermas Sarana Tbk. Experienced in engineering scalable web applications, distributed backends, and cross-platform mobile apps using Node.js, React, and Flutter.",
     viewProjects: "Explore Project Catalog",
     contactMe: "Contact Wahyu",
     downloadCV: "Download PDF Resume",

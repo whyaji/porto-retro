@@ -15,7 +15,7 @@ export const idTranslations = {
     tagline:
       "Merancang aplikasi web enterprise, backend terdistribusi, & aplikasi mobile cross-platform.",
     subtagline:
-      "Software Engineer di PT Sawit Sumbermas Sarana Tbk. Berpengalaman dalam arsitektur backend Node.js & Hono, sistem web React & Next.js, serta pengembangan mobile Flutter & React Native.",
+      "Software Engineer di PT Sawit Sumbermas Sarana Tbk. Berpengalaman dalam merancang aplikasi web enterprise, backend terdistribusi, serta aplikasi mobile cross-platform menggunakan Node.js, React, dan Flutter.",
     viewProjects: "Lihat Katalog Proyek",
     contactMe: "Hubungi Wahyu",
     downloadCV: "Unduh Resume PDF",

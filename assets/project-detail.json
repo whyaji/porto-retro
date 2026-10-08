@@ -1,6 +1,6 @@
 [
   {
-    "id": "01-srs-docs",
+    "id": "srs-docs",
     "name": "SRS Docs & Research Portal",
     "link": null,
     "thumbnail": "public/project/01-srs-docs-01.jpg",
@@ -90,9 +90,9 @@
     }
   },
   {
-    "id": "02-agro-srs",
+    "id": "agro-srs",
     "name": "Agro SRS Mobile",
-    "link": null,
+    "link": "https://play.google.com/store/apps/details?id=com.srs.agro_srs_mobile",
     "thumbnail": "public/project/02-agro-srs-01.jpg",
     "images": [
       "public/project/02-agro-srs-01.jpg"
@@ -169,7 +169,7 @@
     }
   },
   {
-    "id": "03-cmp-tracker",
+    "id": "cmp-tracker",
     "name": "CMP Tracker Web",
     "link": null,
     "thumbnail": "public/project/03-cmp-tracker-01.jpg",
@@ -250,9 +250,9 @@
     }
   },
   {
-    "id": "04-cmp-tracker-mobile",
+    "id": "cmp-tracker-mobile",
     "name": "CMP Tracker Mobile",
-    "link": null,
+    "link": "https://play.google.com/store/apps/details?id=com.cbi.cmptracker",
     "thumbnail": "public/project/04-cmp-tracker-mobile-01.jpg",
     "images": [
       "public/project/04-cmp-tracker-mobile-01.jpg"
@@ -327,7 +327,7 @@
     }
   },
   {
-    "id": "05-sampletrack",
+    "id": "sampletrack",
     "name": "SampleTrack Web",
     "link": null,
     "thumbnail": "public/project/05-sampletrack-01.jpg",
@@ -406,9 +406,9 @@
     }
   },
   {
-    "id": "06-sampletrack-mobile",
+    "id": "sampletrack-mobile",
     "name": "SampleTrack Mobile",
-    "link": null,
+    "link": "https://play.google.com/store/apps/details?id=com.srs.sampletrack",
     "thumbnail": "public/project/06-sampletrack-mobile-01.jpg",
     "images": [
       "public/project/06-sampletrack-mobile-01.jpg"
@@ -479,7 +479,7 @@
     }
   },
   {
-    "id": "07-monitoring-poh",
+    "id": "monitoring-poh",
     "name": "Monitoring POH Web",
     "link": null,
     "thumbnail": "public/project/07-monitoring-poh-01.jpg",
@@ -556,9 +556,9 @@
     }
   },
   {
-    "id": "08-monitoring-poh-mobile",
+    "id": "monitoring-poh-mobile",
     "name": "Monitoring POH Mobile",
-    "link": null,
+    "link": "https://play.google.com/store/apps/details?id=com.srs.monitoring_poh_mobile",
     "thumbnail": "public/project/08-monitoring-poh-mobile-01.jpg",
     "images": [
       "public/project/08-monitoring-poh-mobile-01.jpg"
@@ -627,7 +627,7 @@
     }
   },
   {
-    "id": "09-lsp-naker-jakarta",
+    "id": "lsp-naker-jakarta",
     "name": "LSP Naker Jakarta Portal",
     "link": "https://lspnakerjakarta.id/",
     "thumbnail": "public/project/09-lsp-naker-jakarta-01.jpg",
@@ -702,9 +702,9 @@
     }
   },
   {
-    "id": "10-smart-mobilepro",
+    "id": "smart-mobilepro",
     "name": "Smart MobilePro",
-    "link": null,
+    "link": "https://play.google.com/store/apps/details?id=com.cbi.smartmobilepro",
     "thumbnail": "public/project/10-smart-mobilepro-01.jpg",
     "images": [
       "public/project/10-smart-mobilepro-01.jpg"
@@ -773,9 +773,9 @@
     }
   },
   {
-    "id": "11-sustainable-forest",
+    "id": "sustainable-forest",
     "name": "Sustainable Forest Web",
-    "link": null,
+    "link": "https://play.google.com/store/apps/details?id=id.co.ssms.sustainableforest",
     "thumbnail": "public/project/11-sustainable-forest-01.jpg",
     "images": [
       "public/project/11-sustainable-forest-01.jpg",
@@ -849,7 +849,7 @@
     }
   },
   {
-    "id": "12-sustainable-forest-mobile",
+    "id": "sustainable-forest-mobile",
     "name": "Sustainable Forest Mobile",
     "link": null,
     "thumbnail": "public/project/12-sustainable-forest-mobile-01.jpg",
@@ -924,9 +924,9 @@
     }
   },
   {
-    "id": "13-treeadopt",
+    "id": "treeadopt",
     "name": "TreeAdopt E-Commerce Platform",
-    "link": null,
+    "link": "https://play.google.com/store/apps/details?id=id.co.treeadopt.treeadoptapp",
     "thumbnail": "public/project/13-treeadopt-01.jpg",
     "images": [
       "public/project/13-treeadopt-01.jpg",
@@ -999,7 +999,7 @@
     }
   },
   {
-    "id": "14-sso-srs",
+    "id": "sso-srs",
     "name": "SSO SRS Central Service",
     "link": null,
     "thumbnail": "public/project/14-sso-srs-01.jpg",
@@ -1074,7 +1074,7 @@
     }
   },
   {
-    "id": "15-botwave",
+    "id": "botwave",
     "name": "BotWave API & Gateway",
     "link": null,
     "thumbnail": "public/project/15-botwave-01.jpg",
@@ -1152,7 +1152,7 @@
     }
   },
   {
-    "id": "16-syngenta-id-tts",
+    "id": "syngenta-id-tts",
     "name": "Syngenta ID - Trial Traceability System",
     "link": "https://play.google.com/store/apps/details?id=com.syngentadigitalapps.nsppactivitytracker",
     "thumbnail": "public/project/16-syngenta-id-tts-01.jpg",

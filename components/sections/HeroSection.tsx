@@ -27,7 +27,6 @@ export const HeroSection: React.FC = () => {
             {/* Main Headline */}
             <div className="space-y-3 animate-in fade-in slide-in-from-bottom-4 duration-700">
               <div className="inline-flex items-center gap-2 font-mono text-xs sm:text-sm font-bold text-[var(--green)]">
-                <span className="w-2 h-2 rounded-full bg-[#27c93f] shrink-0"></span>
                 <span>
                   {t.hero.greeting}{" "}
                   <span className="underline decoration-2 underline-offset-4 decoration-[var(--gold)] text-[var(--navy)] font-extrabold">

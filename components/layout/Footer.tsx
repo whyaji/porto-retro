@@ -75,6 +75,7 @@ export const Footer: React.FC = () => {
                 aria-label="GitHub Profile"
               >
                 <FiGithub className="w-4 h-4" />
+                <span className="sr-only">GitHub Profile</span>
               </a>
               <a
                 href={resume.contact.linkedin}
@@ -84,6 +85,7 @@ export const Footer: React.FC = () => {
                 aria-label="LinkedIn Profile"
               >
                 <FiLinkedin className="w-4 h-4" />
+                <span className="sr-only">LinkedIn Profile</span>
               </a>
               <a
                 href={resume.contact.instagram}
@@ -93,6 +95,7 @@ export const Footer: React.FC = () => {
                 aria-label="Instagram Profile"
               >
                 <FiInstagram className="w-4 h-4" />
+                <span className="sr-only">Instagram Profile</span>
               </a>
               <a
                 href={getWhatsAppUrl()}
@@ -102,6 +105,7 @@ export const Footer: React.FC = () => {
                 aria-label="Chat on WhatsApp"
               >
                 <FaWhatsapp className="w-4 h-4" />
+                <span className="sr-only">Chat on WhatsApp</span>
               </a>
               <a
                 href={`mailto:${resume.contact.email}`}
@@ -109,6 +113,7 @@ export const Footer: React.FC = () => {
                 aria-label="Send Email"
               >
                 <FiMail className="w-4 h-4" />
+                <span className="sr-only">Send Email</span>
               </a>
               <a
                 href={`tel:${resume.contact.phone}`}
@@ -116,6 +121,7 @@ export const Footer: React.FC = () => {
                 aria-label="Call Phone"
               >
                 <FiPhone className="w-4 h-4" />
+                <span className="sr-only">Call Phone</span>
               </a>
             </div>
           </div>

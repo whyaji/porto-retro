@@ -9,7 +9,7 @@ export const SITE_NAME = "Wahyu Patriaji — PatriaWorks";
 export const AUTHOR_NAME = "Wahyu Patriaji";
 
 export const DEFAULT_TITLE =
-  "Wahyu Patriaji | Full-Stack & Mobile Software Engineer | PatriaWorks";
+  "Wahyu Patriaji | Full-Stack Software Engineer";
 
 export const DEFAULT_DESCRIPTION =
   "Software Engineering Portfolio of Wahyu Patriaji (PatriaWorks). Full-Stack & Mobile Engineer building web, mobile, and distributed backend systems.";

@@ -80,8 +80,8 @@ export const skillCategories: SkillCategory[] = [
       en: "Backend & API Architecture",
     },
     description: {
-      id: "Desain RESTful API terdistribusi, validasi skema ketat, dan integrasi enterprise SSO.",
-      en: "Distributed RESTful API design, strict schema validation, and enterprise SSO integration.",
+      id: "Desain RESTful API terdistribusi, validasi skema ketat, dan integrasi enterprise system.",
+      en: "Distributed RESTful API design, strict schema validation, and enterprise system integration.",
     },
     skills: [
       { name: "Node.js", highlight: true },

@@ -54,7 +54,6 @@ export const Navbar: React.FC = () => {
       <div className="hidden md:flex items-center justify-between px-4 lg:px-8 py-1.5 bg-[var(--navy)] text-[var(--surface)] text-[11px] font-mono border-b border-[var(--surface)]/20">
         <div className="flex items-center gap-3">
           <span className="flex items-center gap-1.5">
-            <span className="w-2 h-2 rounded-full bg-[#27c93f] inline-block animate-pulse"></span>
             <span className="text-[var(--gold)] font-bold tracking-wider">PATRIAWORKS</span>
           </span>
           <span className="text-white/30">|</span>
