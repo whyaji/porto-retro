@@ -3,6 +3,7 @@
 import React from "react";
 import { useI18n } from "@/context/i18n-context";
 import { resumeData } from "@/lib/data/resume";
+import { getAllProjects } from "@/lib/data/projects";
 import { Button } from "@/components/ui/Button";
 import { Badge } from "@/components/ui/Badge";
 import {
@@ -17,6 +18,7 @@ import {
 
 export const HeroSection: React.FC = () => {
   const { t } = useI18n();
+  const totalProjects = getAllProjects().length;
 
   return (
     <section className="relative w-full py-12 md:py-20 border-b-2 border-[var(--navy)] bg-grid-pattern overflow-hidden">
@@ -106,7 +108,7 @@ export const HeroSection: React.FC = () => {
                   <div className="grid grid-cols-2 gap-2 mt-1.5">
                     <div className="p-2 bg-[var(--surface-light)] border border-[var(--navy)]/20">
                       <span className="font-display font-black text-lg text-[var(--navy)] block">
-                        16+
+                        {totalProjects}+
                       </span>
                       <span className="text-[10px] text-[var(--navy)]/70">Production Apps</span>
                     </div>
@@ -142,7 +144,7 @@ export const HeroSection: React.FC = () => {
               <span className="font-mono text-[10px] uppercase font-bold">REPOSITORIES</span>
             </div>
             <span className="font-display font-black text-2xl sm:text-3xl text-[var(--navy)] block">
-              16 Projects
+              {totalProjects} Projects
             </span>
             <span className="text-xs text-[var(--navy)]/70 font-sans">{t.hero.stats.projects}</span>
           </div>

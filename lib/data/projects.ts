@@ -104,14 +104,14 @@ export function getProjectBySlug(slug: string): ProjectMeta | undefined {
 export function getFeaturedProjects(): ProjectMeta[] {
   // Return projects with rich content or key highlights (8 items)
   const featuredIds = [
-    "03-cmp-tracker",
-    "01-srs-docs",
-    "02-agro-srs",
-    "04-cmp-tracker-mobile",
-    "05-sampletrack",
-    "07-monitoring-poh",
-    "11-sustainable-forest",
-    "14-sso-srs",
+    "srs-docs",
+    "cmp-tracker",
+    "agro-srs",
+    "cmp-tracker-mobile",
+    "sampletrack",
+    "monitoring-poh",
+    "sustainable-forest",
+    "sso-srs",
   ];
   return featuredIds
     .map((id) => allProjects.find((p) => p.id === id))

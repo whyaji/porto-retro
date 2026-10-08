@@ -2,7 +2,7 @@
 
 import React from "react";
 import { useI18n } from "@/context/i18n-context";
-import { getFeaturedProjects } from "@/lib/data/projects";
+import { getFeaturedProjects, getAllProjects } from "@/lib/data/projects";
 import { SectionHeader } from "@/components/ui/SectionHeader";
 import { ProjectCard } from "@/components/projects/ProjectCard";
 import { Button } from "@/components/ui/Button";
@@ -11,6 +11,7 @@ import { FiArrowRight } from "react-icons/fi";
 export const FeaturedProjects: React.FC = () => {
   const { t } = useI18n();
   const featured = getFeaturedProjects();
+  const totalProjects = getAllProjects().length;
 
   return (
     <section className="w-full py-16 md:py-24 border-b-2 border-[var(--navy)] bg-[var(--surface-light)]">
@@ -28,7 +29,7 @@ export const FeaturedProjects: React.FC = () => {
             size="md"
             rightIcon={<FiArrowRight className="w-4 h-4" />}
           >
-            {t.nav.projects} (16 Total)
+            {t.nav.projects} ({totalProjects} Total)
           </Button>
         </div>
 
