@@ -157,7 +157,7 @@ export default function CBTUtbkUkppuPage() {
     setIsNameModalOpen(false);
   };
 
-  // Cycle to the next version in the registry (fully data-driven — no hardcoded version names)
+  // Cycle to the next version in the registry (fully data-driven, no hardcoded version names)
   const handlePromptSwitchVersion = () => {
     if (!session) return;
     const nextMeta = getNextVersion(session.questionVersion || LATEST_VERSION);

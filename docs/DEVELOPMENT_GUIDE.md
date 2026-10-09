@@ -54,7 +54,7 @@ Avoid using three animation systems for the same UI.
 
 ---
 
-# 2. First Step — Inspect Everything
+# 2. First Step: Inspect Everything
 
 Before writing code:
 

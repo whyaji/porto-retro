@@ -88,7 +88,7 @@
   {
     "id": "V2_Q03",
     "domainId": 2,
-    "domainTitle": "Penguasaan Pengetahuan/Keilmuan (Konsep dan Teori Psikologi - Individu sebagai bagian dari sistem ekologis)",
+    "domainTitle": "Penguasaan Pengetahuan/Keilmuan (Konsep dan Teori Psikologi, Individu sebagai bagian dari sistem ekologis)",
     "indicatorId": "1.2",
     "indicatorFullId": "D2-1.2",
     "indicatorTitle": "Menerapkan berbagai teori sistem ekologis dalam menjelaskan potensi, karakteristik, dan proses mental individu",
@@ -132,7 +132,7 @@
   {
     "id": "V2_Q04",
     "domainId": 2,
-    "domainTitle": "Penguasaan Pengetahuan/Keilmuan (Konsep dan Teori Psikologi - Individu sebagai bagian dari sistem ekologis)",
+    "domainTitle": "Penguasaan Pengetahuan/Keilmuan (Konsep dan Teori Psikologi, Individu sebagai bagian dari sistem ekologis)",
     "indicatorId": "2.1",
     "indicatorFullId": "D2-2.1",
     "indicatorTitle": "Menelaah permasalahan individu beserta potensi, karakteristik, dan proses mental berdasarkan teori sistem ekologis",
@@ -176,7 +176,7 @@
   {
     "id": "V2_Q05",
     "domainId": 3,
-    "domainTitle": "Penguasaan Pengetahuan/Keilmuan (Konsep dan Teori Psikologi - Fungsi dan perubahan perilaku manusia sepanjang hayat)",
+    "domainTitle": "Penguasaan Pengetahuan/Keilmuan (Konsep dan Teori Psikologi, Fungsi dan perubahan perilaku manusia sepanjang hayat)",
     "indicatorId": "1.1",
     "indicatorFullId": "D3-1.1",
     "indicatorTitle": "Membedakan tiga pendekatan utama dalam memahami perilaku manusia",
@@ -219,7 +219,7 @@
   {
     "id": "V2_Q06",
     "domainId": 3,
-    "domainTitle": "Penguasaan Pengetahuan/Keilmuan (Konsep dan Teori Psikologi - Fungsi dan perubahan perilaku manusia sepanjang hayat)",
+    "domainTitle": "Penguasaan Pengetahuan/Keilmuan (Konsep dan Teori Psikologi, Fungsi dan perubahan perilaku manusia sepanjang hayat)",
     "indicatorId": "2.1",
     "indicatorFullId": "D3-2.1",
     "indicatorTitle": "Merinci fungsi dan perubahan perilaku manusia berdasarkan aspek perkembangan fisik, kognitif, sosial, emosi, moral, spiritual",
@@ -263,7 +263,7 @@
   {
     "id": "V2_Q07",
     "domainId": 4,
-    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Identifikasi permasalahan/kebutuhan)",
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi, Identifikasi permasalahan/kebutuhan)",
     "indicatorId": "1.2",
     "indicatorFullId": "D4-1.2",
     "indicatorTitle": "Mengidentifikasi permasalahan/kebutuhan dengan mempertimbangkan keluhan dan intake assessment",
@@ -306,7 +306,7 @@
   {
     "id": "V2_Q08",
     "domainId": 4,
-    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Identifikasi permasalahan/kebutuhan)",
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi, Identifikasi permasalahan/kebutuhan)",
     "indicatorId": "1.3",
     "indicatorFullId": "D4-1.3",
     "indicatorTitle": "Mengidentifikasi permasalahan/kebutuhan dengan mempertimbangkan hal-hal yang memicu/menyebabkan masalah yang teridentifikasi muncul, atau dengan membandingkan beberapa aspek, penyebab, atau kondisi yang berkaitan",
@@ -350,7 +350,7 @@
   {
     "id": "V2_Q09",
     "domainId": 4,
-    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Identifikasi permasalahan/kebutuhan)",
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi, Identifikasi permasalahan/kebutuhan)",
     "indicatorId": "1.1",
     "indicatorFullId": "D4-1.1",
     "indicatorTitle": "Mengetahui cara mengidentifikasi permasalahan/kebutuhan",
@@ -393,7 +393,7 @@
   {
     "id": "V2_Q10",
     "domainId": 5,
-    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Tujuan asesmen)",
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi, Tujuan asesmen)",
     "indicatorId": "1.2",
     "indicatorFullId": "D5-1.2",
     "indicatorTitle": "Memformulasikan tujuan asesmen dengan mempertimbangkan keluhan",
@@ -436,7 +436,7 @@
   {
     "id": "V2_Q11",
     "domainId": 5,
-    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Tujuan asesmen)",
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi, Tujuan asesmen)",
     "indicatorId": "1.3",
     "indicatorFullId": "D5-1.3",
     "indicatorTitle": "Memformulasikan tujuan asesmen dengan mempertimbangkan dugaan sementara",
@@ -479,7 +479,7 @@
   {
     "id": "V2_Q12",
     "domainId": 5,
-    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Tujuan asesmen)",
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi, Tujuan asesmen)",
     "indicatorId": "1.4",
     "indicatorFullId": "D5-1.4",
     "indicatorTitle": "Memformulasikan tujuan asesmen dengan mempertimbangkan keluhan, kebutuhan pengguna layanan, dan/atau dugaan sementara secara komprehensif",
@@ -522,7 +522,7 @@
   {
     "id": "V2_Q13",
     "domainId": 6,
-    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Menentukan metode asesmen)",
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi, Menentukan metode asesmen)",
     "indicatorId": "1.2",
     "indicatorFullId": "D6-1.2",
     "indicatorTitle": "Membedakan metode asesmen yang tepat berdasarkan pertimbangan karakteristik klien dan permasalahannya",
@@ -565,7 +565,7 @@
   {
     "id": "V2_Q14",
     "domainId": 6,
-    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Menentukan metode asesmen)",
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi, Menentukan metode asesmen)",
     "indicatorId": "1.3",
     "indicatorFullId": "D6-1.3",
     "indicatorTitle": "Membedakan metode asesmen yang tepat berdasarkan pertimbangan konteks atau latar layanan",
@@ -608,7 +608,7 @@
   {
     "id": "V2_Q15",
     "domainId": 6,
-    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Menentukan metode asesmen)",
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi, Menentukan metode asesmen)",
     "indicatorId": "1.4",
     "indicatorFullId": "D6-1.4",
     "indicatorTitle": "Membandingkan dan memilih metode asesmen yang sesuai dengan karakteristik klien dan permasalahannya",
@@ -651,7 +651,7 @@
   {
     "id": "V2_Q16",
     "domainId": 6,
-    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Menentukan metode asesmen)",
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi, Menentukan metode asesmen)",
     "indicatorId": "1.6",
     "indicatorFullId": "D6-1.6",
     "indicatorTitle": "Melakukan evaluasi terhadap satu atau beberapa metode asesmen berdasarkan kesesuaian dengan karakteristik klien dan permasalahannya",
@@ -694,7 +694,7 @@
   {
     "id": "V2_Q17",
     "domainId": 6,
-    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Menentukan metode asesmen)",
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi, Menentukan metode asesmen)",
     "indicatorId": "1.7",
     "indicatorFullId": "D6-1.7",
     "indicatorTitle": "Melakukan evaluasi terhadap satu atau beberapa metode asesmen berdasarkan pertimbangan konteks atau latar layanan",
@@ -737,7 +737,7 @@
   {
     "id": "V2_Q18",
     "domainId": 7,
-    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Integrasi Data)",
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi, Integrasi Data)",
     "indicatorId": "1.2",
     "indicatorFullId": "D7-1.2",
     "indicatorTitle": "Menginterpretasikan data asesmen untuk menyusun dinamika psikologis",
@@ -780,7 +780,7 @@
   {
     "id": "V2_Q19",
     "domainId": 7,
-    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Integrasi Data)",
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi, Integrasi Data)",
     "indicatorId": "1.3",
     "indicatorFullId": "D7-1.3",
     "indicatorTitle": "Mengidentifikasi data asesmen yang tepat untuk menyusun dinamika psikologis",
@@ -823,7 +823,7 @@
   {
     "id": "V2_Q20",
     "domainId": 7,
-    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Integrasi Data)",
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi, Integrasi Data)",
     "indicatorId": "1.4",
     "indicatorFullId": "D7-1.4",
     "indicatorTitle": "Mengintegrasikan data asesmen untuk menyusun dinamika psikologis",
@@ -866,7 +866,7 @@
   {
     "id": "V2_Q21",
     "domainId": 7,
-    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Integrasi Data)",
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi, Integrasi Data)",
     "indicatorId": "1.1",
     "indicatorFullId": "D7-1.1",
     "indicatorTitle": "Mengetahui prinsip dasar dalam menyusun dinamika psikologis",
@@ -909,7 +909,7 @@
   {
     "id": "V2_Q22",
     "domainId": 8,
-    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Membuat kesimpulan/menegakkan diagnosis)",
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi, Membuat kesimpulan/menegakkan diagnosis)",
     "indicatorId": "1.2",
     "indicatorFullId": "D8-1.2",
     "indicatorTitle": "Membuat kesimpulan atau menegakkan diagnosis berdasarkan hasil asesmen dan teori psikologi yang sesuai",
@@ -952,7 +952,7 @@
   {
     "id": "V2_Q23",
     "domainId": 8,
-    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Membuat kesimpulan/menegakkan diagnosis)",
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi, Membuat kesimpulan/menegakkan diagnosis)",
     "indicatorId": "1.3",
     "indicatorFullId": "D8-1.3",
     "indicatorTitle": "Membandingkan berbagai gejala dan fungsi psikologis untuk membuat kesimpulan atau menegakkan diagnosis",
@@ -995,7 +995,7 @@
   {
     "id": "V2_Q24",
     "domainId": 8,
-    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Membuat kesimpulan/menegakkan diagnosis)",
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi, Membuat kesimpulan/menegakkan diagnosis)",
     "indicatorId": "1.4",
     "indicatorFullId": "D8-1.4",
     "indicatorTitle": "Membandingkan dan memilih teori psikologi yang sesuai untuk menjelaskan gejala dan fungsi psikologis klien dalam rangka membuat kesimpulan atau menegakkan diagnosis",
@@ -1038,7 +1038,7 @@
   {
     "id": "V2_Q25",
     "domainId": 8,
-    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Membuat kesimpulan/menegakkan diagnosis)",
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi, Membuat kesimpulan/menegakkan diagnosis)",
     "indicatorId": "1.1",
     "indicatorFullId": "D8-1.1",
     "indicatorTitle": "Mengetahui prinsip dasar dalam membuat kesimpulan atau menegakkan diagnosis",
@@ -1081,7 +1081,7 @@
   {
     "id": "V2_Q26",
     "domainId": 9,
-    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Intervensi Psikologi - Menetapkan tujuan dan teknik intervensi)",
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Intervensi Psikologi, Menetapkan tujuan dan teknik intervensi)",
     "indicatorId": "1.2",
     "indicatorFullId": "D9-1.2",
     "indicatorTitle": "Memformulasikan tujuan intervensi dengan mempertimbangkan diagnosis/kesimpulan dan dinamika psikologis",
@@ -1124,7 +1124,7 @@
   {
     "id": "V2_Q27",
     "domainId": 9,
-    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Intervensi Psikologi - Menetapkan tujuan dan teknik intervensi)",
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Intervensi Psikologi, Menetapkan tujuan dan teknik intervensi)",
     "indicatorId": "2.1",
     "indicatorFullId": "D9-2.1",
     "indicatorTitle": "Memformulasikan tujuan intervensi dengan mempertimbangkan kesesuaian kewenangan",
@@ -1167,7 +1167,7 @@
   {
     "id": "V2_Q28",
     "domainId": 9,
-    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Intervensi Psikologi - Menetapkan tujuan dan teknik intervensi)",
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Intervensi Psikologi, Menetapkan tujuan dan teknik intervensi)",
     "indicatorId": "2.2",
     "indicatorFullId": "D9-2.2",
     "indicatorTitle": "Mengidentifikasi teknik intervensi yang tepat dengan mempertimbangkan kesesuaian antara pendekatan yang dipilih dan kondisi/karakteristik klien",
@@ -1210,7 +1210,7 @@
   {
     "id": "V2_Q29",
     "domainId": 9,
-    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Intervensi Psikologi - Menetapkan tujuan dan teknik intervensi)",
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Intervensi Psikologi, Menetapkan tujuan dan teknik intervensi)",
     "indicatorId": "3.3",
     "indicatorFullId": "D9-3.3",
     "indicatorTitle": "Membandingkan dan memilih jenis intervensi yang tepat sesuai dengan dinamika permasalahan dan psikologis/konseptualisasi kasus yang ditangani",
@@ -1253,7 +1253,7 @@
   {
     "id": "V2_Q30",
     "domainId": 9,
-    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Intervensi Psikologi - Menetapkan tujuan dan teknik intervensi)",
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Intervensi Psikologi, Menetapkan tujuan dan teknik intervensi)",
     "indicatorId": "4.1",
     "indicatorFullId": "D9-4.1",
     "indicatorTitle": "Melakukan evaluasi terhadap satu atau beberapa teknik intervensi sesuai dengan kondisi/karakteristik klien dan pendekatan",
@@ -1283,7 +1283,7 @@
       },
       {
         "id": "D",
-        "text": "Mengevaluasi bahwa teknik relaksasi telah menjadi perilaku pengaman maladaptif yang memelihara kecemasan, dan mengalihkannya secara bertahap ke teknik Paparan Sensasi Tubuh Internal (Interoceptive Exposure)—seperti memutar kursi atau hiperventilasi terkontrol—untuk membuktikan kepada klien bahwa sensasi tubuh panik tidak berbahaya dan dapat ditoleransi tanpa ketergantungan pada ritual pernapasan pengaman."
+        "text": "Mengevaluasi bahwa teknik relaksasi telah menjadi perilaku pengaman maladaptif yang memelihara kecemasan, dan mengalihkannya secara bertahap ke teknik Paparan Sensasi Tubuh Internal (Interoceptive Exposure), seperti memutar kursi atau hiperventilasi terkontrol, untuk membuktikan kepada klien bahwa sensasi tubuh panik tidak berbahaya dan dapat ditoleransi tanpa ketergantungan pada ritual pernapasan pengaman."
       },
       {
         "id": "E",
@@ -1296,7 +1296,7 @@
   {
     "id": "V2_Q31",
     "domainId": 10,
-    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Intervensi Psikologi - Merencanakan intervensi)",
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Intervensi Psikologi, Merencanakan intervensi)",
     "indicatorId": "1.1",
     "indicatorFullId": "D10-1.1",
     "indicatorTitle": "Mengetahui prinsip dasar dalam menyusun rencana intervensi sesuai dengan jenis intervensi dan pendekatan yang digunakan",
@@ -1339,7 +1339,7 @@
   {
     "id": "V2_Q32",
     "domainId": 10,
-    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Intervensi Psikologi - Merencanakan intervensi)",
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Intervensi Psikologi, Merencanakan intervensi)",
     "indicatorId": "2.1",
     "indicatorFullId": "D10-2.1",
     "indicatorTitle": "Mengetahui prinsip dasar dalam menyusun rencana intervensi berdasarkan pemahaman terhadap masing-masing pendekatan",
@@ -1382,13 +1382,13 @@
   {
     "id": "V2_Q33",
     "domainId": 10,
-    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Intervensi Psikologi - Merencanakan intervensi)",
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Intervensi Psikologi, Merencanakan intervensi)",
     "indicatorId": "3.1",
     "indicatorFullId": "D10-3.1",
     "indicatorTitle": "Menjelaskan makna intervensi psikologi berbasis bukti (evidence-based practice)",
     "caseStudy": {
       "title": "Studi Kasus 33: Integrasi Tiga Pilar Evidence-Based Practice in Psychology (EBPP) dalam Rencana Intervensi",
-      "scenario": "Seorang psikolog yang bekerja di klinik universitas diminta oleh pimpinan klinik menyusun Standar Operasional Prosedur (SOP) perencanaan intervensi psikologis berbasis bukti (Evidence-Based Practice in Psychology - EBPP). Beberapa praktisi senior berpendapat bahwa EBP hanyalah sekadar mengikuti manual terapi penelitian di jurnal Barat secara kaku tanpa mempedulikan budaya klien, sementara yang lain menganggap EBP semata-mata bergantung pada intuisi pengalaman pribadi praktisi.",
+      "scenario": "Seorang psikolog yang bekerja di klinik universitas diminta oleh pimpinan klinik menyusun Standar Operasional Prosedur (SOP) perencanaan intervensi psikologis berbasis bukti (Evidence-Based Practice in Psychology, EBPP). Beberapa praktisi senior berpendapat bahwa EBP hanyalah sekadar mengikuti manual terapi penelitian di jurnal Barat secara kaku tanpa mempedulikan budaya klien, sementara yang lain menganggap EBP semata-mata bergantung pada intuisi pengalaman pribadi praktisi.",
       "contextTags": [
         "Evidence-Based Practice",
         "Tiga Pilar EBPP",
@@ -1425,7 +1425,7 @@
   {
     "id": "V2_Q34",
     "domainId": 10,
-    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Intervensi Psikologi - Merencanakan intervensi)",
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Intervensi Psikologi, Merencanakan intervensi)",
     "indicatorId": "3.4",
     "indicatorFullId": "D10-3.4",
     "indicatorTitle": "Melakukan evaluasi terhadap satu atau beberapa teknik intervensi berbasis bukti yang sesuai dengan permasalahan, karakteristik klien, dan konteks",
@@ -1468,7 +1468,7 @@
   {
     "id": "V2_Q35",
     "domainId": 11,
-    "domainTitle": "Keterampilan Kerja Khusus - Etika Psikologi dan Hukum (Pemahaman dan Penerapan Kode Etik Psikologi Indonesia)",
+    "domainTitle": "Keterampilan Kerja Khusus, Etika Psikologi dan Hukum (Pemahaman dan Penerapan Kode Etik Psikologi Indonesia)",
     "indicatorId": "2.1",
     "indicatorFullId": "D11-2.1",
     "indicatorTitle": "Menerapkan standar perilaku profesional berdasarkan Kode Etik Psikologi Indonesia yang berlaku",
@@ -1511,7 +1511,7 @@
   {
     "id": "V2_Q36",
     "domainId": 11,
-    "domainTitle": "Keterampilan Kerja Khusus - Etika Psikologi dan Hukum (Pemahaman dan Penerapan Kode Etik Psikologi Indonesia)",
+    "domainTitle": "Keterampilan Kerja Khusus, Etika Psikologi dan Hukum (Pemahaman dan Penerapan Kode Etik Psikologi Indonesia)",
     "indicatorId": "2.2",
     "indicatorFullId": "D11-2.2",
     "indicatorTitle": "Mendeteksi perilaku profesional dan tidak profesional berdasarkan Kode Etik Psikologi Indonesia yang berlaku",
@@ -1554,7 +1554,7 @@
   {
     "id": "V2_Q37",
     "domainId": 12,
-    "domainTitle": "Keterampilan Kerja Khusus - Etika Psikologi dan Hukum (Hak dan Kewenangan Kompetensi)",
+    "domainTitle": "Keterampilan Kerja Khusus, Etika Psikologi dan Hukum (Hak dan Kewenangan Kompetensi)",
     "indicatorId": "1.2",
     "indicatorFullId": "D12-1.2",
     "indicatorTitle": "Menerapkan tindakan dalam layanan psikologis yang sesuai dengan hak dan kewenangan psikolog umum berdasarkan Kode Etik Psikologi, Standar Layanan, dan Standar Kewenangan",
@@ -1597,13 +1597,13 @@
   {
     "id": "V2_Q38",
     "domainId": 12,
-    "domainTitle": "Keterampilan Kerja Khusus - Etika Psikologi dan Hukum (Hak dan Kewenangan Kompetensi)",
+    "domainTitle": "Keterampilan Kerja Khusus, Etika Psikologi dan Hukum (Hak dan Kewenangan Kompetensi)",
     "indicatorId": "1.1",
     "indicatorFullId": "D12-1.1",
     "indicatorTitle": "Menjelaskan tindakan dalam layanan psikologis yang sesuai dengan hak dan kewenangan psikolog umum berdasarkan Kode Etik Psikologi, Standar Layanan, dan Standar Kewenangan",
     "caseStudy": {
       "title": "Studi Kasus 38: Legalitas Penandatanganan Laporan Hasil Pemeriksaan Psikologis (LHP) dan Tanggung Jawab SIPP/STR",
-      "scenario": "Sebuah biro konsultan sumber daya manusia menerima proyek asesmen psikologis untuk 500 calon pegawai BUMN. Karena keterbatasan tenaga psikolog berlisensi, pemilik biro meminta seorang Sarjana Psikologi (S.Psi) yang baru lulus untuk mengadministrasikan tes, menginterpretasikan data, dan menyusun Laporan Hasil Pemeriksaan Psikologis (LHP). Pemilik biro kemudian meminta Psikolog G (yang memiliki Surat Izin Praktik Psikologi - SIPP aktif) untuk sekadar menandatangani dan membubuhkan stempel resmi pada seluruh 500 berkas LHP tersebut tanpa memeriksa lembar jawaban atau mengonfirmasi proses asesmen.",
+      "scenario": "Sebuah biro konsultan sumber daya manusia menerima proyek asesmen psikologis untuk 500 calon pegawai BUMN. Karena keterbatasan tenaga psikolog berlisensi, pemilik biro meminta seorang Sarjana Psikologi (S.Psi) yang baru lulus untuk mengadministrasikan tes, menginterpretasikan data, dan menyusun Laporan Hasil Pemeriksaan Psikologis (LHP). Pemilik biro kemudian meminta Psikolog G (yang memiliki Surat Izin Praktik Psikologi, SIPP aktif) untuk sekadar menandatangani dan membubuhkan stempel resmi pada seluruh 500 berkas LHP tersebut tanpa memeriksa lembar jawaban atau mengonfirmasi proses asesmen.",
       "contextTags": [
         "Kewenangan Penandatanganan LHP",
         "SIPP dan STR",
@@ -1640,7 +1640,7 @@
   {
     "id": "V2_Q39",
     "domainId": 13,
-    "domainTitle": "Keterampilan Kerja Khusus - Etika Psikologi dan Hukum (Pengetahuan hukum)",
+    "domainTitle": "Keterampilan Kerja Khusus, Etika Psikologi dan Hukum (Pengetahuan hukum)",
     "indicatorId": "1.1",
     "indicatorFullId": "D13-1.1",
     "indicatorTitle": "Menunjukkan peraturan perundangan yang relevan dengan layanan psikologis yang dilakukan sesuai dengan permasalahan dan latar layanan",
@@ -1683,7 +1683,7 @@
   {
     "id": "V2_Q40",
     "domainId": 13,
-    "domainTitle": "Keterampilan Kerja Khusus - Etika Psikologi dan Hukum (Pengetahuan hukum)",
+    "domainTitle": "Keterampilan Kerja Khusus, Etika Psikologi dan Hukum (Pengetahuan hukum)",
     "indicatorId": "2.2",
     "indicatorFullId": "D13-2.2",
     "indicatorTitle": "Mencontohkan peraturan perundangan yang relevan dengan permasalahan psikologis yang terkait hukum sesuai dengan latar layanan",

@@ -6,8 +6,9 @@ import { FeaturedProjects } from "@/components/sections/FeaturedProjects";
 import { ExperienceSection } from "@/components/sections/ExperienceSection";
 import { SkillsMatrix } from "@/components/sections/SkillsMatrix";
 import { ServicesSection } from "@/components/sections/ServicesSection";
+import { ProductsSection } from "@/components/sections/ProductsSection";
 import { ScrollReveal } from "@/components/ui/ScrollReveal";
-import { IS_COMPANY_MODE } from "@/lib/site-mode";
+import { IS_COMPANY_MODE, IS_PRODUCTS_ENABLED } from "@/lib/site-mode";
 import { pageMetadata, DEFAULT_TITLE } from "@/lib/seo";
 
 // Dynamically import below-the-fold sections for optimal initial bundle size
@@ -50,7 +51,7 @@ export const metadata: Metadata = {
     {
       title: "Home",
       description:
-        "Patriaworks is an independent software house building custom web platforms, offline-first field apps, and backend systems for operations that have outgrown spreadsheets.",
+        "Patriaworks is an independent software house building custom web platforms, offline-first field apps, and backend systems for operations that have outgrown spreadsheets, and developing its own AI-powered products with the Claude API.",
       path: "/",
     }
   ),
@@ -62,6 +63,12 @@ export default function HomePage() {
     <div className="flex flex-col w-full">
       <HeroSection />
       <MarqueeTicker />
+
+      {IS_PRODUCTS_ENABLED && (
+        <ScrollReveal direction="up">
+          <ProductsSection />
+        </ScrollReveal>
+      )}
 
       {IS_COMPANY_MODE && (
         <ScrollReveal direction="up">

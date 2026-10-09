@@ -6,7 +6,7 @@ import { usePathname } from "next/navigation";
 import { useI18n } from "@/context/i18n-context";
 import { getWhatsAppUrl } from "@/lib/data/resume";
 import { getSiteIdentity } from "@/lib/data/site";
-import { IS_COMPANY_MODE } from "@/lib/site-mode";
+import { IS_COMPANY_MODE, IS_PRODUCTS_ENABLED } from "@/lib/site-mode";
 import {
   FiGithub,
   FiLinkedin,
@@ -154,6 +154,28 @@ export const Footer: React.FC = () => {
                   &gt; {t.nav.about}
                 </Link>
               </li>
+              {IS_PRODUCTS_ENABLED && (
+                <li>
+                  <Link
+                    href="/products"
+                    className="hover:text-[var(--gold)] transition-colors"
+                    aria-label="Footer Products link"
+                  >
+                    &gt; {t.nav.products}
+                  </Link>
+                </li>
+              )}
+              {IS_COMPANY_MODE && (
+                <li>
+                  <Link
+                    href="/ai"
+                    className="hover:text-[var(--gold)] transition-colors"
+                    aria-label="Footer AI link"
+                  >
+                    &gt; {t.nav.ai}
+                  </Link>
+                </li>
+              )}
               <li>
                 <Link
                   href="/experience"

@@ -1,4 +1,4 @@
-# Wahyu Patriaji — Personal Resume & Engineering Portfolio
+# Wahyu Patriaji | Personal Resume & Engineering Portfolio
 
 [![Production Site](https://img.shields.io/badge/Production-patriaworks.my.id-0b1849?style=flat-square&logo=vercel)](https://patriaworks.my.id)
 [![Next.js](https://img.shields.io/badge/Next.js-16.3.3-black?style=flat-square&logo=next.js)](https://nextjs.org/)
@@ -6,7 +6,7 @@
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue?style=flat-square&logo=typescript)](https://www.typescriptlang.org/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-4.0-38bdf8?style=flat-square&logo=tailwind-css)](https://tailwindcss.com/)
 
-A modern-retro personal resume and portfolio website engineered for **Wahyu Patriaji** — Full-Stack & Mobile Software Engineer at PT Sawit Sumbermas Sarana Tbk.
+A modern-retro personal resume and portfolio website engineered for **Wahyu Patriaji**, Full-Stack & Mobile Software Engineer at PT Sawit Sumbermas Sarana Tbk.
 
 Deployed live to [https://patriaworks.my.id](https://patriaworks.my.id).
 
@@ -30,8 +30,8 @@ Deployed live to [https://patriaworks.my.id](https://patriaworks.my.id).
 
 All resume and project details are strictly driven by JSON data files:
 
-1. `assets/resume.json` — Experience, roles, education, contacts, and personal summary.
-2. `assets/project-detail.json` — 16 enterprise web GIS, mobile, and backend systems with bilingual short descriptions, full descriptions, and detailed feature breakdowns (`general` vs `nerd`).
+1. `assets/resume.json`: Experience, roles, education, contacts, and personal summary.
+2. `assets/project-detail.json`: 16 enterprise web GIS, mobile, and backend systems with bilingual short descriptions, full descriptions, and detailed feature breakdowns (`general` vs `nerd`).
 
 No portfolio information is duplicated or hardcoded inside React components.
 
@@ -67,6 +67,8 @@ The application natively supports **Indonesian (`id`, default)** and **English (
 │   ├── globals.css           # Modern-retro theme variables, tactile shadows, patterns
 │   ├── page.tsx              # Home landing page
 │   ├── about/page.tsx        # Bio, engineering focus & achievements
+│   ├── products/page.tsx     # Patriaworks products with development status (company mode)
+│   ├── ai/page.tsx           # Technology & AI: shipped engineering vs planned Claude work
 │   ├── experience/page.tsx   # Interactive career timeline
 │   ├── skills/page.tsx       # Tech stack & skill matrix
 │   ├── projects/page.tsx     # Filterable project catalogue
@@ -123,7 +125,7 @@ Configure your SMTP credentials:
 ```env
 NEXT_PUBLIC_SITE_URL=https://patriaworks.my.id
 # company mode -> inbox@patriaworks.my.id | personal mode -> wahyupatriaji@gmail.com
-CONTACT_EMAIL=wahyupatriaji@gmail.com
+CONTACT_EMAIL=inbox@patriaworks.my.id
 
 # Site mode: "personal" (Wahyu's resume) or "company" (Patriaworks studio)
 NEXT_PUBLIC_SITE_MODE=personal
@@ -133,7 +135,7 @@ SMTP_PORT=465
 SMTP_SECURE=true
 SMTP_USER=your-email@gmail.com
 SMTP_PASSWORD=your-app-password
-SMTP_FROM="Wahyu Patriaji Portfolio" <no-reply@patriaworks.my.id>
+SMTP_FROM="Patriaworks" <no-reply@patriaworks.my.id>
 ```
 
 _(If SMTP credentials are not set, the contact form safely logs the message in development mode without crashing)._

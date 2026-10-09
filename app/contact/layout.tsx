@@ -11,7 +11,7 @@ export const metadata: Metadata = pageMetadata(
   {
     title: "Contact",
     description:
-      "Start a project with Patriaworks. Send a brief and get a written scope and estimate back — plus direct email, phone, LinkedIn, and GitHub.",
+      "Start a project with Patriaworks. Send a brief and get a written scope and estimate back, plus direct email, phone, LinkedIn, and GitHub.",
     path: "/contact",
   }
 );

@@ -1,10 +1,32 @@
 import { MetadataRoute } from "next";
 import { getAllProjects } from "@/lib/data/projects";
+import { IS_COMPANY_MODE, IS_PRODUCTS_ENABLED } from "@/lib/site-mode";
 import { SITE_URL } from "@/lib/seo";
 
 export default function sitemap(): MetadataRoute.Sitemap {
   const baseUrl = SITE_URL;
   const projects = getAllProjects();
+
+  const companyRoutes: MetadataRoute.Sitemap = IS_COMPANY_MODE
+    ? [
+        ...(IS_PRODUCTS_ENABLED
+          ? [
+              {
+                url: `${baseUrl}/products`,
+                lastModified: new Date(),
+                changeFrequency: "weekly" as const,
+                priority: 0.9,
+              },
+            ]
+          : []),
+        {
+          url: `${baseUrl}/ai`,
+          lastModified: new Date(),
+          changeFrequency: "weekly" as const,
+          priority: 0.9,
+        },
+      ]
+    : [];
 
   const staticRoutes: MetadataRoute.Sitemap = [
     {
@@ -18,6 +40,13 @@ export default function sitemap(): MetadataRoute.Sitemap {
       lastModified: new Date(),
       changeFrequency: "monthly",
       priority: 0.8,
+    },
+    ...companyRoutes,
+    {
+      url: `${baseUrl}/utbk-ukppu`,
+      lastModified: new Date(),
+      changeFrequency: "monthly",
+      priority: 0.7,
     },
     {
       url: `${baseUrl}/experience`,

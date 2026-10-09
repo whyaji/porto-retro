@@ -11,16 +11,16 @@
     "id": "Kalimantan Tengah, Indonesia"
   },
   "summary": {
-    "en": "Patriaworks is a software house that builds web, mobile, and backend systems for operations that have outgrown spreadsheets and off-the-shelf tools. Geospatial platforms, offline-first field apps, internal portals, and the integrations that hold them together — designed, built, and maintained by one engineer who stays on the project from the first scoping call to the release after launch.",
-    "id": "Patriaworks adalah software house yang membangun sistem web, mobile, dan backend untuk operasi yang sudah tumbuh melewati spreadsheet dan aplikasi jadi. Platform geospasial, aplikasi lapangan offline-first, portal internal, serta integrasi yang menyatukan semuanya — dirancang, dibangun, dan dirawat oleh satu orang engineer yang tetap bertahan di proyek sejak sesi pemetaan pertama sampai rilis setelah peluncuran."
+    "en": "Patriaworks is a software house that builds web, mobile, and backend systems for operations that have outgrown spreadsheets and off-the-shelf tools. Geospatial platforms, offline-first field apps, internal portals, and the integrations that hold them together, designed, built, and maintained by one engineer who stays on the project from the first scoping call to the release after launch. The studio is also building products of its own, with Claude-powered AI features planned for them.",
+    "id": "Patriaworks adalah software house yang membangun sistem web, mobile, dan backend untuk operasi yang sudah tumbuh melewati spreadsheet dan aplikasi jadi. Platform geospasial, aplikasi lapangan offline-first, portal internal, serta integrasi yang menyatukan semuanya, dirancang, dibangun, dan dirawat oleh satu orang engineer yang tetap bertahan di proyek sejak sesi pemetaan pertama sampai rilis setelah peluncuran. Studio ini juga membangun produknya sendiri, dengan rencana fitur AI bertenaga Claude untuk produk-produk itu."
   },
   "intro": {
     "en": [
-      "Patriaworks exists because most operational software fails for a boring reason: it was built for a generic company instead of the one actually using it. We build the opposite — systems shaped around a specific workflow, the people who run it, and the constraints they work under, whether that is no signal in the middle of a plantation or a legacy system nobody is allowed to take offline.",
+      "Patriaworks exists because most operational software fails for a boring reason: it was built for a generic company instead of the one actually using it. We build the opposite: systems shaped around a specific workflow, the people who run it, and the constraints they work under, whether that is no signal in the middle of a plantation or a legacy system nobody is allowed to take offline.",
       "The studio is deliberately small. The person who scopes your project is the person who writes it, deploys it, and answers when something breaks on a Friday evening. That keeps decisions fast and accountability unambiguous. Most of our work comes from plantation and agri-tech operators, research groups, certification bodies, and internal teams who need software their daily work can actually depend on."
     ],
     "id": [
-      "Patriaworks ada karena sebagian besar software operasional gagal karena alasan yang membosankan: software itu dibuat untuk perusahaan generik, bukan untuk perusahaan yang benar-benar memakainya. Kami membangun sebaliknya — sistem yang dibentuk mengikuti alur kerja nyata, orang yang menjalankannya, dan kendala yang mereka hadapi, entah itu sinyal hilang di tengah kebun atau sistem lama yang tidak boleh dimatikan.",
+      "Patriaworks ada karena sebagian besar software operasional gagal karena alasan yang membosankan: software itu dibuat untuk perusahaan generik, bukan untuk perusahaan yang benar-benar memakainya. Kami membangun sebaliknya: sistem yang dibentuk mengikuti alur kerja nyata, orang yang menjalankannya, dan kendala yang mereka hadapi, entah itu sinyal hilang di tengah kebun atau sistem lama yang tidak boleh dimatikan.",
       "Studio ini sengaja dibuat kecil. Orang yang memetakan kebutuhan proyek Anda adalah orang yang menulis kodenya, menerapkannya, dan mengangkat telepon ketika ada masalah di hari Jumat sore. Keputusan jadi cepat dan tanggung jawab tidak kabur. Sebagian besar pekerjaan kami datang dari operator perkebunan dan agri-tech, kelompok riset, lembaga sertifikasi, dan tim internal yang butuh software yang benar-benar bisa diandalkan sehari-hari."
     ]
   },
@@ -244,8 +244,8 @@
       "step": "01",
       "title": { "en": "Scope", "id": "Pemetaan" },
       "description": {
-        "en": "We start from your actual workflow — who uses the system, what they do today, and where it breaks. You get the scope in writing before a single line of code exists.",
-        "id": "Kami mulai dari alur kerja Anda sendiri — siapa yang memakai sistem, apa yang mereka lakukan hari ini, dan di mana titik putusnya. Anda menerima cakupan kerja tertulis sebelum satu baris kode pun ditulis."
+        "en": "We start from your actual workflow: who uses the system, what they do today, and where it breaks. You get the scope in writing before a single line of code exists.",
+        "id": "Kami mulai dari alur kerja Anda sendiri: siapa yang memakai sistem, apa yang mereka lakukan hari ini, dan di mana titik putusnya. Anda menerima cakupan kerja tertulis sebelum satu baris kode pun ditulis."
       },
       "deliverable": {
         "en": "Written scope, price, and timeline",
@@ -267,8 +267,8 @@
       "step": "03",
       "title": { "en": "Build", "id": "Pembangunan" },
       "description": {
-        "en": "You get a working build every week — something you can open and click, not a progress percentage. Feedback goes into the next build, not a backlog nobody reads.",
-        "id": "Anda menerima build yang bisa dipakai setiap minggu — sesuatu yang bisa dibuka dan diklik, bukan angka persentase. Masukan Anda masuk ke build berikutnya, bukan ke antrean yang tak pernah dibaca."
+        "en": "You get a working build every week: something you can open and click, not a progress percentage. Feedback goes into the next build, not a backlog nobody reads.",
+        "id": "Anda menerima build yang bisa dipakai setiap minggu: sesuatu yang bisa dibuka dan diklik, bukan angka persentase. Masukan Anda masuk ke build berikutnya, bukan ke antrean yang tak pernah dibaca."
       },
       "deliverable": {
         "en": "A working build each week",
@@ -290,8 +290,8 @@
       "step": "05",
       "title": { "en": "Support", "id": "Dukungan" },
       "description": {
-        "en": "After launch the same engineer stays reachable. Fixes and improvements run on a retainer or per request — either way, the terms are agreed before launch, not after the first invoice.",
-        "id": "Setelah rilis, engineer yang sama tetap bisa dihubungi. Perbaikan dan peningkatan berjalan lewat retainer atau permintaan langsung — apa pun pilihannya, ketentuannya disepakati sebelum rilis, bukan setelah tagihan pertama."
+        "en": "After launch the same engineer stays reachable. Fixes and improvements run on a retainer or per request. Either way, the terms are agreed before launch, not after the first invoice.",
+        "id": "Setelah rilis, engineer yang sama tetap bisa dihubungi. Perbaikan dan peningkatan berjalan lewat retainer atau permintaan langsung. Apa pun pilihannya, ketentuannya disepakati sebelum rilis, bukan setelah tagihan pertama."
       },
       "deliverable": {
         "en": "Support terms agreed before launch",
@@ -367,8 +367,8 @@
       "label": { "en": "PORTFOLIO", "id": "PORTOFOLIO" },
       "title": { "en": "16 systems in production", "id": "16 sistem berjalan di produksi" },
       "description": {
-        "en": "Web GIS platforms, field-data apps, SSO, payments, and backends running for real operations — built against live data and real users, not a demo environment.",
-        "id": "Platform Web GIS, aplikasi data lapangan, SSO, pembayaran, dan backend yang berjalan untuk operasi nyata — dibangun menghadapi data sungguhan dan pengguna sungguhan, bukan lingkungan demo."
+        "en": "Web GIS platforms, field-data apps, SSO, payments, and backends running for real operations, built against live data and real users, not a demo environment.",
+        "id": "Platform Web GIS, aplikasi data lapangan, SSO, pembayaran, dan backend yang berjalan untuk operasi nyata, dibangun menghadapi data sungguhan dan pengguna sungguhan, bukan lingkungan demo."
       },
       "tag": { "en": "IN PRODUCTION", "id": "DI PRODUKSI" }
     },

@@ -13,7 +13,7 @@ export const metadata: Metadata = pageMetadata(
   {
     title: "Capabilities",
     description:
-      "The stack Patriaworks ships with — React, Next.js, Node.js, Flutter, React Native, Redis, and the geospatial tooling behind our web and field systems.",
+      "The stack Patriaworks ships with: React, Next.js, Node.js, Flutter, React Native, Redis, and the geospatial tooling behind our web and field systems.",
     path: "/skills",
   }
 );

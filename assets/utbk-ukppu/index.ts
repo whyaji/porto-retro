@@ -52,13 +52,13 @@ const v4Questions = v4Data as Question[];
 
 /**
  * ─────────────────────────────────────────────────────────────────
- * QUESTION VERSION REGISTRY — Single source of truth
+ * QUESTION VERSION REGISTRY: Single source of truth
  *
  * To add a new version:
  *   1. Import the JSON file above (e.g. import v4Data from "./v4_questions.json")
  *   2. Cast it:   const v4Questions = v4Data as Question[]
  *   3. Add a new entry to QUESTION_VERSIONS below
- *   4. Done — everything else updates automatically
+ *   4. Done, everything else updates automatically
  * ─────────────────────────────────────────────────────────────────
  */
 export interface QuestionVersionMeta {

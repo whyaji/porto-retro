@@ -1,0 +1,135 @@
+[
+  {
+    "id": "cbt-utbk-ukppu",
+    "name": {
+      "en": "CBT UTBK/UKPPU Practice App",
+      "id": "Aplikasi Latihan CBT UTBK/UKPPU"
+    },
+    "tagline": {
+      "en": "A browser-based exam simulator with versioned question packages, a timer, flagging, and result review.",
+      "id": "Simulator ujian berbasis browser dengan paket soal berversi, pengatur waktu, penandaan soal, dan tinjauan hasil."
+    },
+    "problem": {
+      "en": "Practising for UTBK and UKPPU on paper makes it hard to keep time, come back to doubtful answers, or see which domains are still weak.",
+      "id": "Berlatih untuk UTBK dan UKPPU dengan kertas membuat sulit mengatur waktu, kembali ke jawaban yang diragukan, dan melihat domain mana yang masih lemah."
+    },
+    "users": {
+      "en": "Test takers in Indonesia preparing for UTBK and UKPPU.",
+      "id": "Peserta tes di Indonesia yang mempersiapkan UTBK dan UKPPU."
+    },
+    "features": {
+      "en": [
+        "Timed sessions that save in the browser and resume after a refresh",
+        "Four question packages: a 610-question archive set and three 40-question HOTS sets",
+        "Flagging, question grid navigation, and score review with answer keys",
+        "Session export and import as a text file, so practice can move between devices"
+      ],
+      "id": [
+        "Sesi berwaktu yang tersimpan di browser dan dilanjutkan setelah muat ulang",
+        "Empat paket soal: bank arsip 610 soal dan tiga paket HOTS 40 soal",
+        "Penandaan soal, navigasi grid soal, dan tinjauan nilai lengkap dengan kunci jawaban",
+        "Ekspor dan impor sesi sebagai berkas teks, jadi latihan bisa berpindah perangkat"
+      ]
+    },
+    "status": "live",
+    "statusNote": {
+      "en": "Running in production at patriaworks.my.id/utbk-ukppu. Sessions stay in the browser: there is no account system and no server-side storage.",
+      "id": "Berjalan di produksi di patriaworks.my.id/utbk-ukppu. Sesi disimpan di browser: tidak ada sistem akun dan tidak ada penyimpanan di server."
+    },
+    "aiRole": null,
+    "link": "/utbk-ukppu",
+    "tech": ["Next.js", "React", "TypeScript", "Tailwind CSS", "Browser Storage"]
+  },
+  {
+    "id": "document-assistant",
+    "name": {
+      "en": "Document Summarization and Extraction Assistant",
+      "id": "Asisten Ringkasan dan Ekstraksi Dokumen"
+    },
+    "tagline": {
+      "en": "Turn long operational documents into a short summary plus typed fields that a system can store and validate.",
+      "id": "Mengubah dokumen operasional yang panjang menjadi ringkasan singkat serta field bertipe yang bisa disimpan dan divalidasi sistem."
+    },
+    "problem": {
+      "en": "Research reports, meeting minutes, and certification dossiers get read by hand and retyped into spreadsheets and portals, which is slow and easy to get wrong.",
+      "id": "Laporan riset, notulen rapat, dan berkas sertifikasi dibaca manual lalu diketik ulang ke spreadsheet dan portal, pekerjaan lambat dan rawan salah."
+    },
+    "users": {
+      "en": "Research groups, certification bodies, and operations teams that process documents in volume.",
+      "id": "Kelompok riset, lembaga sertifikasi, dan tim operasional yang memproses dokumen dalam jumlah besar."
+    },
+    "features": {
+      "en": [
+        "Submit a document and receive a structured summary of it",
+        "Extraction of typed fields, validated against a schema before anything is stored",
+        "A review screen where a person confirms consequential values before they are used",
+        "Server-side processing, so document contents never enter the browser bundle"
+      ],
+      "id": [
+        "Kirim dokumen dan terima ringkasan terstruktur dari dokumen tersebut",
+        "Ekstraksi field bertipe, divalidasi terhadap skema sebelum sesuatu disimpan",
+        "Layar tinjau di mana orang mengonfirmasi nilai penting sebelum nilai itu dipakai",
+        "Pemrosesan di server, sehingga isi dokumen tidak pernah masuk ke bundel browser"
+      ]
+    },
+    "status": "in-development",
+    "statusNote": {
+      "en": "In development. The architecture is defined and no backend has shipped yet, so there is no demo, no users, and no release date. Do not read this page as a launched product.",
+      "id": "Sedang dikembangkan. Arsitekturnya sudah didefinisikan tetapi backend belum dikirim, jadi belum ada demo, belum ada pengguna, dan belum ada tanggal rilis. Halaman ini bukan produk yang sudah diluncurkan."
+    },
+    "aiRole": {
+      "en": "Claude is planned for summarization and field extraction through structured outputs and tool use. The API key stays on the server, and no Claude call exists in production today.",
+      "id": "Claude direncanakan untuk ringkasan dan ekstraksi field melalui structured outputs dan tool use. Kunci API tetap di server, dan belum ada panggilan Claude di produksi hari ini."
+    },
+    "link": null,
+    "tech": [
+      "Planned: Claude API",
+      "Planned: Next.js Route Handlers",
+      "TypeScript",
+      "Zod",
+      "Planned: PostgreSQL"
+    ]
+  },
+  {
+    "id": "cbt-answer-explanations",
+    "name": {
+      "en": "Answer Explanations in the Practice App",
+      "id": "Pembahasan Jawaban di Aplikasi Latihan"
+    },
+    "tagline": {
+      "en": "Explain why the correct option is correct, inside the CBT practice app, in Indonesian and against the answer key.",
+      "id": "Menjelaskan mengapa pilihan benar itu benar, di dalam aplikasi CBT, dalam bahasa Indonesia dan mengikuti kunci jawaban."
+    },
+    "problem": {
+      "en": "After a practice run the app shows which answers were wrong, but not the reasoning behind the right one.",
+      "id": "Setelah latihan, aplikasi menunjukkan jawaban yang salah, tetapi tidak menunjukkan alasan di balik jawaban yang benar."
+    },
+    "users": {
+      "en": "Learners using the CBT practice app.",
+      "id": "Peserta yang memakai aplikasi latihan CBT."
+    },
+    "features": {
+      "en": [
+        "Request an explanation on any question after submitting a session",
+        "Explanation checked against the stored answer key before it is shown",
+        "Cost cap per session so a wrong loop cannot run up a bill"
+      ],
+      "id": [
+        "Minta pembahasan untuk soal apa pun setelah sesi dikumpulkan",
+        "Pembahasan diperiksa terhadap kunci jawaban sebelum ditampilkan",
+        "Batas biaya per sesi supaya kesalahan berulang tidak membuat tagihan membengkak"
+      ]
+    },
+    "status": "planned",
+    "statusNote": {
+      "en": "Concept only. It needs a backend, an Anthropic API key, and explanations written or reviewed by a person. Nothing about it is built.",
+      "id": "Baru konsep. Fitur ini butuh backend, kunci API Anthropic, serta pembahasan yang ditulis atau ditinjau orang. Belum ada yang dibangun."
+    },
+    "aiRole": {
+      "en": "Claude would draft the explanation, the app would check it against the answer key, and a person would review it before release. This is a plan, not a live feature.",
+      "id": "Claude akan menyusun draft pembahasan, aplikasi memeriksanya terhadap kunci jawaban, lalu orang meninjaunya sebelum dirilis. Ini rencana, bukan fitur yang sudah jalan."
+    },
+    "link": null,
+    "tech": ["Planned: Claude API", "Planned: Next.js Route Handlers", "Next.js", "TypeScript"]
+  }
+]

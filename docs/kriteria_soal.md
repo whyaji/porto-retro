@@ -324,19 +324,19 @@ karena terlalu mudah.
 
 Gunakan beberapa level:
 
-### Level 1 — Moderate
+### Level 1: Moderate
 
 Peserta harus menghubungkan beberapa informasi.
 
-### Level 2 — Difficult
+### Level 2: Difficult
 
 Beberapa opsi sama-sama benar secara umum, tetapi hanya satu paling sesuai konteks.
 
-### Level 3 — Very Difficult
+### Level 3: Very Difficult
 
 Dua atau tiga opsi memiliki dasar teoritis kuat dan peserta harus menentukan perbedaan berdasarkan prioritas, batas inferensi, atau urutan.
 
-### Level 4 — Expert
+### Level 4: Expert
 
 Pilihan benar tidak selalu merupakan opsi paling komprehensif. Peserta harus memahami:
 

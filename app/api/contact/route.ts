@@ -119,6 +119,20 @@ export async function POST(req: Request) {
       `"${defaultFromName}" <no-reply@patriaworks.my.id>`;
 
     if (!smtpHost || !smtpUser || !smtpPass) {
+      if (process.env.NODE_ENV === "production") {
+        logger.error(
+          { recipientEmail, sanitizedName },
+          "SMTP not configured in production: rejecting contact submission"
+        );
+        return NextResponse.json(
+          {
+            message:
+              "The contact channel is not configured right now. Please email us directly instead.",
+          },
+          { status: 503 }
+        );
+      }
+
       logger.warn(
         { recipientEmail, sanitizedName, sanitizedEmail, sanitizedSubject },
         "SMTP not configured in environment. Simulating email transmission."

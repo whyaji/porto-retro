@@ -8,7 +8,7 @@ import { LanguageToggle } from "@/components/ui/LanguageToggle";
 import { Button } from "@/components/ui/Button";
 import { getSiteIdentity } from "@/lib/data/site";
 import { companyData, pick } from "@/lib/data/company";
-import { IS_COMPANY_MODE } from "@/lib/site-mode";
+import { IS_COMPANY_MODE, IS_PRODUCTS_ENABLED } from "@/lib/site-mode";
 import { FiMenu, FiX, FiDownload, FiTerminal, FiArrowRight } from "react-icons/fi";
 
 export const Navbar: React.FC = () => {
@@ -18,12 +18,6 @@ export const Navbar: React.FC = () => {
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
   const [scrolled, setScrolled] = useState(false);
 
-  if (pathname.startsWith("/utbk-ukppu") || pathname.startsWith("/app/utbk-ukppu")) {
-    return null;
-  }
-
-
-  // eslint-disable-next-line react-hooks/rules-of-hooks
   useEffect(() => {
     const handleScroll = () => {
       setScrolled(window.scrollY > 20);
@@ -32,9 +26,21 @@ export const Navbar: React.FC = () => {
     return () => window.removeEventListener("scroll", handleScroll);
   }, []);
 
+  if (pathname.startsWith("/utbk-ukppu") || pathname.startsWith("/app/utbk-ukppu")) {
+    return null;
+  }
+
   const navLinks = [
     { href: "/", label: t.nav.home },
     { href: "/about", label: t.nav.about },
+    ...(IS_COMPANY_MODE
+      ? [
+          ...(IS_PRODUCTS_ENABLED
+            ? [{ href: "/products", label: t.nav.products }]
+            : []),
+          { href: "/ai", label: t.nav.ai },
+        ]
+      : []),
     { href: "/experience", label: t.nav.experience },
     { href: "/skills", label: t.nav.skills },
     { href: "/projects", label: t.nav.projects },
@@ -75,8 +81,8 @@ export const Navbar: React.FC = () => {
           className="flex items-center gap-2.5 group focus:outline-none"
           aria-label={
             IS_COMPANY_MODE
-              ? `${identity.name} — Homepage`
-              : "Wahyu Patriaji — PatriaWorks Homepage"
+              ? `${identity.name}, Homepage`
+              : "Wahyu Patriaji, PatriaWorks Homepage"
           }
         >
           <div className="w-9 h-9 bg-[var(--navy)] text-[var(--gold)] border-2 border-[var(--navy)] flex items-center justify-center font-mono font-black text-base retro-shadow-sm group-hover:bg-[var(--navy-light)] transition-all">
@@ -94,7 +100,7 @@ export const Navbar: React.FC = () => {
 
         {/* Desktop Navigation Links */}
         <nav
-          className="hidden md:flex items-center gap-1 lg:gap-2"
+          className="hidden lg:flex items-center gap-1 lg:gap-2"
           aria-label="Main Navigation"
         >
           {navLinks.map((link) => {
@@ -116,7 +122,7 @@ export const Navbar: React.FC = () => {
         </nav>
 
         {/* Actions (Language Toggle & CV Download) */}
-        <div className="hidden md:flex items-center gap-3">
+        <div className="hidden lg:flex items-center gap-3">
           <LanguageToggle />
           <Button
             href={IS_COMPANY_MODE ? "/contact" : "/cv/cv-wahyu-patriaji.pdf"}
@@ -136,7 +142,7 @@ export const Navbar: React.FC = () => {
         </div>
 
         {/* Mobile Menu Toggle & Language */}
-        <div className="flex items-center gap-2 md:hidden">
+        <div className="flex items-center gap-2 lg:hidden">
           <LanguageToggle />
           <button
             type="button"
@@ -156,7 +162,7 @@ export const Navbar: React.FC = () => {
 
       {/* Mobile Drawer Menu */}
       {mobileMenuOpen && (
-        <div className="md:hidden border-t-2 border-[var(--navy)] bg-[var(--surface)] px-4 pt-3 pb-6 space-y-3 animate-in slide-in-from-top duration-200 shadow-xl">
+        <div className="lg:hidden border-t-2 border-[var(--navy)] bg-[var(--surface)] px-4 pt-3 pb-6 space-y-3 animate-in slide-in-from-top duration-200 shadow-xl">
           <nav className="flex flex-col space-y-1.5" aria-label="Mobile Navigation">
             {navLinks.map((link) => {
               const active = isActive(link.href);

@@ -4,7 +4,7 @@ import { IS_COMPANY_MODE } from "@/lib/site-mode";
 export default function manifest(): MetadataRoute.Manifest {
   return {
     name: IS_COMPANY_MODE
-      ? "Patriaworks — Independent Software House"
+      ? "Patriaworks | Independent Software House"
       : "Wahyu Patriaji, Full-Stack & Mobile Software Engineer",
     short_name: IS_COMPANY_MODE ? "Patriaworks" : "Wahyu Patriaji",
     description: IS_COMPANY_MODE

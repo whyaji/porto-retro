@@ -89,21 +89,21 @@ export function NamePromptModal({ isOpen, onStartSession, onImportSession, onErr
               </div>
             </div>
 
-            {/* Version Selection — rendered dynamically from QUESTION_VERSIONS registry */}
+            {/* Version Selection, rendered dynamically from QUESTION_VERSIONS registry */}
             <div>
               <label className="block text-xs font-bold uppercase tracking-wider text-slate-700 dark:text-slate-300 mb-2">
                 Pilih Paket Soal Ujian
               </label>
               <div className="flex flex-col gap-3">
 
-                {/* Featured version (first in registry) — full width */}
+                {/* Featured version (first in registry), full width */}
                 <VersionCard
                   meta={featuredVersion}
                   selected={version === featuredVersion.id}
                   onSelect={() => setVersion(featuredVersion.id)}
                 />
 
-                {/* Remaining versions — 2-column grid */}
+                {/* Remaining versions, 2-column grid */}
                 {otherVersions.length > 0 && (
                   <div
                     className={`grid gap-3 ${
@@ -164,7 +164,7 @@ export function NamePromptModal({ isOpen, onStartSession, onImportSession, onErr
   );
 }
 
-// ── Internal sub-component — no need to change when adding versions ──────────
+// ── Internal sub-component, no need to change when adding versions ──────────
 import type { QuestionVersionMeta } from "@/assets/utbk-ukppu";
 
 function VersionCard({

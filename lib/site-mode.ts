@@ -15,3 +15,14 @@ export const SITE_MODE: SiteMode = rawMode === "company" ? "company" : "personal
 export const IS_COMPANY_MODE = SITE_MODE === "company";
 
 export const IS_PERSONAL_MODE = !IS_COMPANY_MODE;
+
+/**
+ * Feature flag for the "Our Own Products" surfaces: the homepage section, the
+ * Products nav/footer links, and the /products page.
+ *
+ * The code and content stay in the repo, but the surfaces stay hidden until
+ * they are ready to be presented. Set `NEXT_PUBLIC_SHOW_PRODUCTS=true` (and run
+ * in company mode) to show them again.
+ */
+export const IS_PRODUCTS_ENABLED =
+  IS_COMPANY_MODE && process.env.NEXT_PUBLIC_SHOW_PRODUCTS === "true";

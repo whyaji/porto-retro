@@ -22,7 +22,7 @@ export interface Question {
   explanation: string;
 }
 
-/** Version key — defined by QUESTION_VERSIONS registry in assets/utbk-ukppu/index.ts */
+/** Version key, defined by QUESTION_VERSIONS registry in assets/utbk-ukppu/index.ts */
 export type QuestionVersion = string;
 
 export interface UserSession {

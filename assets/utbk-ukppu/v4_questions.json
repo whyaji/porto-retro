@@ -25,7 +25,7 @@
       },
       {
         "id": "B",
-        "text": "Menjelaskan kepada Tn. A secara langsung tentang sifat asesmen forensik ini — bahwa Dr. M berperan sebagai evaluator independen bukan terapis, bahwa hasil dapat digunakan di pengadilan, bahwa kerahasiaan memiliki batas yang jelas, dan bahwa perintah pengadilan menjadikan asesmen ini wajib secara hukum — kemudian mendokumentasikan seluruh proses ini termasuk penolakan Tn. A secara tertulis."
+        "text": "Menjelaskan kepada Tn. A secara langsung tentang sifat asesmen forensik ini, bahwa Dr. M berperan sebagai evaluator independen bukan terapis, bahwa hasil dapat digunakan di pengadilan, bahwa kerahasiaan memiliki batas yang jelas, dan bahwa perintah pengadilan menjadikan asesmen ini wajib secara hukum, kemudian mendokumentasikan seluruh proses ini termasuk penolakan Tn. A secara tertulis."
       },
       {
         "id": "C",
@@ -184,7 +184,7 @@
     "indicatorTitle": "Kemampuan dalam hubungan profesional",
     "caseStudy": {
       "title": "Studi Kasus 5: Hubungan Majemuk dengan Mantan Klien yang Kini Menjadi Kolega Evaluatif",
-      "scenario": "Tiga tahun lalu, Psikolog Pt. L menangani Nt. V (sekarang 32 tahun) selama enam bulan untuk kecemasan evaluatif, dan penanganan berakhir dengan baik serta tuntas. Baru-baru ini, institusi tempat Pt. L bekerja merekrut Nt. V sebagai staf psikolog baru di unit yang sama. Nt. V bersikap sangat profesional dan tidak pernah membicarakan hubungan terapeutik mereka di tempat kerja. Namun, Pt. L mulai merasakan bahwa ia memiliki pengetahuan mendalam tentang kerentanan Nt. V yang diperoleh dari sesi terapi — termasuk pola konflik keluarga yang berulang dan ketakutan evaluatifnya yang dalam — dan pengetahuan ini mulai hadir secara tidak sadar ketika Pt. L perlu memberikan penilaian kinerja Nt. V dalam rapat tim bulanan. Pt. L menyadari bahwa ada sesuatu yang tidak nyaman secara etis dalam posisinya ini, namun tidak yakin seberapa serius masalah yang sebenarnya ada.",
+      "scenario": "Tiga tahun lalu, Psikolog Pt. L menangani Nt. V (sekarang 32 tahun) selama enam bulan untuk kecemasan evaluatif, dan penanganan berakhir dengan baik serta tuntas. Baru-baru ini, institusi tempat Pt. L bekerja merekrut Nt. V sebagai staf psikolog baru di unit yang sama. Nt. V bersikap sangat profesional dan tidak pernah membicarakan hubungan terapeutik mereka di tempat kerja. Namun, Pt. L mulai merasakan bahwa ia memiliki pengetahuan mendalam tentang kerentanan Nt. V yang diperoleh dari sesi terapi, termasuk pola konflik keluarga yang berulang dan ketakutan evaluatifnya yang dalam, dan pengetahuan ini mulai hadir secara tidak sadar ketika Pt. L perlu memberikan penilaian kinerja Nt. V dalam rapat tim bulanan. Pt. L menyadari bahwa ada sesuatu yang tidak nyaman secara etis dalam posisinya ini, namun tidak yakin seberapa serius masalah yang sebenarnya ada.",
       "contextTags": [
         "Hubungan Majemuk",
         "Bias Evaluatif",
@@ -222,7 +222,7 @@
   {
     "id": "V4_Q06",
     "domainId": 4,
-    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Identifikasi Permasalahan/Kebutuhan)",
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi, Identifikasi Permasalahan/Kebutuhan)",
     "indicatorId": "1.2",
     "indicatorFullId": "D4-1.2",
     "indicatorTitle": "Mengidentifikasi permasalahan/kebutuhan dengan mempertimbangkan keluhan dan intake assessment",
@@ -266,7 +266,7 @@
   {
     "id": "V4_Q07",
     "domainId": 4,
-    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Identifikasi Permasalahan/Kebutuhan)",
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi, Identifikasi Permasalahan/Kebutuhan)",
     "indicatorId": "1.3",
     "indicatorFullId": "D4-1.3",
     "indicatorTitle": "Mengidentifikasi permasalahan/kebutuhan dengan mempertimbangkan faktor pemicu/penyebab",
@@ -310,7 +310,7 @@
   {
     "id": "V4_Q08",
     "domainId": 5,
-    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Tujuan Asesmen)",
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi, Tujuan Asesmen)",
     "indicatorId": "1.2",
     "indicatorFullId": "D5-1.2",
     "indicatorTitle": "Memformulasikan tujuan asesmen dengan mempertimbangkan keluhan",
@@ -354,7 +354,7 @@
   {
     "id": "V4_Q09",
     "domainId": 5,
-    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Tujuan Asesmen)",
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi, Tujuan Asesmen)",
     "indicatorId": "1.3",
     "indicatorFullId": "D5-1.3",
     "indicatorTitle": "Memformulasikan tujuan asesmen dengan mempertimbangkan dugaan sementara",
@@ -398,7 +398,7 @@
   {
     "id": "V4_Q10",
     "domainId": 5,
-    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Tujuan Asesmen)",
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi, Tujuan Asesmen)",
     "indicatorId": "1.4",
     "indicatorFullId": "D5-1.4",
     "indicatorTitle": "Memformulasikan tujuan asesmen secara komprehensif",
@@ -442,7 +442,7 @@
   {
     "id": "V4_Q11",
     "domainId": 6,
-    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Menentukan Metode Asesmen)",
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi, Menentukan Metode Asesmen)",
     "indicatorId": "1.2",
     "indicatorFullId": "D6-1.2",
     "indicatorTitle": "Membedakan metode asesmen yang tepat berdasarkan karakteristik klien",
@@ -486,7 +486,7 @@
   {
     "id": "V4_Q12",
     "domainId": 6,
-    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Menentukan Metode Asesmen)",
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi, Menentukan Metode Asesmen)",
     "indicatorId": "1.4",
     "indicatorFullId": "D6-1.4",
     "indicatorTitle": "Membandingkan dan memilih metode asesmen yang sesuai dengan karakteristik klien",
@@ -530,7 +530,7 @@
   {
     "id": "V4_Q13",
     "domainId": 6,
-    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Menentukan Metode Asesmen)",
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi, Menentukan Metode Asesmen)",
     "indicatorId": "1.6",
     "indicatorFullId": "D6-1.6",
     "indicatorTitle": "Melakukan evaluasi terhadap metode asesmen berdasarkan kesesuaian dengan karakteristik klien",
@@ -574,7 +574,7 @@
   {
     "id": "V4_Q14",
     "domainId": 7,
-    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Integrasi Data)",
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi, Integrasi Data)",
     "indicatorId": "1.2",
     "indicatorFullId": "D7-1.2",
     "indicatorTitle": "Menginterpretasikan data asesmen untuk menyusun dinamika psikologis",
@@ -618,7 +618,7 @@
   {
     "id": "V4_Q15",
     "domainId": 7,
-    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Integrasi Data)",
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi, Integrasi Data)",
     "indicatorId": "1.4",
     "indicatorFullId": "D7-1.4",
     "indicatorTitle": "Mengintegrasikan data asesmen untuk menyusun dinamika psikologis",
@@ -662,7 +662,7 @@
   {
     "id": "V4_Q16",
     "domainId": 8,
-    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Membuat Kesimpulan/Menegakkan Diagnosis)",
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi, Membuat Kesimpulan/Menegakkan Diagnosis)",
     "indicatorId": "1.2",
     "indicatorFullId": "D8-1.2",
     "indicatorTitle": "Membuat kesimpulan atau menegakkan diagnosis berdasarkan hasil asesmen dan teori psikologi",
@@ -706,7 +706,7 @@
   {
     "id": "V4_Q17",
     "domainId": 8,
-    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Membuat Kesimpulan/Menegakkan Diagnosis)",
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi, Membuat Kesimpulan/Menegakkan Diagnosis)",
     "indicatorId": "1.3",
     "indicatorFullId": "D8-1.3",
     "indicatorTitle": "Membandingkan berbagai gejala dan fungsi psikologis untuk membuat kesimpulan",
@@ -750,7 +750,7 @@
   {
     "id": "V4_Q18",
     "domainId": 9,
-    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Intervensi Psikologi - Menetapkan Tujuan dan Teknik Intervensi)",
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Intervensi Psikologi, Menetapkan Tujuan dan Teknik Intervensi)",
     "indicatorId": "1.2",
     "indicatorFullId": "D9-1.2",
     "indicatorTitle": "Memformulasikan tujuan intervensi dengan mempertimbangkan diagnosis dan dinamika psikologis",
@@ -794,7 +794,7 @@
   {
     "id": "V4_Q19",
     "domainId": 9,
-    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Intervensi Psikologi - Menetapkan Tujuan dan Teknik Intervensi)",
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Intervensi Psikologi, Menetapkan Tujuan dan Teknik Intervensi)",
     "indicatorId": "2.2",
     "indicatorFullId": "D9-2.2",
     "indicatorTitle": "Mengidentifikasi teknik intervensi yang tepat berdasarkan pendekatan dan kondisi klien",
@@ -838,7 +838,7 @@
   {
     "id": "V4_Q20",
     "domainId": 9,
-    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Intervensi Psikologi - Menetapkan Tujuan dan Teknik Intervensi)",
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Intervensi Psikologi, Menetapkan Tujuan dan Teknik Intervensi)",
     "indicatorId": "3.2",
     "indicatorFullId": "D9-3.2",
     "indicatorTitle": "Membandingkan dan memilih teknik intervensi sesuai kondisi/karakteristik klien",
@@ -882,7 +882,7 @@
   {
     "id": "V4_Q21",
     "domainId": 10,
-    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Intervensi Psikologi - Merencanakan Intervensi)",
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Intervensi Psikologi, Merencanakan Intervensi)",
     "indicatorId": "2.2",
     "indicatorFullId": "D10-2.2",
     "indicatorTitle": "Menjelaskan kesesuaian antara pendekatan dan teknik intervensi dengan masalah dan karakteristik klien",
@@ -926,7 +926,7 @@
   {
     "id": "V4_Q22",
     "domainId": 10,
-    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Intervensi Psikologi - Merencanakan Intervensi)",
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Intervensi Psikologi, Merencanakan Intervensi)",
     "indicatorId": "3.3",
     "indicatorFullId": "D10-3.3",
     "indicatorTitle": "Membandingkan berbagai teknik intervensi berbasis bukti dalam menyusun rancangan intervensi",
@@ -970,7 +970,7 @@
   {
     "id": "V4_Q23",
     "domainId": 11,
-    "domainTitle": "Keterampilan Kerja Khusus - Etika Psikologi (Pemahaman dan Penerapan Kode Etik)",
+    "domainTitle": "Keterampilan Kerja Khusus, Etika Psikologi (Pemahaman dan Penerapan Kode Etik)",
     "indicatorId": "1.1",
     "indicatorFullId": "D11-1.1",
     "indicatorTitle": "Menjelaskan standar perilaku profesional berdasarkan Kode Etik Psikologi Indonesia",
@@ -1014,7 +1014,7 @@
   {
     "id": "V4_Q24",
     "domainId": 11,
-    "domainTitle": "Keterampilan Kerja Khusus - Etika Psikologi (Pemahaman dan Penerapan Kode Etik)",
+    "domainTitle": "Keterampilan Kerja Khusus, Etika Psikologi (Pemahaman dan Penerapan Kode Etik)",
     "indicatorId": "2.1",
     "indicatorFullId": "D11-2.1",
     "indicatorTitle": "Menerapkan standar perilaku profesional berdasarkan Kode Etik Psikologi Indonesia",
@@ -1058,7 +1058,7 @@
   {
     "id": "V4_Q25",
     "domainId": 11,
-    "domainTitle": "Keterampilan Kerja Khusus - Etika Psikologi (Pemahaman dan Penerapan Kode Etik)",
+    "domainTitle": "Keterampilan Kerja Khusus, Etika Psikologi (Pemahaman dan Penerapan Kode Etik)",
     "indicatorId": "2.2",
     "indicatorFullId": "D11-2.2",
     "indicatorTitle": "Mendeteksi perilaku profesional dan tidak profesional berdasarkan Kode Etik Psikologi Indonesia",
@@ -1102,7 +1102,7 @@
   {
     "id": "V4_Q26",
     "domainId": 12,
-    "domainTitle": "Keterampilan Kerja Khusus - Etika Psikologi (Hak dan Kewenangan Kompetensi)",
+    "domainTitle": "Keterampilan Kerja Khusus, Etika Psikologi (Hak dan Kewenangan Kompetensi)",
     "indicatorId": "1.1",
     "indicatorFullId": "D12-1.1",
     "indicatorTitle": "Menjelaskan tindakan dalam layanan psikologis yang sesuai dengan hak dan kewenangan psikolog umum",
@@ -1146,7 +1146,7 @@
   {
     "id": "V4_Q27",
     "domainId": 12,
-    "domainTitle": "Keterampilan Kerja Khusus - Etika Psikologi (Hak dan Kewenangan Kompetensi)",
+    "domainTitle": "Keterampilan Kerja Khusus, Etika Psikologi (Hak dan Kewenangan Kompetensi)",
     "indicatorId": "1.2",
     "indicatorFullId": "D12-1.2",
     "indicatorTitle": "Menerapkan tindakan dalam layanan psikologis yang sesuai dengan hak dan kewenangan psikolog umum",
@@ -1190,7 +1190,7 @@
   {
     "id": "V4_Q28",
     "domainId": 12,
-    "domainTitle": "Keterampilan Kerja Khusus - Etika Psikologi (Hak dan Kewenangan Kompetensi)",
+    "domainTitle": "Keterampilan Kerja Khusus, Etika Psikologi (Hak dan Kewenangan Kompetensi)",
     "indicatorId": "2.1",
     "indicatorFullId": "D12-2.1",
     "indicatorTitle": "Mendeteksi tindakan yang sesuai dan tidak sesuai dengan hak dan kewenangan psikolog umum",
@@ -1322,7 +1322,7 @@
   {
     "id": "V4_Q31",
     "domainId": 4,
-    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Identifikasi Permasalahan/Kebutuhan)",
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi, Identifikasi Permasalahan/Kebutuhan)",
     "indicatorId": "1.1",
     "indicatorFullId": "D4-1.1",
     "indicatorTitle": "Mengetahui cara mengidentifikasi permasalahan/kebutuhan",
@@ -1366,7 +1366,7 @@
   {
     "id": "V4_Q32",
     "domainId": 6,
-    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Menentukan Metode Asesmen)",
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi, Menentukan Metode Asesmen)",
     "indicatorId": "1.5",
     "indicatorFullId": "D6-1.5",
     "indicatorTitle": "Membandingkan dan memilih metode asesmen yang tepat berdasarkan konteks atau latar layanan",
@@ -1410,7 +1410,7 @@
   {
     "id": "V4_Q33",
     "domainId": 7,
-    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Integrasi Data)",
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi, Integrasi Data)",
     "indicatorId": "1.3",
     "indicatorFullId": "D7-1.3",
     "indicatorTitle": "Mengidentifikasi data asesmen yang tepat untuk menyusun dinamika psikologis",
@@ -1454,7 +1454,7 @@
   {
     "id": "V4_Q34",
     "domainId": 8,
-    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi - Membuat Kesimpulan/Menegakkan Diagnosis)",
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Asesmen Psikologi, Membuat Kesimpulan/Menegakkan Diagnosis)",
     "indicatorId": "1.4",
     "indicatorFullId": "D8-1.4",
     "indicatorTitle": "Membandingkan dan memilih teori psikologi yang sesuai untuk menjelaskan gejala klien",
@@ -1498,7 +1498,7 @@
   {
     "id": "V4_Q35",
     "domainId": 9,
-    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Intervensi Psikologi - Menetapkan Tujuan dan Teknik Intervensi)",
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Intervensi Psikologi, Menetapkan Tujuan dan Teknik Intervensi)",
     "indicatorId": "4.1",
     "indicatorFullId": "D9-4.1",
     "indicatorTitle": "Melakukan evaluasi terhadap teknik intervensi berdasarkan kondisi/karakteristik klien",
@@ -1542,7 +1542,7 @@
   {
     "id": "V4_Q36",
     "domainId": 10,
-    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Intervensi Psikologi - Merencanakan Intervensi)",
+    "domainTitle": "Keterampilan Kerja Khusus (Kemampuan Intervensi Psikologi, Merencanakan Intervensi)",
     "indicatorId": "3.4",
     "indicatorFullId": "D10-3.4",
     "indicatorTitle": "Melakukan evaluasi terhadap teknik intervensi berbasis bukti sesuai permasalahan dan konteks",
@@ -1586,7 +1586,7 @@
   {
     "id": "V4_Q37",
     "domainId": 13,
-    "domainTitle": "Keterampilan Kerja Khusus - Etika Psikologi dan Hukum (Pengetahuan Hukum)",
+    "domainTitle": "Keterampilan Kerja Khusus, Etika Psikologi dan Hukum (Pengetahuan Hukum)",
     "indicatorId": "1.1",
     "indicatorFullId": "D13-1.1",
     "indicatorTitle": "Menunjukkan peraturan perundangan yang relevan dengan layanan psikologis sesuai permasalahan dan latar layanan",
@@ -1630,7 +1630,7 @@
   {
     "id": "V4_Q38",
     "domainId": 13,
-    "domainTitle": "Keterampilan Kerja Khusus - Etika Psikologi dan Hukum (Pengetahuan Hukum)",
+    "domainTitle": "Keterampilan Kerja Khusus, Etika Psikologi dan Hukum (Pengetahuan Hukum)",
     "indicatorId": "2.1",
     "indicatorFullId": "D13-2.1",
     "indicatorTitle": "Menunjukkan peraturan perundangan yang relevan dengan permasalahan psikologis terkait hukum sesuai latar layanan",
@@ -1718,7 +1718,7 @@
   {
     "id": "V4_Q40",
     "domainId": 11,
-    "domainTitle": "Keterampilan Kerja Khusus - Etika Psikologi (Pemahaman dan Penerapan Kode Etik)",
+    "domainTitle": "Keterampilan Kerja Khusus, Etika Psikologi (Pemahaman dan Penerapan Kode Etik)",
     "indicatorId": "2.1",
     "indicatorFullId": "D11-2.1",
     "indicatorTitle": "Menerapkan standar perilaku profesional berdasarkan Kode Etik Psikologi Indonesia",

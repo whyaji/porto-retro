@@ -8,7 +8,7 @@ export const SITE_URL =
   process.env.NEXT_PUBLIC_SITE_URL ?? "https://patriaworks.my.id";
 
 const PERSON = {
-  siteName: "Wahyu Patriaji — PatriaWorks",
+  siteName: "Wahyu Patriaji | PatriaWorks",
   authorName: "Wahyu Patriaji",
   title: "Wahyu Patriaji | Full-Stack Software Engineer",
   description:
@@ -33,19 +33,19 @@ const PERSON = {
     "Portfolio",
     "Resume",
   ],
-  ogAlt: "Wahyu Patriaji — Full-Stack & Mobile Software Engineer | PatriaWorks",
+  ogAlt: "Wahyu Patriaji | Full-Stack & Mobile Software Engineer | PatriaWorks",
 } as const;
 
 const COMPANY = {
-  siteName: "Patriaworks — Software House",
+  siteName: "Patriaworks | Software House",
   authorName: "Patriaworks",
   title: "Patriaworks | Custom Web, Mobile & Backend Systems",
   description:
-    "Patriaworks is an independent software house building web platforms, offline-first field apps, and backend systems for operations that have outgrown spreadsheets and off-the-shelf tools.",
+    "Patriaworks is an independent software house building web platforms, offline-first field apps, and backend systems for operations that have outgrown spreadsheets and off-the-shelf tools, and developing its own AI-powered products with the Claude API.",
   ogDescription:
-    "Custom software from Patriaworks: web GIS platforms, offline-first field apps, SSO, and the backends that keep operations running.",
+    "Custom software from Patriaworks: web GIS platforms, offline-first field apps, SSO, the backends that keep operations running, and AI products in development.",
   twitterDescription:
-    "Independent software house building custom web platforms, field mobile apps, and backend systems for real operations.",
+    "Independent software house building custom web platforms, field mobile apps, and backend systems, with AI products built on the Claude API in development.",
   keywords: [
     "Patriaworks",
     "Software House Indonesia",
@@ -53,6 +53,9 @@ const COMPANY = {
     "Web GIS Development",
     "Mobile App Development",
     "Backend Development",
+    "AI Software Development",
+    "Claude API Integration",
+    "LLM Application Development",
     "Node.js",
     "React",
     "Flutter",
@@ -60,7 +63,7 @@ const COMPANY = {
     "Legacy Modernization",
     "Portfolio",
   ],
-  ogAlt: "Patriaworks — Independent Software House | Custom Web & Mobile Systems",
+  ogAlt: "Patriaworks | Independent Software House | Custom Web & Mobile Systems",
 } as const;
 
 const ACTIVE = IS_COMPANY_MODE ? COMPANY : PERSON;
@@ -82,7 +85,7 @@ export const OG_IMAGE = {
   alt: ACTIVE.ogAlt,
 } as const;
 
-/** Optional — only needed for Facebook Login, Insights, or SDK features */
+/** Optional, only needed for Facebook Login, Insights, or SDK features */
 export const FB_APP_ID = process.env.NEXT_PUBLIC_FB_APP_ID;
 
 export function getFacebookMeta(): Record<string, string> | undefined {
@@ -236,6 +239,7 @@ export function getOrganizationJsonLd() {
       "Systems Integration",
       "Single Sign-On",
       "Legacy Modernization",
+      "AI Integration",
     ],
   };
 }

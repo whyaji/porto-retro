@@ -4,7 +4,7 @@ import { useI18n } from "@/context/i18n-context";
 import { getWhatsAppUrl } from "@/lib/data/resume";
 import { getSiteIdentity } from "@/lib/data/site";
 import { companyData, pick } from "@/lib/data/company";
-import { IS_COMPANY_MODE } from "@/lib/site-mode";
+import { IS_COMPANY_MODE, IS_PRODUCTS_ENABLED } from "@/lib/site-mode";
 import { SectionHeader } from "@/components/ui/SectionHeader";
 import { Badge } from "@/components/ui/Badge";
 import { Button } from "@/components/ui/Button";
@@ -19,6 +19,7 @@ import {
   FiLinkedin,
   FiInstagram,
   FiArrowRight,
+  FiCpu,
 } from "react-icons/fi";
 import { FaWhatsapp } from "react-icons/fa";
 
@@ -76,6 +77,41 @@ export default function AboutPage() {
                   {t.about.backgroundP2}
                 </p>
               </div>
+
+              {/* Card 3: Product & AI direction (company mode only) */}
+              {IS_COMPANY_MODE && (
+                <div className="bg-[var(--card)] border-2 border-[var(--navy)] retro-shadow p-6 sm:p-8 space-y-4">
+                  <div className="flex items-center gap-2 pb-3 border-b-2 border-[var(--navy)]">
+                    <FiCpu className="w-5 h-5 text-[var(--green)]" />
+                    <h3 className="font-display font-extrabold text-xl text-[var(--navy)]">
+                      {t.ai.aboutTitle}
+                    </h3>
+                  </div>
+                  <p className="text-sm sm:text-base text-[var(--navy)]/90 font-sans leading-relaxed">
+                    {t.ai.aboutBody}
+                  </p>
+                  <div className="flex flex-wrap gap-3 pt-1">
+                    {IS_PRODUCTS_ENABLED && (
+                      <Button
+                        href="/products"
+                        variant="outline"
+                        size="md"
+                        rightIcon={<FiArrowRight className="w-4 h-4" />}
+                      >
+                        {t.products.viewAll}
+                      </Button>
+                    )}
+                    <Button
+                      href="/ai"
+                      variant="gold"
+                      size="md"
+                      rightIcon={<FiArrowRight className="w-4 h-4" />}
+                    >
+                      {t.ai.badge}
+                    </Button>
+                  </div>
+                </div>
+              )}
 
               {/* Key Focus Highlights */}
               <div className="bg-[var(--surface-light)] border-2 border-[var(--navy)] p-6 sm:p-8 space-y-4">
