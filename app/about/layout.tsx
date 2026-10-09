@@ -11,7 +11,7 @@ export const metadata: Metadata = pageMetadata(
   {
     title: "About",
     description:
-      "Patriaworks is an independent software house led by Wahyu Patriaji, building custom web, mobile, and backend systems for operations across Indonesia, and developing its own AI-powered products with the Claude API.",
+      "Patriaworks is an independent software house led by Wahyu Patriaji, building custom web, mobile, and backend systems for operations across Indonesia, and developing its own AI-powered products with modern AI APIs.",
     path: "/about",
   }
 );

@@ -41,11 +41,11 @@ const COMPANY = {
   authorName: "Patriaworks",
   title: "Patriaworks | Custom Web, Mobile & Backend Systems",
   description:
-    "Patriaworks is an independent software house building web platforms, offline-first field apps, and backend systems for operations that have outgrown spreadsheets and off-the-shelf tools, and developing its own AI-powered products with the Claude API.",
+    "Patriaworks is an independent software house building web platforms, offline-first field apps, and backend systems for operations that have outgrown spreadsheets and off-the-shelf tools, and developing its own AI-powered products with modern AI APIs.",
   ogDescription:
     "Custom software from Patriaworks: web GIS platforms, offline-first field apps, SSO, the backends that keep operations running, and AI products in development.",
   twitterDescription:
-    "Independent software house building custom web platforms, field mobile apps, and backend systems, with AI products built on the Claude API in development.",
+    "Independent software house building custom web platforms, field mobile apps, and backend systems, with AI products built on modern AI APIs in development.",
   keywords: [
     "Patriaworks",
     "Software House Indonesia",
@@ -54,7 +54,7 @@ const COMPANY = {
     "Mobile App Development",
     "Backend Development",
     "AI Software Development",
-    "Claude API Integration",
+    "AI API Integration",
     "LLM Application Development",
     "Node.js",
     "React",

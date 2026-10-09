@@ -9,13 +9,13 @@ export const metadata: Metadata = pageMetadata(
   {
     title: "AI & Technical Approach",
     description:
-      "The engineering approach of Wahyu Patriaji, from validation and logging to planned Claude integration.",
+      "The engineering approach of Wahyu Patriaji, from validation and logging to planned AI integration.",
     path: "/ai",
   },
   {
-    title: "AI & Claude Integration",
+    title: "AI Integration",
     description:
-      "What runs in Patriaworks production systems today, and the planned Claude integration: server-side API keys, structured outputs, retrieval, human review, and cost controls. No AI feature is live yet.",
+      "What runs in Patriaworks production systems today, and the planned AI integration: server-side API keys, structured outputs, retrieval, human review, and cost controls. No AI feature is live yet.",
     path: "/ai",
   }
 );

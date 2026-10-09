@@ -23,7 +23,7 @@ export interface ProductEntry {
   status: ProductStatus;
   /** Honest status note: where it runs, or what is still missing. */
   statusNote: LocalizedText;
-  /** How AI or Claude is used. `null` when the product has no AI component. */
+  /** How AI is used. `null` when the product has no AI component. */
   aiRole: LocalizedText | null;
   /** Demo or product link. `null` when no link exists yet. */
   link: string | null;

@@ -51,7 +51,7 @@ export const metadata: Metadata = {
     {
       title: "Home",
       description:
-        "Patriaworks is an independent software house building custom web platforms, offline-first field apps, and backend systems for operations that have outgrown spreadsheets, and developing its own AI-powered products with the Claude API.",
+        "Patriaworks is an independent software house building custom web platforms, offline-first field apps, and backend systems for operations that have outgrown spreadsheets, and developing its own AI-powered products with modern AI APIs.",
       path: "/",
     }
   ),

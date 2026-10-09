@@ -78,12 +78,12 @@
       "id": "Sedang dikembangkan. Arsitekturnya sudah didefinisikan tetapi backend belum dikirim, jadi belum ada demo, belum ada pengguna, dan belum ada tanggal rilis. Halaman ini bukan produk yang sudah diluncurkan."
     },
     "aiRole": {
-      "en": "Claude is planned for summarization and field extraction through structured outputs and tool use. The API key stays on the server, and no Claude call exists in production today.",
-      "id": "Claude direncanakan untuk ringkasan dan ekstraksi field melalui structured outputs dan tool use. Kunci API tetap di server, dan belum ada panggilan Claude di produksi hari ini."
+      "en": "AI is planned for summarization and field extraction through structured outputs and tool use. The API key stays on the server, and no AI call exists in production today.",
+      "id": "AI direncanakan untuk ringkasan dan ekstraksi field melalui structured outputs dan tool use. Kunci API tetap di server, dan belum ada panggilan AI di produksi hari ini."
     },
     "link": null,
     "tech": [
-      "Planned: Claude API",
+      "Planned: AI API",
       "Planned: Next.js Route Handlers",
       "TypeScript",
       "Zod",
@@ -122,14 +122,14 @@
     },
     "status": "planned",
     "statusNote": {
-      "en": "Concept only. It needs a backend, an Anthropic API key, and explanations written or reviewed by a person. Nothing about it is built.",
-      "id": "Baru konsep. Fitur ini butuh backend, kunci API Anthropic, serta pembahasan yang ditulis atau ditinjau orang. Belum ada yang dibangun."
+      "en": "Concept only. It needs a backend, an AI API key, and explanations written or reviewed by a person. Nothing about it is built.",
+      "id": "Baru konsep. Fitur ini butuh backend, kunci API AI, serta pembahasan yang ditulis atau ditinjau orang. Belum ada yang dibangun."
     },
     "aiRole": {
-      "en": "Claude would draft the explanation, the app would check it against the answer key, and a person would review it before release. This is a plan, not a live feature.",
-      "id": "Claude akan menyusun draft pembahasan, aplikasi memeriksanya terhadap kunci jawaban, lalu orang meninjaunya sebelum dirilis. Ini rencana, bukan fitur yang sudah jalan."
+      "en": "AI would draft the explanation, the app would check it against the answer key, and a person would review it before release. This is a plan, not a live feature.",
+      "id": "AI akan menyusun draft pembahasan, aplikasi memeriksanya terhadap kunci jawaban, lalu orang meninjaunya sebelum dirilis. Ini rencana, bukan fitur yang sudah jalan."
     },
     "link": null,
-    "tech": ["Planned: Claude API", "Planned: Next.js Route Handlers", "Next.js", "TypeScript"]
+    "tech": ["Planned: AI API", "Planned: Next.js Route Handlers", "Next.js", "TypeScript"]
   }
 ]

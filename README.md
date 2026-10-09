@@ -68,7 +68,7 @@ The application natively supports **Indonesian (`id`, default)** and **English (
 │   ├── page.tsx              # Home landing page
 │   ├── about/page.tsx        # Bio, engineering focus & achievements
 │   ├── products/page.tsx     # Patriaworks products with development status (company mode)
-│   ├── ai/page.tsx           # Technology & AI: shipped engineering vs planned Claude work
+│   ├── ai/page.tsx           # Technology & AI: shipped engineering vs planned AI work
 │   ├── experience/page.tsx   # Interactive career timeline
 │   ├── skills/page.tsx       # Tech stack & skill matrix
 │   ├── projects/page.tsx     # Filterable project catalogue
