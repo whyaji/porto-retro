@@ -9,7 +9,7 @@
       "github": "https://github.com/whyaji",
       "instagram": "https://www.instagram.com/wahyu.patriaji/"
     },
-    "summary": "Software Engineer with hands-on experience building scalable web, backend, and cross-platform mobile applications using Node.js, HonoJS, React.js, React Native, and Flutter. Experienced in designing integrated systems that enable data sharing across multiple applications and implementing centralized SSO authentication for enterprise users. Strong background in system architecture, geospatial applications, legacy system modernization, performance optimization, deployment, and production application lifecycle management.",
+    "summary": "Software Engineer with hands on experience building scalable web, backend, and cross platform mobile applications using Node.js, HonoJS, React.js, React Native, and Flutter. Experienced in AI powered application development, LLM integration, and building intelligent chatbots using local LLMs and Ollama. Skilled in designing document based AI systems, integrating retrieval augmented generation (RAG) for context aware responses, and connecting AI capabilities with enterprise data and document repositories. Strong background in system architecture, enterprise application integration, centralized SSO authentication, geospatial applications, legacy system modernization, performance optimization, and production deployment.",
     "experience": [
       {
         "company": "PT Sawit Sumbermas Sarana, Tbk.",
@@ -24,6 +24,8 @@
               "Developed interactive and responsive web frontends using React.js, and efficiently managed application state with Redux Toolkit, and Zustand.",
               "Integrated interactive maps using Leaflet and MapLibre for geospatial data visualization, including heatmaps, clustering, and real-time coordinate tracking.",
               "Built cross-platform mobile applications for Android from scratch to production using Flutter and React Native.",
+              "Developed AI powered chatbots using LLMs and Ollama for natural language interactions and intelligent information retrieval.",
+              "Built AI document search and question answering systems using Retrieval Augmented Generation (RAG) to retrieve relevant information from enterprise documents.",
               "Integrated multiple company projects and applications by designing data-sharing and interoperability solutions to enable seamless data synchronization and centralized data access.",
               "Designed and implemented Single Sign-On (SSO) authentication for company employees, enabling centralized and secure access across multiple internal applications.",
               "Developed and maintained legacy project using Laravel, PHP, and Node.js, including feature enhancements, bug fixing, performance optimization, and system refactoring.",
@@ -105,7 +107,7 @@
       "github": "https://github.com/whyaji",
       "instagram": "https://www.instagram.com/wahyu.patriaji/"
     },
-    "summary": "Software Engineer dengan pengalaman praktis membangun aplikasi web, backend, dan mobile lintas platform yang scalable menggunakan Node.js, HonoJS, React.js, React Native, dan Flutter. Berpengalaman dalam merancang sistem terintegrasi yang memungkinkan berbagi data antar aplikasi dan mengimplementasikan autentikasi SSO terpusat untuk pengguna enterprise. Memiliki latar belakang kuat dalam arsitektur sistem, aplikasi spasial (GIS), modernisasi sistem legacy, optimasi performa, deployment, dan manajemen siklus hidup aplikasi produksi.",
+    "summary": "Software Engineer dengan pengalaman praktis membangun aplikasi web, backend, dan mobile lintas platform yang scalable menggunakan Node.js, HonoJS, React.js, React Native, dan Flutter. Berpengalaman dalam pengembangan aplikasi berbasis AI, integrasi LLM, dan pembangunan chatbot cerdas menggunakan local LLM dan Ollama. Terampil dalam merancang sistem AI berbasis dokumen, mengintegrasikan Retrieval-Augmented Generation (RAG) untuk respons kontekstual, serta menghubungkan kapabilitas AI dengan data enterprise dan repositori dokumen. Memiliki latar belakang kuat dalam arsitektur sistem, integrasi aplikasi enterprise, autentikasi SSO terpusat, aplikasi geospasial, modernisasi sistem legacy, optimasi performa, dan deployment produksi.",
     "experience": [
       {
         "company": "PT Sawit Sumbermas Sarana, Tbk.",
@@ -120,6 +122,8 @@
               "Mengembangkan antarmuka web interaktif dan responsif menggunakan React.js, serta mengelola state aplikasi secara efisien dengan Redux Toolkit dan Zustand.",
               "Mengintegrasikan peta interaktif menggunakan Leaflet dan MapLibre untuk visualisasi data geospasial, termasuk heatmap, clustering, dan pelacakan koordinat real-time.",
               "Membangun aplikasi mobile lintas platform untuk Android dari awal hingga produksi menggunakan Flutter dan React Native.",
+              "Mengembangkan chatbot berbasis AI menggunakan LLM dan Ollama untuk interaksi bahasa alami serta temu balik informasi cerdas.",
+              "Membangun sistem pencarian dokumen dan tanya jawab berbasis AI menggunakan Retrieval-Augmented Generation (RAG) untuk menemukan informasi relevan dari dokumen enterprise.",
               "Mengintegrasikan berbagai proyek dan aplikasi perusahaan dengan merancang solusi interoperabilitas dan berbagi data untuk sinkronisasi data yang mulus serta akses data terpusat.",
               "Merancang dan mengimplementasikan autentikasi Single Sign-On (SSO) untuk karyawan perusahaan, memungkinkan akses terpusat dan aman di berbagai aplikasi internal.",
               "Mengembangkan dan memelihara proyek legacy menggunakan Laravel, PHP, dan Node.js, mencakup peningkatan fitur, perbaikan bug, optimasi performa, dan refactoring sistem.",

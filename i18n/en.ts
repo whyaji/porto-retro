@@ -15,7 +15,7 @@ export const enTranslations = {
     tagline:
       "Engineering scalable web applications, distributed backends, & cross-platform mobile apps.",
     subtagline:
-      "Software Engineer at PT Sawit Sumbermas Sarana Tbk. Experienced in engineering scalable web applications, distributed backends, and cross-platform mobile apps using Node.js, React, and Flutter.",
+      "Software Engineer at PT Sawit Sumbermas Sarana Tbk. Experienced in engineering scalable web applications, distributed backends, cross-platform mobile apps, and AI-powered solutions (LLMs & RAG) using Node.js, React, and Flutter.",
     viewProjects: "Explore Project Catalog",
     contactMe: "Contact Wahyu",
     downloadCV: "Download PDF Resume",
