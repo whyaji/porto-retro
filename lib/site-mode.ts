@@ -26,3 +26,14 @@ export const IS_PERSONAL_MODE = !IS_COMPANY_MODE;
  */
 export const IS_PRODUCTS_ENABLED =
   IS_COMPANY_MODE && process.env.NEXT_PUBLIC_SHOW_PRODUCTS === "true";
+
+export type AiChatMode = "enabled" | "disabled" | "redirect";
+
+const rawAiChatMode = process.env.NEXT_PUBLIC_AI_CHAT_MODE || "enabled";
+export const AI_CHAT_MODE: AiChatMode =
+  rawAiChatMode === "disabled" || rawAiChatMode === "redirect"
+    ? rawAiChatMode
+    : "enabled";
+
+export const AI_CHAT_URL =
+  process.env.NEXT_PUBLIC_AI_CHAT_URL || "https://chat.patriaworks.my.id";

@@ -1,7 +1,8 @@
 import { NextResponse } from "next/server";
 import { logger } from "@/lib/logger";
 
-function getOllamaHeaders(): Record<string, string> {
+export async function GET() {
+  const baseUrl = process.env.OLLAMA_BASE_URL || "http://127.0.0.1:11434";
   const headers: Record<string, string> = {
     "Content-Type": "application/json",
   };
@@ -13,20 +14,11 @@ function getOllamaHeaders(): Record<string, string> {
   if (clientSecret) {
     headers["CF-Access-Client-Secret"] = clientSecret;
   }
-  return headers;
-}
-
-function getOllamaBaseUrl(): string {
-  return process.env.OLLAMA_BASE_URL || "http://127.0.0.1:11434";
-}
-
-export async function GET() {
-  const baseUrl = getOllamaBaseUrl();
-  const headers = getOllamaHeaders();
 
   try {
     const controller = new AbortController();
-    const timeoutId = setTimeout(() => controller.abort(), 5000);
+    // Increased to 12 seconds to accommodate Cloudflare Tunnel & Access TLS/proxy handshake latency
+    const timeoutId = setTimeout(() => controller.abort(), 12000);
 
     const res = await fetch(`${baseUrl}/api/tags`, {
       method: "GET",
@@ -66,13 +58,13 @@ export async function GET() {
 
     const defaultModelEnv =
       process.env.OLLAMA_CHAT_MODEL_DEFAULT ||
-      process.env.OLLAMA_CHAT_MODEL_DEFAULT ||
+      process.env.OLLAMA_CHAT_MODEL_DEFAULt ||
       allowedModels[0] ||
       fetchedModels[0] ||
       "lfm3:1.7b";
 
     const maxSessions = parseInt(process.env.AI_CHAT_MAX_SESSIONS || "10", 10);
-    const maxSessionSize = parseInt(process.env.AI_CHAT_MAX_SESSIONS_SIZE || "50", 10); // max messages per session
+    const maxSessionSize = parseInt(process.env.AI_CHAT_MAX_SESSIONS_SIZE || "50", 10);
     const think = process.env.OLLAMA_CHAT_THINK === "true";
 
     return NextResponse.json({

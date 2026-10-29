@@ -8,7 +8,7 @@ import { LanguageToggle } from "@/components/ui/LanguageToggle";
 import { Button } from "@/components/ui/Button";
 import { getSiteIdentity } from "@/lib/data/site";
 import { companyData, pick } from "@/lib/data/company";
-import { IS_COMPANY_MODE, IS_PRODUCTS_ENABLED } from "@/lib/site-mode";
+import { IS_COMPANY_MODE, IS_PRODUCTS_ENABLED, AI_CHAT_MODE, AI_CHAT_URL } from "@/lib/site-mode";
 import { FiMenu, FiX, FiDownload, FiTerminal, FiArrowRight, FiCpu } from "react-icons/fi";
 
 export const Navbar: React.FC = () => {
@@ -28,10 +28,12 @@ export const Navbar: React.FC = () => {
   }, []);
 
   useEffect(() => {
-    fetch("/api/chat-ai/status")
-      .then((res) => res.json())
-      .then((data) => setOllamaAvailable(Boolean(data.available)))
-      .catch(() => setOllamaAvailable(false));
+    if (AI_CHAT_MODE === "enabled") {
+      fetch("/api/chat-ai/status")
+        .then((res) => res.json())
+        .then((data) => setOllamaAvailable(Boolean(data.available)))
+        .catch(() => setOllamaAvailable(false));
+    }
   }, []);
 
   if (pathname.startsWith("/utbk-ukppu") || pathname.startsWith("/app/utbk-ukppu")) {
@@ -59,6 +61,9 @@ export const Navbar: React.FC = () => {
     if (href === "/") return pathname === "/";
     return pathname.startsWith(href);
   };
+
+  const chatAiHref = AI_CHAT_MODE === "redirect" ? AI_CHAT_URL : "/app/chat-ai";
+  const isChatAiExternal = AI_CHAT_MODE === "redirect";
 
   return (
     <header
@@ -133,22 +138,19 @@ export const Navbar: React.FC = () => {
         {/* Actions (Language Toggle, Chat AI & CV Download) */}
         <div className="hidden lg:flex items-center gap-2 shrink-0">
           <LanguageToggle />
-          <Button
-            href="/app/chat-ai"
-            variant={ollamaAvailable === false ? "outline" : "secondary"}
-            size="sm"
-            className="text-xs px-2.5 py-1.5 h-8"
-            title={ollamaAvailable === false ? t.chatAi.unavailableTitle : undefined}
-            leftIcon={
-              <FiCpu
-                className={`w-3.5 h-3.5 ${
-                  ollamaAvailable === false ? "text-amber-600" : ""
-                }`}
-              />
-            }
-          >
-            {t.chatAi.nav} {ollamaAvailable === false && "(Off)"}
-          </Button>
+          {AI_CHAT_MODE !== "disabled" && (
+            <Button
+              href={chatAiHref}
+              external={isChatAiExternal}
+              variant={ollamaAvailable === false && AI_CHAT_MODE === "enabled" ? "outline" : "secondary"}
+              size="sm"
+              className="text-xs px-2.5 py-1.5 h-8"
+              title={ollamaAvailable === false && AI_CHAT_MODE === "enabled" ? t.chatAi.unavailableTitle : undefined}
+              leftIcon={<FiCpu className={`w-3.5 h-3.5 ${ollamaAvailable === false && AI_CHAT_MODE === "enabled" ? "text-amber-600" : ""}`} />}
+            >
+              {t.chatAi.nav} {ollamaAvailable === false && AI_CHAT_MODE === "enabled" && "(Off)"}
+            </Button>
+          )}
           <Button
             href={IS_COMPANY_MODE ? "/contact" : "/cv/cv-wahyu-patriaji.pdf"}
             external={!IS_COMPANY_MODE}
@@ -209,21 +211,18 @@ export const Navbar: React.FC = () => {
             })}
           </nav>
           <div className="pt-2 space-y-2">
-            <Button
-              href="/app/chat-ai"
-              variant={ollamaAvailable === false ? "outline" : "secondary"}
-              size="md"
-              fullWidth
-              leftIcon={
-                <FiCpu
-                  className={`w-4 h-4 ${
-                    ollamaAvailable === false ? "text-amber-600" : ""
-                  }`}
-                />
-              }
-            >
-              {t.chatAi.nav} {ollamaAvailable === false && "(Offline)"}
-            </Button>
+            {AI_CHAT_MODE !== "disabled" && (
+              <Button
+                href={chatAiHref}
+                external={isChatAiExternal}
+                variant={ollamaAvailable === false && AI_CHAT_MODE === "enabled" ? "outline" : "secondary"}
+                size="md"
+                fullWidth
+                leftIcon={<FiCpu className={`w-4 h-4 ${ollamaAvailable === false && AI_CHAT_MODE === "enabled" ? "text-amber-600" : ""}`} />}
+              >
+                {t.chatAi.nav} {ollamaAvailable === false && AI_CHAT_MODE === "enabled" && "(Offline)"}
+              </Button>
+            )}
             <Button
               href={IS_COMPANY_MODE ? "/contact" : "/cv/cv-wahyu-patriaji.pdf"}
               external={!IS_COMPANY_MODE}
