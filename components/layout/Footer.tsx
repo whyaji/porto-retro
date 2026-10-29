@@ -21,7 +21,12 @@ export const Footer: React.FC = () => {
   const pathname = usePathname();
   const { t, locale } = useI18n();
 
-  if (pathname.startsWith("/utbk-ukppu") || pathname.startsWith("/app/utbk-ukppu")) {
+  if (
+    pathname.startsWith("/utbk-ukppu") ||
+    pathname.startsWith("/app/utbk-ukppu") ||
+    pathname.startsWith("/chat-ai") ||
+    pathname.startsWith("/app/chat-ai")
+  ) {
     return null;
   }
 

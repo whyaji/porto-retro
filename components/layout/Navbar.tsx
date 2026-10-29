@@ -9,7 +9,7 @@ import { Button } from "@/components/ui/Button";
 import { getSiteIdentity } from "@/lib/data/site";
 import { companyData, pick } from "@/lib/data/company";
 import { IS_COMPANY_MODE, IS_PRODUCTS_ENABLED } from "@/lib/site-mode";
-import { FiMenu, FiX, FiDownload, FiTerminal, FiArrowRight } from "react-icons/fi";
+import { FiMenu, FiX, FiDownload, FiTerminal, FiArrowRight, FiCpu } from "react-icons/fi";
 
 export const Navbar: React.FC = () => {
   const pathname = usePathname();
@@ -17,6 +17,7 @@ export const Navbar: React.FC = () => {
   const identity = getSiteIdentity(locale);
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
   const [scrolled, setScrolled] = useState(false);
+  const [ollamaAvailable, setOllamaAvailable] = useState<boolean | null>(null);
 
   useEffect(() => {
     const handleScroll = () => {
@@ -24,6 +25,13 @@ export const Navbar: React.FC = () => {
     };
     window.addEventListener("scroll", handleScroll, { passive: true });
     return () => window.removeEventListener("scroll", handleScroll);
+  }, []);
+
+  useEffect(() => {
+    fetch("/api/chat-ai/status")
+      .then((res) => res.json())
+      .then((data) => setOllamaAvailable(Boolean(data.available)))
+      .catch(() => setOllamaAvailable(false));
   }, []);
 
   if (pathname.startsWith("/utbk-ukppu") || pathname.startsWith("/app/utbk-ukppu")) {
@@ -60,8 +68,8 @@ export const Navbar: React.FC = () => {
           : "bg-[var(--surface)] border-b-2 border-[var(--navy)]"
       }`}
     >
-      {/* Top Microbar */}
-      <div className="hidden md:flex items-center justify-between px-4 lg:px-8 py-1.5 bg-[var(--navy)] text-[var(--surface)] text-[11px] font-mono border-b border-[var(--surface)]/20">
+      {/* Top Microbar (Desktop Fixed Height: 28px) */}
+      <div className="hidden md:flex items-center justify-between px-4 lg:px-8 h-[28px] bg-[var(--navy)] text-[var(--surface)] text-[11px] font-mono border-b border-[var(--surface)]/20">
         <div className="flex items-center gap-3">
           <span className="flex items-center gap-1.5">
             <span className="text-[var(--gold)] font-bold tracking-wider">PATRIAWORKS</span>
@@ -74,33 +82,34 @@ export const Navbar: React.FC = () => {
         </div>
       </div>
 
-      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 h-16 flex items-center justify-between">
+      {/* Main Navbar Row (Fixed Height: 60px) */}
+      <div className="max-w-7xl mx-auto px-3 sm:px-6 lg:px-8 h-[60px] flex items-center justify-between gap-2">
         {/* Brand Logo */}
         <Link
           href="/"
-          className="flex items-center gap-2.5 group focus:outline-none"
+          className="flex items-center gap-2 group focus:outline-none shrink-0"
           aria-label={
             IS_COMPANY_MODE
               ? `${identity.name}, Homepage`
               : "Wahyu Patriaji, PatriaWorks Homepage"
           }
         >
-          <div className="w-9 h-9 bg-[var(--navy)] text-[var(--gold)] border-2 border-[var(--navy)] flex items-center justify-center font-mono font-black text-base retro-shadow-sm group-hover:bg-[var(--navy-light)] transition-all">
-            <FiTerminal className="w-5 h-5 group-hover:scale-110 transition-transform" />
+          <div className="w-8 h-8 bg-[var(--navy)] text-[var(--gold)] border-2 border-[var(--navy)] flex items-center justify-center font-mono font-black text-sm retro-shadow-sm group-hover:bg-[var(--navy-light)] transition-all">
+            <FiTerminal className="w-4 h-4 group-hover:scale-110 transition-transform" />
           </div>
           <div className="flex flex-col">
-            <span className="font-display font-black text-lg sm:text-xl text-[var(--navy)] tracking-tight leading-none group-hover:text-[var(--green)] transition-colors">
-              {IS_COMPANY_MODE ? "PATRIAWORKS" : "WAHYU PATRIAJI"}
+            <span className="font-display font-black text-base sm:text-lg text-[var(--navy)] tracking-tight leading-none group-hover:text-[var(--green)] transition-colors">
+              {IS_COMPANY_MODE ? "PATRIAWORKS" : "WAHYU"}
             </span>
-            <span className="font-mono text-[10px] font-bold text-[var(--green)] tracking-wider uppercase mt-0.5">
-              {IS_COMPANY_MODE ? identity.role : "Full-Stack & Mobile Engineer"}
+            <span className="font-mono text-[9px] font-bold text-[var(--green)] tracking-wider uppercase mt-0.5">
+              {IS_COMPANY_MODE ? identity.role : "Engineer"}
             </span>
           </div>
         </Link>
 
         {/* Desktop Navigation Links */}
         <nav
-          className="hidden lg:flex items-center gap-1 lg:gap-2"
+          className="hidden lg:flex items-center gap-1"
           aria-label="Main Navigation"
         >
           {navLinks.map((link) => {
@@ -109,7 +118,7 @@ export const Navbar: React.FC = () => {
               <Link
                 key={link.href}
                 href={link.href}
-                className={`px-3 py-1.5 text-xs lg:text-sm font-bold font-mono transition-colors ${
+                className={`px-2.5 py-1 text-xs font-bold font-mono transition-colors whitespace-nowrap ${
                   active
                     ? "bg-[var(--navy)] text-[var(--surface)] border border-[var(--navy)] retro-shadow-sm"
                     : "text-[var(--navy)] hover:bg-[var(--surface-dark)] hover:text-[var(--navy)] border border-transparent"
@@ -121,14 +130,31 @@ export const Navbar: React.FC = () => {
           })}
         </nav>
 
-        {/* Actions (Language Toggle & CV Download) */}
-        <div className="hidden lg:flex items-center gap-3">
+        {/* Actions (Language Toggle, Chat AI & CV Download) */}
+        <div className="hidden lg:flex items-center gap-2 shrink-0">
           <LanguageToggle />
+          <Button
+            href="/app/chat-ai"
+            variant={ollamaAvailable === false ? "outline" : "secondary"}
+            size="sm"
+            className="text-xs px-2.5 py-1.5 h-8"
+            title={ollamaAvailable === false ? t.chatAi.unavailableTitle : undefined}
+            leftIcon={
+              <FiCpu
+                className={`w-3.5 h-3.5 ${
+                  ollamaAvailable === false ? "text-amber-600" : ""
+                }`}
+              />
+            }
+          >
+            {t.chatAi.nav} {ollamaAvailable === false && "(Off)"}
+          </Button>
           <Button
             href={IS_COMPANY_MODE ? "/contact" : "/cv/cv-wahyu-patriaji.pdf"}
             external={!IS_COMPANY_MODE}
             variant="gold"
             size="sm"
+            className="text-xs px-3 py-1.5 h-8"
             leftIcon={
               IS_COMPANY_MODE ? (
                 <FiArrowRight className="w-3.5 h-3.5" />
@@ -182,7 +208,22 @@ export const Navbar: React.FC = () => {
               );
             })}
           </nav>
-          <div className="pt-2">
+          <div className="pt-2 space-y-2">
+            <Button
+              href="/app/chat-ai"
+              variant={ollamaAvailable === false ? "outline" : "secondary"}
+              size="md"
+              fullWidth
+              leftIcon={
+                <FiCpu
+                  className={`w-4 h-4 ${
+                    ollamaAvailable === false ? "text-amber-600" : ""
+                  }`}
+                />
+              }
+            >
+              {t.chatAi.nav} {ollamaAvailable === false && "(Offline)"}
+            </Button>
             <Button
               href={IS_COMPANY_MODE ? "/contact" : "/cv/cv-wahyu-patriaji.pdf"}
               external={!IS_COMPANY_MODE}
